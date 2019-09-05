@@ -1,0 +1,736 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<a class="posterFlag excellent-icon" href="/tese" target="_blank" title="特色词条经过百科资深用户精心编写，是符合百科编辑精神的典范之作。"></a>
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>埃尔弗里德·耶利内克</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1418769" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">埃尔弗里德·耶利内克，奥地利女作家，是中欧公认的最重要文学家之一，曾获得不来梅文学奖（1996）、柏林戏剧奖（2002）和莱辛批评家奖（2004）等诸多<a data-lemmaid="248768" href="/item/%E5%A5%96%E9%A1%B9/248768" target="_blank">奖项</a>。 是2004年<a data-lemmaid="571471" href="/item/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96/571471" target="_blank">诺贝尔文学奖</a>得主。1946年生于<a data-lemmaid="149221" href="/item/%E5%A5%A5%E5%9C%B0%E5%88%A9/149221" target="_blank">奥地利</a>施蒂利亚州的米尔茨楚施拉格。她的父亲具有<a data-lemmaid="191121" href="/item/%E6%8D%B7%E5%85%8B/191121" target="_blank">捷克</a>与犹太血统，是位化学家，母亲出身于<a data-lemmaid="6412" href="/item/%E7%BB%B4%E4%B9%9F%E7%BA%B3/6412" target="_blank">维也纳</a>名门望族。自幼学习音乐，早年攻读音乐、戏剧和艺术史，六十年代中期以诗歌写作走上文坛后，着力从事戏剧和小说创作，经常因为作品中强烈的<a data-lemmaid="4793303" href="/item/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/4793303" target="_blank">女权主义</a>色彩和社会批评意识引发广泛争议。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+埃尔弗里德·耶利内克
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Elfriede Jelinek
+</dd>
+<dt class="basicInfo-item name">国    籍</dt>
+<dd class="basicInfo-item value">
+奥地利
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">出生地</dt>
+<dd class="basicInfo-item value">
+奥地利 施蒂利亚州
+</dd>
+<dt class="basicInfo-item name">出生日期</dt>
+<dd class="basicInfo-item value">
+1946年10月20日
+</dd>
+<dt class="basicInfo-item name">职    业</dt>
+<dd class="basicInfo-item value">
+作家
+</dd>
+<dt class="basicInfo-item name">主要成就</dt>
+<dd class="basicInfo-item value">
+2004年诺贝尔文学奖
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">人物经历</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_1">早年</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_2">青年时期</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_3">辉煌时期</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">主要作品</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">写作特点</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">作品主题</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">艺术特色</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_3">小说</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_4">戏剧</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">人物影响</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">社会评价</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub78512_1"></a>
+<a class="lemma-anchor" name="人物经历"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>人物经历</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_1"></a>
+<a class="lemma-anchor" name="sub78512_1_1"></a>
+<a class="lemma-anchor" name="早年"></a>
+<a class="lemma-anchor" name="1-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>早年</h3>
+</div>
+<div class="para" label-module="para">耶<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B/1418769/0/d4239b351c8d9d2c90ef39ab?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:196px;" target="_blank" title="埃尔弗里德·耶利内克">
+<img alt="埃尔弗里德·耶利内克" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=2e9a01f60a46f21fcd345951c6246b31/d1a20cf431adcbef8f59310bacaf2edda3cc9f4a.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:196px;"/>
+</a>
+<span class="description">
+埃尔弗里德·耶利内克
+</span>
+</div>利内克1946年10月20日出生于奥地利<a href="/item/%E6%96%BD%E8%92%82%E5%88%A9%E4%BA%9A%E5%B7%9E" target="_blank">施蒂利亚州</a>米尔茨楚施拉格市，自小学习音乐，曾在维也纳音乐学校获得风琴师文凭。她的父亲具有捷克与犹太血统，是位化学家，母亲出身于维也纳名门望族。专业的音乐素养赋予她的文学创作很多与众不同的特色。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78512"> </a>
+</div>
+<div class="para" label-module="para">耶利内克从小就开始学习钢琴、管风琴和八孔长笛，后来她进入维也纳音乐学院学习作曲。在音乐学习的同时。后来她进入<a href="/item/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2" target="_blank">维也纳音乐学院</a>学习作曲她的作品有犀利的社会批判锋芒，特别是揭露在现代男权社会中女性受到的侮辱和摧残，<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_78512"> </a>
+她还在<a href="/item/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E5%A4%A7%E5%AD%A6" target="_blank">维也纳大学</a>学习戏剧和艺术史。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78512"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_2"></a>
+<a class="lemma-anchor" name="sub78512_1_2"></a>
+<a class="lemma-anchor" name="青年时期"></a>
+<a class="lemma-anchor" name="1-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>青年时期</h3>
+</div>
+<div class="para" label-module="para">1967年发表了处女作《<a href="/item/%E5%88%A9%E8%8E%8E%E7%9A%84%E5%BD%B1%E5%AD%90" target="_blank">利莎的影子</a>》。由于她与学生运动有接触，她的作品中展现出对社会的批评口吻。1970年，她完成了讽刺小说《我们都是骗子，宝贝！》，这一作品与其随后完成的另一部小说在语言上都充满叛逆的特点，直指流行文化及其标榜的虚假的美好生活。<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_78512"> </a>
+上世纪70-80年代，耶利内克撰写并发表了三部小说——《做情人的女人们》、《美妙的年代》和《钢琴教师》，征服了德国读者。其中，《<a data-lemmaid="2479" href="/item/%E9%92%A2%E7%90%B4%E6%95%99%E5%B8%88/2479" target="_blank">钢琴教师</a>》于2001年被导演麦克尔·汉内克搬上银幕。<sup class="sup--normal" data-ctrmap=":5," data-sup="5">
+[5]</sup><a class="sup-anchor" name="ref_[5]_78512"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_3"></a>
+<a class="lemma-anchor" name="sub78512_1_3"></a>
+<a class="lemma-anchor" name="辉煌时期"></a>
+<a class="lemma-anchor" name="1-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>辉煌时期</h3>
+</div>
+<div class="para" label-module="para">1998年她荣获德语文学的最高奖：毕希纳文学奖，2002年获海涅奖和柏林戏剧奖，《钢琴教师》拍成电影后获得电影大<div class="lemma-picture text-pic layout-left" style="width:164px; float: left;">
+<a class="image-link" href="/pic/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B/1418769/0/0b46f21fbe096b63893fae2a0e338744ebf8aca2?fr=lemma&amp;ct=single" nslog-type="9317" style="width:164px;height:220px;" target="_blank" title="埃尔弗里德·耶利内克">
+<img alt="埃尔弗里德·耶利内克" class="lazy-img" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=de90429c257f9e2f74351a0a2f30e962/0b46f21fbe096b63893fae2a0e338744ebf8aca2.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:164px;height:220px;"/>
+</a>
+<span class="description">
+埃尔弗里德·耶利内克
+<sup>[6]</sup>
+<a name="ref_[6]_"></a>
+</span>
+</div>奖<sup class="sup--normal" data-ctrmap=":7," data-sup="7">
+[7]</sup><a class="sup-anchor" name="ref_[7]_78512"> </a>
+。从温顺的音乐神童到享誉世界的女作家。</div>
+<div class="para" label-module="para">10月7日，奥地利女作家埃尔弗里德·耶利内克获得了2004年<a href="/item/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96" target="_blank">诺贝尔文学奖</a>。<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_78512"> </a>
+</div>
+<div class="para" label-module="para">8日，2004年耶利内克在维也纳召开记者发布会，正式宣布不会去<a href="/item/%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9" target="_blank">斯德哥尔摩</a>领取诺贝尔文学奖：“我不会去斯德哥尔摩接受该项大奖。”耶利内克解释自己这一惊人决定时，首先提到的是自己的身体健康原因。她同时认为，自己没有资格获得这一大奖。用她本人的话说，在得知获得这一崇高的奖项后，她“不是高兴，而是绝望”。耶利内克表示：“我从来没有想过能获得诺贝尔奖，或许，这一奖项是应颁发给另外一位奥地利作家彼杰尔·<a href="/item/%E6%B1%89%E5%BE%B7%E5%85%8B" target="_blank">汉德克</a>的。”<sup class="sup--normal" data-ctrmap=":8," data-sup="8">
+[8]</sup><a class="sup-anchor" name="ref_[8]_78512"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub78512_2"></a>
+<a class="lemma-anchor" name="主要作品"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>主要作品</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<table class="table-view log-set-param" data-sort="sortDisabled" log-set-param="table_view"><tr><td align="center" class="coloredcell" colspan="1" height="0" rowspan="1" valign="middle" width="96"><b>作品类别</b></td><td align="center" class="coloredcell" height="0" valign="middle" width="319"><div class="para" label-module="para"><b>作品名称</b></div>
+</td><td align="center" class="coloredcell" colspan="1" height="0" rowspan="1" valign="middle" width="94"><b>原文名</b></td><td align="center" class="coloredcell" height="0" valign="middle" width="61"><div class="para" label-module="para"><b>年份</b></div>
+</td></tr><tr><td align="center" class="coloredcell" colspan="1" height="0" rowspan="1" valign="middle"><b>诗歌</b></td><td align="center" valign="middle">《<a href="/item/%E5%88%A9%E8%8E%8E%E7%9A%84%E5%BD%B1%E5%AD%90" target="_blank">利莎的影子</a>》</td><td align="center" valign="middle">Lisas Schatten</td><td align="center" valign="middle">1967</td></tr><tr><td align="center" colspan="1" height="0" rowspan="7" valign="middle"><b>长篇小说</b></td><td align="center" valign="middle" width="319"><div class="para" label-module="para">《孩子，我们是诱耳》</div>
+</td><td align="center" valign="middle" width="74">wir sind lockvögel baby</td><td align="center" valign="middle" width="61"><div class="para" label-module="para">1970</div>
+</td></tr><tr><td align="center" valign="middle" width="97"><div class="para" label-module="para">《米歇尔》</div>
+</td><td align="center" valign="middle" width="319">Michael</td><td align="center" valign="middle" width="75"><div class="para" label-module="para">1972</div>
+</td></tr><tr><td align="center" valign="middle" width="97"><div class="para" label-module="para">《追逐爱的女子》</div>
+</td><td align="center" valign="middle" width="314">Die Liebhaberinnen</td><td align="center" valign="middle" width="75"><div class="para" label-module="para">1975</div>
+</td></tr><tr><td align="center" valign="middle" width="97"><div class="para" label-module="para">《排除在外的人》</div>
+</td><td align="center" valign="middle" width="319">Die Ausgesperrten</td><td align="center" valign="middle" width="75"><div class="para" label-module="para">1980</div>
+</td></tr><tr><td align="center" valign="middle" width="97"><div class="para" label-module="para">《<a href="/item/%E9%92%A2%E7%90%B4%E6%95%99%E5%B8%88" target="_blank">钢琴教师</a>》</div>
+</td><td align="center" valign="middle" width="319">Die Klavierspielerin</td><td align="center" valign="middle" width="75"><div class="para" label-module="para">1983</div>
+</td></tr><tr><td align="center" valign="middle" width="97"><div class="para" label-module="para">《情欲》</div>
+</td><td align="center" valign="middle" width="319">Lust</td><td align="center" valign="middle" width="75"><div class="para" label-module="para">1989</div>
+</td></tr><tr><td align="center" valign="middle" width="97"><div class="para" label-module="para">《死者的孩子们》</div>
+</td><td align="center" valign="middle" width="319">Die Kinder der Toten</td><td align="center" valign="middle" width="75"><div class="para" label-module="para">1995</div>
+</td></tr><tr><td align="center" class="coloredcell" colspan="1" height="0" rowspan="4" valign="middle" width="96"><div class="para" label-module="para"><b>剧本</b></div>
+</td><td align="center" valign="middle" width="319"><div class="para" label-module="para">《娜拉离开丈夫后发生了什么或社会中坚》</div>
+</td><td align="center" valign="middle" width="74">Was geschah, nachdem Nora ihren Mann verlassen hatte</td><td align="center" valign="middle" width="61"><div class="para" label-module="para">1979</div>
+</td></tr><tr><td align="center" valign="middle" width="97"><div class="para" label-module="para">《<a href="/item/%E5%9F%8E%E5%A0%A1%E5%89%A7%E9%99%A2" target="_blank">城堡剧院</a>》</div>
+</td><td align="center" valign="middle" width="319">Burgtheater</td><td align="center" valign="middle" width="81"><div class="para" label-module="para">1985</div>
+</td></tr><tr><td align="center" valign="middle" width="97"><div class="para" label-module="para">《病和现代妇女》</div>
+</td><td align="center" valign="middle" width="319">Krankheit oder Moderne Frauen</td><td align="center" valign="middle" width="81"><div class="para" label-module="para">1987</div>
+</td></tr><tr><td align="center" valign="middle" width="97"><div class="para" label-module="para">《云、家园》</div>
+</td><td align="center" valign="middle" width="319">Wolken. Heim</td><td align="center" valign="middle" width="81"><div class="para" label-module="para">1988</div>
+</td></tr></table><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub78512_3"></a>
+<a class="lemma-anchor" name="写作特点"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>写作特点</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_1"></a>
+<a class="lemma-anchor" name="sub78512_3_1"></a>
+<a class="lemma-anchor" name="作品主题"></a>
+<a class="lemma-anchor" name="3-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>作品主题</h3>
+</div>
+<div class="para" label-module="para">埃尔弗里德·耶利内克的作品从自己独特的视角出发，回<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B/1418769/0/8326cffc1e178a823ae937dbf403738da877e8f0?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:167px;" target="_blank" title="埃尔弗里德·耶利内克">
+<img alt="埃尔弗里德·耶利内克" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=047cd9897f1ed21b7dc929e79d6fddae/8326cffc1e178a823ae937dbf403738da877e8f0.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:167px;"/>
+</a>
+<span class="description">
+埃尔弗里德·耶利内克
+<sup>[4]</sup>
+<a name="ref_[4]_"></a>
+</span>
+</div>顾历史，寻找自我，发现自我，表现女性的人格和个性。她反对男权统治，男性话语禁锢了女性的发展，女性在两性关系中总是处于受压抑、被损害的地位。她的作品就是要揭露这种表面繁荣昌盛和美好下掩盖的人性丑陋的一面，揭露在被压抑，被禁锢状态下人性的变态和扭曲。因为惊世骇俗的写作使她成为媒体关注的人物，一再引起极大反响。她时而因为作品中太直接表现阶级分析和唯物论观点而被看作过于激进；时而因作品中的两性关系描写被指责为有伤风化。她被媒体称为激进的女权主义者，却又不被一些女权主义人士认同。她除了小说外还写了不少戏剧，但是有的剧作却被维也纳的剧院禁止上演，耶利内克本人也成为引起剧坛重视的当前重要的剧作家之一。<sup class="sup--normal" data-ctrmap=":9," data-sup="9">
+[9]</sup><a class="sup-anchor" name="ref_[9]_78512"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_2"></a>
+<a class="lemma-anchor" name="sub78512_3_2"></a>
+<a class="lemma-anchor" name="艺术特色"></a>
+<a class="lemma-anchor" name="3-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>艺术特色</h3>
+</div>
+<div class="para" label-module="para">埃尔弗里德·耶利内克，对她的发展起最重要作用的地方是维也纳。专制的母亲一心想把她驯化成神童。对于成长中的少女来说这肯定是一种痛苦，但是这给艺术家埃尔弗里德·耶利内克后来的发展带来了好处：她接受了精深的音乐教育。直至今天，她仍然在按字面意义弹奏“文字音乐”：在她的手指下，电脑键盘变成了钢琴的琴键。她的写作越来越发展为联想，没有哪位同行像她那样乐意且娴熟地使用双关语和文字游戏。在她上世纪80年代末到90年代初的作品中，多处留下印迹，但由于缺乏约束，有些作品成为平庸之作。<sup class="sup--normal" data-ctrmap=":10," data-sup="10">
+[10]</sup><a class="sup-anchor" name="ref_[10]_78512"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_3"></a>
+<a class="lemma-anchor" name="sub78512_3_3"></a>
+<a class="lemma-anchor" name="小说"></a>
+<a class="lemma-anchor" name="3-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>小说</h3>
+</div>
+<div class="para" label-module="para">耶利内克征服德国文学界的是小说《作为情人的女人们》、自传体小说《钢琴教师》等，这些<div class="lemma-picture text-pic layout-left" style="width:137px; float: left;">
+<a class="image-link" href="/pic/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B/1418769/0/3c2c4bfb15ae392b6d22ebb0?fr=lemma&amp;ct=single" nslog-type="9317" style="width:137px;height:220px;" target="_blank" title="《钢琴教师》">
+<img alt="《钢琴教师》" class="lazy-img" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=25572092a40f4bfb88d09956334e788f/4d086e061d950a7ba55d01c90ad162d9f2d3c957.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:137px;height:220px;"/>
+</a>
+<span class="description">
+《钢琴教师》
+</span>
+</div>小说在各自的框架内通过不同的问题表现了在这个无情的世界上，人们所面对的暴力、屈服、捕食与掠夺。她还展现了娱乐产业如何渗透人们的意识，使人们被阶级偏见和性别压抑所麻痹。<sup class="sup--normal" data-ctrmap=":11," data-sup="11">
+[11]</sup><a class="sup-anchor" name="ref_[11]_78512"> </a>
+耶利内克的全集给传统的叙述艺术爱好者提供了欣赏园地。创作于1983年的《钢琴教师》就是心理叙述的杰作：尖刻，露骨，乃至无情。它让受到伤害的和伤害别人的人物跃然纸上。从那以后，描写施虐受虐狂也成了一种文学类别。<sup class="sup--normal" data-ctrmap=":10," data-sup="10">
+[10]</sup><a class="sup-anchor" name="ref_[10]_78512"> </a>
+由于涉嫌色情文学，小说《情欲》（Lust）也曾一跃成为耶利内克的畅销书。随着公众的兴趣渐渐消退，后来对这部作品的每次检验都表明以前的判断是错误的。性语言和消遣文学的模式只不过是耶利内克实现目的的手段而已：通过展示情欲被暴力扭曲使人们变得没有情欲。<sup class="sup--normal" data-ctrmap=":10," data-sup="10">
+[10]</sup><a class="sup-anchor" name="ref_[10]_78512"> </a>
+在《情欲》这部小说之中，耶利内克将她的社会分析进一步扩展为文明的本质性批判：认为对女性的性暴力就是我们的文明的真实模式。这个主线贯穿了其后的作品，只是语气似乎缓和了一些。<sup class="sup--normal" data-ctrmap=":11," data-sup="11">
+[11]</sup><a class="sup-anchor" name="ref_[11]_78512"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_4"></a>
+<a class="lemma-anchor" name="sub78512_3_4"></a>
+<a class="lemma-anchor" name="戏剧"></a>
+<a class="lemma-anchor" name="3-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>戏剧</h3>
+</div>
+<div class="para" label-module="para">埃尔弗里德·耶利内克一直写戏剧，同时———她不是完全没有理由地———把自己看成非传统的剧作家。通过越来越有力地拒绝传统戏剧的规律性，她成功地写出了越来越优秀的舞台作品。前提自然是有一位能保持原著风格的导演。耶利内克通过其层次丰富的剧本文字首先提供了表演素材、独特的语气和人物台词。多年来，耶利内克作品的中心思想和喜爱的题材一直没有变化，用一个总的主题来概括就是“对人的破坏”。她甚至不怕使用玩世不恭的措词，当然这只是为了揭露现存世界的玩世不恭。<sup class="sup--normal" data-ctrmap=":10," data-sup="10">
+[10]</sup><a class="sup-anchor" name="ref_[10]_78512"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub78512_4"></a>
+<a class="lemma-anchor" name="人物影响"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>人物影响</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">耶利内克用德语、英语和法语创作了多部作品，体裁多样，从散文、诗歌、小说、剧作到影视脚本等，不拘一格。她的作品在欧洲颇具影响，小说<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B/1418769/0/35da1d3b9cefb3d715cecbbd?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:144px;" target="_blank" title="诺贝尔文学奖颁奖现场">
+<img alt="诺贝尔文学奖颁奖现场" class="lazy-img" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=8db7544e8bd4b31cf43c93b9b7d7276f/9922720e0cf3d7cabc91707bf21fbe096b63a95c.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:144px;"/>
+</a>
+<span class="description">
+诺贝尔文学奖颁奖现场
+<sup>[12]</sup>
+<a name="ref_[12]_"></a>
+</span>
+</div>《情欲》和《死者的孩子们》在德国一度成为畅销书。由于不少作品涉及女性话题，女性读者对她的著作情有独钟。她被认为是那个年代奥地利文学创作的领路人，并因在德文创作方面的贡献而获得了海涅希博尔奖。<sup class="sup--normal" data-ctrmap=":11," data-sup="11">
+[11]</sup><a class="sup-anchor" name="ref_[11]_78512"> </a>
+2004年耶利内克被授予<a href="/item/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96" target="_blank">诺贝尔文学奖</a>，她由此成为第一个获得诺贝尔文学奖的奥地利人。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78512"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub78512_5"></a>
+<a class="lemma-anchor" name="社会评价"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">埃尔弗里德·耶利内克</span>社会评价</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">瑞典皇家科学院在宣布诺贝尔文学奖颁奖的布告中<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B/1418769/0/279759ee3d6d55fb04803e5d6f224f4a20a4dd03?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:158px;" target="_blank" title="埃尔弗里德·耶利内克">
+<img alt="埃尔弗里德·耶利内克" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=0f7a37dbf403738dda4a0b20831ab073/279759ee3d6d55fb04803e5d6f224f4a20a4dd03.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:158px;"/>
+</a>
+<span class="description">
+埃尔弗里德·耶利内克
+<sup>[13]</sup>
+<a name="ref_[13]_"></a>
+</span>
+</div>说，授予耶利内克诺贝尔文学奖的理由是“她用超凡的语言以及在小说中表现出的音乐动感，显示了社会的荒谬以及它们使人屈服的奇异力量。”<sup class="sup--normal" data-ctrmap=":14," data-sup="14">
+[14]</sup><a class="sup-anchor" name="ref_[14]_78512"> </a>
+</div>
+<div class="para" label-module="para">耶利内克获奖后，德国“文学教皇” 赖希·拉尼茨基说了几句话，一句是：“又一个德语女作家获得诺贝尔文学奖”[1966年诗人<a href="/item/%E5%A5%88%E8%8E%89%C2%B7%E8%90%A8%E5%85%8B%E6%96%AF" target="_blank">奈莉·萨克斯</a>（Nelly Sachs）是第一位]；另外一句是，“她是一个非常不同寻常、非常激进、非常极端的女作家”。他的评价非常中肯。<sup class="sup--normal" data-ctrmap=":15," data-sup="15">
+[15]</sup><a class="sup-anchor" name="ref_[15]_78512"> </a>
+</div>
+<div class="para" label-module="para">奥地利的总统、总理等也出来讲了一些赞扬的话。但文化部长说的话，他称诺贝尔文学奖是耶利内克个人的荣誉，而不是国家的荣誉。因为耶利内克是个非常叛逆的人，对奥地利社会批判特别多，所以官方基本上将她定位为“给奥地利政府抹黑之人”。更激进的是奥地利一个评论网站，直接就以“淫秽、亵渎神灵、粗俗”为题批判耶利内克。<sup class="sup--normal" data-ctrmap=":15," data-sup="15">
+[15]</sup><a class="sup-anchor" name="ref_[15]_78512"> </a>
+</div>
+<div class="para" label-module="para">但耶利内克从来也不是个循规蹈矩的女人，无论在政治上，还是文学上，她都争议极大。她是奥地利最著名的左翼作家和女权主义分子，其小说《钢琴教师》（Die Klavierspielerin），由于被拍成了轰动一时的法语电影———其主演伊莎贝尔·于珀说，此乃“电影史上最奇异的性爱场景”———因而成为她最广为人知的作品，其中极端的性暴力描写，令人触目惊心。因此《<a href="/item/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5" target="_blank">纽约时报</a>》的书评人<a href="/item/%E8%A7%92%E8%B0%B7%E7%BE%8E%E6%99%BA%E5%AD%90" target="_blank">角谷美智子</a>曾于1988年的一篇文章中，批评耶利内克在这部小说中哗众取宠，蓄意制造惊人效果，而且，她对维也纳人阴暗心理的过度描写也不真实。<sup class="sup--normal" data-ctrmap=":16," data-sup="16">
+[16]</sup><a class="sup-anchor" name="ref_[16]_78512"> </a>
+</div>
+<div class="para" label-module="para">甚至一些极右分子视耶利内克为死敌，自由党曾在1996年的竞选中，公开指责她的作品低下和背德，该党的竞选海报上印着这样的话：“你想要耶利内克……还是想要艺术？”<sup class="sup--normal" data-ctrmap=":16," data-sup="16">
+[16]</sup><a class="sup-anchor" name="ref_[16]_78512"> </a>
+</div>
+<div class="para" label-module="para">官方对授予这位公认的国家敌人诺贝尔奖作出的反应表明，奥地利的社会现状有些奇特。国民议会议长安德烈亚斯·科尔表示，他“为她和奥地利感到高兴”。国务秘书弗朗茨·默拉克也强调，耶利内克为奥地利竖起了一面“对于我们的社会和政治生活不可缺少的”镜子。<sup class="sup--normal" data-ctrmap=":10," data-sup="10">
+[10]</sup><a class="sup-anchor" name="ref_[10]_78512"> </a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B/1418769?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a class="anchor-2" name="rs_78512_3877"></a>
+<div class="rslazy rs-container" id="rs-container-78512-3877" lazy-init="lemmars.tableAction(baidu.g('rs-78512-3877'))"></div>
+<a class="anchor-2" name="rs_78512_15279"></a>
+<div class="rslazy rs-container" id="rs-container-78512-15279" lazy-init="lemmars.tableAction(baidu.g('rs-78512-15279'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":3877,"fentryTableName":"\u8bfa\u8d1d\u5c14\u6587\u5b66\u5956\u83b7\u5f97\u8005\uff082000-2011\uff09","fentryTableType":0,"entryId":2284927,"templateId":199,"entryTitle":"\u8bfa\u8d1d\u5c14\u6587\u5b66\u5956","isManual":0,"isExpand":1},{"fentryTableId":15279,"fentryTableName":"\u8bfa\u8d1d\u5c14\u6587\u5b66\u5956","fentryTableType":1,"entryId":770965,"templateId":0,"entryTitle":"\u8bfa\u8d1d\u5c14\u6587\u5b66\u5956","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([78512, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-78512-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_78512" id="refIndex_1_78512" name="refIndex_1_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/74ad0hpr0rDscf0UyssSjXCJd4Z_Oo0rK8mipXJ8ZpDHW0NAlpwCDepDJ4PVh6wQGOQ3P4yeuUOKkickSprg9_7ulKhHsvvnd6IMJfDblv8kOVmDuJOQ-g7ZMA" rel="nofollow" target="_blank">奥地利女作家耶利内克获2004年诺贝尔文学奖<span class="linkout"> </span></a>
+<span class="site">．新华网</span><span>．2004-10/08</span><span>[引用日期2013-12-21]</span></li><li class="reference-item reference-item--type1" id="reference-[2]-78512-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_78512" id="refIndex_2_78512" name="refIndex_2_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/efecd5fgN3g4PDbFT3AtwzgJ7p8UOi_jxTRhxsJ-MKWQWO_rXtH6m90neQ6CIvHHXBWQFAdcy5Eo7gfylQM023AluVy7nULi7hIw673j2tDWpoxQKNtaVtsYyrwV" rel="nofollow" target="_blank">莫言获2012年诺贝尔文学奖 10年获奖者回顾(图)【3】<span class="linkout"> </span></a>
+<span class="site">．人民网</span><span>．2012/1011</span><span>[引用日期2013-12-21]</span></li><li class="reference-item reference-item--type1" id="reference-[3]-78512-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_78512" id="refIndex_3_78512" name="refIndex_3_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/587abrZNGnCPh0QC6OLnAj_EuJMSEZZZB8T6n0eut-Ecvd0D42CpZsgsigCqD9UjLXRTR1z0ZUXbejxDsXJyElfrpKY2naUKBLXRvK4Rqdc7fA" rel="nofollow" target="_blank">什么样的耶利内克征服诺贝尔<span class="linkout"> </span></a>
+<span class="site">．人民网</span><span>[引用日期2013-12-21]</span></li><li class="reference-item reference-item--type1" id="reference-[4]-78512-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor" href="#ref_[4]_78512" id="refIndex_4_78512" name="refIndex_4_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/7635gruF-HVJ2TW4L-merpWMsMn-DSO8nmPiYNrawm0T6cIyXS5-wtpvOFE5M0Ivp-EIpSJegr5fVY_dmbPaL9vU5o29wrdWBBmcN9TIo0dwQAANvcXE0_mzl26Eig" rel="nofollow" target="_blank">诺贝尔文学奖新得主：奥地利女作家耶利内克 <span class="linkout"> </span></a>
+<span class="site">．中国日报网</span><span>．2004-10/08</span><span>[引用日期2013-12-21]</span></li><li class="reference-item reference-item--type1" id="reference-[5]-78512-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor" href="#ref_[5]_78512" id="refIndex_5_78512" name="refIndex_5_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/91c0J0LgPAYD_DfxbFyV3qWedBCMtb3wdtzNhMp1No56hG76DH-ax4vEmz3WcLR7WBnmRpngjgyRi81IPWT6uXAsTZ7BwanPk4L20N7En-T5HrX1bG1g8PlGLvxYpw" rel="nofollow" target="_blank">奥地利著名女作家获2004年度诺贝尔文学奖<span class="linkout"> </span></a>
+<span class="site">．中国日报网</span><span>．2004-10-08</span><span>[引用日期2013-12-21]</span></li><li class="reference-item reference-item--type1" id="reference-[6]-78512-wrap">
+<span class="index">6.</span>
+<a class="gotop anchor" href="#ref_[6]_78512" id="refIndex_6_78512" name="refIndex_6_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/9032WOCR0-KkYvqbP1WCfjtmcu87E5JMbB1hDbB8fEMLOmMIM5iBBbDGkA4H-stbnYk9M11TG5g44k8hTrUHmegPi4iiQaPpF3l-7gHGtAMciCWkW2qANggm" rel="nofollow" target="_blank">诺贝尔文学奖得主耶利内克影集<span class="linkout"> </span></a>
+<span class="site">．新华网</span><span>．2004-10/08</span><span>[引用日期2013-12-22]</span></li><li class="reference-item reference-item--type1" id="reference-[7]-78512-wrap">
+<span class="index">7.</span>
+<a class="gotop anchor" href="#ref_[7]_78512" id="refIndex_7_78512" name="refIndex_7_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/8799_SEBolVK4fMW3TRviRnlmIdGGcmYfkkVyDpBPOULzg8XUmAz7QBOuWPtgJGBgH2HCc7enFD_wUbLfP9crKsm7CRp5GOM8ug3sKe7VspOx8DWtZFA" rel="nofollow" target="_blank">耶利内克的荣耀与勇气<span class="linkout"> </span></a>
+<span class="site">．人民网</span><span>．2004年10月15日</span><span>[引用日期2013-12-21]</span></li><li class="reference-item reference-item--type1" id="reference-[8]-78512-wrap">
+<span class="index">8.</span>
+<a class="gotop anchor" href="#ref_[8]_78512" id="refIndex_8_78512" name="refIndex_8_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/6f055OjTuCHpIsDWTvGRXMH2jlkvuzW9TsVUXiZr-dh2a8nIaVogpZtOzglr8UCYBEnrQkuCTCvLUlqshZYBbjeu0pCn-9N2eYUiirAAIvR4RtaaQw" rel="nofollow" target="_blank">诺贝尔文学奖得主耶利内克拒绝领奖<span class="linkout"> </span></a>
+<span class="site">．中国作家网</span><span>．2004-10-10</span><span>[引用日期2012-09-05]</span></li><li class="reference-item reference-item--type1" id="reference-[9]-78512-wrap">
+<span class="index">9.</span>
+<a class="gotop anchor" href="#ref_[9]_78512" id="refIndex_9_78512" name="refIndex_9_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/2154q-vTeB6xAH222vp7SinkWvn-chvNVzq1UwJ-njew0VgkhEVXPH1btEqQeL4CUjDrW4qhlUrvnzoX3Uz1HxYVtGCMvvQoIhquXH54YLWlUyI_OKRVig" rel="nofollow" target="_blank">耶利内克：独树一帜的女作家<span class="linkout"> </span></a>
+<span class="site">．中国网</span><span>[引用日期2013-12-22]</span></li><li class="reference-item reference-item--type1" id="reference-[10]-78512-wrap">
+<span class="index">10.</span>
+<a class="gotop anchor" href="#ref_[10]_78512" id="refIndex_10_78512" name="refIndex_10_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/3bc27ecv2lgOvQn7CoMrccRt0xE1vElaPRx3pFZwnQbY9S9Yxbmf1vKYWPA3NImCAbwhymSxSaZSeGTOL4JWmp5GDmLAruu8yZvsWy8BtWjdPK23ORsZrcyYAw" rel="nofollow" target="_blank">诺文学奖得主为奥地利竖起一面镜子<span class="linkout"> </span></a>
+<span class="site">．新华网</span><span>．2004-10/13</span><span>[引用日期2013-12-22]</span></li><li class="reference-item reference-item--type1 more" id="reference-[11]-78512-wrap">
+<span class="index">11.</span>
+<a class="gotop anchor" href="#ref_[11]_78512" id="refIndex_11_78512" name="refIndex_11_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/451biC1YK969dQ3J2s0marEyBnmaaP6FOaRT14mtZJ_CZ9Wstt9ad2OobfKjZ0thY__vBzSP96IeEEu5CC0bp-kGlxZ-LYHIC-JV5KpbG5ka_zCyZNDFQn-q" rel="nofollow" target="_blank">诺贝尔文学奖得主大胆写性招质疑<span class="linkout"> </span></a>
+<span class="site">．新华网</span><span>．2004-10/13</span><span>[引用日期2013-12-22]</span></li><li class="reference-item reference-item--type1 more" id="reference-[12]-78512-wrap">
+<span class="index">12.</span>
+<a class="gotop anchor" href="#ref_[12]_78512" id="refIndex_12_78512" name="refIndex_12_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/341bOKkpeJgi95TVAKob3SlJyA-BbeqM4rXopcWewf-9bfwWe0pYJfczaoTPqAStBdRS3FKDsiPDfrf_BRpyhnomUfRthX8wPVxSnrob" rel="nofollow" target="_blank">奥地利女作家耶利内克获得诺贝尔文学奖<span class="linkout"> </span></a>
+<span class="site">．人民网</span><span>．2004年10月07日</span><span>[引用日期2013-12-29]</span></li><li class="reference-item reference-item--type1 more" id="reference-[13]-78512-wrap">
+<span class="index">13.</span>
+<a class="gotop anchor" href="#ref_[13]_78512" id="refIndex_13_78512" name="refIndex_13_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/99eckhn0rnyl9OFQtsApCzFeAFI5HnL2X-46QjmAQeo1Wm7PaQinabO-KJQcbl1TobC0gBFOfAtkJtzA-FimecVKDNEESy3HRIIV1TdL1aPL85ji" rel="nofollow" target="_blank">耶利内克答谢词“越位”露面<span class="linkout"> </span></a>
+<span class="site">．光明网</span><span>．2005-01/20</span><span>[引用日期2013-12-22]</span></li><li class="reference-item reference-item--type1 more" id="reference-[14]-78512-wrap">
+<span class="index">14.</span>
+<a class="gotop anchor" href="#ref_[14]_78512" id="refIndex_14_78512" name="refIndex_14_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/63824Ylf3GUBNs74x_-DKCUmb0nigKpsxkLhJty_8ZLiH1gGASjnoGe1N7n9daCRPG_8Em-Vgr0aMKR1_6X-2IyyMylqNAyRJXd7jUWTquVk1ryb" rel="nofollow" target="_blank">奥地利作家耶利内克捧走诺贝尔文学奖桂冠<span class="linkout"> </span></a>
+<span class="site">．光明网</span><span>．2004-10/08</span><span>[引用日期2013-12-22]</span></li><li class="reference-item reference-item--type1 more" id="reference-[15]-78512-wrap">
+<span class="index">15.</span>
+<a class="gotop anchor" href="#ref_[15]_78512" id="refIndex_15_78512" name="refIndex_15_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/81d4lLgQVmtp1MxMJx-hQ2gdMayGuC-MZtB5mSW4M-twvb3InOHsBNFChfYDTCBxVrXbgigUNRg0GMaucuvlwBn2RM2x2TIsBvMi43chYw" rel="nofollow" target="_blank">耶利内克：一个典型的“68型”作家<span class="linkout"> </span></a>
+<span class="site">．中国网</span><span>[引用日期2013-12-22]</span></li><li class="reference-item reference-item--type1 more" id="reference-[16]-78512-wrap">
+<span class="index">16.</span>
+<a class="gotop anchor" href="#ref_[16]_78512" id="refIndex_16_78512" name="refIndex_16_78512" title="向上跳转">  </a>
+<a class="text" href="/reference/1418769/c4f6xLgCki_c2NKBzO4_MA33vNUbZXeyJxhDBXRIBYZDNl0fDGxd-mI-zPWR7HrGQqhOsnCcqHwpiM9kNBsHzBYFBad91a_2C03Vu7H86UmdPgkvhwv07X0t" rel="nofollow" target="_blank">谁爱耶利内克？<span class="linkout"> </span></a>
+<span class="site">．新华网</span><span>．2004-10/19</span><span>[引用日期2013-12-23]</span></li></ul>
+</dd>
+<dd class="toggle">
+<span class="text expand-text">展开全部</span>
+<span class="text collapse-text">收起</span>
+<em class="toggle-arrow"></em>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+文学家
+</span>
+，<span class="taglist">
+文学
+</span>
+，<span class="taglist">
+人物
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B/1418769/0/d8f9d72a6059252d37a746b2349b033b5ab5b9d0?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=91062996b912c8fcb4f3f1cbc438f578/d8f9d72a6059252d37a746b2349b033b5ab5b9d0.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>埃尔弗里德·耶利内克图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1418769" data-lemmatitle="埃尔弗里德·耶利内克"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1418769" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：47次<a class="nslog:1021" href="/historylist/%E5%9F%83%E5%B0%94%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%80%B6%E5%88%A9%E5%86%85%E5%85%8B/1418769" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="11995809" href="/usercenter/userpage?uname=w_ou&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">w_ou</a><span class="j-modified-time" style="display:none">（2018-07-02）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="943805849" href="/usercenter/userpage?uname=%E6%B4%BB%E7%9D%80%E7%9A%84%E9%A3%9E%E9%B8%9F&amp;from=lemma" target="_blank" title="查看此用户资料" username="活着的飞鸟">活着的飞鸟</a>
+<a class="contribute-flag-container" href="https://baike.baidu.com/item/百科分类达人团" target="_blank" title="百科分类达人团">
+<img alt="" class="contribute-flag-icon" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-3_23e3d39.png"/>
+</a>
+<div class="right">
+<a href="http://baike.baidu.com/tese" target="_blank"><img align="absmiddle" alt="特色词条" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/distinctiveIcon_a9a2d74.png" title="特色词条"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="8430662" href="/usercenter/userpage?uname=a5605405&amp;from=lemma" target="_blank" title="查看此用户资料" username="a5605405">a5605405</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">人物经历</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_1">
+<span class="text">
+<span class="title-index">1.1</span>
+<span class="title-link" nslog-type="10002802">早年</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_2">
+<span class="text">
+<span class="title-index">1.2</span>
+<span class="title-link" nslog-type="10002802">青年时期</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_3">
+<span class="text">
+<span class="title-index">1.3</span>
+<span class="title-link" nslog-type="10002802">辉煌时期</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">主要作品</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">写作特点</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_1">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">作品主题</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_2">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">艺术特色</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_3">
+<span class="text">
+<span class="title-index">3.3</span>
+<span class="title-link" nslog-type="10002802">小说</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_4">
+<span class="text">
+<span class="title-index">3.4</span>
+<span class="title-link" nslog-type="10002802">戏剧</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">人物影响</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">社会评价</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

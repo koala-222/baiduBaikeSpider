@@ -1,0 +1,442 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>人文社科</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1417617" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">在人文社科这个词中，主要包括人文科学和社会科学。主要是关于人的精神来进行描述，包括文学、历史、哲学、艺术等四方面。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+人文社科
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+人文社科
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">对象主要</dt>
+<dd class="basicInfo-item value">
+是关于人的精神
+</dd>
+<dt class="basicInfo-item name">包    括</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E6%96%87%E5%AD%A6" target="_blank">文学</a>、<a href="/item/%E5%8E%86%E5%8F%B2" target="_blank">历史</a>、<a href="/item/%E5%93%B2%E5%AD%A6" target="_blank">哲学</a>、<a href="/item/%E8%89%BA%E6%9C%AF" target="_blank">艺术</a>
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-1">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">基本信息</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">图书分类</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub78445_1"></a>
+<a class="lemma-anchor" name="基本信息"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">人文社科</span>基本信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">人文社会科学是人文科学和社会科学的总称.。人文科学关注的中心、研究的对象主要是关于人的精神、文化、价值、观念的问题。研究对象与研究者自身都具有强烈的主体性、个体性、多变性和丰富性。人文科学可以借用社会科学的一些研究方法，如统计的、实证的、逻辑推导的方法，但人文科学也有自己特殊的研究方法，比如<a href="/item/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E5%AD%A6" target="_blank">精神分析学</a>方法、哲学反思与顿悟直觉的方法等。人文科学的学科包括文学、历史、哲学、艺术、宗教、美学、伦理学。<br/>　　社会科学是指以社会现象为研究对象的科学,如政治学、经济学、军事学、法学、教育学、文艺学、史学、语言学、民族学、宗教学、社会学等,其任务是研究并阐述各种社会现象及其发展规律.<br/>　　从上述定义看出人文科学和社会科学难以明确区分,二者都与人类的教养和文化、智慧和德行</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub78445_2"></a>
+<a class="lemma-anchor" name="图书分类"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">人文社科</span>图书分类</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">该词语可用于书店的<a data-lemmaid="3396858" href="/item/%E5%9B%BE%E4%B9%A6%E5%88%86%E7%B1%BB/3396858" target="_blank">图书分类</a>，包括实体书店和网上虚拟书店，人文社科类图书是比重很大的一类图书。</div>
+<div class="para" label-module="para">按照中国<a data-lemmaid="8033877" href="/item/%E5%9B%BE%E4%B9%A6%E5%88%86%E7%B1%BB%E6%B3%95/8033877" target="_blank">图书分类法</a>简表，包括：</div>
+<div class="para" label-module="para">图书类</div>
+<div class="para" label-module="para"><a data-lemmaid="2460424" href="/item/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E6%80%BB%E8%AE%BA/2460424" target="_blank">社会科学总论</a></div>
+<div class="para" label-module="para">社会科学理论与方法论</div>
+<div class="para" label-module="para">社会科学现状、概况</div>
+<div class="para" label-module="para">机关、团体、会议</div>
+<div class="para" label-module="para">社会科学研究方法</div>
+<div class="para" label-module="para"><a data-lemmaid="12650994" href="/item/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E6%95%99%E8%82%B2/12650994" target="_blank">社会科学教育</a>与普及</div>
+<div class="para" label-module="para">社会科学丛书、文集、连续性出版物</div>
+<div class="para" label-module="para">丛书（汇刻书）</div>
+<div class="para" label-module="para">全集、选集</div>
+<div class="para" label-module="para">文集、会议录</div>
+<div class="para" label-module="para">年鉴、年刊</div>
+<div class="para" label-module="para">连续出版物、期刊</div>
+<div class="para" label-module="para">社会科学参考工具书</div>
+<div class="para" label-module="para">社会科学文献检索书</div>
+<div class="para" label-module="para">统计学</div>
+<div class="para" label-module="para">统计方法</div>
+<div class="para" label-module="para">专类统计学（宜入有关学科）</div>
+<div class="para" label-module="para">世界各国统计资料</div>
+<div class="para" label-module="para">社会学</div>
+<div class="para" label-module="para"><a data-lemmaid="3457007" href="/item/%E4%BA%BA%E5%8F%A3%E5%AD%A6/3457007" target="_blank">人口学</a></div>
+<div class="para" label-module="para">管理学</div>
+<div class="para" label-module="para">系统论（系统学、系统工程）（请查N94）</div>
+<div class="para" label-module="para">人才学</div>
+<div class="para" label-module="para"><b>政治、法律</b></div>
+<div class="para" label-module="para">政治理论</div>
+<div class="para" label-module="para">共产主义运动、共产党</div>
+<div class="para" label-module="para"><a href="/item/%E5%9B%BD%E9%99%85%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%BF%90%E5%8A%A8" target="_blank">国际共产主义运动</a></div>
+<div class="para" label-module="para">中国共产党、<a data-lemmaid="10717552" href="/item/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E9%9D%92%E5%B9%B4%E5%9B%A2/10717552" target="_blank">共产主义青年团</a></div>
+<div class="para" label-module="para">各国共产党</div>
+<div class="para" label-module="para">工人、农民、青年、妇女运动与组织</div>
+<div class="para" label-module="para">世界政治</div>
+<div class="para" label-module="para">中国政治</div>
+<div class="para" label-module="para"><b>各国政治</b></div>
+<div class="para" label-module="para">亚洲政治</div>
+<div class="para" label-module="para">非洲政治</div>
+<div class="para" label-module="para">欧洲政治</div>
+<div class="para" label-module="para">大洋州政治</div>
+<div class="para" label-module="para">美洲政治</div>
+<div class="para" label-module="para">外交、国际关系</div>
+<div class="para" label-module="para">法律</div>
+<div class="para" label-module="para">军事</div>
+<div class="para" label-module="para">军事理论</div>
+<div class="para" label-module="para">世界军事</div>
+<div class="para" label-module="para">中国军事</div>
+<div class="para" label-module="para"><b>各国军事</b></div>
+<div class="para" label-module="para">亚洲军事</div>
+<div class="para" label-module="para">非洲军事</div>
+<div class="para" label-module="para">欧洲军事</div>
+<div class="para" label-module="para">大洋州军事</div>
+<div class="para" label-module="para">美洲军事</div>
+<div class="para" label-module="para">战略、战术、战役</div>
+<div class="para" label-module="para"><a data-lemmaid="3363036" href="/item/%E5%86%9B%E4%BA%8B%E6%8A%80%E6%9C%AF/3363036" target="_blank">军事技术</a></div>
+<div class="para" label-module="para"><a data-lemmaid="1405219" href="/item/%E5%86%9B%E4%BA%8B%E5%9C%B0%E5%BD%A2%E5%AD%A6/1405219" target="_blank">军事地形学</a>、<a data-lemmaid="480561" href="/item/%E5%86%9B%E4%BA%8B%E5%9C%B0%E7%90%86%E5%AD%A6/480561" target="_blank">军事地理学</a></div>
+<div class="para" label-module="para"><b>经济</b></div>
+<div class="para" label-module="para">世界各国经济概况、经济史、经济地理</div>
+<div class="para" label-module="para"><a data-lemmaid="1835681" href="/item/%E7%BB%8F%E6%B5%8E%E8%AE%A1%E5%88%92/1835681" target="_blank">经济计划</a>与管理</div>
+<div class="para" label-module="para">政治经济学</div>
+<div class="para" label-module="para">农业经济</div>
+<div class="para" label-module="para">工业经济</div>
+<div class="para" label-module="para">交通运输经济</div>
+<div class="para" label-module="para">有点经济</div>
+<div class="para" label-module="para">贸易经济</div>
+<div class="para" label-module="para">财政、金融</div>
+<div class="para" label-module="para"><b>文化</b></div>
+<div class="para" label-module="para">文化理论</div>
+<div class="para" label-module="para">世界各国文化事业概况</div>
+<div class="para" label-module="para">世界文化</div>
+<div class="para" label-module="para">亚洲文化</div>
+<div class="para" label-module="para">非洲文化</div>
+<div class="para" label-module="para">欧洲文化</div>
+<div class="para" label-module="para">大洋州文化</div>
+<div class="para" label-module="para">美洲文化 中国文化</div>
+<div class="para" label-module="para">风俗习惯</div>
+<div class="para" label-module="para">地理</div>
+<div class="para" label-module="para"><b>教育</b></div>
+<div class="para" label-module="para">教育</div>
+<div class="para" label-module="para">世界各国教育事业</div>
+<div class="para" label-module="para">各级教育</div>
+<div class="para" label-module="para">各类教育</div>
+<div class="para" label-module="para"><b>语言、文字</b></div>
+<div class="para" label-module="para">语言学</div>
+<div class="para" label-module="para">汉语</div>
+<div class="para" label-module="para">中国少数民族语言</div>
+<div class="para" label-module="para">常用外国语</div>
+<div class="para" label-module="para">英语</div>
+<div class="para" label-module="para">法语</div>
+<div class="para" label-module="para">德语</div>
+<div class="para" label-module="para">西班牙语</div>
+<div class="para" label-module="para">俄语</div>
+<div class="para" label-module="para">日语</div>
+<div class="para" label-module="para">阿拉伯语</div>
+<div class="para" label-module="para"><b>各语系语言</b></div>
+<div class="para" label-module="para"><a data-lemmaid="364341" href="/item/%E6%B1%89%E8%97%8F%E8%AF%AD%E7%B3%BB/364341" target="_blank">汉藏语系</a></div>
+<div class="para" label-module="para"><a data-lemmaid="1312722" href="/item/%E9%98%BF%E5%B0%94%E6%B3%B0%E8%AF%AD%E7%B3%BB/1312722" target="_blank">阿尔泰语系</a>（突厥-蒙古-<a data-lemmaid="3888348" href="/item/%E9%80%9A%E5%8F%A4%E6%96%AF%E8%AF%AD%E7%B3%BB/3888348" target="_blank">通古斯语系</a>）</div>
+<div class="para" label-module="para"><a data-lemmaid="2209131" href="/item/%E5%8D%97%E4%BA%9A%E8%AF%AD%E7%B3%BB/2209131" target="_blank">南亚语系</a></div>
+<div class="para" label-module="para">南印语系（<a href="/item/%E8%BE%BE%E7%BD%97%E6%AF%97%E8%8D%BC%E8%AF%AD%E7%B3%BB" target="_blank">达罗毗荼语系</a>、<a href="/item/%E5%BE%B7%E6%8B%89%E7%BB%B4%E8%BE%BE%E8%AF%AD%E7%B3%BB" target="_blank">德拉维达语系</a>）</div>
+<div class="para" label-module="para"><a data-lemmaid="2205951" href="/item/%E5%8D%97%E5%B2%9B%E8%AF%AD%E7%B3%BB/2205951" target="_blank">南岛语系</a>（马来亚-玻里<a href="/item/%E5%B0%BC%E8%A5%BF%E4%BA%9A" target="_blank">尼西亚</a>语系）</div>
+<div class="para" label-module="para"><a data-lemmaid="1154850" href="/item/%E4%B8%9C%E5%8C%97%E4%BA%9A/1154850" target="_blank">东北亚</a>诸语系</div>
+<div class="para" label-module="para">伊比利亚-高加索语系</div>
+<div class="para" label-module="para">芬兰-乌戈尔语系</div>
+<div class="para" label-module="para"><a data-lemmaid="5964619" href="/item/%E9%97%AA-%E5%90%AB%E8%AF%AD%E7%B3%BB/5964619" target="_blank">闪-含语系</a></div>
+<div class="para" label-module="para"><a data-lemmaid="1188904" href="/item/%E5%8D%B0%E6%AC%A7%E8%AF%AD%E7%B3%BB/1188904" target="_blank">印欧语系</a></div>
+<div class="para" label-module="para">非洲诸语系</div>
+<div class="para" label-module="para">美洲诸语系</div>
+<div class="para" label-module="para">大洋州诸语系</div>
+<div class="para" label-module="para"><a href="/item/%E5%9B%BD%E9%99%85%E8%BE%85%E5%8A%A9%E8%AF%AD" target="_blank">国际辅助语</a></div>
+<div class="para" label-module="para"><b>文学</b></div>
+<div class="para" label-module="para">文学理论</div>
+<div class="para" label-module="para">世界文学</div>
+<div class="para" label-module="para">中国文学</div>
+<div class="para" label-module="para">各国文学</div>
+<div class="para" label-module="para">亚洲文学</div>
+<div class="para" label-module="para">非洲文学</div>
+<div class="para" label-module="para">欧洲文学</div>
+<div class="para" label-module="para">大洋州文学</div>
+<div class="para" label-module="para">美洲文学</div>
+<div class="para" label-module="para"><b>艺术</b></div>
+<div class="para" label-module="para">艺术理论</div>
+<div class="para" label-module="para">世界各国艺术概况</div>
+<div class="para" label-module="para">绘画</div>
+<div class="para" label-module="para">书法、篆刻</div>
+<div class="para" label-module="para">雕塑</div>
+<div class="para" label-module="para">摄影艺术</div>
+<div class="para" label-module="para">工艺美术</div>
+<div class="para" label-module="para">建筑艺术</div>
+<div class="para" label-module="para">音乐</div>
+<div class="para" label-module="para">舞蹈</div>
+<div class="para" label-module="para">戏剧艺术</div>
+<div class="para" label-module="para">电影、电视艺术</div>
+<div class="para" label-module="para"><b>各国史</b></div>
+<div class="para" label-module="para">史学理论</div>
+<div class="para" label-module="para">世界史</div>
+<div class="para" label-module="para">中国史</div>
+<div class="para" label-module="para"><a href="/item/%E4%BA%9A%E6%B4%B2%E5%8F%B2" target="_blank">亚洲史</a></div>
+<div class="para" label-module="para">非洲史</div>
+<div class="para" label-module="para">欧洲史</div>
+<div class="para" label-module="para">大洋州史</div>
+<div class="para" label-module="para">美洲史</div>
+<div class="para" label-module="para"><b>传记</b></div>
+<div class="para" label-module="para">世界人物传记及传记研究与编写</div>
+<div class="para" label-module="para">中国人物传记</div>
+<div class="para" label-module="para">各国人物传记</div>
+<div class="para" label-module="para"><b>考古学</b></div>
+<div class="para" label-module="para">文物考古</div>
+<div class="para" label-module="para">世界文物考古</div>
+<div class="para" label-module="para">中国文物考古</div>
+<div class="para" label-module="para">各国文物考古</div>
+<div class="para" label-module="para">院系分类：人文社科学院</div>
+<div class="para" label-module="para">人文社科还是高等教育中院系分类的名称，比如：<a href="/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6" target="_blank">清华大学</a><a href="/item/%E4%BA%BA%E6%96%87%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2" target="_blank">人文社会科学学院</a>。</div>
+<div class="para" label-module="para">包括：</div>
+<div class="para" label-module="para">人类学、考古学、语言学、<a href="/item/%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB%E5%AD%A6" target="_blank">国际关系学</a>、<a href="/item/%E5%B7%A5%E5%95%86%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%AD%A6" target="_blank">工商行政管理学</a>、<a href="/item/%E5%9F%8E%E5%B8%82%E5%92%8C%E5%8C%BA%E5%9F%9F%E8%A7%84%E5%88%92" target="_blank">城市和区域规划</a>学、文学、<a href="/item/%E8%89%BA%E6%9C%AF%E5%AD%A6" target="_blank">艺术学</a>、教育学、宗教学、历史学、<a href="/item/%E4%BA%BA%E5%8F%A3%E5%AD%A6" target="_blank">人口学</a>、政治学、经济学、心理学、社会学、公共政策和管理学、<a href="/item/%E7%BB%84%E7%BB%87%E8%A1%8C%E4%B8%BA%E5%AD%A6" target="_blank">组织行为学</a>等。近年也有一些新生学科加入了人文社科学院的范畴。</div>
+<div class="para" label-module="para">作用</div>
+<div class="para" label-module="para">1.为进入图书管理场所的人员提供导向；</div>
+<div class="para" label-module="para">2.为教育工作分类提供指导；</div>
+<div class="para" label-module="para">3.总结、记录、反映人类社会的发展历程，同时也推进人类社会的发展历程；</div>
+<div class="para" label-module="para">4.教育的一个方面。</div>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+组织机构
+</span>
+，<span class="taglist">
+社会
+</span>
+，<span class="taglist">
+文化
+</span>
+，<span class="taglist">
+出版物
+</span>
+，<span class="taglist">
+书籍
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/1417617/0/d6ca7bcb0a46f21fd9d8b331f3246b600d33aee0?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=b6197fd4cc177f3e1034fb0b48f45cfa/d6ca7bcb0a46f21fd9d8b331f3246b600d33aee0.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>人文社科图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1417617" data-lemmatitle="人文社科"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1417617" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：32次<a class="nslog:1021" href="/historylist/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/1417617" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="4034467455" href="/usercenter/userpage?uname=%E6%98%AF%E5%AE%9A%E7%A8%BFSDHH&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">是定稿SDHH</a><span class="j-modified-time" style="display:none">（2019-03-26）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="2701771" href="/usercenter/userpage?uname=%E6%AD%A3%E8%AF%9A&amp;from=lemma" target="_blank" title="查看此用户资料" username="正诚">正诚</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">基本信息</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">图书分类</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

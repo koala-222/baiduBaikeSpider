@@ -1,0 +1,527 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="page-background" style="display:block;position:relative;width:100%;height:480px;background:#f5f5f5 url('https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/pageBackground/img/noSecondKnow_f454976.png') no-repeat center 0px;">
+<div class="bgMask"></div>
+</div>
+<div class="after-page-background" style="position:relative;margin-top:-460px;"></div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<a class="posterFlag expert-icon" href="javascript:;" title="权威专家认证词条"></a>
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E6%8E%A5%E5%9C%B0%E7%BA%BF" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>接地线</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="/view/10812319.htm" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="authorityListPrompt">
+<div class="main-content-zj">
+本词条由<a class="nslog:7175" href="https://baike.baidu.com/science" target="_blank">“科普中国”科学百科词条编写与应用工作项目</a>
+审核
+。</div>
+</div>
+<div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">接地线就是直接连接地球的线，也可以称为安全回路线，危险时它就把高压直接转嫁给地球，算是一根生命线。</div><div class="para" label-module="para">家用电器设备由于绝缘性能不好或使用环境潮湿，会导致其外壳带有一定<a data-lemmaid="623" href="/item/%E9%9D%99%E7%94%B5/623" target="_blank">静电</a>，严重时会发生触电<a href="/item/%E4%BA%8B%E6%95%85" target="_blank">事故</a>。为了避免出现的事故可在电器的金属外壳上面连接一根电线，将电线的另一端接入大地，一旦电器发生漏电时接地线会把<a data-lemmaid="623" href="/item/%E9%9D%99%E7%94%B5/623" target="_blank">静电</a>带入到大地释放掉。另外对于电器维修人员在使用电烙铁焊接电路时，有时会因为电烙铁带电而击穿损坏电器中的<a data-lemmaid="108211" href="/item/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF/108211" target="_blank">集成电路</a>，这一点比较重要。使用电脑的朋友有时也会忽略主机壳接地，其实给电脑主机壳接根地线，在一定程度上可以防止死机现象的出现。</div><div class="para" label-module="para">在电力系统中接地线： 是为了在已停电的设备和线路上意外地出现电压时保证工作人员的重要工具。按部颁规定，接地线必须是 25mm 2 以上裸铜软线制成。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+接地线
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+EARTH LINE
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">执行标准</dt>
+<dd class="basicInfo-item value">
+DL/T879-2004（2015年止）
+</dd>
+<dt class="basicInfo-item name">用    途</dt>
+<dd class="basicInfo-item value">
+防止漏电
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">简介</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">接地方式的基本组成</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">接地方式的分类</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">电阻要求：</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">技术参数</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">使用说明</a></span>
+</li>
+<li class="level1">
+<span class="index">7</span>
+<span class="text"><a href="#7">使用维护</a></span>
+</li>
+<li class="level1">
+<span class="index">8</span>
+<span class="text"><a href="#8">注意事项</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub78804_1"></a>
+<a class="lemma-anchor" name="简介"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">接地线</span>简介</h2>
+</div>
+<div class="para" label-module="para">电器中，接地线就是接在电气设备外壳等部位及时的将因各种原因产生的不安全的电荷或者<a href="/item/%E6%BC%8F%E7%94%B5%E7%94%B5%E6%B5%81" target="_blank">漏电电流</a>导出的线路。</div>
+<div class="para" label-module="para">（1）高压接地线作用： 高压接地线是用于线路和变电施工，为防止临近带电体产生静电感应触电或误合闸时保证安全之用。</div>
+<div class="para" label-module="para">（2）高压接地线结构： 携带型高压接地线由绝缘操作杆、导线夹、短路线、接地线、接地端子、汇流夹、接地夹。</div>
+<div class="para" label-module="para">（3）高压接地线制作工艺：制作工艺优良-- 导线夹、接地夹是采用优质铝合金压铸成形；操作棒采用环氧树脂彩色管，绝缘性能好，强度高、重量轻、色彩鲜明、外表光滑；接地软铜线采用多股优质软铜线绞合而成，并外覆柔软、耐高温的透明绝缘护层，可以防止使用中对接地铜线的磨损，铜线达到疲劳度测试需求，确保作业人员在操作中的安全。</div>
+<div class="para" label-module="para">（4）接地线规格：按部颁规定，接地线必须是 25mm 2 以上裸铜软线制成。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub78804_2"></a>
+<a class="lemma-anchor" name="接地方式的基本组成"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">接地线</span>接地方式的基本组成</h2>
+</div>
+<div class="para" label-module="para">接地方式的组成部分可分为电气设备和配电系统两部分。</div>
+<div class="para" label-module="para">1．电气设备的接地部分</div>
+<div class="para" label-module="para">（1）接地体：与大地紧密接触并与大地形成电气连接的一个或一组导体。</div>
+<div class="para" label-module="para">（2）外露可导电部分：电气设备能触及的可导电部分。正常时不带电，故障时可能带电，通常为电气设备的金属外壳。</div>
+<div class="para" label-module="para">（3）主接地端子板：一个建筑物或部分建筑物内各种接地（如工作接地、保护接地）的端子和等电位连接线的端子的组合。如成排排列，则称为主接地端子排。</div>
+<div class="para" label-module="para">（4）保护线（PE）：将上述外露可导电部分，主接地端子板、接地体以及电源接地点（或人工接地点）任何部分作电气连接的导体。对于连接多个外露可导电部分的导体称为保护干线。</div>
+<div class="para" label-module="para">（5）接地线：将主接地端子板或将外露可导电部分直接接到接地体的保护线。对于连接多个接地端子板的接地线称为接地干线。</div>
+<div class="para" label-module="para">（6）等电位连接：指各外露可导电部分和装置外导电部分的电位实质上相等的电气连接<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78804"> </a>
+。</div>
+<div class="para" label-module="para">2．配电系统的接地部分</div>
+<div class="para" label-module="para">（1）相线（L）。输送电能的导体，正常情况下不接地。</div>
+<div class="para" label-module="para">（2）中性线（N）。与系统中性点相连，并能起输送电能作用的导体。</div>
+<div class="para" label-module="para">（3）保护中性线（PEN）。兼有保护线和中性线作用的导体。</div>
+<div class="para" label-module="para">（4）电源接地点。将电源可以接地的一点（通常是中性点）进行接地<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78804"> </a>
+。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub78804_3"></a>
+<a class="lemma-anchor" name="接地方式的分类"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">接地线</span>接地方式的分类</h2>
+</div>
+<div class="para" label-module="para">我国配电系统的接地方式已使用IEC规定，其分类仍然是以配电系统和电气设备的接地组合来分，一般分为TN、TT、IT系统等。上述字母表示的含义：第一个字母表示电源接地点对地的关系。其中T表示直接接地；I表示不接地或通过阻抗接地。第二个字母表示电气设备的外露可导电部分与地关系。其中T表示与电源接地点无连接的单独直接接地；N表示直接与电源系统接地点或与该点引出的导体连接。</div>
+<div class="para" label-module="para">根据中性线与保护线是否合并的情况，TN系统又分为TN-C、TN－S及TN－C－S系统。 TN－C系统：保护线与中性线合并为PEN线。 TN-S系统：保护线与中性线分开。 TN-C－S系统：在靠近电源侧一段的保护线和中性线合并为PEN线，从某点以后分为保护线和中性线。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub78804_4"></a>
+<a class="lemma-anchor" name="电阻要求："></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">接地线</span>电阻要求：</h2>
+</div>
+<div class="para" label-module="para">高压短路接地线对地电阻要求决定了接地线的品质，一般按照电力行业DL-T879-2004技术规定要求每个截面积的接地线对地电阻不的大于下列数值：</div>
+<div class="para" label-module="para">接线鼻之间测量直流电阻，对于16mm2 ，25mm2，35mm2，50mm2，70mm2，95mm2，120mm2的各种截面，平均每米的电阻值应分别小于1.24mΩ， 0.79mΩ，0.56mΩ，0.40mΩ，0.28mΩ，0.21mΩ，0.16mΩ<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78804"> </a>
+。</div>
+<div class="para" label-module="para">高压接地线分类：</div>
+<div class="para" label-module="para">（1）高压接地线按照使用环境可以分为：室内母排型接地线（JDX-NL）和室外线路型接地线（JDX-WS）。 （2）高压接地线按照电压等级可分为：10KV接地线，35KV高压接地线，110KV接地线，220KV高压接地线，500KV高压接地线<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78804"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub78804_5"></a>
+<a class="lemma-anchor" name="技术参数"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">接地线</span>技术参数</h2>
+</div>
+<div class="para" label-module="para">（1）10KV高压接地线 绝缘杆部分长度：700 mm 握手部分长度：300 mm 金属接头部分长度：50 mm 节数：1 杆径：30mm 总长（不包括线夹）：1050 mm</div>
+<div class="para" label-module="para">（2）35KV接地线 标称截面：25mm2 总根数：810 平均直径（mm）：0.2mm 计算截面：（mm2）：25.43 金属接头部分长度：50 mm 节数：1 杆径：30mm</div>
+<div class="para" label-module="para">（3）110KV高压接地线 标称截面：35mm2 总根数：1136 平均直径（mm）：0.2mm 计算截面：（mm2）：35.67 绝缘杆部分长度：1360 mm 握手部分长度：700 mm 金属接头部分长度：140 mm 节数：2 杆径：30mm 总长（不包括线夹）：2200 mm<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_78804"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6"></a>
+<a class="lemma-anchor" name="sub78804_6"></a>
+<a class="lemma-anchor" name="使用说明"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">接地线</span>使用说明</h2>
+</div>
+<div class="para" label-module="para">（1）挂接地线时：先连结接地夹，后接接电夹；拆除接地线时，必须按程序先拆接电夹，后拆接地夹。</div>
+<div class="para" label-module="para">（2）安装：将接地软铜线分相上双眼铜鼻子固定在接地棒上的接电夹（接电夹有固定式和活动式）相应位置上，将接地线合相上的单眼铜鼻子固定在接地夹或地针上，构成一套完整的接地线。</div>
+<div class="para" label-module="para">（3）核实接地棒的电压等级与操作设备的电压等级是否一致。</div>
+<div class="para" label-module="para">（4）接地软铜线有分相式和组合式，接地棒有平口式和双簧钩式线夹。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7"></a>
+<a class="lemma-anchor" name="sub78804_7"></a>
+<a class="lemma-anchor" name="使用维护"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">接地线</span>使用维护</h2>
+</div>
+<div class="para" label-module="para">使用携带型短路接地线前，应先验电确认已停电，在设备上确认无电压后进行。先将接地线夹连接在接地网或扁铁件上，然后用接地操作棒分别将导线端线类拧紧在设备导线上。拆除短路接地线时，顺序正好与上述相反。</div>
+<div class="para" label-module="para">装设的短路接地线，它和带电设备的距离，考虑到接地线摆的影响，其安全距离应不小于《电力安全工作规程》新规定的数值。</div>
+<div class="para" label-module="para">严禁不用线夹而用缠绕的方法进行接地短路。</div>
+<div class="para" label-module="para">悬挂点如有接地点，应用接地线夹或专用铜棒作接地连接;如无固定接地点可利用;则可用临时接地点，接地极埋入地下深度应不小于0.6m。</div>
+<div class="para" label-module="para">携带型短路接地线应妥善保管。每次使用前，均应仔细检查其是否完好，软铜线无祼露，螺母不松脱，否则不得使用。</div>
+<div class="para" label-module="para">携带型短路接地线检验周期为每五年一次，检验项目同出厂检验。经试验合格的携带型短路接地线在经受短路后，应根据经受短路电流大小和外观检验判断，一般应予报废</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="8"></a>
+<a class="lemma-anchor" name="sub78804_8"></a>
+<a class="lemma-anchor" name="注意事项"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">接地线</span>注意事项</h2>
+</div>
+<div class="para" label-module="para">1、工作之前必须检查接地线。软铜线是否断头，螺丝连接处有无松动，线钩的弹力是否正常，不符合要求应及时调换或修好后再使用。</div>
+<div class="para" label-module="para">2、挂接地线前必须先验电，未验电挂接地线是基层中较普遍的习惯性违章行为，在悬挂时接地线道体不能和身体接触。</div>
+<div class="para" label-module="para">3、在工作地点两段两端悬挂接地线，以免用户倒送电、感应电的可能，深受其害的例子不少。</div>
+<div class="para" label-module="para">4、在打接地桩时，要拨能借地体能快速疏通事故大电流，保证接地质量。</div>
+<div class="para" label-module="para">5、要爱护接地线。接地线在使用过程中不得扭花，不用时应将软铜线盘好，接地线在拆除后，不得从空中丢下或随地乱摔，要用绳索传递，注意接地线的清洁工作。</div>
+<div class="para" label-module="para">6、新工作人员必须经过对接地线使用的培训、学习，考核合格后，方能单独从事接地线操作或使用工作。</div>
+<div class="para" label-module="para">7、按不同电压等级选用对应规格的接地线。</div>
+<div class="para" label-module="para">8、严禁使用其它金属线代替接地线。</div>
+<div class="para" label-module="para">9、现场工作不得少挂接地线或者擅自变更挂接地线地点。</div>
+<div class="para" label-module="para">10、接地线具有双面性，它具有安全的作用，使用不当也会产生破坏效应，所以工作完毕要及时拆除接地线。带接地线合开关会损坏电气设备和破坏电网的稳定，会导致严重的恶性电气事故<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78804"> </a>
+。</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a class="anchor-2" name="rs_78804_35234"></a>
+<div class="rslazy rs-container" id="rs-container-78804-35234" lazy-init="lemmars.tableAction(baidu.g('rs-78804-35234'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":35234,"fentryTableName":"\u51b0\u5ddd\u5b66","fentryTableType":1,"entryId":2335485,"templateId":0,"entryTitle":"\u51b0\u5ddd\u5b66","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([78804, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-78804-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_78804" id="refIndex_1_78804" name="refIndex_1_78804" title="向上跳转">  </a>
+<a class="text" href="/reference/1424055/e739fiKwFSzUfz292T1fMGJmkw3ypQh79n372xpc40xDsuMx98kJa9-H54BWDYxOp7gu-fVGy9EMc78kLh-aX31qd9CJ6yo2sc2majkKVp_6wk3L8tk" rel="nofollow" target="_blank">接地线正确接法<span class="linkout"> </span></a>
+<span class="site">．百度文库</span><span>[引用日期2015-02-21]</span></li><li class="reference-item reference-item--type1" id="reference-[2]-78804-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_78804" id="refIndex_2_78804" name="refIndex_2_78804" title="向上跳转">  </a>
+<a class="text" href="/reference/1424055/a06c4YeNBS5ZLga9xg4NAvjx_zP8_wcMo1hC2xMUnE6T-fW8Qu83E81l6tmgzCJB_MpiMJ2PEJM2E_ci7NymuPdPiy02KD-RVXUx5FWtrSsGtEhXasqc8kDAYAvbLHuvIlvI3QCm-LUNjD6Oo44rYzJhlkfuPcg791UOUvdwIcgMXwf-rCQhot8kpHv7THx0UjGx" rel="nofollow" target="_blank">高压接地线<span class="linkout"> </span></a>
+<span class="site">．百度百科</span><span>．2010-12-09</span><span>[引用日期2015-02-16]</span></li><li class="reference-item reference-item--type1" id="reference-[3]-78804-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_78804" id="refIndex_3_78804" name="refIndex_3_78804" title="向上跳转">  </a>
+<a class="text" href="/reference/1424055/b641F6OCbgjmHG_378mOf4ZBm06VCTTK_HbFyUr-QQN0WOUpQ-NWC4PVUVqpsGqeau1BZyF0yXKu5VsDyntgDJWL5_UZh6PqxNBfFOLo-sVdA41f4SU" rel="nofollow" target="_blank">接地线的作用是什么<span class="linkout"> </span></a>
+<span class="site">．百度文库</span><span>[引用日期2015-02-21]</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+<a href="/wikitag/taglist?tagId=76607" target="_blank">科学百科信息科学分类</a>
+</span>
+，<span class="taglist">
+<a href="/wikitag/taglist?tagId=68031" target="_blank">中国电子学会</a>
+</span>
+，<span class="taglist">
+非地理
+</span>
+，<span class="taglist">
+科技产品
+</span>
+，<span class="taglist">
+科学
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E6%8E%A5%E5%9C%B0%E7%BA%BF/1424055/0/cc11728b4710b9123e2913d9c1fdfc0392452229?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=66874835700e0cf3a0f749fd327d9522/cc11728b4710b9123e2913d9c1fdfc0392452229.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>接地线图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1424055" data-lemmatitle="接地线"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1424055" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><div id="side-auth">
+<div class="side-box" id="authEdit">
+<dl>
+<dt class="sidetitle">权威合作编辑</dt>
+<dd class="side-auth-content">
+<div class="side-auth-img">
+<a class="nslog:7075" href="http://www.kepuchina.cn" id="authOrgRightEditPic" target="_blank">
+<img alt="权威编辑" onload="this.style.width = '50px';this.style.display='';" src="https://baike.baidu.com/cms/rc/QQ%E5%9B%BE%E7%89%8720141121003618.jpg" style="display: none" title="权威编辑"/>
+</a>
+</div>
+<div class="side-auth-info">
+<p class="auth-info-name">
+<a href="http://www.kepuchina.cn" id="authOrgRightEdit" nslog-type="7075" target="_blank">“科普中国”科学百科词条编写与应用工作项目</a>
+</p>
+<span id="authDetail">
+“科普中国”是为我国科普信息化建设塑造的全...
+</span>
+</div>
+<div class="clear"></div>
+</dd>
+<dd class="authVersion">
+<span style="">
+<a align="absmiddle" class="whatIs" href="javascript:void(0);"></a><a class="link-toggle" href=" http://baike.bdimg.com/cms/static/cooperation/content.pdf" id="whatIsAuthEdit" nslog-type="36" target="_blank">什么是权威编辑</a>
+</span>
+<span class="divisionLine"></span>
+<a class="nslog:37" href="/history/%E6%8E%A5%E5%9C%B0%E7%BA%BF/1424055/74371181" id="authEditVersion" target="_blank">查看编辑版本</a>
+</dd>
+</dl>
+</div>
+<div class="side-box" id="authResource">
+<dl>
+<dt class="sidetitle">资源提供</dt>
+<dd class="side-auth-content">
+<div class="side-auth-img">
+<a href="http://www.cie-info.org.cn/" nslog-type="7096" target="_blank">
+<img alt="资源合作" onload="this.style.width = '50px';this.style.display='';" src="https://bkssl.bdimg.com/cms/static/cie-logo.jpg" style="display: none" title="资源合作"/>
+</a>
+</div>
+<div class="side-auth-info">
+<div class="auth-info-name">
+<a class="nslog:7096" href="http://www.cie-info.org.cn/" target="_blank">中国电子学会</a>
+</div>
+<p>中国电子学会（Chinese Instit...</p>
+<p>提供资源类型：<span style="color: #555555;">内容</span></p>
+</div>
+</dd>
+<dd class="authVersion">
+<span>
+<a align="absmiddle" class="whatIs" href="javascript:void(0);"></a>
+<a class="link-toggle" href=" http://baike.bdimg.com/cms/static/cooperation/content.pdf" nslog-type="3024" target="_blank">什么是资源合作</a>
+</span>
+</dd>
+</dl>
+</div>
+</div>
+<dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：31次<a class="nslog:1021" href="/historylist/%E6%8E%A5%E5%9C%B0%E7%BA%BF/1424055" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="11995809" href="/usercenter/userpage?uname=w_ou&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">w_ou</a><span class="j-modified-time" style="display:none">（2018-07-02）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="7204889" href="/usercenter/userpage?uname=a7805b7812&amp;from=lemma" target="_blank" title="查看此用户资料" username="a7805b7812">a7805b7812</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">简介</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">接地方式的基本组成</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">接地方式的分类</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">电阻要求：</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">技术参数</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#6">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">使用说明</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#7">
+<span class="text">
+<span class="title-index">7</span>
+<span class="title-link" nslog-type="10002802">使用维护</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#8">
+<span class="text">
+<span class="title-index">8</span>
+<span class="title-link" nslog-type="10002802">注意事项</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

@@ -1,0 +1,808 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+<div class="polysemant-list polysemant-list-normal">
+<div class="polysemantList-header">
+<div class="polysemantList-header-title">
+<b class="polysemant-list-lemma-title">尼古拉二世</b>是一个<a href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%A4%9A%E4%B9%89%E8%AF%8D" target="_blank">多义词</a>，请在下列<a href="/item/%E4%B9%89%E9%A1%B9" target="_blank">义项</a>上选择浏览（<a href="/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96?force=1" target="_blank">共2个义项</a>）<span class="polysemant-separator"></span>
+<a class="polysemant-button polysemant-button--add J-polysemant-button--add" data-href="/createsub/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96" href="javascript:;">
+<span class="polysemant-button__text J-polysemant-button__text">添加义项</span>
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add polysemant-button__icon J-polysemant-button__icon"></em>
+</a>
+</div>
+</div>
+<ul class="polysemantList-wrapper cmn-clearfix">
+<li class="item">▪<span class="selected">俄罗斯沙皇</span></li>
+<li class="item">▪<a href="/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2911993#viewPageContent" title="罗马教宗">罗马教宗</a></li>
+</ul>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="split-icon top-tool-icon" href="/divideload/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>尼古拉二世</h1>
+<h2>（俄罗斯沙皇）</h2>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="/view/10812319.htm" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para"><b>尼古拉二世·亚历山德罗维奇</b>（俄语：Николай II Александрович；1868年5月18日—1918年7月17日），史称尼古拉二世（英语：Nicholas II），是俄罗斯罗曼诺夫王朝最后一位沙皇，<a data-lemmaid="1757146" href="/item/%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%9D%E5%9B%BD/1757146" target="_blank">俄罗斯帝国</a>最后一位<a data-lemmaid="886" href="/item/%E7%9A%87%E5%B8%9D/886" target="_blank">皇帝</a>（1894年11月1日—1917年3月15日在位）、俄罗斯<a data-lemmaid="2944809" href="/item/%E7%BD%97%E6%9B%BC%E8%AF%BA%E5%A4%AB%E7%8E%8B%E6%9C%9D/2944809" target="_blank">罗曼诺夫王朝</a>最后一位沙皇。<a data-lemmaid="1142968" href="/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E4%B8%89%E4%B8%96/1142968" target="_blank">亚历山大三世</a>的长子，登基之时，<a data-lemmaid="7372" href="/item/%E6%B2%99%E7%9A%87/7372" target="_blank">沙皇</a>制度已经开始摇摇欲坠，他对外扩张、对内改革却不尽人意。</div><div class="para" label-module="para">1905年<a data-lemmaid="125568" href="/item/%E4%BF%84%E7%BD%97%E6%96%AF/125568" target="_blank">俄罗斯</a>在清朝的<a data-lemmaid="789600" href="/item/%E7%A7%9F%E5%80%9F%E5%9C%B0/789600" target="_blank">租借地</a><a data-lemmaid="547476" href="/item/%E6%97%85%E9%A1%BA/547476" target="_blank">旅顺</a>被日本攻克之后，首都<a data-lemmaid="6447" href="/item/%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1/6447" target="_blank">圣彼得堡</a>发生<a data-lemmaid="15452337" href="/item/%E6%B5%81%E8%A1%80%E6%98%9F%E6%9C%9F%E6%97%A5/15452337" target="_blank">流血星期日</a>事件，引发了<a data-lemmaid="125568" href="/item/%E4%BF%84%E7%BD%97%E6%96%AF/125568" target="_blank">俄罗斯</a>1905年革命。为了稳定国内形势，尼古拉二世签署了《整顿国家秩序宣言》宣布俄罗斯帝国实行<a data-lemmaid="907822" href="/item/%E5%90%9B%E4%B8%BB%E7%AB%8B%E5%AE%AA%E5%88%B6/907822" target="_blank">君主立宪制</a>，<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_5080636"> </a>
+再加上<a data-lemmaid="8019114" href="/item/%E6%96%AF%E6%89%98%E9%9B%B7%E5%B9%B3/8019114" target="_blank">斯托雷平</a>的<a data-lemmaid="32278" href="/item/%E6%94%B9%E9%9D%A9/32278" target="_blank">改革</a>才勉强粉饰太平，但是又陷入更复杂的<a data-lemmaid="7446884" href="/item/%E5%B7%B4%E5%B0%94%E5%B9%B2%E9%97%AE%E9%A2%98/7446884" target="_blank">巴尔干问题</a>。之后俄罗斯军队在<a data-lemmaid="499178" href="/item/%E4%B8%80%E6%88%98/499178" target="_blank">一战</a>前线损兵折将的消息更是彻底摧毁了皇帝“小父亲”的形象，此前这个形象在俄罗斯百姓的心目中保持了几百年。其执政末期俄罗斯先后爆发了的<a data-lemmaid="1902281" href="/item/%E4%BA%8C%E6%9C%88%E9%9D%A9%E5%91%BD/1902281" target="_blank">二月革命</a>和<a data-lemmaid="468" href="/item/%E5%8D%81%E6%9C%88%E9%9D%A9%E5%91%BD/468" target="_blank">十月革命</a>，前者推翻了他的统治，后者最终结果了他的性命。</div>
+</div>
+<div class="configModuleBanner">
+</div><div alog-alias="hotspotmining-subLemma-" class="clearfix" id="hotspotmining_s">
+<div class="anchor-list">
+<a class="lemma-anchor" name="hotspotmining"></a>
+</div><ul class="hotspotminingNavbar clearfix">
+<li class="active" data-id="271370">TA说</li>
+</ul>
+<div class="hotspotminingContent clearfix showPic" id="hotspotminingContent-271370" style="display: block">
+<div class="hotspotminingContent_pic">
+<a href="https://baike.baidu.com/tashuo/browse/content?id=446bcbc9a698b8eec344b260&amp;fr=qingtian&amp;lemmaId=2191" target="_blank"><img src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/whfpf%3D360%2C280%2C50/sign=38f03cf22334349b74533dc5afd726f8/377adab44aed2e7396095bc48c01a18b86d6fa72.jpg"/></a>
+</div>
+<div class="hotspotminingContent_cnt">
+<div class="hotspotminingContent_cnt_tit"><span class="hotspotminingContent_cnt_tit_tit"><a href="https://baike.baidu.com/tashuo/browse/content?id=446bcbc9a698b8eec344b260&amp;fr=qingtian&amp;lemmaId=2191" target="_blank">末代沙皇的悲惨命运：一家七口被秘密处决，尸骸至今无处埋葬</a></span><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/img/flag_new_5f5180c.png"/>
+<span class="hotspotminingContent_cnt_tit_tim">2018-01-05 18:01</span>
+</div>
+<div class="hotspotminingContent_cnt_cnt">
+<span>此前据央广网报道，早在2015年，俄罗斯东正教会就申请将王储、玛丽亚女大公遗体与尼古拉二世夫妇、姐妹合葬。在得到允许后，调查委员会重新开棺，检验王室成员的遗骸DNA来确认身份，以保证合葬的合理性。2018年是沙皇灭门100周年，末代沙皇一家，终于在百年后得以团聚。</span><a href="https://baike.baidu.com/tashuo/browse/content?id=446bcbc9a698b8eec344b260&amp;fr=qingtian&amp;lemmaId=2191" target="_blank">...详情</a></div>
+</div>
+<div class="hotspotminingContent_rel">
+<div class="hotspotminingContent_rel_tit">相关新闻</div>
+<ul class="hotspotminingContent_rel_cnt">
+</ul>
+</div>
+<div class="hotspotminingContent_web">内容来自<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/img/logo_tashuo_274a010.png"/></div>
+</div>
+</div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+尼古拉二世·亚历山德罗维奇
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Николай II Александрович
+</dd>
+<dt class="basicInfo-item name">别    名</dt>
+<dd class="basicInfo-item value">
+尼古拉二世（殉教者）
+</dd>
+<dt class="basicInfo-item name">国    籍</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%9D%E5%9B%BD" target="_blank">俄罗斯帝国</a>
+</dd>
+<dt class="basicInfo-item name">民    族</dt>
+<dd class="basicInfo-item value">
+<a data-lemmaid="1950126" href="/item/%E6%97%A5%E8%80%B3%E6%9B%BC%E4%BA%BA/1950126" target="_blank">日耳曼人</a>
+</dd>
+<dt class="basicInfo-item name">出生地</dt>
+<dd class="basicInfo-item value">
+<a data-lemmaid="6447" href="/item/%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1/6447" target="_blank">圣彼得堡</a>
+</dd>
+<dt class="basicInfo-item name">出生日期</dt>
+<dd class="basicInfo-item value">
+1868年5月18日
+</dd>
+<dt class="basicInfo-item name">逝世日期</dt>
+<dd class="basicInfo-item value">
+1918年7月17日
+</dd>
+<dt class="basicInfo-item name">职    业</dt>
+<dd class="basicInfo-item value">
+俄罗斯帝国皇帝
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">信    仰</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E4%B8%9C%E6%AD%A3%E6%95%99" target="_blank">东正教</a>
+</dd>
+<dt class="basicInfo-item name">主要成就</dt>
+<dd class="basicInfo-item value">
+带领俄罗斯帝国，参加<a href="/item/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98" target="_blank">第一次世界大战</a>
+<br/>执政末期实行<a href="/item/%E5%90%9B%E4%B8%BB%E7%AB%8B%E5%AE%AA%E5%88%B6" target="_blank">君主立宪制</a>
+<br/>第一个到<a href="/item/%E4%BA%9A%E6%B4%B2" target="_blank">亚洲</a>的俄罗斯皇帝
+</dd>
+<dt class="basicInfo-item name">王    朝</dt>
+<dd class="basicInfo-item value">
+<a data-lemmaid="2944809" href="/item/%E7%BD%97%E6%9B%BC%E8%AF%BA%E5%A4%AB%E7%8E%8B%E6%9C%9D/2944809" target="_blank">罗曼诺夫王朝</a>
+</dd>
+<dt class="basicInfo-item name">在位时间</dt>
+<dd class="basicInfo-item value">
+1894年11月1日—1917年3月15日
+</dd>
+<dt class="basicInfo-item name">前任者</dt>
+<dd class="basicInfo-item value">
+<a data-lemmaid="1142968" href="/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E4%B8%89%E4%B8%96/1142968" target="_blank">亚历山大三世</a>
+</dd>
+<dt class="basicInfo-item name">外    公</dt>
+<dd class="basicInfo-item value">
+丹麦国王<a href="/item/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%AE%89%E4%B9%9D%E4%B8%96" target="_blank">克里斯蒂安九世</a><sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_5080636"> </a>
+</dd>
+<dt class="basicInfo-item name">表    兄</dt>
+<dd class="basicInfo-item value">
+德国皇帝<a data-lemmaid="2731987" href="/item/%E5%A8%81%E5%BB%89%E4%BA%8C%E4%B8%96/2731987" target="_blank">威廉二世</a><sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_5080636"> </a>
+</dd>
+<dt class="basicInfo-item name">表    兄</dt>
+<dd class="basicInfo-item value">
+英国国王<a href="/item/%E4%B9%94%E6%B2%BB%E4%BA%94%E4%B8%96" target="_blank">乔治五世</a><sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_5080636"> </a>
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-1">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">人物生平</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">皇帝头衔</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">家庭成员</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">妻子</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">子女</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub5080636_1"></a>
+<a class="lemma-anchor" name="人物生平"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">尼古拉二世</span>人物生平</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">尼古拉二世·亚历山大德罗维奇，1868年5月18日生在<a data-lemmaid="6447" href="/item/%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1/6447" target="_blank">圣彼得堡</a>附近的<a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/15971275/4bed2e738bd4b31c0f2e281e86d6277f9e2ff801?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:140px;" target="_blank" title="幼年时的尼古拉">
+<div class="album-wrap" style="width:138px;height:220px;">
+<img alt="幼年时的尼古拉" class="picture" src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=1f045d9234fae6cd08b4ac633fb20f9e/4bed2e738bd4b31c0f2e281e86d6277f9e2ff801.jpg" style="width:138px;height:220px;"/>
+</div>
+<div class="description">
+幼年时的尼古拉<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:132px;"></div>
+<div class="albumBgSec" style="width:126px;"></div>
+</div>
+</a>
+<a href="/item/%E6%B2%99%E7%9A%87%E6%9D%91" target="_blank">沙皇村</a>（沙皇的夏宫），是沙皇<a data-lemmaid="1142968" href="/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E4%B8%89%E4%B8%96/1142968" target="_blank">亚历山大三世</a>与皇后玛丽亚·费奥多萝芙娜（<a href="/item/%E4%B8%B9%E9%BA%A6" target="_blank">丹麦</a>公主<a href="/item/%E8%BE%BE%E6%A0%BC%E7%8E%9B" target="_blank">达格玛</a>）之长子。亚历山大三世统治时，俄国<a href="/item/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89" target="_blank">资本主义</a>迅速发展、阶级矛盾日趋激化。除了农民反对地主的斗争外，出现了初期的工人运动。<a data-lemmaid="17372" href="/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E4%B8%89%E4%B8%96/17372" target="_blank">亚历山大三世</a>是在他的父亲<a data-lemmaid="2649234" href="/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E4%BA%8C%E4%B8%96/2649234" target="_blank">亚历山大二世</a>被<a href="/item/%E6%B0%91%E7%B2%B9%E6%B4%BE" target="_blank">民粹派</a>刺杀后带着恐惧的心情上台的。为了躲避谋杀，他放弃在彼得堡优雅豪华的生活，移居到加特奇那行宫，在戒备森严中胆颤心惊地过日子。因此，当时人们耻笑他为“加特奇那囚犯”。</div>
+<div class="para" label-module="para">但是，亚历山大三世却丝毫没有放松他手中的权利。相反，他一开始就宣布，他将按照“对于专制政体之力量与法理的信念”行事。出于对父亲亚历山大二世遭到刺杀的愤怒，亚历山大三世取消了自1861年以后开始的许多具有进步倾向的改革。他禁止车夫、仆役、洗衣妇、小店主的子女上中学，扼杀<a href="/item/%E5%9B%BD%E6%B0%91%E6%95%99%E8%82%B2" target="_blank">国民教育</a>，剥夺教务会议选举校长和教授的权利，取消<a href="/item/%E5%A4%A7%E5%AD%A6%E8%87%AA%E6%B2%BB" target="_blank">大学自治</a>；人民稍有反抗即施以酷刑，对革命运动实行高压政策。 亚历山大三世的开倒车做法，在尼古拉身上深深地打下烙印。</div>
+<div class="para" label-module="para">年轻时代的尼古拉，因为身体虚弱、优柔寡断，没有博得亚历山大三世的欢心。亚历山大三世没有认真考虑让他来继承自己的皇位。然而，尼古拉毕竟受过严格的教育。他会说一口流利的德语、英语和法语，也受过一定的军事训练。亚历山大三世的谋臣、<a href="/item/%E4%B8%9C%E6%AD%A3%E6%95%99" target="_blank">东正教</a>事务总管理局局长颇别多诺斯柴夫是尼古拉的私人教师，对尼古拉的思想有很大影响。 1890—1891年，亚历山大三世派尼古拉出国旅行。尼古拉经过<a href="/item/%E5%B8%8C%E8%85%8A" target="_blank">希腊</a>、<a href="/item/%E5%9F%83%E5%8F%8A" target="_blank">埃及</a>、<a href="/item/%E5%8D%B0%E5%BA%A6" target="_blank">印度</a>、<a data-lemmaid="111617" href="/item/%E6%97%A5%E6%9C%AC/111617" target="_blank">日本</a>和<a data-lemmaid="1122445" href="/item/%E4%B8%AD%E5%9B%BD/1122445" target="_blank">中国</a>，再从<a data-lemmaid="63915" href="/item/%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9A/63915" target="_blank">西伯利亚</a>返回。其间曾在日本<a href="/item/%E5%A4%A7%E6%B4%A5" target="_blank">大津</a>被刺伤（<a href="/item/%E5%A4%A7%E6%B4%A5%E4%BA%8B%E4%BB%B6" target="_blank">大津事件</a>）。他是俄国皇帝中第一个到过亚洲的人。</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/199897/377adab44aed2e73508780328501a18b87d6fa46?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:159px;" target="_blank" title="尼古拉二世">
+<div class="album-wrap" style="width:157px;height:220px;">
+<img alt="尼古拉二世" class="picture" src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=d2779836952bd40746c7d4ff4b899e9c/377adab44aed2e73508780328501a18b87d6fa46.jpg" style="width:157px;height:220px;"/>
+</div>
+<div class="description">
+尼古拉二世<span class="number">(7张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:151px;"></div>
+<div class="albumBgSec" style="width:145px;"></div>
+</div>
+</a>
+1894年10月20日，亚历山大三世逝世。尼古拉二世继位。颇别多诺斯柴夫曾担心，年轻而缺乏经验的尼古拉二世会受到有损于<a href="/item/%E4%B8%93%E5%88%B6%E5%88%B6%E5%BA%A6" target="_blank">专制制度</a>的“恶势力”所包围。他继续扶持尼古拉二世，直到1905年。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_5080636"> </a>
+</div>
+<div class="para" label-module="para">1894年11月14日，尼古拉二世结婚。婚礼是在<a data-lemmaid="1138088" href="/item/%E5%86%AC%E5%AE%AB/1138088" target="_blank">冬宫</a>举行的。由于服丧的关系，没有举行什么隆重的仪式。皇后是德国<a href="/item/%E9%BB%91%E6%A3%AE" target="_blank">黑森</a>一<a href="/item/%E8%BE%BE%E5%A7%86%E6%96%BD%E5%A1%94%E7%89%B9" target="_blank">达姆施塔特</a>大公爵<a href="/item/%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C%E5%9B%9B%E4%B8%96" target="_blank">路德维希四世</a>的女儿，名叫阿里克斯，婚后改名<a data-lemmaid="3940447" href="/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E6%8B%89%C2%B7%E8%B4%B9%E5%A5%A5%E5%A4%9A%E8%90%9D%E8%8A%99%E5%A8%9C/3940447" target="_blank">亚历山德拉·费奥多萝芙娜</a>。她是一个玩弄权术、歇斯底里般的女人。她倔强、任性，在一定程度上对尼古拉二世起着举足轻重的作用。难怪乎尼古拉二世曾称皇后为“我绝对信任的人。”</div>
+<div class="para" label-module="para">尼古拉二世统治时，正是俄国从<a data-lemmaid="87961" href="/item/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/87961" target="_blank">资本主义</a>进入<a data-lemmaid="1106449" href="/item/%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89/1106449" target="_blank">帝国主义</a>，阶级矛盾十分尖锐。沙皇制度已变得更加腐朽了。尼古拉二世继承亚历山大三世的反动衣钵，在其统治的初年，就制造了一场血腥的灾难。1896年5月18日，尼古拉二世加冕。在<a data-lemmaid="5522" href="/item/%E8%8E%AB%E6%96%AF%E7%A7%91/5522" target="_blank">莫斯科</a>郊外贺登广场举行了盛大的游园活动。广场摆着马戏场和各种摊子。人们听说按照传统的习惯，沙皇将给群众分礼物，于是，许多人纷纷拥到贺登广场。在约九平方公里的地里集中了50万以上的人。广场凹凸不平，有不少坑洼、沟渠，政府又没有采取任何安全措施。结果，人群起哄，后面的人挤了前面的人，挤死两千人，挤伤几万人。人们把这场灾难叫做“贺登卡”（贺登灾难）。灾难发生后，尼古拉二世和皇后亚历山德拉依然在当天晚上出席舞会，寻欢作乐，好象未曾有什么事故似的。 后来因皇太子阿列克谢患有<a href="/item/%E8%A1%80%E5%8F%8B%E7%97%85" target="_blank">血友病</a>，沙皇的多数时间隐居在圣彼得堡的皇村和<a data-lemmaid="10976" href="/item/%E9%BB%91%E6%B5%B7/10976" target="_blank">黑海</a>的利瓦吉亚宫，与家人待在一起。</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-center" style="width:500px; margin: 0px auto; clear: both; display: block; float: none;">
+<a class="image-link" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/0/78310a55b319ebc473cb743c8326cffc1f1716e7?fr=lemma&amp;ct=single" nslog-type="9317" style="width:500px;height:375px;" target="_blank" title="尼古拉的婚礼">
+<img alt="尼古拉的婚礼" class="lazy-img" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=56cbe11dd53f8794d7ff482ee21a0ead/78310a55b319ebc473cb743c8326cffc1f1716e7.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:500px;height:375px;"/>
+</a>
+<span class="description">
+尼古拉的婚礼
+</span>
+</div></div>
+<div class="para" label-module="para">尼古拉二世登基的时代，正是一个风起云涌的变革时期。从19世纪末起，以重工业为中心的俄罗斯<a href="/item/%E5%B7%A5%E4%B8%9A%E4%BD%93%E7%B3%BB" target="_blank">工业体系</a>得到完善，尼古拉二世的资本主义改革造成了俄国国内不小的社会矛盾。而俄国国内贫富差距扩大，大量农民破产，社会矛盾激化。面对这些情况，他从维护统治的角度出发，继续对内改革，对外扩张。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/0/bd3eb13533fa828bd42a9625fd1f4134960a5aee?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:148px;" target="_blank" title="1891年访问日本">
+<img alt="1891年访问日本" class="lazy-img" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ca3a451a54e736d15c138b0aab514ffc/bd3eb13533fa828bd42a9625fd1f4134960a5aee.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:148px;"/>
+</a>
+<span class="description">
+1891年访问日本
+</span>
+</div></div>
+<div class="para" label-module="para">尼古拉二世即位后，地方自治局沙皇政府的县和州的管理机关的自由派曾希望新的统治者给予一个机会来缓和<a data-lemmaid="1142968" href="/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E4%B8%89%E4%B8%96/1142968" target="_blank">亚历山大三世</a>统治时期沙皇制度和人民之间的矛盾。但是，尼古拉二世对自由派这种温和的请求完全置之不理。1895年，在接见地方自治局的自由派代表时，尼古拉二世训斥道：“地方自治局代表中竟有些人在胡思乱想，认为地方自治局代表要参加国家行政管理。希望大家都知道，我要坚定不移地保持专制制度的原则，就如同我那不能令人忘怀的先父一样”。</div>
+<div class="para" label-module="para">尼古拉二世继续留用大部分亚历山大三世统治时期的大臣、官吏。除了颇别多诺斯柴夫外，还有维亚切斯拉夫·普列维（曾任内务大臣）、<a href="/item/%E8%B0%A2%E5%B0%94%E7%9B%96%C2%B7%E7%BB%B4%E7%89%B9" target="_blank">谢尔盖·维特</a>（曾任财政大臣、内阁首相）等，作为他保证继续推行反动政策所必需的驯服奴才。</div>
+<div class="para" label-module="para">1904年12月，位于<a data-lemmaid="6447" href="/item/%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1/6447" target="_blank">圣彼得堡</a>的普梯洛夫工厂（俄语：Путиловский завод，拉丁语：Putilovsky Zavod）发生罢工，圣彼得堡各界认同罢工的民众不断增加，罢工人数攀升至八万人。1905年1月22日（<a href="/item/%E5%84%92%E7%95%A5%E5%8E%86" target="_blank">儒略历</a>1月9日）清早，东正教神职人员盖庞神父（又译作加邦神父或葛朋神父）带领一个为数约三万人的工人组织到冬宫外广场和平示威，目的是向沙皇递交请愿书，以表达劳工阶层与社会底层人民的困苦，与遭受到的欺压，请求沙皇进行社会改革与终止<a href="/item/%E6%97%A5%E4%BF%84%E6%88%98%E4%BA%89" target="_blank">日俄战争</a>，并期望不要有超时的工作与合理的待遇。</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/0/fab3ac11e59d6a39cb80c473?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:113px;" target="_blank" title="流血的星期日">
+<img alt="流血的星期日" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=3a86b4411d950a7b713549c63ad0625c/500fd9f9d72a605953a30e6d2834349b033bba12.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:113px;"/>
+</a>
+<span class="description">
+流血的星期日
+</span>
+</div>尼古拉二世从1月8日起已移居在皇村，和平示威当天不在冬宫，当时负责守护宫庭的武装士兵，列阵与示威群众对峙，而聚集的民众已渐渐增加到二十万人，大家手拿着圣像、沙皇图像，唱着圣诗与爱国歌曲，士兵后来对空鸣枪示警，不久之后便向群众射击，民众在惊慌中逃亡而争相推挤，盖庞神父也在混乱中身亡。官方宣称伤亡人数为96人死333人受伤，反对势力宣称死亡人数超过4,000人，保守估计约1,000人伤亡。</div>
+<div class="para" label-module="para">值得一提的是，<a data-lemmaid="7372" href="/item/%E6%B2%99%E7%9A%87/7372" target="_blank">沙皇</a>本人并没有下令对民众们开枪。</div>
+<div class="para" label-module="para">1905年10月，在全俄总政治罢工高潮中，尼古拉二世被迫让步签署10月17日宣言，答应“赐给”公民人身不可侵犯、信仰、言论、集会、<a href="/item/%E7%BB%93%E7%A4%BE%E8%87%AA%E7%94%B1" target="_blank">结社自由</a>；召开立法性的<a href="/item/%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC" target="_blank">国家杜马</a>（代表会议，类似议会），不经国家杜马同意，任何法律无效。但是，签署宣言的墨迹未干，尼古拉二世就派遣讨伐队，到处枪杀革命者，鼓励黑帮蹂躏<a href="/item/%E7%8A%B9%E5%A4%AA%E4%BA%BA" target="_blank">犹太人</a>。1905年12月，尼古拉二世把大量军队从彼得堡调到莫斯科，残酷地镇压了莫斯科武装起义。12月武装起义失败后，由于革命尚未消失，尼古拉二世被迫召开国家杜马。当感到杜马并不驯服时，他解散了第一届杜马。1907年6月3日，他又解散第二届杜马，并颁布进一步剥夺工农群众政治权利、保证地主、<a href="/item/%E8%B5%84%E6%9C%AC%E5%AE%B6" target="_blank">资本家</a>和黑帮政党（反动保皇的组织）及其党羽在杜马中居稳定多数的选举法。这样，尼古拉二世彻底地背弃了10月17日宣言中所宣布的未经杜马同意、不颁布法律的冠冕堂皇的一切诺言。为了缓解国内矛盾，尼古拉任命斯托雷平进行大刀阔斧地改革，勉强使沙俄渡过了生存危机。</div>
+<div class="para" label-module="para">尼古拉二世积极推行军事封建的帝国主义政策、疯狂地对外侵略扩张。 还在<a data-lemmaid="6918610" href="/item/%E8%BF%9C%E4%B8%9C/6918610" target="_blank">远东</a>之行时，中国和朝鲜的领土与财富已为皇太子尼古拉所垂涎。九十年代，俄国开始修筑横贯<a href="/item/%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9A%E5%A4%A7%E9%93%81%E8%B7%AF" target="_blank">西伯利亚大铁路</a>。尼古拉为这条铁道奠基，并当了修筑这条铁道的名义监督。这表明他企图通过铁路加强对中国东北和朝鲜的控制、在远东争夺霸权的迫切心情。登上皇位后，他更是野心勃勃。他已经是“全俄皇帝和专制君主，兼波兰国王、芬兰大公等等”，却还梦想给自己再加上“中国皇帝”、“日本天皇”等等称号。</div>
+<div class="para" label-module="para">1895年他与德皇<a data-lemmaid="2731987" href="/item/%E5%A8%81%E5%BB%89%E4%BA%8C%E4%B8%96/2731987" target="_blank">威廉二世</a>干涉日本归还<a href="/item/%E8%BE%BD%E4%B8%9C%E5%8D%8A%E5%B2%9B" target="_blank">辽东半岛</a>（<a href="/item/%E4%B8%89%E5%9B%BD%E5%B9%B2%E6%B6%89%E8%BF%98%E8%BE%BD" target="_blank">三国干涉还辽</a>）。 1896年尼古拉二世加冕时，俄国示意<a href="/item/%E6%B8%85%E6%94%BF%E5%BA%9C" target="_blank">清政府</a>派<a data-lemmaid="28575" href="/item/%E6%9D%8E%E9%B8%BF%E7%AB%A0/28575" target="_blank">李鸿章</a>前去庆贺。尼古拉二世与李鸿章密谈。接着，沙皇政府以300万<a data-lemmaid="1883" href="/item/%E5%8D%A2%E5%B8%83/1883" target="_blank">卢布</a>的巨款贿赂李鸿章出卖中国的主权。 6月3日，在莫斯科签订了“<a href="/item/%E4%B8%AD%E4%BF%84%E5%AF%86%E7%BA%A6" target="_blank">中俄密约</a>”。按照这个密约，俄国以帮助中国抵抗日本为借口，企图使清政府接受自己的控制；俄国军舰取得驶进中国任何口岸的权利；俄国取得在黑龙江、吉林修筑铁路（<a data-lemmaid="7978200" href="/item/%E4%B8%AD%E4%B8%9C%E9%93%81%E8%B7%AF/7978200" target="_blank">中东铁路</a>）的权利。以后，俄国又在中国修筑<a href="/item/%E5%8D%97%E6%BB%A1%E9%93%81%E8%B7%AF" target="_blank">南满铁路</a>，强行租借旅顺、大连。这样，整个中国东北成了俄国的势力范围。</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/199898/0d338744ebf81a4c1219da96d12a6059252da641?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:188px;" target="_blank" title="尼古拉二世">
+<div class="album-wrap" style="width:186px;height:220px;">
+<img alt="尼古拉二世" class="picture" src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=5c26ea4bbe99a9013f355c342d950a58/0d338744ebf81a4c1219da96d12a6059252da641.jpg" style="width:186px;height:220px;"/>
+</div>
+<div class="description">
+尼古拉二世<span class="number">(12张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:180px;"></div>
+<div class="albumBgSec" style="width:174px;"></div>
+</div>
+</a>
+1900年，俄国参加<a data-lemmaid="84401" href="/item/%E5%85%AB%E5%9B%BD%E8%81%94%E5%86%9B/84401" target="_blank">八国联军</a>，绞杀中国<a href="/item/%E4%B9%89%E5%92%8C%E5%9B%A2" target="_blank">义和团</a>的反帝爱国斗争，并乘机占据中国东北。尼古拉二世曾给俄国侵略军指示：“我们不能半途而废，我国的军队应在满洲由北向南通过”。 随着侵略活动的进行，尼古拉二世的胃口日益膨胀。1903年2月16日，俄国陆军大臣<a href="/item/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%E8%80%B6%E7%BB%B4%E5%A5%87%C2%B7%E5%BA%93%E7%BD%97%E5%B8%95%E7%89%B9%E9%87%91" target="_blank">阿列克谢·尼古拉耶维奇·库罗帕特金</a>在日记中写道：“我们皇上的脑袋中有宏大的计划：为俄国夺取满洲，把东北并入俄国，还想把西藏并入本国。要夺取<a data-lemmaid="157194" href="/item/%E6%B3%A2%E6%96%AF/157194" target="_blank">波斯</a>，不仅要占博斯普鲁斯，还要占<a href="/item/%E8%BE%BE%E8%BE%BE%E5%B0%BC%E5%B0%94" target="_blank">达达尼尔</a>。”这充分地暴露了尼古拉二世的狂妄野心。尼古拉二世还同德国皇帝一唱一和，别有用心地宣扬”<a href="/item/%E9%BB%84%E7%A5%B8%E8%AE%BA" target="_blank">黄祸论</a>”。 为实现尼古拉二世的掠夺计划，1904—1905年，俄国同日本在中国东北进行了<a href="/item/%E6%97%A5%E4%BF%84%E6%88%98%E4%BA%89" target="_blank">日俄战争</a>。俄国在这场战争中遭到惨败，<a data-lemmaid="84095" href="/item/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%88%B0%E9%98%9F/84095" target="_blank">太平洋舰队</a>全军覆没。但它仍不甘罢休，继续准备更大规模的军事冒险。</div>
+<div class="para" label-module="para">俄法两国在1893年已经签订了<a href="/item/%E5%86%9B%E4%BA%8B%E5%8D%8F%E5%AE%9A" target="_blank">军事协定</a>。二十世纪初，由于英德矛盾尖锐化，德国曾企图拉拢俄国。1904年，德皇威廉二世向尼古拉二世提议建立反英同盟，并把法国拉进来。尼古拉复电威廉，表示同意，但认为必须先得到法国的赞同。威廉对此大为不满，埋怨尼古拉“被法国佬吓得出一身冷汗”， “欠了法国佬的债，所以也就变得太没有骨气了。”1905年7月，威廉二世利用沙皇政府因国内革命高涨和对日战争失利所处的困境，再次提议德俄结盟。两国皇帝在芬兰的比约克岛上签订了反英同盟条约。对尼古拉二世来说，这是轻率的决定。他的大臣们为之手足失措，因为这就意味着俄国将摆脱对法国的依赖，并加剧同英国的冲突，不能从巴黎和伦敦得到俄国所急需的借款。尼古拉二世只好写信告诉德皇：在同法国谈判以前，条约不应生效。从此，俄国加紧同法英国勾结。1907年，英俄协定签订，形成了英、法、俄<a href="/item/%E5%8D%8F%E7%BA%A6%E5%9B%BD" target="_blank">协约国</a>帝国主义集团，同德奥<a data-lemmaid="5873" href="/item/%E5%90%8C%E7%9B%9F%E5%9B%BD/5873" target="_blank">同盟国</a>帝国主义集团对峙。</div>
+<div class="para" label-module="para">1914年，俄国参加第一次世界大战。它企图从<a href="/item/%E5%A5%A5%E6%96%AF%E6%9B%BC%E5%B8%9D%E5%9B%BD" target="_blank">奥斯曼帝国</a>手里夺取<a href="/item/%E9%BB%91%E6%B5%B7%E6%B5%B7%E5%B3%A1" target="_blank">黑海海峡</a>、<a data-lemmaid="218602" href="/item/%E5%90%9B%E5%A3%AB%E5%9D%A6%E4%B8%81%E5%A0%A1/218602" target="_blank">君士坦丁堡</a>和土属<a href="/item/%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A" target="_blank">亚美尼亚</a>，从<a href="/item/%E5%A5%A5%E5%8C%88%E5%B8%9D%E5%9B%BD" target="_blank">奥匈帝国</a>手里夺取加里西亚。和一切帝国主义者常常用和平的谎言来掩盖自己的侵略阴谋和发动战争的准备一样，尼古拉二世在第一次世界大战前，不但把自己打扮成和平的维护者，而且把自己打扮成世界和平的倡议者。他曾先后两次（1899、1907）主持了<a data-lemmaid="84791" href="/item/%E6%B5%B7%E7%89%99/84791" target="_blank">海牙</a>国际和平会议。但是，尼古拉二世一面高唱和平、裁军， 鼓吹“寻求防止威胁整个世界的灾难的途径”；一面加紧制定侵略战争计划，扩充军备，终于成为发动第一次世界大战的罪魁之一。尼古拉二世签署了战争的动员令，并在1915年解除了颇有才干的皇叔<a href="/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%E8%80%B6%E7%BB%B4%E5%A5%87" target="_blank">尼古拉·尼古拉耶维奇</a>大公的职务，亲自担任俄军最高总司令，把俄国推进罪恶的帝国主义战争之中。由于战况不利、粮食困难等原因，激起人民的不满。1917年，<a data-lemmaid="30258" href="/item/%E5%88%97%E5%AE%81/30258" target="_blank">列宁</a>从<a href="/item/%E7%91%9E%E5%A3%AB" target="_blank">瑞士</a>回到俄国，领导革命，以使俄国退出战争。1917年3月，首都圣彼得堡市民发动反饥饿游行，引发二月革命。</div>
+<div class="para" label-module="para">尼古拉二世是一个平庸的君主。他认为他的君权是“天赐”的，而他个人只须对上帝负责。他不喜欢同臣民有密切的接触，更妒忌那些出色的、有能力的、有主见的大臣，因为他知道，他们的智慧居于自己之上，总是担心有朝一日大臣们要夺走他的君权。所以，尼古拉二世逐步抛弃了当初为他效劳的大臣。一些敷衍塞责的、但又善于阿谀奉承的人却得到他的信任。这种人向他反映某些虚假的情况，往往比官方的报告，更容易得到他的称赞。于是，各色各样的骗子、冒险家，利用尼古拉二世的昏庸、无知，都混迹沙皇朝廷。最大的骗子是拉斯普廷。拉斯普廷本是西伯利亚一个农民，经过几年流浪生活后，以曾经受过秘密传授医道训练的僧侣出现，并冒充“预言家”，到处招摇撞骗。1905年，他被引进沙皇朝廷，得到亚历山德拉和尼古拉二世的宠信。亚历山德拉把他看成是上帝派来拯救皇位和扶持俄国的圣人，看成是保持对专制制度虔诚的庶民的化身。对拉斯普廷的丑事，亚历山德拉亦视而不见，听而不闻。当时在沙皇朝廷，如果有人敢直率地讲出拉斯普廷的坏话，一定会惹起亚历山德拉的不快。于是，拉斯普廷日渐得势。在尼古拉二世统治的末年，特别是1915年他主持前线指挥后，以拉斯普廷为首的沙皇朝庭内的狐群狗党在手中掌握了皇室的极大权力，直到任免内阁首相、大臣、给投机商人发放许可证。在拉斯普廷及其党羽的操纵下，整个国家机构瘫痪无力。充分暴露了沙皇制度的全部腐败和丑恶。</div>
+<div class="para" label-module="para">尼古拉二世腐败的统治，激起俄国人民不断起来进行革命斗争。从1915年开始，俄国<div class="lemma-picture text-pic layout-right" style="width:137px; float: right;">
+<a class="image-link" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/0/aa18972bd40735fae6969ab29f510fb30f240852?fr=lemma&amp;ct=single" nslog-type="9317" style="width:137px;height:220px;" target="_blank" title="尼古拉二世的退位诏书">
+<img alt="尼古拉二世的退位诏书" class="lazy-img" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=82d04725a9d3fd1f3209a538004f25ce/aa18972bd40735fae6969ab29f510fb30f240852.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:137px;height:220px;"/>
+</a>
+<span class="description">
+尼古拉二世的退位诏书
+</span>
+</div>革命运动因战争而重新发展起来。在统治阶级内部，内斗愈演愈烈。朝廷内外，丑闻百出。亚历山德拉甚至被怀疑是德国的间谍。朝廷内部也有人在酝酿废黜尼古拉二世，另立沙皇。拉斯普廷成为尼古拉二世的替罪羊，于1916年被暗杀。刺客并非革命党人，恰恰是一伙企图挽救专制制度的贵族。尼古拉二世及其宠臣于是策划同德国单独媾和，以便腾出手来，扑灭革命，稳定国内局势。但是，二月革命的爆发，彻底粉碎了沙皇制度。</div>
+<div class="para" label-module="para">1917年初，俄国革命时机已经成熟。在<a href="/item/%E5%BD%BC%E5%BE%97%E6%A0%BC%E5%8B%92" target="_blank">彼得格勒</a>，罢工运动迅猛展开。2月25日，罢工开始发展为武装起义。尼古拉二世慌了手脚，连忙诏令彼得格勒军区司令哈巴洛夫：“着令于明日，将京都骚乱悉行制止”。于是，在屋顶和角楼架起了机关枪，向示威的群众射击。但是，沙皇的血腥镇压只能促进人民更广泛更剧烈的革命。军队受到革命的感召，先后转到起义人民方面。 2月27日，<a href="/item/%E5%BD%BC%E5%BE%97%E6%A0%BC%E5%8B%92%E6%AD%A6%E8%A3%85%E8%B5%B7%E4%B9%89" target="_blank">彼得格勒武装起义</a>胜利。沙皇失去了军部、官僚和资本家的支持。 3月2日，尼古拉二世被迫退位。想传位给弟弟米哈伊尔大公，但是遭到他的拒绝，于是罗曼诺夫王朝灭亡。</div>
+<div class="para" label-module="para">从1917年3月9日到8月14日，尼古拉二世及其家人被软禁在沙皇村的亚历山大皇宫<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/0/0b46f21fbe096b6392d08a5b0d338744eaf8acf4?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:128px;" target="_blank" title="尼古拉二世的日记">
+<img alt="尼古拉二世的日记" class="lazy-img" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=c57f66ed267f9e2f74351a0a2f31e962/0b46f21fbe096b6392d08a5b0d338744eaf8acf4.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:128px;"/>
+</a>
+<span class="description">
+尼古拉二世的日记
+</span>
+</div>。当时的政府或许曾经尝试为皇室建立符合皇家地位的生活环境，然而由于政府缺乏实权，理想无法落实。</div>
+<div class="para" label-module="para">此时在彼得格勒革命活动如火如荼，临时议会担心皇室囚犯的安危，决定将他们迁往俄国内地。经过多时的辩论，确定他们的居住城市是<a href="/item/%E6%89%98%E5%8D%9A%E5%B0%94%E6%96%AF%E5%85%8B" target="_blank">托博尔斯克</a>，罗曼诺夫一家便迁往该地。他们被允许从皇宫带走必须的家具、私人物品，以及自愿随行并伺候他们的侍从。出发前夕，临时政府总理<a href="/item/%E5%85%8B%E4%BC%A6%E6%96%AF%E5%9F%BA" target="_blank">克伦斯基</a>携同前沙皇的兄弟米哈伊尔騠虎煓德拉维奇来访，兄弟俩最后一次见面、交谈，从此以后再也无缘重逢。米哈伊尔騠虎煓德拉维奇被发送到<a data-lemmaid="70358" href="/item/%E5%BD%BC%E5%B0%94%E5%A7%86/70358" target="_blank">彼尔姆</a>，1918年6月12～13日夜里被地方当局杀死。</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/18266996/72f082025aafa40fa12cfa82ad64034f79f01982?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:169px;" target="_blank" title="尼古拉二世和表兄英国国王乔治五世合影">
+<div class="album-wrap" style="width:167px;height:220px;">
+<img alt="尼古拉二世和表兄英国国王乔治五世合影" class="picture" src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=9a183aa8993df8dca23d8893fd1072bf/72f082025aafa40fa12cfa82ad64034f79f01982.jpg" style="width:167px;height:220px;"/>
+</div>
+<div class="description">
+尼古拉二世和表兄英国国王乔治五世合影<span class="number">(4张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:161px;"></div>
+<div class="albumBgSec" style="width:155px;"></div>
+</div>
+</a>
+1917年3月8日，在<a data-lemmaid="6447" href="/item/%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1/6447" target="_blank">圣彼得堡</a>工人和士兵的要求下，资产阶级临时政府不得不将尼古拉二世及其家属逮捕，禁于皇村。临时政府曾准备把他们送到英国，投奔沙皇的表兄英国国王<a data-lemmaid="943240" href="/item/%E4%B9%94%E6%B2%BB%E4%BA%94%E4%B8%96/943240" target="_blank">乔治五世</a>，<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_5080636"> </a>
+<a data-lemmaid="8319981" href="/item/%E8%8B%B1%E5%9B%BD%E8%AE%AE%E4%BC%9A/8319981" target="_blank">英国议会</a>也已经批准，但乔治五世出于自身利益的考虑，害怕引发政治危机甚至革命（当时英国工会同情布尔什维克）<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_5080636"> </a>
+，从而拒绝，没有成功。以后，尼古拉二世全家被转移到<a data-lemmaid="63915" href="/item/%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9A/63915" target="_blank">西伯利亚</a>的托博尔斯克，十月革命后又被转移到<a href="/item/%E5%8F%B6%E5%8D%A1%E6%8D%B7%E7%90%B3%E5%A0%A1" target="_blank">叶卡捷琳堡</a>，关押在商人伊帕季耶夫的寓所。<sup class="sup--normal" data-ctrmap=":5," data-sup="5">
+[5]</sup><a class="sup-anchor" name="ref_[5]_5080636"> </a>
+1918年7月16日深夜或7月17日凌晨，尼古拉二世家族包括和他们在一起的仆人近10人被看管他们的<a href="/item/%E5%B8%83%E5%B0%94%E4%BB%80%E7%BB%B4%E5%85%8B" target="_blank">布尔什维克</a>秘密警察赶到地下室，使用机关枪扫射集体处决。他们的尸体被浇上硫酸和汽油销毁，残余骨渣被埋藏在叶卡捷琳堡地区的一个废弃洞穴中。那年，尼古拉二世50岁，他妻子46岁，儿子阿列克谢14岁，大女儿奥尔加23岁，二女儿塔季娅娜21岁，三女儿玛利娅19岁，小女儿阿纳斯塔西娅17岁。</div>
+<div class="para" label-module="para">除此之外，沙皇家族的其他人也纷纷被逮捕和转移。算得上幸运的，是尼古拉二世的母亲玛利娅·费奥多罗芙娜辗转回到了自己的故国丹麦。罗曼诺夫家族有个别的血脉到了国外，但尼古拉二世一脉没有幸存下的人。末代沙皇的乱世情仇就这样在俄罗斯无产阶级凯歌行进的号声和“红色革命”的枪声中结束了。</div>
+<div class="para" label-module="para">关于杀害沙皇一家，有两种说法。一种说法是，这是叶卡捷林堡的地方政权自作主张，政权最高当局坚持这一说法；另一种说法是，对沙皇一家执行死刑是奉莫斯科的命令行事的，坚持这一说法的是参与这一行动的“<a href="/item/%E5%A5%91%E5%8D%A1" target="_blank">契卡</a>”人员。不过，有一点是肯定的，在沙皇一家被处决后，<a href="/item/%E8%8B%8F%E7%BB%B4%E5%9F%83" target="_blank">苏维埃</a>中央机构确认了这次行动。1918年7月18日，全俄中央执行委员会主席团召开会议讨论了此事，随后作出的决议是：全俄中央执行委员会“认为这一决定是无条件正确的”。7月23日，《<a href="/item/%E4%B9%8C%E6%8B%89%E5%B0%94" target="_blank">乌拉尔</a>工人报》发表了如下消息：“7月16～17日夜间，根据乌拉尔州工人、农民和红军士兵苏维埃的决议，枪决了前沙皇尼古拉·罗曼诺夫。这个带着皇冠的刽子手利用革命的仁慈，活得太久了。”</div>
+<div class="para" label-module="para"><a href="/item/%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93" target="_blank">苏联解体</a>后，一切都变了样，沙皇一家的遗体被重新找到，并经DNA检测得到确认。只有皇储阿列克谢和玛丽亚的遗体未被发现。1998年，根据俄罗斯总统<a href="/item/%E5%8F%B6%E5%88%A9%E9%92%A6" target="_blank">叶利钦</a>的命令，沙皇一家的遗体被隆重安葬在圣彼得堡的彼得-保罗要塞教堂中。2000年，尼古拉二世全家被俄罗斯东正教会追封为殉教圣徒。2007年夏天，研究者在叶卡捷琳堡附近的<a href="/item/%E4%B9%8C%E6%8B%89%E5%B0%94%E5%B1%B1%E8%84%89" target="_blank">乌拉尔山脉</a>的森林中发现了一些遗骸，并送往俄罗斯、<a href="/item/%E5%A5%A5%E5%9C%B0%E5%88%A9" target="_blank">奥地利</a>和美国的实验室进行DNA检测。2008年6月，俄罗斯总检察长办公室下属调查委员会发言人弗拉基米尔·马尔金在一份声明中说，检测证明这些最新找到的遗骸正是沙皇子女的遗骸。声明列出了迄今为止收集的详尽资料，包括弹道、牙齿、化学元素分析等检测结果。悲剧终于画上了一个句号，一切传言到此似乎也将停止，但是他们为什么没有和沙皇埋葬在一起，似乎已成为永久的迷团……。</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/0/7a899e510fb30f24ebd4e7c5c895d143ac4b03ad?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:146px;" target="_blank" title="彼得保罗大教堂内尼古拉二世的灵柩">
+<img alt="彼得保罗大教堂内尼古拉二世的灵柩" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=3e790eb8251f95caa2f595b4f9167fc5/7a899e510fb30f24ebd4e7c5c895d143ac4b03ad.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:146px;"/>
+</a>
+<span class="description">
+彼得保罗大教堂内尼古拉二世的灵柩
+</span>
+</div>2008年10月1日，俄罗斯最高法院正式为尼古拉二世平反，宣布他的家族是苏联镇压下的受害者。俄国当局正式推翻有关罗曼诺夫皇族罪有应得的观念，而此一皇族所遭指控的罪名正是九十年前布尔什维克革命以及将沙皇一家处死的重要正当性依据。最高法院发言人奥金佐夫说：“本院主席团宣布，对沙皇尼古拉二世及其家人的镇压毫无理由，并恢复他们的名誉。”</div>
+<div class="para" label-module="para">在尸检之前，人们一直怀疑皇帝的小女儿<a data-lemmaid="703743" href="/item/%E9%98%BF%E7%BA%B3%E6%96%AF%E5%A1%94%E8%A5%BF%E5%A8%85%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%E8%80%B6%E8%8A%99%E5%A8%9C%C2%B7%E7%BD%97%E6%9B%BC%E8%AF%BA%E5%A8%83/703743" target="_blank">阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃</a>是否真的死于那场<a href="/item/%E8%B0%8B" target="_blank">谋</a>杀，因此才会<a data-lemmaid="34161" href="/item/%E6%9C%89/34161" target="_blank">有</a>了后来著名的电影《<a data-lemmaid="32442" href="/item/%E7%9C%9F%E5%81%87%E5%85%AC%E4%B8%BB/32442" target="_blank">真假公主</a>》和97年动画音乐剧《阿娜斯塔西娅》。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub5080636_2"></a>
+<a class="lemma-anchor" name="皇帝头衔"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">尼古拉二世</span>皇帝头衔</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/11913940/91529822720e0cf38192931b0846f21fbf09aaed?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:135px;" target="_blank" title="尼古拉二世家庭照">
+<div class="album-wrap" style="width:133px;height:220px;">
+<img alt="尼古拉二世家庭照" class="picture" src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=8ceca23d2c738bd4c021b533918a876c/91529822720e0cf38192931b0846f21fbf09aaed.jpg" style="width:133px;height:220px;"/>
+</div>
+<div class="description">
+尼古拉二世家庭照<span class="number">(21张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:127px;"></div>
+<div class="albumBgSec" style="width:121px;"></div>
+</div>
+</a>
+至1907年，俄罗斯皇帝尼古拉二世的头衔全称为：上帝保佑，全俄罗斯的皇帝；莫斯科、<a data-lemmaid="1394806" href="/item/%E5%9F%BA%E8%BE%85/1394806" target="_blank">基辅</a>、<a data-lemmaid="72676" href="/item/%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E5%B0%94/72676" target="_blank">弗拉基米尔</a>、<a href="/item/%E8%AF%BA%E5%A4%AB%E5%93%A5%E7%BD%97%E5%BE%B7" target="_blank">诺夫哥罗德</a>的沙皇和独裁者；<a href="/item/%E5%96%80%E5%B1%B1" target="_blank">喀山</a>沙皇，<a data-lemmaid="7899655" href="/item/%E9%98%BF%E6%96%AF%E7%89%B9%E6%8B%89%E7%BD%95/7899655" target="_blank">阿斯特拉罕</a>沙皇，波兰沙皇，西伯利亚沙皇，<a href="/item/%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A" target="_blank">克里米亚</a>（Tauric）和南克里米亚（Chersonesos）沙皇，<a href="/item/%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A" target="_blank">格鲁吉亚</a>沙皇；<a href="/item/%E6%99%AE%E6%96%AF%E7%A7%91%E5%A4%AB" target="_blank">普斯科夫</a>领主；<a href="/item/%E6%96%AF%E6%91%A9%E6%A3%B1%E6%96%AF%E5%85%8B" target="_blank">斯摩棱斯克</a>大公，<a href="/item/%E7%AB%8B%E9%99%B6%E5%AE%9B" target="_blank">立陶宛</a>大公，沃里尼亚（西<a href="/item/%E4%B9%8C%E5%85%8B%E5%85%B0" target="_blank">乌克兰</a>）大公，波多利亚（中乌克兰）大公，<a data-lemmaid="397486" href="/item/%E8%8A%AC%E5%85%B0/397486" target="_blank">芬兰</a>大公；<a href="/item/%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A" target="_blank">爱沙尼亚</a>亲王，<a href="/item/%E7%AB%8B%E7%AA%9D%E5%B0%BC%E4%BA%9A" target="_blank">立窝尼亚</a>亲王，<a href="/item/%E5%BA%93%E5%B0%94%E5%85%B0" target="_blank">库尔兰</a>和塞米加利亚（<a href="/item/%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A" target="_blank">拉脱维亚</a>）亲王，<a href="/item/%E8%90%A8%E8%8E%AB%E5%90%89%E6%8F%90%E4%BA%9A" target="_blank">萨莫吉提亚</a>（东立陶宛）亲王，<a href="/item/%E6%AF%94%E4%BA%9A%E9%9F%A6%E6%96%AF%E6%89%98%E5%85%8B" target="_blank">比亚韦斯托克</a>亲王，<a href="/item/%E5%8D%A1%E7%B4%AF%E5%88%A9%E9%98%BF" target="_blank">卡累利阿</a>亲王，<a href="/item/%E7%89%B9%E7%BB%B4%E5%B0%94" target="_blank">特维尔</a>亲王，尤格拉亲王，彼尔姆亲王，弗拉特卡亲王，<a href="/item/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A" target="_blank">保加利亚</a>以及其他领地的亲王；<a data-lemmaid="64394" href="/item/%E4%B8%8B%E8%AF%BA%E5%A4%AB%E5%93%A5%E7%BD%97%E5%BE%B7/64394" target="_blank">下诺夫哥罗德</a>、<a href="/item/%E5%88%87%E5%B0%94%E5%B0%BC%E6%88%88%E5%A4%AB" target="_blank">切尔尼戈夫</a>、<a data-lemmaid="12000676" href="/item/%E6%A2%81%E8%B5%9E/12000676" target="_blank">梁赞</a>、波罗茨克、<a href="/item/%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB" target="_blank">罗斯托夫</a>、<a href="/item/%E9%9B%85%E7%BD%97%E6%96%AF%E6%8B%89%E5%A4%AB%E5%B0%94" target="_blank">雅罗斯拉夫尔</a>、别洛热尔斯克、乌多尔、奥勃多尔、康迪亚、<a href="/item/%E7%BB%B4%E6%8D%B7%E5%B8%83%E6%96%AF%E5%85%8B" target="_blank">维捷布斯克</a>、姆斯季斯拉夫和所有北方地区的领主和大公；伊弗里亚（南<a data-lemmaid="16009816" href="/item/%E4%B9%94%E6%B2%BB%E4%BA%9A/16009816" target="_blank">乔治亚</a>）、卡提里亚（东乔治亚）、卡巴尔达和亚美尼亚所有省份的领主和君主；<a href="/item/%E5%88%87%E5%B0%94%E5%85%8B%E6%96%AF%E4%BA%BA" target="_blank">切尔克斯人</a>和山地<a href="/item/%E9%AB%98%E5%8A%A0%E7%B4%A2%E4%BA%BA" target="_blank">高加索人</a>的领主；土耳其斯坦领主；<a href="/item/%E6%8C%AA%E5%A8%81" target="_blank">挪威</a>王位继承人，什勒斯维希-<a href="/item/%E9%9C%8D%E5%B0%94%E6%96%AF%E5%9D%A6" target="_blank">霍尔斯坦</a>、斯托尔曼因、迪特马申和<a href="/item/%E5%A5%A5%E5%B0%94%E7%99%BB%E5%A0%A1" target="_blank">奥尔登堡</a>公爵，等等。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub5080636_3"></a>
+<a class="lemma-anchor" name="家庭成员"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">尼古拉二世</span>家庭成员</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_1"></a>
+<a class="lemma-anchor" name="sub5080636_3_1"></a>
+<a class="lemma-anchor" name="妻子"></a>
+<a class="lemma-anchor" name="3-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">尼古拉二世</span>妻子</h3>
+</div>
+<div class="para" label-module="para">尼古拉二世和他深爱的黑森—达姆斯塔特公主<a data-lemmaid="515463" href="/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E6%8B%89%C2%B7%E8%B4%B9%E5%A5%A5%E5%A4%9A%E7%BD%97%E8%8A%99%E5%A8%9C/515463" target="_blank">亚历山德拉·费奥多罗芙娜</a>成婚，育有多个子女。亚历山德拉·费奥多罗芙娜是个好弄权术的女人，她不甘寂寞，对政治处处干涉。作为皇帝，本该保持公正的尼古拉二世却没有对爱妻进行干预，甚至在皇储阿列克塞·尼古拉耶维奇身患血友病时，皇帝听信了皇后的话，请了一位名叫拉斯普廷的无赖来为皇储“治疗”。事实上，拉斯普廷没有什么本事，但他幸运的“运功”治好了皇储的病痛。<div class="lemma-picture text-pic layout-center" style="width:500px; margin: 0px auto; clear: both; display: block; float: none;">
+<a class="image-link" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/0/d833c895d143ad4b3692776983025aafa50f06de?fr=lemma&amp;ct=single" nslog-type="9317" style="width:500px;height:418px;" target="_blank" title="尼古拉一家">
+<img alt="尼古拉一家" class="lazy-img" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=8088cda471cf3bc7ec00cdece101babd/d833c895d143ad4b3692776983025aafa50f06de.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:500px;height:418px;"/>
+</a>
+<span class="description">
+尼古拉一家
+</span>
+</div></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_2"></a>
+<a class="lemma-anchor" name="sub5080636_3_2"></a>
+<a class="lemma-anchor" name="子女"></a>
+<a class="lemma-anchor" name="3-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">尼古拉二世</span>子女</h3>
+</div>
+<div class="para" label-module="para"><a href="/item/%E6%AC%A7%E5%98%89%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%E8%80%B6%E8%8A%99%E5%A8%9C" target="_blank">欧嘉·尼古拉耶芙娜</a>女大公（Grand Duchess Olga，1895年—1918年）<a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/15971276/a044ad345982b2b71b98af7c30adcbef76099b07?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:144px;" target="_blank" title="尼古拉二世子女">
+<div class="album-wrap" style="width:142px;height:220px;">
+<img alt="尼古拉二世子女" class="picture" src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=5b683baa730e0cf3a4f749f93a47f23d/a044ad345982b2b71b98af7c30adcbef76099b07.jpg" style="width:142px;height:220px;"/>
+</div>
+<div class="description">
+尼古拉二世子女<span class="number">(7张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:136px;"></div>
+<div class="albumBgSec" style="width:130px;"></div>
+</div>
+</a>
+</div>
+<div class="para" label-module="para"><a href="/item/%E5%A1%94%E5%AD%A3%E6%89%AC%E5%A8%9C%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%E8%80%B6%E8%8A%99%E5%A8%9C" target="_blank">塔季扬娜·尼古拉耶芙娜</a>女大公（Grand Duchess Tatiana，1897年—1918年）</div>
+<div class="para" label-module="para"><a href="/item/%E7%8E%9B%E4%B8%BD%E4%BA%9A%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%E8%80%B6%E8%8A%99%E5%A8%9C" target="_blank">玛丽亚·尼古拉耶芙娜</a>女大公（Grand Duchess Maria，1899年—1918年）</div>
+<div class="para" label-module="para"><a href="/item/%E9%98%BF%E7%BA%B3%E6%96%AF%E5%A1%94%E8%A5%BF%E5%A8%85%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%E8%80%B6%E8%8A%99%E5%A8%9C%C2%B7%E7%BD%97%E6%9B%BC%E8%AF%BA%E5%A8%83" target="_blank">阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃</a>女大公（Grand Duchess Anastasia，1901年—1918年）</div>
+<div class="para" label-module="para"><a href="/item/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%E8%80%B6%E7%BB%B4%E5%A5%87%C2%B7%E7%BD%97%E6%9B%BC%E8%AF%BA%E5%A4%AB" target="_blank">阿列克谢·尼古拉耶维奇·罗曼诺夫</a>（Tsarevich Alexei，1904年—1918年）</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="tashuo-bottom" id="tashuo_bottom">
+<div class="tashuo-bottom-title-essence">
+<img alt="" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/ta-logo-blue_5458427.png"/>
+<span>解读词条背后的知识</span>
+<a class="tashuo-more" href="/tashuo/topic?topicId=2d2e19e5204e2e104c818526&amp;fromLemmaModule=pcBottom" target="_blank">查看全部<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_arrow-right"></em></a>
+</div>
+<div class="tashuo-multiple">
+<div class="tashuo-wrapper">
+<div class="tashuo-view">
+<ul class="tashuo-slider maqueeCanvas" style="width:1968px">
+<li class="slider-item">
+<ul class="tashuo-list">
+<li class="tashuo-item J-item" data-tashuoid="446bcbc9a698b8eec344b260">
+<div class="tashuo-author">
+<a href="/usercenter/userpage?uk=39ef5053&amp;authorId=045b9b9009e372890832d820&amp;from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/6a63f6246b600c33a41cf759104c510fd9f9a13d.jpg"/></span></div>
+<div class="ta-author-slogan-area">
+<strong>历史大爆炸</strong>
+<span>著一历史草堂，与君同话春秋！</span>
+</div>
+<i></i></a>
+</div>
+<a class="cover" href="/tashuo/browse/content?id=446bcbc9a698b8eec344b260&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+<img class="cover-img" data-height="" data-width="" src="https://imgsa.baidu.com/baike/pic/item/7aec54e736d12f2ea48dc18844c2d56284356849.jpg"/>
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_543bb29.png"/></div>
+<p class="title">
+末代沙皇的悲惨命运：一家七口被秘密处决，尸骸至今无处埋葬
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=446bcbc9a698b8eec344b260&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+此前据央广网报道，早在2015年，俄罗斯东正教会就申请将王储、玛丽亚女大公遗体与尼古拉二世夫妇、姐妹合葬。在得到允许后，调查委员会重新开棺，检验王室成员的遗骸DNA来确认身份，以保证合葬的合理性。2018年是沙皇灭门100周年，末代沙皇一家，终于在百年后得以团聚。</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2018-01-05</span><span class="tashuo-like J-like" data-isvote="0"><i></i><strong class="J-number">401</strong></span>
+</div>
+</li>
+<li class="tashuo-item J-item" data-tashuoid="d44f4524bf4c56abe3205c56">
+<div class="tashuo-author">
+<a href="/usercenter/userpage?uk=7f294b0d&amp;authorId=ed96b43e3f25aa7a3aecac20&amp;from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/34fae6cd7b899e51cfb215bb49a7d933c8950d64.jpg"/></span></div>
+<div class="ta-author-slogan-area">
+<strong>米南德</strong>
+<span>一个致力于用新视角对历史进行再解读的平台</span>
+</div>
+<i></i></a>
+</div>
+<a class="cover" href="/tashuo/browse/content?id=d44f4524bf4c56abe3205c56&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+<img class="cover-img" data-height="" data-width="" src="https://imgsa.baidu.com/baike/pic/item/7e3e6709c93d70cfa16d8624f4dcd100baa12b07.jpg"/>
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_543bb29.png"/></div>
+<p class="title">
+沙皇尼古拉二世访问日本的轶事——“我想找一位日本临时妻子”
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=d44f4524bf4c56abe3205c56&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+▲乘坐人力黄包车的尼古拉王子1891年春天，这位23岁的俄罗斯王子尼古拉（未来的尼古拉二世）前往俄罗斯远东地区参加符拉迪沃斯托克的纪念活动，庆祝沙皇俄国跨西伯利亚铁路的开工。在途中（海上）他对日本进行了正式访问。俄罗斯太平洋舰队与尼古拉在鹿儿岛，然后是长崎，然后是神户。这位...</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2018-02-28</span><span class="tashuo-like J-like" data-isvote="0"><i></i><strong class="J-number">171</strong></span>
+</div>
+</li>
+<li class="tashuo-item J-item" data-tashuoid="936cd571067851d061412acf">
+<div class="tashuo-author">
+<a href="/usercenter/userpage?uk=39ef5053&amp;authorId=045b9b9009e372890832d820&amp;from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/6a63f6246b600c33a41cf759104c510fd9f9a13d.jpg"/></span></div>
+<div class="ta-author-slogan-area">
+<strong>历史大爆炸</strong>
+<span>著一历史草堂，与君同话春秋！</span>
+</div>
+<i></i></a>
+</div>
+<a class="cover" href="/tashuo/browse/content?id=936cd571067851d061412acf&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+<img class="cover-img" data-height="" data-width="" src="https://imgsa.baidu.com/baike/pic/item/b17eca8065380cd71e78589daa44ad3459828158.jpg"/>
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_543bb29.png"/></div>
+<p class="title">
+历史上的契卡有多恐怖？处决数百万人，沙皇一家也在其列
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=936cd571067851d061412acf&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+据契卡的官方档案统计，1918-1920年间，有12733人被处死。这个统计只是总数的一部分，不包括契卡在各地的分支机构的行动。不同学者的研究表明，1917-1922年间，被“契卡”绞死和枪决的人数达到数十万至数百万人之多。</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2017-10-04</span><span class="tashuo-like J-like" data-isvote="0"><i></i><strong class="J-number">137</strong></span>
+</div>
+</li>
+<li class="tashuo-item J-item" data-tashuoid="f483ebd14d1665d63610c613">
+<div class="tashuo-author">
+<a href="/usercenter/userpage?uk=6dc685a6&amp;authorId=ec9f5e1cf126d7a4d5d74a23&amp;from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/728da9773912b31bd48f6f3a8818367adbb4e1c6.jpg"/></span></div>
+<div class="ta-author-slogan-area">
+<strong>松风阁书法日讲</strong>
+<span>解读艺术理论 读懂书画艺术</span>
+</div>
+<i></i></a>
+</div>
+<a class="cover" href="/tashuo/browse/content?id=f483ebd14d1665d63610c613&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+<img class="cover-img" data-height="" data-width="" src="https://imgsa.baidu.com/baike/pic/item/d4628535e5dde71188181597a9efce1b9c16618c.jpg"/>
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_543bb29.png"/></div>
+<p class="title">
+托尔斯泰、尼古拉二世和托克维尔：漫谈19世纪俄国文艺的陨落
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=f483ebd14d1665d63610c613&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+
+1889年，沙皇俄国最伟大的文学家列夫托尔斯泰的妻子索菲娅·别尔斯，见到了俄国最高统治者沙皇尼古拉二世，这位被称作“血腥的尼古拉”的俄国最后一位皇帝接见了她。别尔斯此行的目的，其实是为了丈夫的一本书来求情，这本书，知道的人不多，因为当时托尔斯泰给这本书定价极高，高到了普通...</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2019-04-11</span><span class="tashuo-like J-like" data-isvote="0"><i></i><strong class="J-number">111</strong></span>
+</div>
+</li>
+</ul>
+</li>
+<li class="slider-item">
+<ul class="tashuo-list">
+<li class="tashuo-item J-item" data-tashuoid="d44f4524bf8056abe2205c1a">
+<div class="tashuo-author">
+<a href="/usercenter/userpage?uk=e4c83423&amp;authorId=7aefb4f409b55877f2dc7520&amp;from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/0ff41bd5ad6eddc4d8d9c50233dbb6fd52663308.jpg"/></span></div>
+<div class="ta-author-slogan-area">
+<strong>国家人文历史</strong>
+<span>极好的历史杂志</span>
+</div>
+<i></i></a>
+</div>
+<a class="cover" href="/tashuo/browse/content?id=d44f4524bf8056abe2205c1a&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+<img class="cover-img" data-height="" data-width="" src="https://imgsa.baidu.com/baike/pic/item/3bf33a87e950352af47633d95943fbf2b3118bcf.jpg"/>
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_543bb29.png"/></div>
+<p class="title">
+苏俄用50万平方公里领土换“和平”，国内陷入血雨腥风的内战
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=d44f4524bf8056abe2205c1a&amp;lemmaId=2191&amp;fromLemmaModule=pcBottom" target="_blank">
+高尔察克，他一度成立了集反布尔什维克势力之大成的“全俄临时政府”，麾下的军队无限接近推翻苏维埃，建立起他的统治。最终，由于他本人政治上的弱点，以及对手出色的发挥，这位海军上将最终兵败身死，成为了苏俄内战中又一个悲剧牺牲。</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2017-08-17</span><span class="tashuo-like J-like" data-isvote="0"><i></i><strong class="J-number">90</strong></span>
+</div>
+</li>
+</ul>
+</li>
+</ul></div>
+<div class="tashuo-bottom-pager"></div>
+</div>
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a class="anchor-2" name="rs_5080636_5684"></a>
+<div class="rslazy rs-container" id="rs-container-5080636-5684" lazy-init="lemmars.tableAction(baidu.g('rs-5080636-5684'))"></div>
+<a class="anchor-2" name="rs_5080636_5687"></a>
+<div class="rslazy rs-container" id="rs-container-5080636-5687" lazy-init="lemmars.tableAction(baidu.g('rs-5080636-5687'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":5684,"fentryTableName":"\u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6218\u4e3b\u8981\u6307\u6325\u5b98","fentryTableType":0,"entryId":2288169,"templateId":777,"entryTitle":"\u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6218","isManual":0,"isExpand":1},{"fentryTableId":5687,"fentryTableName":"\u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6218","fentryTableType":1,"entryId":2288169,"templateId":0,"entryTitle":"\u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6218","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([5080636, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-5080636-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_5080636" id="refIndex_1_5080636" name="refIndex_1_5080636" title="向上跳转">  </a>
+<a class="text" href="/reference/2191/cecc8ezneaYpTrTm5V4BeZ5gd66cVfa5GpKjrPO284Cxdc_R8Vp3BBvaGeokqaaSf5EUe7XMT96vBTzHVwDCY9eRXLrpLHCu-DD3QaxBbvb3woin" rel="nofollow" target="_blank">尼古拉二世执政末期实行君主立宪制度<span class="linkout"> </span></a>
+<span class="site">．学习时报</span><span>[引用日期2015-09-13]</span></li><li class="reference-item reference-item--type1" id="reference-[2]-5080636-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_5080636" id="refIndex_2_5080636" name="refIndex_2_5080636" title="向上跳转">  </a>
+<a class="text" href="/reference/2191/76aeaDo4gW-Aw56AcEXaGfDvnZE5sXu2x4iMxbu2cc4l-og_-G4MWBL6V3-1LPzV2L2Igv0_LA7Vs_SAt8ijc0mrXAzAua8" rel="nofollow" target="_blank">英俄德三国君主之间的关系<span class="linkout"> </span></a>
+<span class="site">．铁血社区</span><span>[引用日期2015-09-11]</span></li><li class="reference-item reference-item--type1" id="reference-[3]-5080636-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_5080636" id="refIndex_3_5080636" name="refIndex_3_5080636" title="向上跳转">  </a>
+<a class="text" href="/reference/2191/b5e6RJjX8iBbEaI34Pypi8NipCmNgrVFqX0EvMPiCxSXyFM7NHTJNp_U--cqkciSv87g_GrVpxXLCD9D_lU_3V07DRxINZE4LFz38Q" rel="nofollow" target="_blank">名侦探柯南剧场版03世纪末的魔术师<span class="linkout"> </span></a>
+<span class="site">．优酷</span><span>[引用日期2013-06-11]</span></li><li class="reference-item reference-item--type1" id="reference-[4]-5080636-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor" href="#ref_[4]_5080636" id="refIndex_4_5080636" name="refIndex_4_5080636" title="向上跳转">  </a>
+<a class="text" href="/reference/2191/8978E4rDi0FmZzLgEKauBXAYg6J1d7LZiGKFQ8RDCxCLS5TQijnpHUFrZVnykyZZJvuCNTLsNS48xLqR7FDUbWkkird6cK4NGgijHC4-4-BNCxLBsc223-1dLiamIA" rel="nofollow" target="_blank">乔治五世为什么不救尼古拉二世<span class="linkout"> </span></a>
+<span class="site">．个人图书馆</span><span>[引用日期2019-02-27]</span></li><li class="reference-item reference-item--type1" id="reference-[5]-5080636-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor" href="#ref_[5]_5080636" id="refIndex_5_5080636" name="refIndex_5_5080636" title="向上跳转">  </a>
+<a class="text" href="/reference/2191/760bnTJNoLYpFHB2zcj37pWJLsUDtnEPsEMX3gYVP8XcS4FGCgB-PxYATE2c3awpNo7JrGBeMywMhyFDqnOlBHRCw5zzpXW1aq-G11XaT6O8NjiRrA" rel="nofollow" target="_blank">1918年7月17日，尼古拉二世一家在叶卡捷琳堡被枪杀<span class="linkout"> </span></a>
+<span class="site">．俄罗斯旅游中文网</span><span>[引用日期2013-8-19]</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+政治人物
+</span>
+，<span class="taglist">
+君主
+</span>
+，<span class="taglist">
+人物
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191/0/2e2eb9389b504fc2b31994a8ebdde71191ef6ddc?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=6c2ea284e5c4b7453494b010f7c7792a/2e2eb9389b504fc2b31994a8ebdde71191ef6ddc.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>尼古拉二世图册</div>
+</a>
+</div>
+<div class="tashuo-right" id="tashuo_right">
+<div class="tashuo-right-content-essence">
+<div class="J-items">
+</div>
+</div>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="2191" data-lemmatitle="尼古拉二世"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="2191" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：134次<a class="nslog:1021" href="/historylist/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="298842052" href="/usercenter/userpage?uname=%E7%8E%8B%E5%A4%AB%E4%B9%8B0&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">王夫之0</a><span class="j-modified-time" style="display:none">（2019-06-17）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="22645769" href="/usercenter/userpage?uname=%E7%81%AB%E6%98%9F%E6%B5%B7%E7%9B%97%E9%A9%AC%E4%B8%81&amp;from=lemma" target="_blank" title="查看此用户资料" username="火星海盗马丁">火星海盗马丁</a>
+<div class="right">
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="5155610" href="/usercenter/userpage?uname=%E6%9B%BC%E9%9B%A8&amp;from=lemma" target="_blank" title="查看此用户资料" username="曼雨">曼雨</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">人物生平</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">皇帝头衔</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">家庭成员</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_1">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">妻子</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_2">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">子女</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

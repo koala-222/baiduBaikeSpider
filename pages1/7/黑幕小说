@@ -1,0 +1,206 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<span class="lemma-pinyin">
+<span class="text">[hēi mù xiǎo shuō]</span>
+<a class="speak" href="javascript:;" id="j-pinyin-speak" nslog-type="10000106" title="点击发声"> </a>
+</span>
+<div id="fmp_flash_div" style="position:absolute; left:-9999px;">
+<audio id="audio" src=""></audio>
+</div>
+<h1>黑幕小说</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1421825" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">近代小说流派。大约在1915至1918年间，与<a data-lemmaid="1166397" href="/item/%E9%B8%B3%E9%B8%AF%E8%9D%B4%E8%9D%B6%E6%B4%BE/1166397" target="_blank">鸳鸯蝴蝶派</a>前后相继，盛行于<a data-lemmaid="114606" href="/item/%E4%B8%8A%E6%B5%B7/114606" target="_blank">上海</a>,它与鸳鸯蝴蝶派同样反映了作者游戏的、消遣的、趣味主义的文学观。当时各种杂志、小报、大报副刊均刊载此类小说，如《<a data-lemmaid="7288191" href="/item/%E6%97%B6%E4%BA%8B%E6%96%B0%E6%8A%A5/7288191" target="_blank">时事新报</a>》就开辟有“上海黑幕”专栏。这类作品数量达数十百种，代表作是1918年编辑出版的《中国黑幕大观》及其续集。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+黑幕小说
+</dd>
+<dt class="basicInfo-item name">属    于</dt>
+<dd class="basicInfo-item value">
+近代小说流派
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">时    间</dt>
+<dd class="basicInfo-item value">
+在1915至1918年间
+</dd>
+<dt class="basicInfo-item name">盛行于</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E4%B8%8A%E6%B5%B7" target="_blank">上海</a>
+</dd>
+</dl></div>
+<div class="para" label-module="para">《中国黑幕大观》“裒其文为百万言”，“列其纲为十六，标其目为千余”（序二），分政界、军界、学界、商界、 党会、 匪类、报界、僧道、慈善事业等类，编撰者自谓“摘伏发奸，穷形尽相”，以起“醒世”或“劝戒”的作用。实际上，这类黑幕小说的内容，不外“某某之风流案”、“某小姐某姨太之秘密史”、“某女拆白党之艳质”、 “某处之私娼”、 “某处盗案之巧”，等等，虽然揭发了社会上的种种罪恶和龌龊行为，却把它归结为偶然现象，并没有揭示其社会根源。加上作者客观地毫无取舍地记录各种丑恶现象，其社会作用往往适得其反，变成了教人为恶的“犯罪教科书”。有的作品更成为军阀、 政客之间相互中伤、 攻讦的工具。所以<a href="/item/%E9%B2%81%E8%BF%85" target="_blank">鲁迅</a>指出,这类作品“丑诋私敌,等于谤书；又或有谩骂之志而无抒写之才，则遂堕落而为‘黑幕小说’”（《中国小说史略》）。正由于黑幕小说在内容和形式上都无多可取，因此它的生命很短，“五四”后便销声匿迹了。 钱理群《现代文学三十年中》说其是：专门泼污水、揭阴私。具体了解其社会根源可以参见周作人《论黑幕》。</div>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+小说
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E9%BB%91%E5%B9%95%E5%B0%8F%E8%AF%B4/1421825/0/bf096b63f6246b6018d6a03ce6f81a4c500fa299?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=73ecee457dcf3bc7e800caeae93bdd9c/bf096b63f6246b6018d6a03ce6f81a4c500fa299.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>黑幕小说图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1421825" data-lemmatitle="黑幕小说"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1421825" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：12次<a class="nslog:1021" href="/historylist/%E9%BB%91%E5%B9%95%E5%B0%8F%E8%AF%B4/1421825" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="3343156255" href="/usercenter/userpage?uname=%E8%A5%BF%E6%9F%9A%E8%8B%B9%E6%9E%9Ci&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">西柚苹果i</a><a class="contribute-flag-container" href="https://baike.baidu.com/kedou" target="_blank" title="百科蝌蚪团">
+<img alt="" class="contribute-flag-icon" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-1_c1b820f.png"/>
+</a>
+<span class="j-modified-time" style="display:none">（2018-11-26）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="22751132" href="/usercenter/userpage?uname=zy19842006&amp;from=lemma" target="_blank" title="查看此用户资料" username="zy19842006">zy19842006</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

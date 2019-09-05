@@ -1,0 +1,531 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E7%BB%84%E7%BB%87%E5%AD%A6" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<span class="lemma-pinyin">
+<span class="text">[zǔ zhī xué]</span>
+<a class="speak" href="javascript:;" id="j-pinyin-speak" nslog-type="10000106" title="点击发声"> </a>
+</span>
+<div id="fmp_flash_div" style="position:absolute; left:-9999px;">
+<audio id="audio" src=""></audio>
+</div>
+<h1>组织学</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="/view/10812319.htm" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">组织学是研究正常人体微细结构及其相关功能的学科，是医学科学中解剖学的一个分支。所谓微细结构是指在显微镜下才能清晰观察的结构。随着科学技术的发展，组织学的内容也在不断充实、更新和发展。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79305"> </a>
+</div><div class="para" label-module="para">组织学覆盖很多领域，有医学上的组织学，有管理行为上的组织学。医学组织学是研究正常人体微细结构及其相关功能的学科。医学组织学主要借助于显微镜观察人体微细结构。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+医学组织学
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">领    域</dt>
+<dd class="basicInfo-item value">
+医学
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">医学组织学简介</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">发展历程</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">研究内容</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">研究对象</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">真皮</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">行为组织学</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_1">简介</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_2">主要观点</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_3">结构研究</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_4">特征研究</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_5">方法研究</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub79305_1"></a>
+<a class="lemma-anchor" name="医学组织学简介"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">组织学</span>医学组织学简介</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:210px; float: right;">
+<a class="image-link" href="/pic/%E7%BB%84%E7%BB%87%E5%AD%A6/1432967/0/e6508eef402de7d3cf1b3e0c?fr=lemma&amp;ct=single" nslog-type="9317" style="width:210px;height:220px;" target="_blank" title="医学组织学图谱">
+<img alt="医学组织学图谱" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=c4f4fe356b63f624185d3e01b745eb32/caef76094b36acaf1836e3f07cd98d1000e99ce3.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:210px;height:220px;"/>
+</a>
+<span class="description">
+医学组织学图谱
+</span>
+</div></div>
+<div class="para" label-module="para"><a href="/item/%E8%A1%8C%E4%B8%BA%E7%BB%84%E7%BB%87%E5%AD%A6" target="_blank">行为组织学</a>（亦称组织行为学）是研究组织中个体、群体和组织结构对组织行为的影响规律，以提高组织管理有效性的学科（本词条是消歧义词条，偏重介绍医学上的组织学，最后也较详细介绍管理行为上的组织学）。</div>
+<div class="para" label-module="para">组织学是研究有机体微细结构及其与功能关系的一门形态科学，医学组织学的主要研究对象是人体，并借助于对高等动物的研究，协助探讨和解释由人体研究所得的知识。</div>
+<div class="para" label-module="para">利用刀、剪等器械对有机体外形和内部结构的肉眼研究为解剖学，早在在公元二世纪时即已开始。自显微镜发明后，使用显微镜对有机体器官微细结构的研究，原称显微解剖学，是属于解剖学的一部分。</div>
+<div class="para" label-module="para">英文tissue（组织）一词来自法文的tissu，其原意为编织物。此词由法国解剖学家和生理学家Bichat（1771～1822）首先用于生物学中。他认为肉眼解剖有机体所分离的膜和脏器，是多种不同性质和质地的编织物。他称这些编织物为tissu（组织），并提出人体由20多种组织组成，但他未做过显微镜的观察。</div>
+<div class="para" label-module="para">其后，<a href="/item/%E6%98%BE%E5%BE%AE%E8%A7%A3%E5%89%96" target="_blank">显微解剖</a>学家Mayer（1829）创用histology（组织学）一词。此词源于希腊文，由histos（组织）和logos（科学）二字组成，意即研究组织的科学。此后由于显微镜的改进，一些学者对有机体的微细结构做了许多观察，将人和高等动物的组织归纳为四类，即<a href="/item/%E4%B8%8A%E7%9A%AE%E7%BB%84%E7%BB%87" target="_blank">上皮组织</a>、<a href="/item/%E7%BB%93%E7%BC%94%E7%BB%84%E7%BB%87" target="_blank">结缔组织</a>、<a href="/item/%E8%82%8C%E8%82%89%E7%BB%84%E7%BB%87" target="_blank">肌肉组织</a>和<a href="/item/%E7%A5%9E%E7%BB%8F%E7%BB%84%E7%BB%87" target="_blank">神经组织</a>这个见解得到许多学者赞同，至今仍然成立。</div>
+<div class="para" label-module="para">这四类组织起源于<a href="/item/%E8%83%9A%E8%83%8E" target="_blank">胚胎</a>发生时的外、中、内胚层，各具有特定的构造和机能特点，按一定的配布样式结合成各器官和系统，再由这些器官和系统进而组成完整的有机体。起初，“组织学”同“显微解剖学”是有区别的。“组织学”着重于研究有机体的组织，而“显微解剖学”是研究各器官的微细结构。</div>
+<div class="para" label-module="para">以后由于研究的进展，认为这样的划分并无必要，于是将组织学和显微解剖学合称组织学。组织学的建立和发展使有机体复杂的微细结构得以从四类组织的概念上进行分析，从而使有机体微细结构的研究有了基本的指导概念。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub79305_2"></a>
+<a class="lemma-anchor" name="发展历程"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">组织学</span>发展历程</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">Schleiden和Schwann（1839）同时创建了“<a href="/item/%E7%BB%86%E8%83%9E%E5%AD%A6%E8%AF%B4" target="_blank">细胞学说</a>”，阐明细胞是动物和植物的结构、功能和发生的基本单位。自此时起，以细胞为对象的研究渐发展成细胞学，但细胞是组成组织的主要成分。各种组织的构造和功能特点主要表现在组成它们的细胞上，故对细胞的构造和功能的研究仍是组织学的重要部分。现今的组织学是包括对细胞、组织和器官微细结构及其功能的研究的科学。十九世纪后半叶至二十世纪前半叶，细胞学主要是用普通显微镜研究细胞构造及其功能关系。</div>
+<div class="para" label-module="para">细胞的生理学和化学的研究尚处于萌芽阶段。此后由于显微镜的改进，生物制片技术和染料化学的迅速发展，使细胞构造的研究日趋细致和深入。使用优良的固定剂、切片机和由<a href="/item/%E7%85%A4%E7%84%A6%E6%B2%B9" target="_blank">煤焦油</a>提取出的多种生物染料能在普通显微镜下显示组织、细胞的结构细节，组织学研究技术的发展和完善，提供了辨认组织和细胞微细结构的多种标准方法。用这些方法所做的研究表明，有机体的许多微细结构是正常状态下经常存在的。<a href="/item/%E7%BB%84%E7%BB%87%E5%9F%B9%E5%85%BB%E6%8A%80%E6%9C%AF" target="_blank">组织培养技术</a>和活细胞观察法的发明，证实这些微细结构是活组织和活细胞固有的，并非技术方法致成的人为假象。</div>
+<div class="para" label-module="para">组织学的研究提供了正常器官、组织和细胞微细结构的标准图象，并证明这些微细结构在不同生理条件下呈现一定的变化，从而能较确实地探讨它们与功能的关系。组织学的这些成就为生理学提供了研究有机体功能的重要依据。组织学研究所得出的正常微细结构的图象又是<a href="/item/%E7%97%85%E7%90%86%E7%BB%84%E7%BB%87%E5%AD%A6" target="_blank">病理组织学</a>的必要基础，只有对正常的微细结构有了清楚的认识，病理组织学才能探讨疾病过程中这些微细结构的异常变化。</div>
+<div class="para" label-module="para">医学组织学的研究，就是阐明在正常情况下，细胞、组织、器官和系统的形态结构和其生理活动，以及它们在人体内的相互关联和意义。成体各器官、系统分别具有其细微结构的组织特征，执行着特定的功能。如：口腔、<a href="/item/%E9%A3%9F%E9%81%93" target="_blank">食道</a>、胃、肠等均由不同的组织发育、分化和结合而成，它们具有各自不同的形态结构特点，但却执行着共同的功能，即消化食物、吸收营养、排除糟粕。</div>
+<div class="para" label-module="para">医学组织学人才培养要求掌握或了解人体各种组织和器官的光镜下微<a href="/item/%E7%BB%86%E8%83%9E%E7%BB%93%E6%9E%84" target="_blank">细胞结构</a>、主要细胞和组织的超微结构以及这些结构与功能关系；掌握或了解人体<a href="/item/%E8%83%9A%E8%83%8E" target="_blank">胚胎</a>早期发生、胎膜胎盘、各主要器官系统的发生过程与畸形。组织学人才在基本技能方面达到：熟悉光学显微镜的结构与用途，熟悉使用并善于保护光学显微镜，能在光学显微镜下识别各种组织和器官的微细结构；能用正确的医学术语、文字正确描述镜下所见；能辨认各主要细胞和组织的超微结构图象，适当联系功能；能根据模式图适当描述人体<a href="/item/%E8%83%9A%E8%83%8E" target="_blank">胚胎</a>的早期发生、各主要器官的发生与畸形。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub79305_3"></a>
+<a class="lemma-anchor" name="研究内容"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">组织学</span>研究内容</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E7%BB%84%E7%BB%87%E5%AD%A6/1432967/0/73ca5910cafc88c0c2ce790f?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:164px;" target="_blank" title="医学组织学图谱">
+<img alt="医学组织学图谱" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=453f6f12b9389b503cffe750b534e5f1/838ba61ea8d3fd1f32dad736304e251f94ca5fee.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+医学组织学图谱
+</span>
+</div>组织学的研究内容是：人体的组织是由细胞和细胞间质发育分化形成的，而器官系统则又是由几种不同组织发育分化所构成。 所以组织学的研究内容包括：细胞、组织和器官系统三部分。1、细胞（cell）：是人体形态结构的基本单位，是一切生物体新陈代谢、生长发育、繁殖分化的<a href="/item/%E5%BD%A2%E6%80%81%E5%AD%A6" target="_blank">形态学</a>基础。细胞的结构特点：人体具有多种（210多种）形态各异、大小不等的细胞。功能特点：执行着多样的机能活动。它们在身体内互相调节和互相合作，以维持整体的生命活动。 2、组织（tissue）形成：在<a href="/item/%E8%83%9A%E8%83%8E%E5%8F%91%E8%82%B2" target="_blank">胚胎发育</a>时期形成。组成：由一些形态相似、功能相近的细胞和<a href="/item/%E7%BB%86%E8%83%9E%E5%A4%96%E5%9F%BA%E8%B4%A8" target="_blank">细胞外基质</a>（细胞间质）所组成。分类：由于细胞的种类和特性不同，组织也相应分为：<a href="/item/%E4%B8%8A%E7%9A%AE%E7%BB%84%E7%BB%87" target="_blank">上皮组织</a>、<a href="/item/%E7%BB%93%E7%BC%94%E7%BB%84%E7%BB%87" target="_blank">结缔组织</a>、<a href="/item/%E8%82%8C%E7%BB%84%E7%BB%87" target="_blank">肌组织</a>和<a href="/item/%E7%A5%9E%E7%BB%8F%E7%BB%84%E7%BB%87" target="_blank">神经组织</a>。3、器官和系统形成：是在胚胎发育的早期由几种不同的组织发育、分化和互相结合所形成。器官的组织特征：也是在胚胎发育早期从几种不同组织发育分化和互相结合形成的，成体的各个器官和各种系统均各有其细微结构的组织特征，并执行一定的功能。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub79305_4"></a>
+<a class="lemma-anchor" name="研究对象"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">组织学</span>研究对象</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">①<a href="/item/%E5%9F%BA%E5%BA%95%E5%B1%82" target="_blank">基底层</a>：紧贴基膜，与真皮相接，为一层立方形或矮<a href="/item/%E6%9F%B1%E7%8A%B6%E7%BB%86%E8%83%9E" target="_blank">柱状细胞</a>组成，细胞排列整齐，胞质<a href="/item/%E5%97%9C%E7%A2%B1%E6%80%A7" target="_blank">嗜碱性</a>较强，染呈紫蓝色。细胞核呈卵圆形位于基部，胞质较少。 ②<a href="/item/%E6%A3%98%E5%B1%82" target="_blank">棘层</a>：位于基底层上方，由4-10层呈多边形、体积较大的<a href="/item/%E6%A3%98%E7%BB%86%E8%83%9E" target="_blank">棘细胞</a>组成。此层细胞由基底层分化而来，细胞从深面向浅面推移时，细胞逐渐变大呈多边形，胞质丰富，呈弱嗜碱性；胞核呈圆形或椭圆形，位于细胞中央，相邻细胞间有突起相连。</div>
+<div class="para" label-module="para">③<a href="/item/%E9%A2%97%E7%B2%92%E5%B1%82" target="_blank">颗粒层</a>：位于<a href="/item/%E6%A3%98%E7%BB%86%E8%83%9E%E5%B1%82" target="_blank">棘细胞层</a>的浅部，由3-5层扁平的梭形细胞组成。细胞中可见许多强嗜碱性的紫蓝色的<a href="/item/%E9%80%8F%E6%98%8E%E8%A7%92%E8%B4%A8%E9%A2%97%E7%B2%92" target="_blank">透明角质颗粒</a>（透明角质颗粒），其形状不规则，大小不等。细胞核已趋向退化消失。</div>
+<div class="para" label-module="para">④<a href="/item/%E9%80%8F%E6%98%8E%E5%B1%82" target="_blank">透明层</a>：位于颗粒层上方，由2-3层<a href="/item/%E6%89%81%E5%B9%B3%E7%BB%86%E8%83%9E" target="_blank">扁平细胞</a>组成，呈浅红色发亮的窄带，细胞分界不明显，胞核消失，胞质较透明，染浅粉红色。（但切片为薄皮，故无透明层）。</div>
+<div class="para" label-module="para">⑤<a href="/item/%E8%A7%92%E8%B4%A8%E5%B1%82" target="_blank">角质层</a>：位于表皮最浅层，较厚，由多层扁平的角质细胞组成，细胞呈红色均质状，胞质内充满<a href="/item/%E8%A7%92%E8%9B%8B%E7%99%BD" target="_blank">角蛋白</a>，细胞轮廓不清楚，无胞核和细胞器。表皮细胞多已死亡，易脱落。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub79305_5"></a>
+<a class="lemma-anchor" name="真皮"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">组织学</span>真皮</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">位于<a href="/item/%E8%A1%A8%E7%9A%AE" target="_blank">表皮</a>深面，由<a href="/item/%E7%BB%93%E7%BC%94%E7%BB%84%E7%BB%87" target="_blank">结缔组织</a>构成，真皮深部与皮下组织相连，但两者之间无明显的分界，内含血管、神经、皮肤附属器等。真皮又可分为两层：浅层的<a href="/item/%E4%B9%B3%E5%A4%B4%E5%B1%82" target="_blank">乳头层</a>和深层的网织层。乳头层：由薄层结缔组织构成。借基膜与表皮相邻，因向表皮突入形成许多嵴状或乳头状的突起而得名。此层纤维细密，排列疏松不规则，成纤维细胞较多。真皮乳头内含有丰富的毛细血管、游离神经末梢和触觉小体。网织层：位于乳头层深面，与乳头层分界不清，较厚，是真皮的主要组成部分。<a href="/item/%E7%BD%91%E7%BB%87%E5%B1%82" target="_blank">网织层</a>由不规则<a href="/item/%E8%87%B4%E5%AF%86%E7%BB%93%E7%BC%94%E7%BB%84%E7%BB%87" target="_blank">致密结缔组织</a>构成，粗大的<a href="/item/%E8%83%B6%E5%8E%9F%E7%BA%A4%E7%BB%B4" target="_blank">胶原纤维</a>束交织成网，并有许多<a href="/item/%E5%BC%B9%E6%80%A7%E7%BA%A4%E7%BB%B4" target="_blank">弹性纤维</a>，排列紧密而不规则，呈粉红色，被切成多种断面。此层可见毛囊、环层小体、神经纤维束和汗腺等结构。<a href="/item/%E7%9A%AE%E8%84%82%E8%85%BA" target="_blank">皮脂腺</a>：位于<a href="/item/%E6%AF%9B%E5%9B%8A" target="_blank">毛囊</a>与立毛肌之间。皮脂腺分泌部外层细胞为低立方形的<a href="/item/%E5%B9%B2%E7%BB%86%E8%83%9E" target="_blank">干细胞</a>，染色深称<a href="/item/%E5%9F%BA%E7%BB%86%E8%83%9E" target="_blank">基细胞</a>；内层愈近中央的腺细胞体积愈大，呈多边形，核小染色深，并逐渐退化。胞质内充满许多小脂滴，制片时脂滴被溶解，因此着色浅，呈空泡状。导管部短，系<a href="/item/%E5%A4%8D%E5%B1%82%E6%89%81%E5%B9%B3%E4%B8%8A%E7%9A%AE" target="_blank">复层扁平上皮</a>构成，开口于毛囊。在皮脂腺附近常可见到一束斜形的平滑肌纤维，为立毛肌。汗腺:：系单曲管状腺，分两部分：分泌部: 位于真皮深部或皮下组织内，着色较浅。腺上皮呈单层柱状或立方形，<a href="/item/%E8%85%BA%E7%BB%86%E8%83%9E" target="_blank">腺细胞</a>与<a href="/item/%E5%9F%BA%E8%86%9C" target="_blank">基膜</a>间可见梭形有突起的<a href="/item/%E8%82%8C%E4%B8%8A%E7%9A%AE%E7%BB%86%E8%83%9E" target="_blank">肌上皮细胞</a>，其胞核狭长或三角形，着色较深。导管部： 由2-3层矮柱状或立方形细胞组成，胞核着色较深。此细长螺旋形的管道穿越真皮、表皮时被切成各种断面，最终开口于表皮表面的<a href="/item/%E6%B1%97%E5%AD%94" target="_blank">汗孔</a>。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6"></a>
+<a class="lemma-anchor" name="sub79305_6"></a>
+<a class="lemma-anchor" name="行为组织学"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">组织学</span>行为组织学</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="6_1"></a>
+<a class="lemma-anchor" name="sub79305_6_1"></a>
+<a class="lemma-anchor" name="简介"></a>
+<a class="lemma-anchor" name="6-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">组织学</span>简介</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:150px; float: right;">
+<a class="image-link" href="/pic/%E7%BB%84%E7%BB%87%E5%AD%A6/1432967/0/148f28d3d0caf63c3bf3cf14?fr=lemma&amp;ct=single" nslog-type="9317" style="width:150px;height:220px;" target="_blank" title="行为组织学文献">
+<img alt="行为组织学文献" class="lazy-img" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=82f2e1b787d6277fed12353a18391f63/7acb0a46f21fbe096e90b6186b600c338644adeb.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:150px;height:220px;"/>
+</a>
+<span class="description">
+行为组织学文献
+</span>
+</div><a href="/item/%E8%A1%8C%E4%B8%BA%E7%BB%84%E7%BB%87%E5%AD%A6" target="_blank">行为组织学</a>（亦称组织行为学）对管理过程中人的因素的研究，主要包括个体、群体和组织三个领域。在个体行为领域，行为组织学主要研究个体的知觉、学习、激励、人格、员工选聘、绩效与态度测量、工作压力、个体决策、工作满意度等方面内容，其中核心领域是对激励问题的研究。在群体行为领域，行为组织学主要关注正式群体和非正式群体、群体的组织功能、群体动力学、沟通与交流、群体决策过程等方面的内容。在组织行为领域，<a href="/item/%E8%A1%8C%E4%B8%BA%E7%BB%84%E7%BB%87%E5%AD%A6" target="_blank">行为组织学</a>主要研究<a href="/item/%E7%BB%84%E7%BB%87%E6%96%87%E5%8C%96" target="_blank">组织文化</a>与环境、组织领导、冲突、组织行为的有效性、授权、<a href="/item/%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1" target="_blank">组织结构设计</a>、工作团队设计、组织变革与发展动力和组织文化建设等方面的内容。</div>
+<div class="para" label-module="para">在群体行为领域，行为组织学主要关注正式群体和非正式群体、群体的组织功能、群体动力学、沟通与交流、群体决策过程等方面的内容。在组织行为领域，组织行为学主要研究组织文化与环境、组织领导、冲突、组织行为的有效性、授权、组织结构设计、工作团队设计、组织变革与发展动力和<a href="/item/%E7%BB%84%E7%BB%87%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE" target="_blank">组织文化建设</a>等方面的内容。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6_2"></a>
+<a class="lemma-anchor" name="sub79305_6_2"></a>
+<a class="lemma-anchor" name="主要观点"></a>
+<a class="lemma-anchor" name="6-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">组织学</span>主要观点</h3>
+</div>
+<div class="para" label-module="para">1.人的需要是多种多样的，但并不是所有的需要得到满足都能激励起人们的积极性，只有那些属于激励因素的需要得到满足，人们的积极性才能得到极大的调动2.激励因素以工作本身为核心。3.工作丰富化中的工作设计技术。</div>
+<div class="para" label-module="para">正式群体是具有一定的目标，并且由规章制度方针政策等规定着组织各成员之间相互关系和职责范围的群体。分为：命令型、任务型群体、非正式群体是为满足成员需要而自发组成、没有明确的或完全没有工作职能的群体。分为：利益型、友谊型、兴趣爱好型群体。正式与非正式群体区别：形成方式：自发、经规划 一般性质：民间、官方 领导权力来源：群体授予、管理上层授予 管理手段：权威与责任、正式权力和政策 关注的焦点：个人、职位 行为规则：不成为的群体规则、成为的规章制度。情境领导理论又称领导<a href="/item/%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F" target="_blank">生命周期</a>理论，是将有效的领导行为与被领导者的成熟程度结合起来共同考虑，是一个重视下属的<a href="/item/%E6%9D%83%E5%8F%98%E7%90%86%E8%AE%BA" target="_blank">权变理论</a>。分为自重具体的领导风格：1、指导型（高任务-低关系）2、推销型（高任务-高关系）3、参与型（低任务-高关系）4、授权型（低任务-低关系）领导者的领导风格应当适应被领导者的成熟程度。与之相应的下属成熟度的四个阶段：极不成熟型，不成熟型，较成熟型，非常成熟型。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6_3"></a>
+<a class="lemma-anchor" name="sub79305_6_3"></a>
+<a class="lemma-anchor" name="结构研究"></a>
+<a class="lemma-anchor" name="6-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">组织学</span>结构研究</h3>
+</div>
+<div class="para" label-module="para">1.简单结构是一种仅有2-3层垂直层次、决策权集中在一个人手中的扁平式组织结构形式 。</div>
+<div class="para" label-module="para">2.智能结构是按分工负责原则形成的组织结构形式 。</div>
+<div class="para" label-module="para">3.事业部机构是按产品或地区设立事业部实行分权管理的结构形式。</div>
+<div class="para" label-module="para">4.矩阵制结构是根据职能和项目两个变量设计的结构形式 。</div>
+<div class="para" label-module="para">5.新型组织结构：团队结构，虚拟组织，无边界组织组织行为学是系统的研究组织环境中个体，群体，领导以及结构对组织内部行为的影响表现及其规律，加以应用以提高组织绩效的学科。冲突是指个体或群体在人际交往和工作互动的过程中，由于不同原因形成的彼此间的意见分歧争论对抗等紧张状态的过程。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6_4"></a>
+<a class="lemma-anchor" name="sub79305_6_4"></a>
+<a class="lemma-anchor" name="特征研究"></a>
+<a class="lemma-anchor" name="6-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">组织学</span>特征研究</h3>
+</div>
+<div class="para" label-module="para">1、个性是一个人在先天心理素质的基础上在社会实践中经常表现出来的比较稳定的区别于他人的个体倾向和个体心理特征的总和。</div>
+<div class="para" label-module="para">2、团队是由员工和管理层组成的，合理利用每一个成员的知识和技能协同工作，解决问题，达到共同的目标的一个共同体。</div>
+<div class="para" label-module="para">3、激励主要是激发人的内驱力，使人有一般的内在动力使个体朝向有期望的目标努力的心理过程。</div>
+<div class="para" label-module="para">4、沟通是指人与人之间通过语言、文字、符号或类似的表现形式进行信息、情报交流和传达思想的过程。</div>
+<div class="para" label-module="para">5、从众是指个体受到群体的影响而怀疑 、改变自己的观点、判断和行为等，以和他人保持一致的现象。</div>
+<div class="para" label-module="para">5、谈判是指双方和多方为实现自己目标而进行协商，试图达成协议的过程。</div>
+<div class="para" label-module="para">6、社会抑制作用：有时他人的存在也起抑制作用从而使个体的作业水平降级，社会心理学家把这种团体情景使个体作业水平降低的现象称为社会抑制作用。</div>
+<div class="para" label-module="para">7、<a href="/item/%E7%A4%BE%E4%BC%9A%E4%BF%83%E8%BF%9B%E4%BD%9C%E7%94%A8" target="_blank">社会促进作用</a>指人们在有他人旁观的情况下工作表现比自己单独进行时好的现象。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6_5"></a>
+<a class="lemma-anchor" name="sub79305_6_5"></a>
+<a class="lemma-anchor" name="方法研究"></a>
+<a class="lemma-anchor" name="6-5"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">组织学</span>方法研究</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:159px; float: right;">
+<a class="image-link" href="/pic/%E7%BB%84%E7%BB%87%E5%AD%A6/1432967/0/d8b8c92a9baf6511d52af110?fr=lemma&amp;ct=single" nslog-type="9317" style="width:159px;height:220px;" target="_blank" title="行为组织学著作">
+<img alt="行为组织学著作" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=48edf06df81986184547e8867aec2e69/6c224f4a20a44623f201d06e9822720e0df3d7f7.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:159px;height:220px;"/>
+</a>
+<span class="description">
+行为组织学著作
+</span>
+</div>创造有价值的信息—信息编码—选择信息传递渠道—接收者接受信息—接收者理解或阐释信息—接收者做出反应。知觉错误：选择性知觉、<a href="/item/%E6%99%95%E8%BD%AE%E6%95%88%E5%BA%94" target="_blank">晕轮效应</a>、<a href="/item/%E5%AF%B9%E6%AF%94%E6%95%88%E5%BA%94" target="_blank">对比效应</a>、<a href="/item/%E6%8A%95%E5%B0%84%E6%95%88%E5%BA%94" target="_blank">投射效应</a>、<a href="/item/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1" target="_blank">刻板印象</a>、<a href="/item/%E7%85%AE%E8%9B%99%E6%95%88%E5%BA%94" target="_blank">煮蛙效应</a>。正视策略解决方法：协商或谈判、调节、仲裁。群体决策的方式与方法：六种方式：缺少反应、独裁原则、少数原则、多数原则、完全一致原则、基本一致原则。五种方法：头脑风暴法、德尔菲法、提喻法、方案提前分析法、非交往型程序化决策法，团队的阶段：第一阶段组建期：具有高度的不确定性甚至是混乱，第二阶段磨合期：冲突和对抗，第三阶段稳定期：成员开始进行合作和协作，第四阶段成效期：团队功能得到充分发挥。</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E7%BB%84%E7%BB%87%E5%AD%A6/1432967?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a class="anchor-2" name="rs_79305_20815"></a>
+<div class="rslazy rs-container" id="rs-container-79305-20815" lazy-init="lemmars.tableAction(baidu.g('rs-79305-20815'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":20815,"fentryTableName":"\u751f\u7269\u5b66\u4e3b\u8981\u5b50\u57df","fentryTableType":1,"entryId":2435025,"templateId":0,"entryTitle":"\u751f\u7269\u5b66\u4e3b\u8981\u5b50\u57df","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([79305, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type2" id="reference-[1]-79305-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_79305" id="refIndex_1_79305" name="refIndex_1_79305" title="向上跳转">  </a>
+<span>李志强</span><span class="text">．生皮化学与组织学</span><span>：中国轻工业出版社</span><span>，2010年</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+科学
+</span>
+，<span class="taglist">
+学科
+</span>
+，<span class="taglist">
+医学术语
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E7%BB%84%E7%BB%87%E5%AD%A6/1432967/0/d000baa1cd11728bad5a6b8fc2fcc3cec3fd2c2c?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=ac69db6a9a52982205333ec5eff11cf6/d000baa1cd11728bad5a6b8fc2fcc3cec3fd2c2c.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>组织学图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1432967" data-lemmatitle="组织学"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1432967" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：22次<a class="nslog:1021" href="/historylist/%E7%BB%84%E7%BB%87%E5%AD%A6/1432967" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="2398009444" href="/usercenter/userpage?uname=%E5%B0%8F%E5%85%94%E5%AD%90%E4%B9%96%E4%B9%96bee&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">小兔子乖乖bee</a><span class="j-modified-time" style="display:none">（2019-06-26）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="2838921" href="/usercenter/userpage?uname=%E6%B1%89%E5%A4%AA%E5%AE%97&amp;from=lemma" target="_blank" title="查看此用户资料" username="汉太宗">汉太宗</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">医学组织学简介</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">发展历程</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">研究内容</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">研究对象</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">真皮</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#6">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">行为组织学</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#6_1">
+<span class="text">
+<span class="title-index">6.1</span>
+<span class="title-link" nslog-type="10002802">简介</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#6_2">
+<span class="text">
+<span class="title-index">6.2</span>
+<span class="title-link" nslog-type="10002802">主要观点</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#6_3">
+<span class="text">
+<span class="title-index">6.3</span>
+<span class="title-link" nslog-type="10002802">结构研究</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#6_4">
+<span class="text">
+<span class="title-index">6.4</span>
+<span class="title-link" nslog-type="10002802">特征研究</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#6_5">
+<span class="text">
+<span class="title-index">6.5</span>
+<span class="title-link" nslog-type="10002802">方法研究</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

@@ -1,0 +1,608 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E4%B8%81%E8%A1%A1%E9%AB%98" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>丁衡高</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="/view/10812319.htm" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">丁衡高（1931.2.3－），江苏<a data-lemmaid="23952" href="/item/%E5%8D%97%E4%BA%AC/23952" target="_blank">南京</a>人，惯性技术和精密仪器专家。1952年本科毕业于<a data-lemmaid="137482" href="/item/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/137482" target="_blank">南京大学</a>，1961年毕业于原苏联列宁格勒精密机械光学学院获副博士学位。长期从事制导武器的陀螺仪、加速度计、惯性平台系统等的研制工作。1994年当选为<a data-lemmaid="5925613" href="/item/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E9%99%A2%E5%A3%AB/5925613" target="_blank">中国工程院院士</a>。</div><div class="para" label-module="para">丁衡高1994年6月8日晋升为上将军衔。曾担任<a data-lemmaid="4859443" href="/item/%E5%9B%BD%E9%98%B2%E7%A7%91%E5%B7%A5%E5%A7%94/4859443" target="_blank">国防科工委</a>主任。现中国人民解放军总装备部研究员。兼任中国惯性技术学会理事长。中国微米纳米技术学会名誉理事长。<b>南京大学校友总会第五届</b><b>名誉会长。</b></div>
+</div>
+<div class="configModuleBanner">
+</div><div class="lemmaWgt-focusAndRelation">
+<ul class="focusAndRelation">
+<li class="module relation">
+<div class="flag"><i>人物关系</i><em></em></div>
+<a class="viewPort nslog-area" href="/item/%E8%81%82%E5%8A%9B/804752" nslog-type="10000302" target="_blank">
+<img src="https://imgsa.baidu.com/baike/pic/item/d833c895d143ad4b167b647a8c025aafa40f0636.jpg"/>
+</a>
+<div class="hasErrorBox hasErrorHidden">
+<a class="hasError" href="">
+有错误<span class="relateId" style="display:none;">804752</span></a>
+<span class="hadSubError">已反馈</span>
+</div>
+</li>
+<li class="module relation">
+<a class="viewPort nslog-area" href="/item/%E8%81%82%E8%8D%A3%E8%87%BB/116123" nslog-type="10000302" target="_blank">
+<img src="https://imgsa.baidu.com/baike/pic/item/6d81800a19d8bc3e36a62b708c8ba61ea9d345d9.jpg"/>
+</a>
+<div class="hasErrorBox hasErrorHidden">
+<a class="hasError" href="">
+有错误<span class="relateId" style="display:none;">116123</span></a>
+<span class="hadSubError">已反馈</span>
+</div>
+</li>
+<li class="module relation">
+<a class="viewPort nslog-area" href="/item/%E5%BC%A0%E7%91%9E%E5%8D%8E/18879" nslog-type="10000302" target="_blank">
+<img src="https://imgsa.baidu.com/baike/pic/item/30adcbef76094b36fc2a3957adcc7cd98c109dcb.jpg"/>
+</a>
+<div class="hasErrorBox hasErrorHidden">
+<a class="hasError" href="">
+有错误<span class="relateId" style="display:none;">18879</span></a>
+<span class="hadSubError">已反馈</span>
+</div>
+</li>
+<li id="fixBox">
+<div class="openFix" title="若关系内容有误，请点击纠错进行反馈">纠错</div>
+<div class="closeFix">关闭纠错</div>
+</li>
+</ul>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" id="errFormSub" method="post" target="userSubErr">
+<input id="source_id" name="source_id" type="text" value=""/>
+<input id="errForm_query" name="query" type="text" value=""/>
+<input id="html_url" name="html_url" type="text" value=""/>
+<input id="img_url" name="img_url" type="text" value=""/>
+</form>
+<iframe frameborder="0" id="userSubErr" name="userSubErr" style="display:none;">
+</iframe>
+</div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+丁衡高
+</dd>
+<dt class="basicInfo-item name">国    籍</dt>
+<dd class="basicInfo-item value">
+中国
+</dd>
+<dt class="basicInfo-item name">民    族</dt>
+<dd class="basicInfo-item value">
+汉
+</dd>
+<dt class="basicInfo-item name">出生地</dt>
+<dd class="basicInfo-item value">
+<a data-lemmaid="23952" href="/item/%E5%8D%97%E4%BA%AC/23952" target="_blank">南京</a>
+</dd>
+<dt class="basicInfo-item name">出生日期</dt>
+<dd class="basicInfo-item value">
+1931.2.3
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">职    业</dt>
+<dd class="basicInfo-item value">
+科学家
+</dd>
+<dt class="basicInfo-item name">毕业院校</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6" target="_blank">南京大学</a>
+</dd>
+<dt class="basicInfo-item name">主要成就</dt>
+<dd class="basicInfo-item value">
+中国战略导弹惯性技术奠基人之一
+</dd>
+<dt class="basicInfo-item name">代表作品</dt>
+<dd class="basicInfo-item value">
+《惯性技术文集》
+</dd>
+<dt class="basicInfo-item name">军    衔</dt>
+<dd class="basicInfo-item value">
+上将
+</dd>
+<dt class="basicInfo-item name">妻    子</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E8%81%82%E5%8A%9B" target="_blank">聂力</a>
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">个人信息</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">主要成就</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">出版著作</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">论文著作</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">科学专著</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">平常生活</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">工作生活</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_1">技术研究</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_2">工作考察</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">相关情况</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub78466_1"></a>
+<a class="lemma-anchor" name="个人信息"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">丁衡高</span>个人信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">丁衡高，江苏<a data-lemmaid="23952" href="/item/%E5%8D%97%E4%BA%AC/23952" target="_blank">南京</a>人。1953年加入中国共产党。1957年赴苏联列宁格勒精密机械及光学仪器学院学习。长期从事导弹<a href="/item/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F" target="_blank">自动控制系统</a>及惯性器件的研究、设计、试制生产的技术领导工作。是中国惯性技术学会理事长、<a href="/item/%E4%B8%AD%E5%9B%BD%E5%AE%87%E8%88%AA%E5%AD%A6%E4%BC%9A" target="_blank">中国宇航学会</a>名誉理事长，中国战略导弹惯性技术奠基人之一。1983年被评为研究员。参加了战略导弹的研究、设计、试验和卫星发射的组织领导工作。1987年任<a href="/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6" target="_blank">清华大学</a>兼职教授、博士生导师。1994年被选为<a href="/item/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E9%99%A2%E5%A3%AB" target="_blank">中国工程院院士</a>。1986年组织起草制订了中国《高技术研究发展计划》，多年来组织领导中国的战略导弹试验、核试验和卫星发射试验及重大国防科研试验项目。是中共第十二届中央候补委员，第十三、第十四届中央委员。现任南京大学校友总会第五届名誉会长。</div>
+<div class="para" label-module="para"><b></b></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub78466_2"></a>
+<a class="lemma-anchor" name="主要成就"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">丁衡高</span>主要成就</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">著有《精密机械传动精度与刻划技术》，译有《光学仪器手册》。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E4%B8%81%E8%A1%A1%E9%AB%98/1417975/0/c995d143ad4bd1130ef1ec6f58afa40f4bfb05aa?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:165px;" target="_blank" title="丁衡高">
+<img alt="丁衡高" class="lazy-img" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=b41611536509c93d03f209f5af3df8bb/c995d143ad4bd1130ef1ec6f58afa40f4bfb05aa.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+丁衡高
+</span>
+</div>曾主持并参与突破惯性平台系统、仪表及器件的多项关键技术，制定我国惯性技术发展纲要，并被采纳、实施，成为我国惯性技术有关学科领域的主要奠基人之一，为中国惯性技术学会理事长。目前研究的方向之一是精密仪器的控制"九五"计划期间的重要课题有国防科工委重点预研项目"微型惯性测量组合（<a href="/item/MIMU" target="_blank">MIMU</a>）"技术研究。</div>
+<div class="para" label-module="para">1965年至1977年，他研制成功我国第一套空气轴承、三自由度气浮陀螺及陀螺加速度计，该成果曾应用于我国中远程运载器制导系统，及我国第一颗人造地球卫星的运载器。后又主持并参与"高精度液浮惯性平台"的研制，并取得成功。</div>
+<div class="para" label-module="para"><b>获得奖项</b></div>
+<div class="para" label-module="para">1985年，某型号任务获国家科技进步特等奖，他为各硬件系统第一获奖人。</div>
+<div class="para" label-module="para">1979年，"静压气浮技术及其在惯性仪表中的应用"获国家科技重大成果一等奖。</div>
+<div class="para" label-module="para">1978年，"静压空气轴承"获全国科技大会奖。</div>
+<div class="para" label-module="para">1979年，"气浮陀螺加速度计"、"三自由度气浮陀螺"均获国防科技重大成果二等奖。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub78466_3"></a>
+<a class="lemma-anchor" name="出版著作"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">丁衡高</span>出版著作</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_1"></a>
+<a class="lemma-anchor" name="sub78466_3_1"></a>
+<a class="lemma-anchor" name="论文著作"></a>
+<a class="lemma-anchor" name="3-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">丁衡高</span>论文著作</h3>
+</div>
+<div class="para" label-module="para">《精密机械传动精度与刻划精度研究》，《惯性平台伺服系统设计》，《仿真技术与导弹飞行试验》以及其它数十篇文章和技术报告。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_2"></a>
+<a class="lemma-anchor" name="sub78466_3_2"></a>
+<a class="lemma-anchor" name="科学专著"></a>
+<a class="lemma-anchor" name="3-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">丁衡高</span>科学专著</h3>
+</div>
+<div class="para" label-module="para">《惯性技术文集》，《工艺与新技术革命》，《现代质量观与可靠性研究》等多本。</div>
+<div class="para" label-module="para">近几年来发表有关微米/纳米技术的专著有：《面向21世纪的军民两用技术-微米/纳米技术》（1994年），《微型惯性测量组合》（1995年），《微型机电系统的科学研究与技术开发》（1996年）。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub78466_4"></a>
+<a class="lemma-anchor" name="平常生活"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">丁衡高</span>平常生活</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">丁衡高院士喜欢足球，侃起世界杯。谈及决赛的结果，丁院士有些激动：“巴西队太不应该。0比3的结果，叫人很难接受。”</div>
+<div class="para" label-module="para">“失利的原因，我认为技术是一方面，其它原因也有。首先是巴西队劳师袭远，法国队则以逸待劳，自然法国已占了先手。再加上几万法国球迷势如狂飙的呐喊，给保冠心切的巴西球员极大的心理压力，以致于他们发挥有些失常。另外，法兰西民族极富浪漫主义色彩，很有创造力，他们往往会无拘无束地给世人一些惊喜。佐证很多。巴黎是艺术之都，法国人在各种文艺潮流中往往得风气之先。就连喷气式飞机的后引擎，也是法国人的发明。”</div>
+<div class="para" label-module="para">说到这里，丁院士笑了：“其实我对足球没有什么研究，一家之言，你别当真。”他一本正经的样子，令人忍俊不禁。言谈间似乎能感受到，丁院士对现代足球运动的前景并不十分看好。他同意荷兰球星克鲁伊夫的观点——</div>
+<div class="para" label-module="para">—现代球坛已很难再有新的足球皇帝产生了。“现在的球星钱多，活得太舒服，缺乏进取心。而过去从贝利到</div>
+<div class="para" label-module="para"><a href="/item/%E9%A9%AC%E6%8B%89%E5%A4%9A%E7%BA%B3" target="_blank">马拉多纳</a>，哪个成功者不是从困难中走出来的！”</div>
+<div class="para" label-module="para">“<a href="/item/%E5%BA%BE%E4%BF%A1" target="_blank">庾信</a>平生最萧瑟，暮年诗赋动江关。”苦难往往是成功的助推器。对此，丁院士深有感触。他的人生之舟也曾历尽风雨，这却令他奋进—而不是消沉。在那个特殊的年代，他被贬在小山沟里的一个军工研究所；一呆就是8年。生活艰苦异常，他的科研成绩却日见精进。至今仍在那里工作的人们还念念不忘，是丁所长的工作为他们事业打下良好基础。</div>
+<div class="para" label-module="para">停顿了一下，丁院士深情地说：“我怀念那段生活，我与那里的人们建立了深厚的感情。那8年的磨砺使我从此不再畏惧困难。”这是一个走过人生风雨的老科技工作者对生命的体悟，听来意味深长。</div>
+<div class="para" label-module="para">“从一线退下来，我工作基本上没太大的压力了，做事的效率较以前也就差了不少。我真怕自己会懈怠下来。所以我还在继续做一些事，主要精力放在培养年轻人。”丁老从行政领导岗位上退下来后，仍在不断努力。他在清华大学带着博士生，又忙着撰写科普著作，目的是弘扬科学精神，以实际行动贯彻落实党中央“科教兴国”的战略决策。</div>
+<div class="para" label-module="para">“科技实力决定着一个国家的前途和命运，这是各国的共识。我国政府提出了‘科教兴国’的重大决策，令人振奋。但由于历史的原因，要真正做到‘尊重知识，尊重人才’，我们仍然任重道远。”言及此，丁院士忧患之情溢于言表。</div>
+<div class="para" label-module="para">“历史容不得我们再落后。而真正要前进最终还得靠教育。从目前看尤其要下大力气普及电脑教育。否则我们的孩子将很难与人家‘网上的一代’相竞争。”接着，丁院士不无遗憾地说：“电脑我也在边学边用，它更属于年轻一代。我只能在科普方面为教育事业尽一些力量吧！”</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub78466_5"></a>
+<a class="lemma-anchor" name="工作生活"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">丁衡高</span>工作生活</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_1"></a>
+<a class="lemma-anchor" name="sub78466_5_1"></a>
+<a class="lemma-anchor" name="技术研究"></a>
+<a class="lemma-anchor" name="5-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">丁衡高</span>技术研究</h3>
+</div>
+<div class="para" label-module="para">丁衡高曾主持并参与突破惯性平台系统、仪表及器件的多项关键技术，制定中国惯性技术发展纲要，<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E4%B8%81%E8%A1%A1%E9%AB%98/1417975/0/a84052080b59b8af0a7b82bf?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:165px;" target="_blank" title="丁衡高">
+<img alt="丁衡高" class="lazy-img" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=348524f139dbb6fd215be2243925aba6/a8773912b31bb0519d462322367adab44aede05e.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+丁衡高
+</span>
+</div>并被采纳、实施，成为中国惯性技术有关学科领域的主要奠基人之一，为中国惯性技术学会理事长。研究的方向之一是精密仪器的控制，以应用于运动体导航、定位及控制的惯性仪表与系统为主，尤其注重面向21世纪的军民两用技术-微米/纳米技术。“九五”计划期间的重要课题有国防科工委重点预研项目“微型惯性测量组合（MIMU）”技术研究，其中包括<a href="/item/%E5%BE%AE%E6%9C%BA%E6%A2%B0%E9%99%80%E8%9E%BA%E4%BB%AA" target="_blank">微机械陀螺仪</a>、微机械加速度计、微型集成光学陀螺仪以及MIMU综合集成技术。1965年至1977年，他在担任有关研究所负责人期间，任航天运载器主任设计师，主持并参与多种惯性仪表的研制工作，突破一些主要技术关键，研制成功中国第一套空气轴承、三自由度气浮陀螺及陀螺加速度计，该成果曾应用于中国中远程运载器<a href="/item/%E5%88%B6%E5%AF%BC%E7%B3%BB%E7%BB%9F" target="_blank">制导系统</a>，及中国第一颗人造地球卫星的运载器。后又主持并参与"高精度液浮惯性平台"的研制，并取得成功。</div>
+<div class="para" label-module="para">惯性技术是一项综合性的技术，既古老又新颖，但并不神秘。从过去到现在、从国内到国外，从陆地、海洋到天空、宇宙，大千世界几乎都与惯性技术发生着某种联系。特别是20世纪以来，从40年代第二次世界大战中德国发射的VZ火箭，50年代发射人造地球卫星，60年代载人登月，到90年代海湾战争中使用的多种尖端武器，无不显示着惯性技术发展和应用的足迹，由此即可窥见惯性技术与武器装备及军事战争之间的密切关系。至于民用方面，从国民经济的发展到人们的日常生活，如与海、陆、空、天有关的交通运输、大地测量、矿山开采、石油钻探、隧道工程及水利工程等等领域，无不显示惯性技术应用和发展的成就，由此同样可以说明惯性技术在民用方面应用范围之广泛、相互联系之密切。基于惯性技术在军用、民用领域中的重要地位和作用，丁衡高多年来就一直心存一个愿望，就是希望以生动的形式，通俗的语言将这项技术介绍给大家。不仅介绍清楚它的科学概念，而且更着重地阐明它的广泛应用，争取做到融科学性、知识性、趣味性和实用性于一体，</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_2"></a>
+<a class="lemma-anchor" name="sub78466_5_2"></a>
+<a class="lemma-anchor" name="工作考察"></a>
+<a class="lemma-anchor" name="5-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">丁衡高</span>工作考察</h3>
+</div>
+<div class="para" label-module="para">衡水考察</div>
+<div class="para" label-module="para">2007年4月9日至10日，国防科工委原主任，<a href="/item/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E9%99%A2%E5%A3%AB" target="_blank">中国工程院院士</a>丁衡高上将和<a href="/item/%E8%81%82%E8%8D%A3%E8%87%BB%E5%85%83%E5%B8%85" target="_blank">聂荣臻元帅</a>之女、国防科工委原<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E4%B8%81%E8%A1%A1%E9%AB%98/1417975/0/e78c6589b502aa890f2444aa?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:154px;" target="_blank" title="丁衡高在衡水市考察">
+<img alt="丁衡高在衡水市考察" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=a6e26e2949540923ae69647ca258d1dc/9345d688d43f87948f91d824d21b0ef41bd53a49.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:154px;"/>
+</a>
+<span class="description">
+丁衡高在衡水市考察
+</span>
+</div>副主任，现任国防科工委顾问的聂力中将夫妇到<a href="/item/%E8%A1%A1%E6%B0%B4" target="_blank">衡水</a>市考察。</div>
+<div class="para" label-module="para">9日下午，丁衡高、聂力亲切接见了枣强县王常乡南臣赞村普通党员林秀贞和安平县南王庄镇南王庄村党支部书记<a href="/item/%E7%8E%8B%E6%99%93%E5%8B%8B" target="_blank">王晓勋</a>两位先进典型人物。接见仪式上，市委书记景春华代表市委、市政府、军分区和420万衡水人民，对丁衡高、聂力的到来表示欢迎。他说，两位首长到衡水是对老区人民的关心和厚爱，是对衡水工作的巨大支持，希望借此机会学习两位首长身上的优秀品质和高尚风格，并落实到实际工作中去。景春华还表示，衡水会以两位首长的视察为契机，坚持“创新实干、跨越发展”的总要求，推动全市各项工作迈上新台阶，力争使衡水在两三年内有一个大的改变，为全市人民交一份满意答卷。市委副书记李晓明向丁衡高、聂力介绍了新一届市委提出的以“创新实干、跨越发展”为主题的解放思想大讨论活动开展情况以及林秀贞、王晓勋的先进事迹。</div>
+<div class="para" label-module="para">“林秀贞和王晓勋是衡水的骄傲！”丁衡高、聂力对两位先进典型人物予以高度赞扬，表示很受感动和教育，值得学习。随后，聂力将自己写的书《山高水长--回忆父亲聂荣臻》分别赠送给林秀贞和王晓勋，勉励他们戒骄戒躁，与时俱进，为衡水的发展作出更大的贡献。同时，希望衡水在当地党委政府的领导下，抢抓机遇、发挥优势、乘势而上，实现更好更快发展。</div>
+<div class="para" label-module="para">丁衡高、聂力还先后考察了习三内画艺术展览馆、<a href="/item/%E6%AD%A6%E5%BC%BA%E5%B9%B4%E7%94%BB%E5%8D%9A%E7%89%A9%E9%A6%86" target="_blank">武强年画博物馆</a>、深州市顺府古陶有限公司、衡水湖等地。考察过程中，对衡水市经济社会发展和特色文化产业给予了充分肯定和高度评价，认为衡水市人杰地灵,英雄辈出，拥有深厚的历史文化底蕴，给他们留下了非常深刻的印象。同时，希望衡水能够充分利用地域优势、资源优势和后发优势，加强对内画和年画艺术的保护和发扬，把文化艺术要素整合成文化产业项目，进一步把特色文化产业做大做强，打造具有中国特色和时代精神的文化艺术精品，促进经济社会科学发展。</div>
+<div class="para" label-module="para">酒泉考察</div>
+<div class="para" label-module="para">2006年9月29日至10月3日，原国防科工委主任，中国工程院院士丁衡高上将和聂荣臻元帅之女、原国防科工委副主任兼秘书长，第六、七届全国妇联副主席，现任国防科工委顾问的聂力中将一行在酒泉卫星发射中心首长<a href="/item/%E5%88%98%E5%85%8B%E4%BB%81" target="_blank">刘克仁</a>、省旅游局副局长张守莘、副市长<a href="/item/%E6%9C%B1%E7%8E%89%E5%85%B0" target="_blank">朱玉兰</a>等领导陪同下，参观考察了<a href="/item/%E9%85%92%E6%B3%89%E5%B8%82" target="_blank">酒泉市</a>城市建设和<a href="/item/%E8%A5%BF%E6%B1%89%E9%85%92%E6%B3%89%E8%83%9C%E8%BF%B9" target="_blank">西汉酒泉胜迹</a>、鸣沙山·月牙泉、莫高窟、阳关博物馆、<a href="/item/%E9%9B%85%E4%B8%B9%E5%9B%BD%E5%AE%B6%E5%9C%B0%E8%B4%A8%E5%85%AC%E5%9B%AD" target="_blank">雅丹国家地质公园</a>等景点景区。</div>
+<div class="para" label-module="para">丁衡高、聂力将军对酒泉市长期以来对国防事业的关心和支持表示感谢，对酒泉市的发展给予了充分肯定和高度评价，认为酒泉市历史文化底蕴深厚，发展速度快、变化大，是“河西走廊发展最快、建设最漂亮的城市之一”，给他们“留下了非常深刻的印象”。两位将军希望酒泉市抢抓西部大开发的历史机遇，充分利用地域优势、资源优势和后发优势，形成合力，加快发展，把酒泉建设得更加美好。</div>
+<div class="para" label-module="para">阜平考察</div>
+<div class="para" label-module="para">2006年6月30日，丁衡高上将、聂力中将夫妇和原在聂荣臻元帅身边的工作人员一行来到阜平县城南<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E4%B8%81%E8%A1%A1%E9%AB%98/1417975/0/a75fb6d30444e40e970a16b3?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:155px;" target="_blank" title="丁衡高在深圳考察">
+<img alt="丁衡高在深圳考察" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=581f080e5982b2b7a39f3ec601accb0a/5d6034a85edf8db13248ec6e0923dd54564e7452.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:155px;"/>
+</a>
+<span class="description">
+丁衡高在深圳考察
+</span>
+</div>庄，参观晋察冀军区司令部旧址，考察纪念馆建设情况。</div>
+<div class="para" label-module="para">在市委副书记<a href="/item/%E6%AD%A6%E5%9B%BD%E5%A0%82" target="_blank">武国堂</a>陪同下，丁衡高、聂力将军首先来到聂荣臻元帅塑像前，敬献花篮，鞠躬礼拜；接着,参观了毛泽东主席和聂荣臻元帅住过的房间，回顾了当年老一辈革命家在这里生活和战斗时的情景；随后考察了正在布展的纪念馆。市委书记<a href="/item/%E7%8E%8B%E7%8F%BD%E7%8E%96" target="_blank">王珽玖</a>专程赶来看望丁衡高、聂力将军一行。下午，在听取阜平县关于城南庄爱国主义教育基地建设情况后，丁衡高、聂力等对省、市、县做出的努力给予肯定和赞扬，并提出许多中肯的建议。</div>
+<div class="para" label-module="para">聂力将军说，建设好晋察冀革命纪念馆，不仅可以弘扬老一辈革命家艰苦奋斗的优良传统，教育、培养后辈爱党、爱国、勇于奉献、建设祖国的优秀品质，还可增加阜平县的影响力和外向度，促进经济和社会的全面发展。纪念抗战胜利60周年在即，希望各级党委、政府要加强领导，抢抓机遇,增强紧迫感，在充分尊重历史事实基础上，制定更加科学、严谨的实施计划,充分发挥军民共建优势，广泛营造全社会参与建设热情，争取早日建成一流的爱国主义教育基地。</div>
+<div class="para" label-module="para">丁衡高将军提出三点建议，一是纪念馆布展内容要少而精，内容准确；二是结合全国<a href="/item/%E7%BA%A2%E8%89%B2%E6%97%85%E6%B8%B8" target="_blank">红色旅游</a>计划路线，做好科学规划，提高经济和社会效益；三是坚持实事求是，克服困难，解决问题，讲求质量。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6"></a>
+<a class="lemma-anchor" name="sub78466_6"></a>
+<a class="lemma-anchor" name="相关情况"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">丁衡高</span>相关情况</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">丁衡高是开国元帅<a href="/item/%E8%81%82%E8%8D%A3%E8%87%BB" target="_blank">聂荣臻</a>的女婿，妻子<a href="/item/%E8%81%82%E5%8A%9B" target="_blank">聂力</a>是中国人民解放军第一位女中将，也是世界上第一位女<a href="/item/%E4%B8%AD%E5%B0%86" target="_blank">中将</a>。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E4%B8%81%E8%A1%A1%E9%AB%98/1417975/0/cc506c8b5137257ec8fc7ab0?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:164px;" target="_blank" title="聂力和父亲聂荣臻">
+<img alt="聂力和父亲聂荣臻" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=42c0aabd2f2eb938e86d7df0e56385fe/32fa828ba61ea8d3eb38dd58970a304e251f5857.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+聂力和父亲聂荣臻
+</span>
+</div></div>
+<div class="go-auth-box">
+<div class="go-auth-con">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_info"></em>
+百度百科内容由网友共同编辑，如您发现自己的词条内容不准确或不完善，欢迎使用本人词条编辑服务（免费）参与修正。<a href="/personal/auth/丁衡高/1417975?bk_fr=lemma" nslog-type="10090202" target="_blank">立即前往&gt;&gt;</a>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E4%B8%81%E8%A1%A1%E9%AB%98/1417975?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="lemma-paper-box"></div>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+行业人物
+</span>
+，<span class="taglist">
+科研人员
+</span>
+，<span class="taglist">
+政治人物
+</span>
+，<span class="taglist">
+将领
+</span>
+，<span class="taglist">
+人物
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E4%B8%81%E8%A1%A1%E9%AB%98/1417975/0/64380cd7912397dddcd147435d82b2b7d1a287c9?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=eabe3e7031fae6cd0cb4ac6737886819/64380cd7912397dddcd147435d82b2b7d1a287c9.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>丁衡高图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1417975" data-lemmatitle="丁衡高"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1417975" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：67次<a class="nslog:1021" href="/historylist/%E4%B8%81%E8%A1%A1%E9%AB%98/1417975" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="11995809" href="/usercenter/userpage?uname=w_ou&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">w_ou</a><span class="j-modified-time" style="display:none">（2018-07-02）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="453501" href="/usercenter/userpage?uname=%E6%B3%A3%E6%B3%A3%E7%94%B7%E5%AD%A9&amp;from=lemma" target="_blank" title="查看此用户资料" username="泣泣男孩">泣泣男孩</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">个人信息</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">主要成就</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">出版著作</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_1">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">论文著作</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_2">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">科学专著</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">平常生活</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">工作生活</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_1">
+<span class="text">
+<span class="title-index">5.1</span>
+<span class="title-link" nslog-type="10002802">技术研究</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_2">
+<span class="text">
+<span class="title-index">5.2</span>
+<span class="title-link" nslog-type="10002802">工作考察</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#6">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">相关情况</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

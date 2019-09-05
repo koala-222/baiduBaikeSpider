@@ -1,0 +1,564 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E9%9D%9E%E8%B0%93%E8%AF%AD%E5%8A%A8%E8%AF%8D" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>非谓语动词</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1440082" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">非谓语动词，又叫非限定动词，非<a data-lemmaid="2016328" href="/item/%E8%B0%93%E8%AF%AD/2016328" target="_blank">谓语</a>动词是指在句子中不是谓语的动词，主要包括<a data-lemmaid="91140" href="/item/%E4%B8%8D%E5%AE%9A%E5%BC%8F/91140" target="_blank">不定式</a>、<a data-lemmaid="502814" href="/item/%E5%8A%A8%E5%90%8D%E8%AF%8D/502814" target="_blank">动名词</a>和分词（<a data-lemmaid="4217655" href="/item/%E7%8E%B0%E5%9C%A8%E5%88%86%E8%AF%8D/4217655" target="_blank">现在分词</a>和过去分词），即<a data-lemmaid="502192" href="/item/%E5%8A%A8%E8%AF%8D/502192" target="_blank">动词</a>的非谓语形式。非谓语动词除了不能独立作谓语外，可以承担句子的其他成分。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+非谓语动词
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Non-finite Verb<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79702"> </a>
+</dd>
+<dt class="basicInfo-item name">定    义</dt>
+<dd class="basicInfo-item value">
+在句子中不是谓语的动词
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">包    括</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E4%B8%8D%E5%AE%9A%E5%BC%8F" target="_blank">不定式</a>、<a href="/item/%E5%8A%A8%E5%90%8D%E8%AF%8D" target="_blank">动名词</a>和分词
+</dd>
+<dt class="basicInfo-item name">类    别</dt>
+<dd class="basicInfo-item value">
+英文
+</dd>
+<dt class="basicInfo-item name">别    称</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E9%9D%9E%E9%99%90%E5%AE%9A%E5%8A%A8%E8%AF%8D" target="_blank">非限定动词</a>
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">定义</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">形式功能</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">动词不定式</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">不定式</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_3">动名词</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_4">现在分词</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_5">过去分词</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">与谓语动词</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">相同点</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">不同点</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub79702_1"></a>
+<a class="lemma-anchor" name="定义"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">非谓语动词</span>定义</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">在句子中充当除谓语以外的各种句子成分的动词形式，叫做非谓语动词(the Non-Finite Verbs)。非谓语动词也是动词的一种，他们有着动词的其他特点，可以充当主语、宾语、<a href="/item/%E7%8A%B6%E8%AF%AD" target="_blank">状语</a>等。非谓语动词与谓语动词是相对的概念。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub79702_2"></a>
+<a class="lemma-anchor" name="形式功能"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">非谓语动词</span>形式功能</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_1"></a>
+<a class="lemma-anchor" name="sub79702_2_1"></a>
+<a class="lemma-anchor" name="动词不定式"></a>
+<a class="lemma-anchor" name="2-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">非谓语动词</span>动词不定式</h3>
+</div>
+<div class="para" label-module="para"><a href="/item/%E5%8A%A8%E8%AF%8D%E4%B8%8D%E5%AE%9A%E5%BC%8F" target="_blank">动词不定式</a>：（to）+ do，具有名词、形容词、副词的特征。<br/>　　否定式：not + (to) do</div>
+<div class="para" label-module="para">以do为例，动词不定式的构成如下：</div>
+<div class="para" label-module="para"><b>1．一般式：</b>不定式的一般式所表示的动作与谓语动词动作同时发生或发生在谓语动词动作之后.<br/>　　例如：<br/>　　It's nice to meet you.很高兴见到你。<br/>　　He seems to know a lot. 他看起来懂得很多。<br/>　　We plan to pay a visit. 我们计划去参观。<br/>　　He wants to be an artist. 他想成为一个艺术家。<br/>　　The patient asked to be operated on at once. 病人要求马上手术。<br/>　　The teacher ordered the work to be done. 老师要求完成工作。</div>
+<div class="para" label-module="para"><b>2．进行式</b>：不定式的进行式所表示的动作与谓语动词动作同时发生，例如：<br/>　　The boy pretended to be working hard. 男孩假装工作得很努力。<br/>　　He seems to be reading in his room. 看起来他正在他的房间里面读书。</div>
+<div class="para" label-module="para"><b>3．完成式：</b>不定式的完成式表示的动作发生在谓语动词动作之前，例如：<br/>　　I regretted having told a lie. 我后悔我说谎了。<br/>　　I happened to have seen the film. 我偶然看过这部电影。<br/>　　He is pleased to have met his friend. 他很高兴能遇上他的朋友。</div>
+<div class="para" label-module="para"><b>不定式的句法功能：</b></div>
+<div class="para" label-module="para">（1）作主语：<br/>　　To finish the work in ten minutes is very hard. 十分钟之内完成这项工作是很难的。<br/>　　To lose your heart means failure. 灰心意味着失败。<br/>　　动词不定式<a href="/item/%E7%9F%AD%E8%AF%AD" target="_blank">短语</a>作主语时，常用it作形式主语，真正的主语不定式置于句后，例如上面两句可用如下形式：<br/>　　It is very hard to finish the work in ten minutes. 十分钟之内完成这项工作是很难的。<br/>　　It means failure to lose your heart. 灰心意味着失败。<br/>　　常用句式有：<br/>　　1、It+be+名词+to do。<br/>　　2、It takes sb.+some time+to do。<br/>　　3、It+be+形容词+of sb +to do。常用careless,,clever,good,foolish,honest,kind,lazy,nice,right,silly,stupid,wise,等表示赞扬或批评的形容词，不定式前的sb.可作其逻辑主语。</div>
+<div class="para" label-module="para">2．作<a href="/item/%E8%A1%A8%E8%AF%AD" target="_blank">表语</a>：<br/>　　Her job is to clean the hall. 她的工作是打扫大厅。<br/>　　He appears to have caught a cold. 他似乎感冒了。</div>
+<div class="para" label-module="para">3．作宾语：<br/>　　常与不定式做宾语连用的<a href="/item/%E5%8A%A8%E8%AF%8D" target="_blank">动词</a>有：want,hope,wish,offer,fail,plan,learn,pretend,refuse,manage,help,agree,promise,prefer,如果不定式（宾语）后面有宾语补足语，则用it作<a href="/item/%E5%BD%A2%E5%BC%8F%E5%AE%BE%E8%AF%AD" target="_blank">形式宾语</a>，真正的宾语（不定式）后置，放在宾语补足语后面，例如：<br/>　　Marx found it important to study the situation in Russia. 马克思发现研究俄国的情况是很重要的。<br/>　　动词不定式也可充当<a href="/item/%E4%BB%8B%E8%AF%8D" target="_blank">介词</a>宾语，如：<br/>　　I have no choice but to stay here. 我只能留在这里，别无选择。<br/>　　He did nothing last Sunday but repair his bike. 他上周日除了修他的自行车什么也没干。<br/>　　动词不定式前有时可与<a href="/item/%E7%96%91%E9%97%AE%E8%AF%8D" target="_blank">疑问词</a>连用，如：<br/>　　He gave us some advice on how to learn English. 他给了我们一些学英语的建议。</div>
+<div class="para" label-module="para">4．作宾语补足语：<br/>　　在<a href="/item/%E5%A4%8D%E5%90%88%E5%AE%BE%E8%AF%AD" target="_blank">复合宾语</a>中，动词不定式可充当宾语补足语，如下动词常跟这种复合宾语：want,wish,ask,tell,order,beg,permit,help,advise,persuade,allow,prepare,cause,force,call on,wait for,invite.<br/>　　此外，介词有时也与这种复合宾语连用，如：<br/>　　With a lot of work to do,he didn't go to the cinema． 他有很多工作要做，所以没去电影院。<br/>　　有些动词如make,let,see,watch,hear,feel,have等与不带有to的不定式连用，但改为被动语态时，不定式要加to,如：<br/>　　I saw him cross the road. 我看见他横过公路。<br/>　　He was seen to cross the road. 他被我看见横过公路。</div>
+<div class="para" label-module="para">5．作定语：<br/>　　动词不定式作定语，放在所修饰的名词或<a href="/item/%E4%BB%A3%E8%AF%8D" target="_blank">代词</a>后。与所修饰名词有如下关系：<br/>　　①动宾关系：<br/>　　I have a meeting to attend. 我有一个会议要出席。<br/>　　注意：不定式为<a href="/item/%E4%B8%8D%E5%8F%8A%E7%89%A9%E5%8A%A8%E8%AF%8D" target="_blank">不及物动词</a>时，所修饰的名词如果是地点、工具等，应有必要的介词，如：<br/>　　He found a good house to live in. 他找到了一个居住的好房子。<br/>　　The child has nothing to worry about. 这个孩子无忧无虑。<br/>　　What did you open it with? 你用什么打开它？<br/>　　如果不定式修饰time,place,way，可以省略介词：<br/>　　He has no place to live. 他无处安身。<br/>　　This is the best way to work out this problem. 这是解决这个问题的最好办法。<br/>　　如果不定式所修饰名词是不定式动作承受者，不定式可用主动式也可用被动式：<br/>　　Have you got anything to send? 你要送什么东西吗？<br/>　　Have you got anything to be sent? 你有什么东西需要送吗？<br/>　　②说明所修饰名词的内容：<br/>　　We have made a plan to finish the work. 我们制定了一个完成工作的计划。<br/>　　③被修饰名词是不定式逻辑主语：<br/>　　He is the first to get here. 他第一个来到这儿。</div>
+<div class="para" label-module="para">6．作状语：<br/>　　①表目的：<br/>　　He worked day and night to get the money. 他夜以继日地工作来赚钱。<br/>　　She sold her hair to buy the watch chain. 她卖掉了自己的头发来买那条表链。<br/>　　注意不定式放句首时，逻辑主语与句子主语要一致：<br/>　　wrong：To save money,every means has been tried.<br/>　　right：To save money,he has tried every means. 为了省钱，他使出了浑身解数。<br/>　　wrong：To learn English well,a dictionary is needed.<br/>　　right：To learn English well,he needs a dictionary. 为了学好英语，他需要一本词典。<br/>　　②表结果(往往是与预期愿望相反的结果 意料之外)：常放在never only后<br/>　　He arrived late only to find the train had gone. 他来晚了，只见火车已经走了。<br/>　　I visited him only to find him out. 我去拜访他，只见他出去了。<br/>　　③表原因：常放在形容词后面<br/>　　They were very sad to hear the news. 他们听到这条新闻非常伤心。<br/>　　④表程度：<br/>　　It's too dark for us to see anything. 太暗了，我们什么也看不见。<br/>　　The question is simple for him to answer. 这问题由他来回答是很简单的。</div>
+<div class="para" label-module="para">7．作目的状语：既可以放在句首，也可以放在句尾<br/>　　To tell you the truth,I don't like the way he talked. 说实话，我不喜欢他讲话的方式。</div>
+<div class="para" label-module="para">8．不定式的省略：保留to省略do动词。<br/>　　If you don't want to do it,you don't need to. 如果你不想做这件事，你就不必做。</div>
+<div class="para" label-module="para">9．不定式的并列：第二个不定式可省略to。<br/>　　He wished to study medicine and become a doctor. 他希望学医并成为医生。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_2"></a>
+<a class="lemma-anchor" name="sub79702_2_2"></a>
+<a class="lemma-anchor" name="不定式"></a>
+<a class="lemma-anchor" name="2-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">非谓语动词</span>不定式</h3>
+</div>
+<div class="para" label-module="para">1． “to” 是不定式符号还是<a href="/item/%E4%BB%8B%E8%AF%8D" target="_blank">介词</a>，下列短语中的to 都是介词。</div>
+<div class="para" label-module="para">agree to object to close to,come to,lead to,refer to,</div>
+<div class="para" label-module="para">equal to,familiar to,point to,thank to,devote to,next to,belong to,be used to,look forward to</div>
+<div class="para" label-module="para">2． 带to 还是不带to</div>
+<div class="para" label-module="para">I have no choice but to give in</div>
+<div class="para" label-module="para">I cannot do anything but give in</div>
+<div class="para" label-module="para">I saw him enter the classroom .</div>
+<div class="para" label-module="para">（ 但是：He was seen to enter the classroom .）</div>
+<div class="para" label-module="para">3． 动词不定式逻辑主语是由for 作为标记的。但是有时用of .</div>
+<div class="para" label-module="para">区别：当使用for时，句中形容词修饰的是不定式；而用of时，句中形容词修饰逻辑主语。</div>
+<div class="para" label-module="para">It’s necessary for you to study hard .（necessary 修饰 to study hard，表示学习努力是有必要的）</div>
+<div class="para" label-module="para">It’s foolish of him to do it .（foolish 修饰逻辑主语him）</div>
+<div class="para" label-module="para">与of 连用的形容词有：</div>
+<div class="para" label-module="para">good,kind,nice,wise,clever,foolish,right,wrong,careful,careless,polite,…</div>
+<div class="para" label-module="para">与for连用的通常是一些表示可能性、难易程度、必要性等含义的形容词：</div>
+<div class="para" label-module="para">possible，impossible，easy，hard，difficult，necessary，…</div>
+<div class="para" label-module="para">4．后接不定式作宾语的动词有：</div>
+<div class="para" label-module="para">want,hope,wish,like,begin,try,need,forget,agree,know,promise,teach,refuse,help,arrange,dare,decide,determine,fail,manage,offer,prepare,continue,ask,mean,choose,expect etc.</div>
+<div class="para" label-module="para">需要宾语补足语的动词不能用动词不定式直接做介词的宾语，而要用it做<a href="/item/%E5%BD%A2%E5%BC%8F%E5%AE%BE%E8%AF%AD" target="_blank">形式宾语</a>。例如：通常不说We think to obey the laws important . 而说We think it important to obey the laws .</div>
+<div class="para" label-module="para">5.不定式作宾语补足语时省略to的情况：若不定式前的谓语动词是<a href="/item/%E4%BD%BF%E5%BD%B9%E5%8A%A8%E8%AF%8D" target="_blank">使役动词</a>make，let，have（表示“让、使”）、<a href="/item/%E6%84%9F%E5%AE%98%E5%8A%A8%E8%AF%8D" target="_blank">感官动词</a>see，watch，look at，observe， notice，hear，listen to， feel时，不定式符号to可以省略。这些动词亦可总结为口诀：“三使五看两听一感觉”。例如：</div>
+<div class="para" label-module="para">Let's （to）go！走吧！</div>
+<div class="para" label-module="para">He saw the thief （to）steal a lady’s cellphone.</div>
+<div class="para" label-module="para">注：改为<a href="/item/%E8%A2%AB%E5%8A%A8%E5%8F%A5" target="_blank">被动句</a>时要把to还原，例如：</div>
+<div class="para" label-module="para">The thief was seen<i>to</i>steal a lady’s cellphone.</div>
+<div class="para" label-module="para">6．不定式的省略。下列<a href="/item/%E7%9F%AD%E8%AF%AD" target="_blank">短语</a>中，如果意义明确，常常省略到to。</div>
+<div class="para" label-module="para">want to,wish to,hope to,like to,hate to,plan to,try to,love to,have to,ought to,need to,used to,be able to</div>
+<div class="para" label-module="para">7．不定式作定语，应注意两种关系：</div>
+<div class="para" label-module="para">1）动宾关系：<br/>　　He has a lot of meeting to attend .<br/>　　Please lend me something to write with .<br/>　　He is looking for a room to live<br/>　　He is looking for a room to live in .<br/>　　He has no money and no place<br/>　　to live ( in ) .<br/>　　I think the best way to travel ( by ) is on foot .<br/>　　There is no time to think ( about ) .</div>
+<div class="para" label-module="para">2）主谓关系：<br/>　　She is always the last ( person) to speak at the meeting .<br/>　　----I’m going to the post office,for I have a letter to post . ( 逻辑主语是I )<br/>　　-------Thank you. But I have no letters to be posted now ( 逻辑主语不是I )</div>
+<div class="para" label-module="para">7．不定式作状语，可以有以下几种意义：</div>
+<div class="para" label-module="para">1） 原因<br/>　　He is lucky to get here on time .<br/>　　这种结构中常用的形容词有：<br/>　　happy,glad,delighted,pleased,sorry,eager,anxious . lucky,fortunate,proud,angry surprised,frightened,disappointed,ready,clever,foolish,worthy</div>
+<div class="para" label-module="para">2) 目的</div>
+<div class="para" label-module="para">He came to help me with my maths .</div>
+<div class="para" label-module="para">3) 结果</div>
+<div class="para" label-module="para">I hurried to get there only to find him out .</div>
+<div class="para" label-module="para">The book is too hard for the boy to read .</div>
+<div class="para" label-module="para">He is old enough to go to school .</div>
+<div class="para" label-module="para">8 . 不定式作补足语</div>
+<div class="para" label-module="para">I saw him play in the street just now .</div>
+<div class="para" label-module="para">能跟不带to 的不定式作补足语的动词有：</div>
+<div class="para" label-module="para">see,feel,hear,listen to,look at,watch,let,have make,observe,notice</div>
+<div class="para" label-module="para">注： 当这些词为被动式时，不定式要带to,如：</div>
+<div class="para" label-module="para">He was seen to play in the street just now.</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_3"></a>
+<a class="lemma-anchor" name="sub79702_2_3"></a>
+<a class="lemma-anchor" name="动名词"></a>
+<a class="lemma-anchor" name="2-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">非谓语动词</span>动名词</h3>
+</div>
+<div class="para" label-module="para">动名词：</div>
+<div class="para" label-module="para">动名词既具有动词的一些特征，又具有名词的句法功能。</div>
+<table class="table-view log-set-param" log-set-param="table_view"><tr><td><div class="para" label-module="para">一般式（谓语动词同时发生）</div>
+</td><td><div class="para" label-module="para">doing</div>
+</td><td><div class="para" label-module="para">being done</div>
+</td></tr><tr><td><div class="para" label-module="para">完成式（谓语动词发生之前）</div>
+</td><td><div class="para" label-module="para">having done</div>
+</td><td><div class="para" label-module="para">having been done</div>
+</td></tr></table><div class="para" label-module="para"><b>动名词的形式</b>：Ving</div>
+<div class="para" label-module="para">否定式：not + 动名词</div>
+<ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">一般式：<br/>　　Seeing is believing. 眼见为实。</div>
+</li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">被动式：<br/>　　He came to the party without being invited．他未被邀请就来到了晚会。</div>
+</li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">完成式：<br/>　　We remembered having seen the film. 我们记得看过这部电影。</div>
+</li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">完成被动式：<br/>　　He forgot having been taken to Guangzhou when he was five years old.<br/>　　他忘记五岁时曾被带到广州去过。</div>
+</li><li class="list-num-1-5 list-num-paddingleft-1"><div class="para" label-module="para">否定式：not + 动名词<br/>　　I regret not following his advice. 我后悔没听他的劝告。</div>
+</li><li class="list-num-1-6 list-num-paddingleft-1"><div class="para" label-module="para">复合结构：<a href="/item/%E7%89%A9%E4%B8%BB%E4%BB%A3%E8%AF%8D" target="_blank">物主代词</a>（或名词所有格）+ 动名词<br/>　　He suggested our trying it once again. 他建议我们再试一次。<br/>　　His not knowing English troubled him a lot.<br/>　　他不懂英语给他带来许多麻烦。</div>
+</li></ol><div class="para" label-module="para"><b>动名词的句法功能：</b></div>
+<ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">作主语：<br/>　　Reading aloud is very helpful. 朗读是很有好处的。<br/>　　Collecting stamps is interesting. 集邮很有趣。<br/>　　当<a href="/item/%E5%8A%A8%E5%90%8D%E8%AF%8D%E7%9F%AD%E8%AF%AD" target="_blank">动名词短语</a>作主语时常用it作形式主语。<br/>　　It's no use quarrelling.争吵是没用的。</div>
+</li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">作表语：<br/>　　In the ant city,the queen's job is laying eggs.<br/>　　在蚂蚁王国，蚁后的工作是产卵。</div>
+</li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">作宾语：<br/>　　They haven't finished building the dam. 他们还没有建好大坝。<br/>　　We have to prevent the air from being polluted.<br/>　　我们必须阻止空气被污染。<br/>　　注意动名词既可作动词宾语也可作介词宾语，如上面两个例句。此外，动名词作宾语时，若跟有宾语补足语，则常用形式宾语it，例如：<br/>　　We found it no good making fun of others. 我们发现取笑他人不好。<br/>　　要记住如下动词及短语只跟动名词作宾语：<br/>　　enjoy,finish,suggest,avoid（避免），excuse,delay,imagine,keep,miss,consider,admit（承认），deny（否认），mind,permit,forbid,practise,risk（冒险），appreciate（感激），be busy,be worth,feel like,can't stand,can't help（情不自禁地），think of,dream of,be fond of,prevent…(from),keep …from,stop…（from），protect…from,set about,be engaged in,spend…(in),succeed in,be used to,look forward to,object to,pay attention to,insist on,feel like</div>
+</li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">作定语：<br/>　　He can't walk without a walking-stick. 他没有拐杖不能走路。<br/>　　Is there a swimming pool in your school? 你们学校有游泳池吗？</div>
+</li><li class="list-num-1-5 list-num-paddingleft-1"><div class="para" label-module="para">作<a href="/item/%E5%90%8C%E4%BD%8D%E8%AF%AD" target="_blank">同位语</a>：<br/>　　The cave,his hiding-place is secret. 那个山洞，他藏身的地方很秘密。<br/>　　His habit,listening to the news on the radio remains unchanged．<br/>　　他收听收音机新闻节目的习惯仍未改变。</div>
+</li></ol><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_4"></a>
+<a class="lemma-anchor" name="sub79702_2_4"></a>
+<a class="lemma-anchor" name="现在分词"></a>
+<a class="lemma-anchor" name="2-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">非谓语动词</span>现在分词</h3>
+</div>
+<div class="para" label-module="para">现在分词：现在分词既具有动词的一些特征，又具有形容词和副词的句法功能。</div>
+<div class="para" label-module="para"><b>现在分词的形式：</b><br/>　　否定式：not + 现在分词<br/>　　1．现在分词的主动语态：现在分词主动语态的一般式表示与谓语动词所表示的动作同时发生，完成<br/>　　式表示的动作在谓语动词所表示的动作之前发生，常作状语。例如：<br/>　　They went to the park,singing and talking. 他们边唱边说向公园走去。<br/>　　Having done his homework,he played basket-ball. 做完作业，他开始打篮球。<br/>　　2．现在分词的被动语态：一般式表示与谓语动词同时发生的被动的动作，完成式表示发生在谓语动<br/>　　词之前的被动的动作。<br/>　　The problem being discussed is very important. 正在被讨论的问题很重要。<br/>　　Having been told many times,the naughty boy made the same mistake.<br/>　　被告诉了好几遍，这个淘气的孩子又犯了同一个错误。</div>
+<div class="para" label-module="para"><b>现在分词的句法功能：</b></div>
+<ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">作定语：现在分词作定语，当分词单独做定语时，放在所修饰的名词前；如果是分词短语做定语<br/>　　放在名词后。<br/>　　In the following years he worked even harder.<br/>　　在后来的几年中，他学习更努力了。<br/>　　The man speaking to the teacher is our monitor's father.<br/>　　正与老师谈话的那个人是我们班长的父亲。<br/>　　现在分词作定语相当于一个<a href="/item/%E5%AE%9A%E8%AF%AD%E4%BB%8E%E5%8F%A5" target="_blank">定语从句</a>的句法功能，如：in the following years也可用in the years that<br/>　　followed; the man speaking to the teacher可改为the man who is speaking to the teacher.</div>
+</li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">现在分词作表语：<br/>　　The film being shown in the cinema is exciting. 正在这家上演的电影很棒。<br/>　　The present situation is inspiring. 当前的形势鼓舞人心。<br/>　　be + doing既可能表示<a href="/item/%E7%8E%B0%E5%9C%A8%E8%BF%9B%E8%A1%8C%E6%97%B6" target="_blank">现在进行时</a>，也可能是现在分词做表语，它们的区别在于be + doing表示进行的<br/>　　动作是进行时，而表示特征时是<a href="/item/%E7%B3%BB%E5%8A%A8%E8%AF%8D" target="_blank">系动词</a>be与现在分词构成系表结构。</div>
+</li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">作宾语补足语：<br/>　　如下动词后可跟现在分词作宾语补足语：<br/>　　see,watch,hear,feel,find,get,keep,notice,observe,listen to,look at,leave,catch等。例如：<br/>　　Can you hear her singing the song in the next room? 你能听见她在隔壁唱歌吗？<br/>　　He kept the car waiting at the gate. 他让小汽车在门口等着。</div>
+</li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">现在分词作状语：<br/>　　①作<a href="/item/%E6%97%B6%E9%97%B4%E7%8A%B6%E8%AF%AD" target="_blank">时间状语</a>：<br/>　　(While) Working in the factory,he was an advanced worker.<br/>　　在工厂工作时，他是一名先进工人。<br/>　　②作原因状语：<br/>　　Being a League member,he is always helping others. 由于是共青团员，他经常帮助他人。<br/>　　③作方式状语，表示伴随：<br/>　　He stayed at home,cleaning and washing. 他呆在家里，又擦又洗。<br/>　　④作<a href="/item/%E6%9D%A1%E4%BB%B6%E7%8A%B6%E8%AF%AD" target="_blank">条件状语</a>：<br/>　　(If) Playing all day,you will waste your valuable time.<br/>　　要是整天玩，你就会浪费宝贵的时间。<br/>　　⑤作结果状语：<br/>　　He dropped the glass,breaking it into pieces. 他把杯子掉了，结果摔得粉碎。<br/>　　⑥作目的状语：<br/>　　He went swimming the other day. 几天前他去游泳了。<br/>　　⑦作让步状语：<br/>　　Though raining heavily,it cleared up very soon.<br/>　　虽然雨下得很大，但不久天就晴了。<br/>　　⑧与逻辑主语构成独立主格：<br/>　　I waiting for the bus,a bird fell on my head．<br/>　　我等汽车时，一只鸟落到我头上。<br/>　　All the tickets having been sold out,they went away disappointedly.<br/>　　所有的票已经卖光了，他们失望地离开了。<br/>　　Time permitting,we'll do another two exercises.<br/>　　如果时间允许，我们将做另两个练习。<br/>　　有时也可用with (without) +名词（<a href="/item/%E4%BB%A3%E8%AF%8D" target="_blank">代词</a><a href="/item/%E5%AE%BE%E6%A0%BC" target="_blank">宾格</a>）+分词形式<br/>　　With the lights burning,he fell asleep. 他点着灯睡着了。<br/>　　⑨作独立成分：<br/>　　udging from(by) his appearance,he must be an actor.<br/>　　从外表看，他一定是个演员。<br/>　　Generally speaking,girls are more careful. 一般说来，女孩子更细心。</div>
+</li></ol><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_5"></a>
+<a class="lemma-anchor" name="sub79702_2_5"></a>
+<a class="lemma-anchor" name="过去分词"></a>
+<a class="lemma-anchor" name="2-5"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">非谓语动词</span>过去分词</h3>
+</div>
+<div class="para" label-module="para">过去分词只有一种形式：规则动词由动词原形加词尾-ed构成。<a href="/item/%E4%B8%8D%E8%A7%84%E5%88%99%E5%8A%A8%E8%AF%8D" target="_blank">不规则动词</a>的过去分词没有统一的规则</div>
+<div class="para" label-module="para">要求，要一一记住。</div>
+<ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">过去分词作定语：<br/>　　Our class went on an organized trip last Monday. 上周一我们班开展了一次有组织的旅行。<br/>　　Those selected as committee members will attend the meeting. 当选为委员的人将出席这次会。<br/>　　注意当过去分词是单词时，一般用于名词前，如果是过去分词短语，就放在名词的后面。过去分词做<br/>　　定语相当于一个被动语态的<a href="/item/%E5%AE%9A%E8%AF%AD%E4%BB%8E%E5%8F%A5" target="_blank">定语从句</a>。</div>
+</li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">过去分词作表语：<br/>　　The window is broken. 窗户破了。<br/>　　They were frightened at the sad sight. 他们对眼前悲惨的景象感到很害怕。<br/>　　注意：be + 过去分词，如果表示状态是系表结构，如果表示被动的动作是被动语态。区别：<br/>　　The window is broken.（系表）<br/>　　The window was broken by the boy.（被动）<br/>　　有些过去分词是<a href="/item/%E4%B8%8D%E5%8F%8A%E7%89%A9%E5%8A%A8%E8%AF%8D" target="_blank">不及物动词</a>构成的，不表示被动，只表示完成。如：<br/>　　boiled water（开水） fallen leaves（落叶）<br/>　　newly arrived goods（新到的货） the risen sun（升起的太阳）<br/>　　the changed world（变了的世界）<br/>　　这类过去分词有：gone,come,fallen,risen,changed,arrived,returned,passed等。</div>
+</li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">过去分词作宾语补足语：<br/>　　I heard the song sung several times last week.<br/>　　上周我听见这首歌被唱了好几次。<br/>　　有时过去分词做with短语中的宾语补足语：<br/>　　With the work done,they went out to play. 工作做完了，他们出去玩去了。</div>
+</li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">过去分词作状语：<br/>　　Praised by the neighbours,he became the pride of his parents.<br/>　　受到邻居们的表扬，他成为父母的骄傲。（表示原因）<br/>　　Once seen,it can never be forgotten.<br/>　　一旦它被看见，人们就忘不了。（表示时间）<br/>　　Given more time,I'll be able to do it better.<br/>　　如果给予更多的时间，我能做得更好。（表示条件）<br/>　　Though told of the danger,he still risked his life to save the boy.<br/>　　虽然被告之有危险，他仍然冒生命危险去救那个孩子。（表示让步）<br/>　　Filled with hopes and fears,he entered the cave. 心中充满了希望与恐惧，他走进山洞。</div>
+</li></ol><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub79702_3"></a>
+<a class="lemma-anchor" name="与谓语动词"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">非谓语动词</span>与谓语动词</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_1"></a>
+<a class="lemma-anchor" name="sub79702_3_1"></a>
+<a class="lemma-anchor" name="相同点"></a>
+<a class="lemma-anchor" name="3-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">非谓语动词</span>相同点</h3>
+</div>
+<ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">如果是及物动词都可与宾语连用，例如：</div>
+<div class="para" label-module="para">They built a garden.</div>
+<div class="para" label-module="para">They suggested building a garden.</div>
+</li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">都可以被状语修饰：</div>
+<div class="para" label-module="para">The suit fits him very well.</div>
+<div class="para" label-module="para">The suit used to fit him very well.</div>
+</li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">都有主动与被动，“体”式（一般式；进行式；完成式）的变化。例如：</div>
+<div class="para" label-module="para">He was punished by his parents.（谓语动词被动语态）</div>
+<div class="para" label-module="para">He avoided being punished by his parents.（动名词的被动式）</div>
+<div class="para" label-module="para">We have written the composition.（谓语动词的完成时）</div>
+<div class="para" label-module="para">Having written the composition,we handed it in.（现在分词的完成式）</div>
+</li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">都可以有逻辑主语</div>
+<div class="para" label-module="para">They started the work at once.（谓语动词的逻辑主语）</div>
+<div class="para" label-module="para">The boss ordered them to start the work.（动词不定式的逻辑主语）</div>
+<div class="para" label-module="para">We are League members.（谓语动词的主语）</div>
+<div class="para" label-module="para">We being League member,the work was well done. （现在分词的逻辑主语）</div>
+</li><li class="list-num-1-5 list-num-paddingleft-1"><div class="para" label-module="para">否定式一般用not,并且放在非谓语动词之前</div>
+</li></ol><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_2"></a>
+<a class="lemma-anchor" name="sub79702_3_2"></a>
+<a class="lemma-anchor" name="不同点"></a>
+<a class="lemma-anchor" name="3-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">非谓语动词</span>不同点</h3>
+</div>
+<ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">非谓语动词可以有名词作用（如动词不定式和动名词），在句中做主语、宾语、表语。</div>
+</li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">非谓语动词可以有形容词作用（如动词不定式和分词），在句中做定语、表语或宾语补足语。</div>
+</li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">非谓语动词可以有副词作用（如动词不定式和分词），在句中作状语。</div>
+</li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">谓语动词在句中作谓语，受主语的人称和数的限制；非谓语动词在句中不能单独作谓语，它不受主语的人称和数的限制。</div>
+</li><li class="list-num-1-5 list-num-paddingleft-1"><div class="para" label-module="para">英语中不能单独做句子的谓语。</div>
+</li></ol><dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type2" id="reference-[1]-79702-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_79702" id="refIndex_1_79702" name="refIndex_1_79702" title="向上跳转">  </a>
+<span>中公教育研究生考试研究院</span><span class="text">．MBA、MPA、MPAcc管理类联考 英语 2 完形填空精讲精练 2018中公版</span><span>：世界图书出版公司北京公司</span><span>，2017.01</span><span>：第28页</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+语言术语
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E9%9D%9E%E8%B0%93%E8%AF%AD%E5%8A%A8%E8%AF%8D/1440082/0/91529822720e0cf3b2c9ac430e46f21fbe09aa48?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f209e7c6211f95caa6f595b0f12c1803/91529822720e0cf3b2c9ac430e46f21fbe09aa48.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>非谓语动词图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1440082" data-lemmatitle="非谓语动词"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1440082" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：68次<a class="nslog:1021" href="/historylist/%E9%9D%9E%E8%B0%93%E8%AF%AD%E5%8A%A8%E8%AF%8D/1440082" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="1429767919" href="/usercenter/userpage?uname=%E6%82%A6%E5%92%8C%E5%90%9B&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">悦和君</a><span class="j-modified-time" style="display:none">（2019-06-26）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="1761077" href="/usercenter/userpage?uname=%E8%A2%81%E5%85%8B&amp;from=lemma" target="_blank" title="查看此用户资料" username="袁克">袁克</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">定义</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">形式功能</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_1">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">动词不定式</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_2">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">不定式</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_3">
+<span class="text">
+<span class="title-index">2.3</span>
+<span class="title-link" nslog-type="10002802">动名词</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_4">
+<span class="text">
+<span class="title-index">2.4</span>
+<span class="title-link" nslog-type="10002802">现在分词</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_5">
+<span class="text">
+<span class="title-index">2.5</span>
+<span class="title-link" nslog-type="10002802">过去分词</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">与谓语动词</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_1">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">相同点</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_2">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">不同点</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

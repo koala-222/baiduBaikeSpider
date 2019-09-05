@@ -1,0 +1,840 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+<div class="polysemant-list polysemant-list-normal">
+<div class="polysemantList-header">
+<div class="polysemantList-header-title">
+<b class="polysemant-list-lemma-title">帕特农神庙</b>是一个<a href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%A4%9A%E4%B9%89%E8%AF%8D" target="_blank">多义词</a>，请在下列<a href="/item/%E4%B9%89%E9%A1%B9" target="_blank">义项</a>上选择浏览（<a href="/item/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99?force=1" target="_blank">共4个义项</a>）<span class="polysemant-separator"></span>
+<a class="polysemant-button polysemant-button--add J-polysemant-button--add" data-href="/createsub/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99" href="javascript:;">
+<span class="polysemant-button__text J-polysemant-button__text">添加义项</span>
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add polysemant-button__icon J-polysemant-button__icon"></em>
+</a>
+</div>
+</div>
+<ul class="polysemantList-wrapper cmn-clearfix">
+<li class="item">▪<span class="selected">Parthenon 雅典卫城神庙</span></li>
+<li class="item">▪<a href="/item/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/3717167#viewPageContent" title="多渠道发展的商业模式">多渠道发展的商业模式</a></li>
+<li class="item">▪<a href="/item/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/18686872#viewPageContent" title="美国田纳西州帕特农神庙">美国田纳西州帕特农神庙</a></li>
+<li class="item">▪<a href="/item/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/22123302#viewPageContent" title="《全职法师》中的国际魔法组织">《全职法师》中的国际魔法组织</a></li>
+</ul>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="split-icon top-tool-icon" href="/divideload/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>帕特农神庙</h1>
+<h2>（Parthenon 雅典卫城神庙）</h2>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=62004" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><span class="view-tip-panel">
+<a class="viewTip-icon" href="/subview/71844/10028254.htm" target="_blank" title="同义词">同义词</a>
+<span class="viewTip-fromTitle">巴特农神庙</span>一般指帕特农神庙（Parthenon 雅典卫城神庙）
+</span>
+<div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">帕特农神庙位于<a data-lemmaid="2277161" href="/item/%E5%B8%8C%E8%85%8A%E5%85%B1%E5%92%8C%E5%9B%BD/2277161" target="_blank">希腊共和国</a>首都<a href="/item/%E9%9B%85%E5%85%B8" target="_blank">雅典</a>卫城坐落的<a data-lemmaid="7040271" href="/item/%E5%8F%A4%E5%9F%8E%E5%A0%A1/7040271" target="_blank">古城堡</a>中心、<a data-lemmaid="882714" href="/item/%E7%9F%B3%E7%81%B0%E5%B2%A9/882714" target="_blank">石灰岩</a>的山岗上，耸峙着一座巍峨的矩形建筑物，神庙矗立在<a data-lemmaid="33986" href="/item/%E5%8D%AB%E5%9F%8E/33986" target="_blank">卫城</a>的最高点，这就是在世界艺术宝库中著名的帕特农神庙，又名<a data-lemmaid="1435347" href="/item/%E5%B7%B4%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/1435347" target="_blank">巴特农神庙</a>。</div><div class="para" label-module="para">神庙历经两千多年的沧桑之变，如今庙顶已坍塌，雕像荡然无存，浮雕剥蚀严重，但从巍然屹立的柱廊中，还可以看出神庙当年的丰姿。</div><div class="para" label-module="para">帕特农神庙也译为“巴特农神庙”，是<a data-lemmaid="994807" href="/item/%E9%9B%85%E5%85%B8%E5%8D%AB%E5%9F%8E/994807" target="_blank">雅典卫城</a>最重要的主体建筑。帕特农神庙之名出于<a data-lemmaid="26005" href="/item/%E9%9B%85%E5%85%B8%E5%A8%9C/26005" target="_blank">雅典娜</a>的别名。拉丁字母中Parthenon即希腊文∏αρθενωνας的译写，意为“<a href="/item/%E5%A4%84%E5%A5%B3" target="_blank">处女</a>的”（词根παρθενος，“处女”）。柱式上，帕特农神庙采用的<a data-lemmaid="4834532" href="/item/%E5%A4%9A%E7%AB%8B%E5%85%8B%E6%9F%B1%E5%BC%8F/4834532" target="_blank">多立克柱式</a>。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名称</dt>
+<dd class="basicInfo-item value">
+帕特农神庙
+</dd>
+<dt class="basicInfo-item name">外文名称</dt>
+<dd class="basicInfo-item value">
+Parthenon Temple
+</dd>
+<dt class="basicInfo-item name">地理位置</dt>
+<dd class="basicInfo-item value">
+希腊雅典卫城的古城堡中心
+</dd>
+<dt class="basicInfo-item name">气候类型</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E6%B0%94%E5%80%99" target="_blank">地中海气候</a>
+</dd>
+<dt class="basicInfo-item name">占地面积</dt>
+<dd class="basicInfo-item value">
+2.3万平方英尺
+</dd>
+<dt class="basicInfo-item name">开放时间</dt>
+<dd class="basicInfo-item value">
+8:00-20:00
+</dd>
+<dt class="basicInfo-item name">门票价格</dt>
+<dd class="basicInfo-item value">
+套票12欧元
+</dd>
+<dt class="basicInfo-item name">著名景点</dt>
+<dd class="basicInfo-item value">
+浮雕、女神像
+</dd>
+<dt class="basicInfo-item name">设计者</dt>
+<dd class="basicInfo-item value">
+伊克蒂诺斯
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">建造时间</dt>
+<dd class="basicInfo-item value">
+前447至前432年
+</dd>
+<dt class="basicInfo-item name">别    称</dt>
+<dd class="basicInfo-item value">
+希腊神庙、巴特农神庙
+</dd>
+<dt class="basicInfo-item name">其它译名</dt>
+<dd class="basicInfo-item value">
+巴台农神庙、帕提农神殿
+</dd>
+<dt class="basicInfo-item name">建筑风格</dt>
+<dd class="basicInfo-item value">
+希腊时期典型作品
+</dd>
+<dt class="basicInfo-item name">所属国家</dt>
+<dd class="basicInfo-item value">
+希腊
+</dd>
+<dt class="basicInfo-item name">所属城市</dt>
+<dd class="basicInfo-item value">
+雅典
+</dd>
+<dt class="basicInfo-item name">适宜游玩时节</dt>
+<dd class="basicInfo-item value">
+5、6、9和10月
+</dd>
+<dt class="basicInfo-item name">建议游玩时长</dt>
+<dd class="basicInfo-item value">
+2小时
+</dd>
+<dt class="basicInfo-item name">最佳游玩季节</dt>
+<dd class="basicInfo-item value">
+春秋季节
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">主要景点</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_1">帕特农神庙</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_2">建筑风格</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">实用信息</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">门票信息</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">开放时间</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_3">最佳旅游时间</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_4">注意事项</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">交通信息</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">历史</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_1">兴建</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_2">破坏</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_3">现代修复</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_4">历史作用</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">相关传说</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_1">雅典娜夺城</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_2">帕那太耐节</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub9403690_1"></a>
+<a class="lemma-anchor" name="主要景点"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">帕特农神庙</span>主要景点</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_1"></a>
+<a class="lemma-anchor" name="sub9403690_1_1"></a>
+<a class="lemma-anchor" name="帕特农神庙"></a>
+<a class="lemma-anchor" name="1-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>帕特农神庙</h3>
+</div>
+<div class="para" label-module="para"><a href="/item/%E9%9B%85%E5%85%B8%E5%8D%AB%E5%9F%8E" target="_blank">雅典卫城</a>主<a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/16260702/838ba61ea8d3fd1f1708cae0304e251f94ca5fe2?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="帕特农神庙图片">
+<div class="album-wrap" style="width:220px;height:220px;">
+<img alt="帕特农神庙图片" class="picture" src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=60ed72c4b9389b503cffe750b534e5f1/838ba61ea8d3fd1f1708cae0304e251f94ca5fe2.jpg" style="width:220px;height:220px;"/>
+</div>
+<div class="description">
+帕特农神庙图片<span class="number">(6张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+体建筑，为了歌颂<a href="/item/%E9%9B%85%E5%85%B8" target="_blank">雅典</a>战胜波斯侵略者的胜利而建。设计这座神庙的建筑师为伊克梯诺（lctinus）和卡里克利特（Callicrates）</div>
+<div class="para" label-module="para">帕特农神庙是供奉<a href="/item/%E9%9B%85%E5%85%B8%E5%A8%9C" target="_blank">雅典娜</a>女神的最大神殿，帕特农原意为贞女，是雅典娜的别名。此庙不仅规模最宏伟，坐落在卫城中央最高处，庙内还存放一尊黄金象牙镶嵌的全希腊最高大的<a href="/item/%E9%9B%85%E5%85%B8%E5%A8%9C%E5%A5%B3%E7%A5%9E" target="_blank">雅典娜女神</a>像（<a href="/item/%E8%8F%B2%E8%BF%AA%E4%BA%9A%E6%96%AF" target="_blank">菲迪亚斯</a>亲手制作）。它从公元前447年开始兴建，9年后大庙封顶，又用6年之后各项雕刻也告完成。但1687年威尼斯人与土耳其人作战时，神庙遭到破坏。19世纪下半叶，曾对神庙进行过部分修复，已无法恢复原貌，现仅留有一座石柱林立的外壳。</div>
+<div class="para" label-module="para"><b>外貌</b></div>
+<div class="para" label-module="para">帕特农神庙呈<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/0/73ca591070c122c4c2ce7929?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:198px;" target="_blank" title="伊瑞克提翁神庙的女神柱廊">
+<img alt="伊瑞克提翁神庙的女神柱廊" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ff02c516b9389b503cffe750b534e5f1/838ba61ea8d3fd1f88e77d32304e251f94ca5fc8.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:198px;"/>
+</a>
+<span class="description">
+伊瑞克提翁神庙的女神柱廊
+</span>
+</div>长方形，庙内有前殿、正殿和后殿。神庙基座占地面积达2300平方英尺，有半个足球场那么大，46根高达34英尺的大理石柱撑起了神庙。</div>
+<div class="para" label-module="para">帕特农神庙的设计代表了全希腊建筑艺术的最高水平。从外貌看，它气宇非凡，光彩照人，细部加工也精细无比。它在继承传统的基础上又作了许多创新，事无巨细皆精益求精，由此成为<a href="/item/%E5%8F%A4%E4%BB%A3%E5%BB%BA%E7%AD%91" target="_blank">古代建筑</a>最伟大的典范之作。它采取八柱的多立克式，东西两面是8根柱子，南北两侧则是17根，东西宽31米，南北长70米。东西两立面（全庙的门面）山墙顶部距离地面19米，也就是说，其立面高与宽的比例为19:31，接近<a href="/item/%E5%B8%8C%E8%85%8A%E4%BA%BA" target="_blank">希腊人</a>喜爱的“<a href="/item/%E9%BB%84%E9%87%91%E5%88%86%E5%89%B2%E6%AF%94" target="_blank">黄金分割比</a>”，难怪它让人觉得优美无比。柱高10.5米，柱底直径近2米，即其高宽比超过了5，比古风时期多利亚柱式（三种希腊<a href="/item/%E5%8F%A4%E5%85%B8%E5%BB%BA%E7%AD%91" target="_blank">古典建筑</a>柱式中最简单的一种）通常采用的4比1的高宽比大了不少，柱身也相应颀长秀挺了一些。这反映了多拉克柱式走向古代规范的总趋势。</div>
+<div class="para" label-module="para"><b>命名</b></div>
+<div class="para" label-module="para">帕特农神庙为雅典<a href="/item/%E5%9F%8E%E9%82%A6" target="_blank">城邦</a>守护神雅典娜而建的祭殿。神庙背西朝东，耸立于3层台阶上，玉阶巨柱，画栋镂檐<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/0/b219ebc4b74543a918ddab6b1e178a82b8011456?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:159px;" target="_blank" title="">
+<img alt="" class="lazy-img" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=66f8f6d2d688d43ff4a996f04d1cd2aa/b219ebc4b74543a918ddab6b1e178a82b8011456.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:159px;"/>
+</a>
+</div>，遍饰浮雕，蔚为壮观。整个庙宇由凿有凹槽的46根大理石柱环绕。潘太里科大理石色白，相对<a href="/item/%E5%B8%95%E7%BD%97%E6%96%AF%E5%B2%9B" target="_blank">帕罗斯岛</a>上的优质大理石来说略显粗糙，所以这里的帕罗斯大理石仅供雕塑使用，光滑和无瑕的质地使它显得尤为珍贵。柱间的用大理石砌成的92堵殿墙上，雕刻着栩栩如生的各种神像和珍禽异兽。神庙有两个主殿：祭殿和女神殿，从神庙前门可进祭殿，踏后门可入女神殿。在东边的人字墙上的一组浮雕，镌刻着<a href="/item/%E6%99%BA%E6%85%A7%E5%A5%B3%E7%A5%9E" target="_blank">智慧女神</a>雅典娜从万神之王宙斯头里诞生的生动图案；在西边的人字墙上雕绘着雅典娜与海神<a href="/item/%E6%B3%A2%E5%A1%9E%E5%86%AC" target="_blank">波塞冬</a>争当雅典守护神的场面。传说她和海神波塞冬争夺这座城市。</div>
+<div class="para" label-module="para"><b>雕刻</b></div>
+<div class="para" label-module="para">祭殿的外面的腰线上镂着雅典娜节日的游行盛况：有欢快的青年、美丽的少女、<div class="lemma-picture text-pic layout-right" style="width:166px; float: right;">
+<a class="image-link" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/0/6398ecd37ffbfbe7a8ec9a35?fr=lemma&amp;ct=single" nslog-type="9317" style="width:166px;height:220px;" target="_blank" title="帕特农神庙 雕像">
+<img alt="帕特农神庙 雕像" class="lazy-img" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=bffc3e3f35fae6cd08b4ac633fb20f9e/4bed2e738bd4b31cafd64bb387d6277f9f2ff8d4.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:166px;height:220px;"/>
+</a>
+<span class="description">
+帕特农神庙 雕像
+</span>
+</div>拨琴的乐师、献祭的动物和主事的祭司。在帕特农神庙里，原来还供奉着一尊高达12米的雅典娜女神的雕像。神像设计灵巧，可以搬动或转移隐蔽。形象是这样的；她站立着，长矛靠在肩上，盾牌放在身边，右手托着一个黄金和象牙雕的胜利之神；<a href="/item/%E9%BB%84%E9%87%91%E5%88%B6%E9%80%A0" target="_blank">黄金制造</a>的头盔、胸甲、袍服色泽华贵沉稳，象牙雕刻的脸孔、手脚、臂膀显出柔和的色调，宝石镶嵌的眼睛炯炯发亮……雕塑家在作品完成之后，将之交到了当时最杰出的画家手中，因为他认为“画家的最后笔触能给神像增添宗教色彩”。这座由<a href="/item/%E5%8F%A4%E5%B8%8C%E8%85%8A" target="_blank">古希腊</a>最伟大的雕刻家菲迪亚斯精制作的艺术珍品，在公元146年被东罗马帝国的皇帝掳走，人们只能根据古罗马时代的小型仿制品约略想象她的英姿。</div>
+<div class="para" label-module="para">帕特农神庙几经天灾人祸，真是历尽人间沧桑。393年它被改作<a href="/item/%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82" target="_blank">基督教堂</a>。在<a data-lemmaid="198448" href="/item/%E5%9C%9F%E8%80%B3%E5%85%B6/198448" target="_blank">土耳其</a>统治时期，它又成了伊斯兰的寺院。1687年<a href="/item/%E5%A8%81%E5%B0%BC%E6%96%AF" target="_blank">威尼斯</a>军队炮轰城堡，引爆了<a href="/item/%E5%9C%9F%E8%80%B3%E5%85%B6%E4%BA%BA" target="_blank">土耳其人</a>堆放在神庙里的炸药，把庙顶和殿墙全部炸塌。19世纪初，英国驻<a href="/item/%E5%90%9B%E5%A3%AB%E5%9D%A6%E4%B8%81%E5%A0%A1" target="_blank">君士坦丁堡</a>的大使<a href="/item/%E9%A2%9D%E5%B0%94%E9%87%91" target="_blank">额尔金</a>，雇用工匠，把表现雅典娜勋业的巨型大理石浮雕群像劫走。这批稀世之珍，有些在锯凿过程中破碎损毁，有些因航海遇难而沉入海底，幸存的仍陈列在英法等国的博物馆里。</div>
+<div class="para" label-module="para"><b>内部</b></div>
+<div class="para" label-module="para">神庙<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/0/d0526df072deb097a50f5232?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:164px;" target="_blank" title="帕特农神庙">
+<img alt="帕特农神庙" class="lazy-img" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=218426876c81800a6ae58e0c813433d6/dcc451da81cb39db4621b85ed0160924aa1830d1.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+帕特农神庙
+</span>
+</div>的内部，既遵循<a href="/item/%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%9F%B1%E5%BC%8F" target="_blank">多利亚柱式</a>的惯例，安排得很简单，又主题突出，庄重宏伟。与一般神庙相同，殿堂均分为前后两间，前厅安置神像，后库存放祭品和财物。帕特农神庙的前厅安置着菲迪亚斯制作的黄金象牙雕的雅典娜巨像，高达12米。为配合这尊巨像，前厅用两层多利亚的柱列围绕巨像的左右和后方。上承屋顶，旁开空廊，更衬托出巨像的高大，而它们的檐部也大大简化，只有额枋而没有三陇板和间板。像之前方直到大门为一片空白，不置任何杂物，却在靠近巨像基座处挖出一个长方形水池，利用池中之水反射从大门而来的阳光，使金光闪烁的巨像更显富丽堂皇。和前厅隔开的后库则是真正的宝库，用来存放<a href="/item/%E9%9B%85%E5%85%B8%E6%B5%B7%E4%B8%8A%E5%90%8C%E7%9B%9F" target="_blank">雅典海上同盟</a>各邦交纳的贡金。廊前列雕花铁栅，库房用四根柱子支撑，不过柱子是爱奥尼亚式而非前厅所用的多利亚式。这一方面适应了同盟各邦主要属于爱奥尼亚地区的情况，同时也反映了神庙设计思想的一大特点，即按<a href="/item/%E4%BC%AF%E9%87%8C%E5%85%8B%E5%88%A9" target="_blank">伯里克利</a>所宣扬的“雅典是全希腊的学校”的思想，把两种柱身容于一身。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_2"></a>
+<a class="lemma-anchor" name="sub9403690_1_2"></a>
+<a class="lemma-anchor" name="建筑风格"></a>
+<a class="lemma-anchor" name="1-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>建筑风格</h3>
+</div>
+<div class="para" label-module="para">帕特农神庙特别讲究“视觉矫正”的加工，使本来是直线的部分<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/0/1a94b36e0511bbe280cb4a2b?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:165px;" target="_blank" title="雅典卫城">
+<img alt="雅典卫城" class="lazy-img" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=778419e6b48f8c54e7d3c22d0a282dee/71cf3bc79f3df8dc09d55099cd11728b461028ca.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+雅典卫城
+</span>
+</div>略呈曲线或内倾，因而看起来更有弹力，更觉生动。这种视觉矫正以前在多利亚柱式中就已经注意到了，比如柱身的减杀就是如此。在帕特农神庙中，这种矫正发挥到了无微不至的地步。据研究，这类矫正多达10处之多。比如，此庙四边基石的直线就略作矫正，中央比两端略高，看起来反而更接近直线，避免了纯粹直线所带来的生硬和呆板。相应地，檐部也作了细微调整。在柱子的排列上，也并非全都垂直并列，东西两面各8根柱子中，只有中央两根真正垂直于地面，其余都向中央略微倾斜；边角的柱子与邻近的柱子之间的距离比中央两柱子之间的距离要小，柱身也更加粗壮（底径为1.944米，而不是其他柱子的1.905米）。</div>
+<div class="para" label-module="para">这样处理的原因是，边角柱处于外部的明亮背景，而其余柱子的背景是较暗的墙壁，人的视觉习惯会把尺寸相同的柱子在暗背景上看得较粗，亮处则较细，视觉矫正就是要反其道而行，把亮处的柱子加粗，看起来就一致了。同样，内廊的柱子较细，凹槽却更多。山墙也不是绝对垂直，而是略微内倾，以免站在地面的观察者有立墙外倾之感。装饰浮雕与雕像则向外倾斜，以方便观众欣赏。如此等等，说起来已烦琐，艺术家、设计者和工匠为此花费的时间、精力就更大了。人们仍能从饱经沧桑的神庙看出精微矫正的痕迹和出神入化的效果，这真是文明的奇迹。</div>
+<div class="para" label-module="para"><b>装饰</b></div>
+<div class="para" label-module="para">在装饰方面，本来前厅外围的柱子都是多利亚式的，但檐壁却不用三陇板与间板，而是用一条爱奥尼亚式的装饰带，以浮雕表现雅典人民庆祝大雅典娜节的盛况。这条浮雕带从门廊延伸到南北两面墙上，绕行一周，连为一体。总长160米，人物超过500个。它第一次在神庙主要浮雕上直接表现雅典公民群众和现实社会活动，其构思之大胆也是空前的，反映了<a href="/item/%E9%9B%85%E5%85%B8%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB" target="_blank">雅典民主政治</a>在希波战争后的进一步发展。</div>
+<div class="para" label-module="para">帕特农神庙在古典建筑艺术中之所以成为典范，不仅仅在于它的建筑，更重要的是其雕刻。雅典娜巨像现已丝毫不存，据古人的描述，它实为木胎，黄金象牙只起镶嵌作用，大概肌肤用象牙，衣冠武器则贴以黄金。此类贵重的雕像通常是小型的，雅典把它做成12米高的庞然大物，无非是为了显示雅典财富的充盈。</div>
+<div class="para" label-module="para"><b>浮雕</b></div>
+<div class="para" label-module="para">神庙浮雕的精美和丰富毫不亚于其雕像。那条长达160米的浮雕带一气呵成，气韵生动，人物动作完美，历来被认为是希腊浮雕的杰作。它以表现大雅典娜节游行庆祝活动为主题，第一次把普通公民的形象堂而皇之地列于庙堂之上。这种每隔4年举行一次的大游行从雅典西边的狄甫隆城区开始，然后经过陶区，穿过市场，最后登上卫城。游行的核心内容就是把雅典少年精心编织的一件新袍献给雅典娜。艺术家把160米长的浮雕正好用来表现从游行开始到献袍的全过程。起点在庙西南角上，这儿表现公民群众准备跨鞍上马，然后在长长的南墙和北墙上表现公民游行队伍，其中以骑在马上的青年公民为主。在南北两墙东端转角处，游行队伍开始接近神庙入口，意味着人们已经到达了终点，神圣的卫城，浮雕的内容也由欢呼雀跃而转变为庄重肃静，迈着轻缓步伐的少年们逐渐走向卫城中心。浮雕的终点直<div class="lemma-picture text-pic layout-right" style="width:164px; float: right;">
+<a class="image-link" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/0/d041a4a10bcb98b346106430?fr=lemma&amp;ct=single" nslog-type="9317" style="width:164px;height:220px;" target="_blank" title="帕特农神庙 雕像">
+<img alt="帕特农神庙 雕像" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=7ed491d454e736d15c138b0aab514ffc/bd3eb13533fa828b60c442ebfd1f4134960a5ad7.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:164px;height:220px;"/>
+</a>
+<span class="description">
+帕特农神庙 雕像
+</span>
+</div>接位于神庙的大门，此处特别安排了坐在椅子上观看游行的诸位天神，意味着众神都应邀前来与雅典人同庆佳节。</div>
+<div class="para" label-module="para">在现存的浮雕中，仍然可以看出浮雕的鬼斧神工之处。特别是雅典青年骑马游行的大段浮雕，无论是昂首前奔的骏马还是执缰坐鞍的青年，都刻画得生气怏然。人的体态、马的运动以及飘扬的衣襟都处理得恰到好处。激烈运动和兴高采烈之中又饱含着端庄典雅之美。更可贵的是，数以百计的人和马的形象竟然没有一个是雷同的。他们在向前行进的态势中有跳跃、飞奔、暂歇、举步、备鞍等各种动作，更不必说身形面容、个性气质等差异了。整个浮雕有如一首壮丽的交响乐。</div>
+<div class="para" label-module="para">相比之下，从容缓步的少女则带有一种安静庄重、雍容华贵的古典风韵，后人把它形容为“伟大的单纯和静穆的壮伟”。少女们或单独或结伴而行，还有男性长者对她们指引训示。通过细密如丝线的衣褶，艺术家把原本单调的构图处理得满壁生辉，突出了少女们文静贤淑的风度和坚实健美的体形，有把她们表现得如同圆柱的凹凸纹一般挺直，使浮雕带从南北两面汹涌而来的游行队伍由喧嚣一转而为叩拜入殿时的虔诚肃穆。</div>
+<div class="para" label-module="para">神庙的92块间板浮雕，则用神话传说中希腊人与异族斗争并取得胜利的故事作题材，大概是比喻希腊与波斯的那场生死存亡的战争。由于间板是四方形的，每块浮雕一般只刻一幅厮杀图景。</div>
+<div class="para" label-module="para">除了帕特农神庙外，卫城的另外两个小建筑规模虽小，却各有特色。作为卫城唯一入口的门厅并不强调森严，而只注意形象。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub9403690_2"></a>
+<a class="lemma-anchor" name="实用信息"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">帕特农神庙</span>实用信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_1"></a>
+<a class="lemma-anchor" name="sub9403690_2_1"></a>
+<a class="lemma-anchor" name="门票信息"></a>
+<a class="lemma-anchor" name="2-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>门票信息</h3>
+</div>
+<div class="para" label-module="para">套票12欧元，半票6欧元，套票自购票起4天内有效，包括雅典卫城(Acropolis of Athens)、古代市场(Ancient Agora of Athens)、罗马市场(Roman Agora of Athens)等10个景点。</div>
+<div class="para" label-module="para">免票政策：欧盟学生和18岁以下的游客免费。国定假日和指定假日免费，具体日期为3月6日、4月18日、5月18日(国际博物馆日)、6月5日、9月的最后一个周末(欧洲遗产日)。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_2"></a>
+<a class="lemma-anchor" name="sub9403690_2_2"></a>
+<a class="lemma-anchor" name="开放时间"></a>
+<a class="lemma-anchor" name="2-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>开放时间</h3>
+</div>
+<div class="para" label-module="para">每天8:00-20:00开放，最晚入场时间为19:45。</div>
+<div class="para" label-module="para">1月1日、3月25日、5月1日、复活节周日、12月25日、12月26日关闭。</div>
+<div class="para" label-module="para">1月6日、Shrove Monday、Holy Saturday、Easter Monday、Holy Spirit Day、8月15日、10月28日开放时间为8:00-15:00；Good Friday从12:00开始开放。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_3"></a>
+<a class="lemma-anchor" name="sub9403690_2_3"></a>
+<a class="lemma-anchor" name="最佳旅游时间"></a>
+<a class="lemma-anchor" name="2-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>最佳旅游时间</h3>
+</div>
+<div class="para" label-module="para">最佳旅游时间：5、6、9和10月。春天和秋天是去希腊旅游的最佳时机，特别是5、6、9和10月。 7、8月是欧洲夏季度假季，物价上涨、住宿拥挤。需要注意的是，从12月至次年2月底，部分季节性的小餐馆会停业，渡船会根据天气减少或调整，而公共汽车会照常运营。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_4"></a>
+<a class="lemma-anchor" name="sub9403690_2_4"></a>
+<a class="lemma-anchor" name="注意事项"></a>
+<a class="lemma-anchor" name="2-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>注意事项</h3>
+</div>
+<div class="para" label-module="para">如果想要获得最佳拍摄效果，最好清晨或傍晚人少时候前去。需要爬山，请穿轻便的鞋子。</div>
+<div class="para" label-module="para">卫城是不允许拍摄婚纱照的。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub9403690_3"></a>
+<a class="lemma-anchor" name="交通信息"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">帕特农神庙</span>交通信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><b>地铁</b><br/>　　可选择搭乘地铁红线到卫城站(Acropoli)站下车，出地铁口后往左走，步行一段路后可到达雅典卫城售票处。如住在宪法广场附近，可穿过哈德良大街步行前往卫城东边入口。也可从普西里一路向南从西北方入口进入。</div>
+<div class="para" label-module="para"><b>飞机</b></div>
+<div class="para" label-module="para">国内开通去往雅典埃勒弗瑟里奥斯韦尼泽罗斯国际机场航班的城市较多，可根据自身情况，自由选择。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub9403690_4"></a>
+<a class="lemma-anchor" name="历史"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">帕特农神庙</span>历史</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_1"></a>
+<a class="lemma-anchor" name="sub9403690_4_1"></a>
+<a class="lemma-anchor" name="兴建"></a>
+<a class="lemma-anchor" name="4-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>兴建</h3>
+</div>
+<div class="para" label-module="para">帕特农神庙始建于公元前447年，正式启用是在公元前438年，完全用白色大理石砌成，借着盛大的帕那太耐节奉献给雅典娜。帕特农神庙是希腊全盛时期建筑与雕刻的主要代表，有“希腊国宝”之称，也是人类艺术宝库中一颗璀璨的明珠。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_2"></a>
+<a class="lemma-anchor" name="sub9403690_4_2"></a>
+<a class="lemma-anchor" name="破坏"></a>
+<a class="lemma-anchor" name="4-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>破坏</h3>
+</div>
+<div class="para" label-module="para">5<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/0/2cb4fefe03fe56095d600831?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:148px;" target="_blank" title="帕特农神庙">
+<img alt="帕特农神庙" class="lazy-img" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=4ef1c20c349b033b2888fbd825cf3620/37d12f2eb9389b50d5193f5a8535e5dde6116ed0.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:148px;"/>
+</a>
+<span class="description">
+帕特农神庙
+</span>
+</div>世纪中叶，神庙被改为基督教堂，<a href="/item/%E9%9B%85%E5%85%B8%E5%A8%9C%E7%A5%9E%E5%83%8F" target="_blank">雅典娜神像</a>被移去。1458年土耳其人占领雅典后将神庙改为<a href="/item/%E6%B8%85%E7%9C%9F%E5%AF%BA" target="_blank">清真寺</a>。</div>
+<div class="para" label-module="para">1687年，帕特农神庙遭到大面积的破坏。<a href="/item/%E5%A8%81%E5%B0%BC%E6%96%AF%E4%BA%BA" target="_blank">威尼斯人</a>派Francesco Morosini率领远征队攻击雅典和雅典卫城。奥斯曼土耳其人加强了对雅典卫城的防守，并把帕特农神庙当做一个弹药军火库。正是这个危险的用途导致了神庙的爆炸，作为当地土耳其社区人员避难所的通廊遭到严重破坏。9月26日威尼斯人的迫击炮在费罗帕普斯的山顶开火，瞬间消灭了军火库，内部建筑也被部分摧毁。爆炸摧毁了建筑的中心部位，造成 了内堂的墙壁倒塌，夷为废墟。希腊建筑师和考古学家Kornilia Chatziaslani写道： “三圣所的四面墙几乎面目全非，3/5的雕塑跌坏。大约三百人死于这场爆炸，无数大理石碎片也飞落在这附近。”</div>
+<div class="para" label-module="para">1801-1803年，英国贵族埃尔金<a href="/item/%E5%8B%8B%E7%88%B5" target="_blank">勋爵</a>将大部分残留的雕刻运走，损失最为严重。许多原属神庙的古物，现在散落在<a href="/item/%E4%B8%8D%E5%88%97%E9%A2%A0%E5%8D%9A%E7%89%A9%E9%A6%86" target="_blank">不列颠博物馆</a>、<a href="/item/%E5%8D%A2%E6%B5%AE%E5%AE%AB" target="_blank">卢浮宫</a>、<a href="/item/%E5%93%A5%E6%9C%AC%E5%93%88%E6%A0%B9" target="_blank">哥本哈根</a>等地。</div>
+<div class="para" label-module="para">19世纪下半叶，曾对神庙进行过部分修复，但已无法恢复原貌，现仅留有一座石柱林立的外壳。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_3"></a>
+<a class="lemma-anchor" name="sub9403690_4_3"></a>
+<a class="lemma-anchor" name="现代修复"></a>
+<a class="lemma-anchor" name="4-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>现代修复</h3>
+</div>
+<div class="para" label-module="para">2008年，由希腊政府和<a href="/item/%E6%AC%A7%E7%9B%9F" target="_blank">欧盟</a>支持的帕特农神庙修复计划已进入到第33个年头，欧洲乃至世界一流的<a href="/item/%E8%80%83%E5%8F%A4%E5%AD%A6%E5%AE%B6" target="_blank">考古学家</a>、建筑家、<a href="/item/%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E5%B8%88" target="_blank">土木工程师</a>以及能工巧匠都投入到这项修复工程中，然而很多问题依然困扰着现代学者们。</div>
+<div class="para" label-module="para">1975年，希腊政府拨款2300万美元用于修复帕特农神庙，工程指挥们预计他们能在十年内完成。然而，修复过程中出现的问题令他们始料不及。比如，建筑师们用新的大理石代替那些被损坏的大理石碎片，为了加快工程进度，工程师们采用了凹槽雕刻机器。不过对于细微的纹路雕刻，这种仪器的精确度依然比不上古代工匠的巧手，浮雕的花纹需要一双敏锐的眼睛和把握到位的手感。</div>
+<div class="para" label-module="para">修复工程的负责人马诺里斯·克里斯是雅典国家技术学院建筑系的副教授，同时也是研究帕特农神庙的主要学者。他花了几十年时间研究帕特农神庙的每一个建筑细节，他描述说，古雅典人从11英里外的采石场发掘出大理石，打磨成石柱，然后用大型马车将总共重达10万吨的大理石柱运到雅典卫城中央，并将石柱拉上卫城山丘的顶峰。不过克里斯认为，更费时费力的是打磨雕琢大理石柱的图案和花纹。</div>
+<div class="para" label-module="para">当神庙的大理石表面被摩光后，工匠们用“点刻法”为神庙披上最后的一层外衣：数千名工匠用凿子在神殿的基座、地板、石柱以及大部分外墙上刻出精确的线条，这样使得大理石的光亮更加沉稳并掩盖了表面的瑕疵。克里斯说这才是整个工程最艰难的部分。在当时伟大的雕刻家菲迪亚斯监督下，神庙的部分雕刻被认为是世界上最好的浮雕，厚约5厘米，细节之精美令人惊叹。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_4"></a>
+<a class="lemma-anchor" name="sub9403690_4_4"></a>
+<a class="lemma-anchor" name="历史作用"></a>
+<a class="lemma-anchor" name="4-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>历史作用</h3>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/16260703/b90e7bec54e736d140caa8fc9a504fc2d462696c?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="帕特农神庙">
+<div class="album-wrap" style="width:220px;height:146px;">
+<img alt="帕特农神庙" class="picture" src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=b8ce719d242dd42a5b0906a933395b2f/b90e7bec54e736d140caa8fc9a504fc2d462696c.jpg" style="width:220px;height:146px;"/>
+</div>
+<div class="description">
+帕特农神庙<span class="number">(19张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+帕特农神庙建于公元前450年左右，那正是雅典的黄金时代。政治家伯里克利开创的公民民主成为后世西方人倍加赞赏的体制；此前，雅典人刚刚率领希腊众城邦击败了波斯军队，<a href="/item/%E7%88%B1%E7%90%B4%E6%B5%B7" target="_blank">爱琴海</a>沿岸近200个城邦每年争相为雅典献上金银财宝——这也成为修建帕特农神庙的重要资金来源。</div>
+<div class="para" label-module="para">帕特农神庙用白色大理石砌成，显示雅典人对其城邦的保护神———雅典娜女神的尊崇。<a data-lemmaid="63444" href="/item/%E5%B8%8C%E8%85%8A%E7%A5%9E%E8%AF%9D/63444" target="_blank">希腊神话</a>中，海神<a data-lemmaid="21434" href="/item/%E6%B3%A2%E5%A1%9E%E5%86%AC/21434" target="_blank">波塞冬</a>和智慧女神<a data-lemmaid="26005" href="/item/%E9%9B%85%E5%85%B8%E5%A8%9C/26005" target="_blank">雅典娜</a>争夺雅典城，主神宙斯裁定：谁能给予雅典人一样有用的东西，城便归谁。波赛冬用他的三叉戟敲击岩石，一匹战马奔腾而出，象征战争；雅典娜用其长矛敲击岩石，岩石上长出一棵油橄榄树，这是和平的象征。雅典人选择了雅典娜，这座神庙便用来供奉城邦的守护神。</div>
+<div class="para" label-module="para">神庙不仅仅意味着对神的尊崇，还体现了雅典<a href="/item/%E6%B0%91%E4%B8%BB%E5%88%B6" target="_blank">民主制</a>的萌芽。在神庙内有一幅巨型<a href="/item/%E5%A3%81%E7%94%BB" target="_blank">壁画</a>描述雅典人庆祝节日的盛况，其含义是“所有雅典人的节日”，表明修建神庙的决定来源于城邦所有公民的直接投票。另外，工程的预算和开支都被刻在石头上，供城邦公民监督。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub9403690_5"></a>
+<a class="lemma-anchor" name="相关传说"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">帕特农神庙</span>相关传说</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_1"></a>
+<a class="lemma-anchor" name="sub9403690_5_1"></a>
+<a class="lemma-anchor" name="雅典娜夺城"></a>
+<a class="lemma-anchor" name="5-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>雅典娜夺城</h3>
+</div>
+<div class="para" label-module="para">传说<a data-lemmaid="26005" href="/item/%E9%9B%85%E5%85%B8%E5%A8%9C/26005" target="_blank">雅典娜</a>和海神<a href="/item/%E6%B3%A2%E5%A1%9E%E5%86%AC" target="_blank">波塞冬</a>争夺这座城市。宙斯决定：谁能给人类一件有用的东西，城就归谁。波塞冬用他的三叉戟敲了一下这个城的岩石，一匹战马破石而出，这是战争的象征；雅典娜则用她的长矛敲了一下岩石，岩石上长出一株油橄榄树，这被人们认为是和平的象征。结果，这座城归了雅典娜，从此她便成为雅典的守护神。希腊首都雅典就是以雅典娜的名字命名的。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_2"></a>
+<a class="lemma-anchor" name="sub9403690_5_2"></a>
+<a class="lemma-anchor" name="帕那太耐节"></a>
+<a class="lemma-anchor" name="5-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">帕特农神庙</span>帕那太耐节</h3>
+</div>
+<div class="para" label-module="para">帕那太耐节是雅典人的重要节日，在节日期间，常常举行体育竞技、歌舞活动和穿过全城直至神庙的巡行。巡行活动中最有特色的是：一件由雅典城少女织成的羊毛长袍被挂在一只船的主桅杆上，船被抬在牛车上，这样缓缓移向神庙，羊毛长袍最后被奉献给雅典娜。接着进行的是祭祀活动，献给女神的牺牲是牛或羊。牲口的选择是极为重要的一点，它必须强壮、健康，没有伤口更没有缺陷。在出土的众多陶器上有许多祭神的场面，惟一奇怪的是宰杀牲口的场景总是被省略。牺牲品身上的骨头和肥肉被堆在祭坛上烧，重要的是从这里升起的烟必须升到神像上方，这样神才能充分享用祭品。这种祭神方式显然很特别，据传说是<a href="/item/%E6%99%AE%E7%BD%97%E7%B1%B3%E4%BF%AE%E6%96%AF" target="_blank">普罗米修斯</a>发明的，在分割牺牲品之后，他诱使宙斯选择骨头和油肉那一部分，将精肉留给人类。</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="tashuo-bottom" id="tashuo_bottom">
+<div class="tashuo-bottom-title-essence">
+<img alt="" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/ta-logo-blue_5458427.png"/>
+<span>解读词条背后的知识</span>
+</div>
+<div class="tashuo-single J-item" data-tashuoid="abb5f0b7b09cf2dcd9c77449">
+<div class="tashuo-author">
+<a href="/usercenter/userpage?uk=a2964141&amp;authorId=f39dc6c735a02c4079767926&amp;from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/d50735fae6cd7b892caa252c072442a7d8330e5e.jpg"/></span></div>
+<div class="ta-author-slogan-area">
+<strong>意外艺术</strong>
+<span>轻松了解艺术，从这里开始</span>
+</div>
+<i></i></a>
+</div>
+<div class="tashuo-content">
+<a class="cover" href="/tashuo/browse/content?id=abb5f0b7b09cf2dcd9c77449&amp;lemmaId=62004&amp;fromLemmaModule=list" target="_blank"><img class="cover-img" data-height="" data-width="" src="https://imgsa.baidu.com/baike/pic/item/8d5494eef01f3a296c81ac529025bc315d607ce4.jpg"/></a>
+<div class="tashuo-content-essence">
+<p class="title"><a href="/tashuo/browse/content?id=abb5f0b7b09cf2dcd9c77449&amp;lemmaId=62004&amp;fromLemmaModule=pcBottom" target="_blank">如何用一座城市，看懂欧洲艺术？上篇</a>
+</p>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=abb5f0b7b09cf2dcd9c77449&amp;lemmaId=62004&amp;fromLemmaModule=pcBottom" target="_blank">
+前几天去了趟清迈，从雾霾霾的北京切换到四季如春的南国，人都有点醉氧了。几天的行程下来，泰国最叫人印象深刻的，是那些金碧辉煌的庙宇。清迈的寺庙   貌似每个城市都是一样，文化要深入才能感受，可是建筑第一眼就不打算藏着掖着。所以，如果去一个城市...</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2017-03-31</span><span class="tashuo-like J-like" data-isvote="0"><i></i><strong class="J-number">48</strong></span>
+<span class="tashuo-view"><i>阅读</i><strong>4192</strong></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+营业场所
+</span>
+，<span class="taglist">
+文物考古
+</span>
+，<span class="taglist">
+建筑
+</span>
+，<span class="taglist">
+工业书籍
+</span>
+，<span class="taglist">
+外国历史
+</span>
+，<span class="taglist">
+地理
+</span>
+，<span class="taglist">
+地点
+</span>
+，<span class="taglist">
+历史
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004/0/9a504fc2d5628535dd87af9a97ef76c6a7ef6321?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=d39effce44a98226b8c12c21b2b9de3c/9a504fc2d5628535dd87af9a97ef76c6a7ef6321.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>帕特农神庙图册</div>
+</a>
+</div>
+<div class="tashuo-right" id="tashuo_right">
+<div class="tashuo-right-content-essence">
+<div class="J-items">
+</div>
+</div>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="62004" data-lemmatitle="帕特农神庙"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="62004" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：110次<a class="nslog:1021" href="/historylist/%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99/62004" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="4071689642" href="/usercenter/userpage?uname=%E5%A4%A9%E6%89%8D%E5%90%91%E4%BD%90&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">天才向佐</a><span class="j-modified-time" style="display:none">（2019-06-20）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="17887062" href="/usercenter/userpage?uname=%E9%87%91%E9%92%BB%E4%B8%96%E5%AE%B6&amp;from=lemma" target="_blank" title="查看此用户资料" username="金钻世家">金钻世家</a>
+<div class="right">
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="7982713" href="/usercenter/userpage?uname=%E6%B0%B4%E6%9C%A8%E7%A7%8B%E5%AF%92&amp;from=lemma" target="_blank" title="查看此用户资料" username="水木秋寒">水木秋寒</a>
+<div class="right">
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="1649799" href="/usercenter/userpage?uname=sophylee&amp;from=lemma" target="_blank" title="查看此用户资料" username="sophylee">sophylee</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">主要景点</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_1">
+<span class="text">
+<span class="title-index">1.1</span>
+<span class="title-link" nslog-type="10002802">帕特农神庙</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_2">
+<span class="text">
+<span class="title-index">1.2</span>
+<span class="title-link" nslog-type="10002802">建筑风格</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">实用信息</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_1">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">门票信息</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_2">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">开放时间</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_3">
+<span class="text">
+<span class="title-index">2.3</span>
+<span class="title-link" nslog-type="10002802">最佳旅游时间</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_4">
+<span class="text">
+<span class="title-index">2.4</span>
+<span class="title-link" nslog-type="10002802">注意事项</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">交通信息</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">历史</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_1">
+<span class="text">
+<span class="title-index">4.1</span>
+<span class="title-link" nslog-type="10002802">兴建</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_2">
+<span class="text">
+<span class="title-index">4.2</span>
+<span class="title-link" nslog-type="10002802">破坏</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_3">
+<span class="text">
+<span class="title-index">4.3</span>
+<span class="title-link" nslog-type="10002802">现代修复</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_4">
+<span class="text">
+<span class="title-index">4.4</span>
+<span class="title-link" nslog-type="10002802">历史作用</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">相关传说</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_1">
+<span class="text">
+<span class="title-index">5.1</span>
+<span class="title-link" nslog-type="10002802">雅典娜夺城</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_2">
+<span class="text">
+<span class="title-index">5.2</span>
+<span class="title-link" nslog-type="10002802">帕那太耐节</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

@@ -1,0 +1,808 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<a class="posterFlag excellent-icon" href="/tese" target="_blank" title="特色词条经过百科资深用户精心编写，是符合百科编辑精神的典范之作。"></a>
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>志波海燕</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1435849" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">志波海燕，<a href="/item/%E4%B9%85%E4%BF%9D%E5%B8%A6%E4%BA%BA" target="_blank">久保带人</a>漫画《<a data-lemmaid="5460" href="/item/%E6%AD%BB%E7%A5%9E/5460" target="_blank">死神</a>》中的登场角色。个性豪放开朗，内心温柔可亲。代替体弱多病经常不在的<a data-lemmaid="238588" href="/item/%E6%B5%AE%E7%AB%B9/238588" target="_blank">浮竹</a>，让队员团结一致的<a data-lemmaid="9579850" href="/item/%E5%8D%81%E4%B8%89%E7%95%AA%E9%98%9F/9579850" target="_blank">十三番队</a>的前副队长，尸魂界原来的五大贵族之一<a data-lemmaid="2040850" href="/item/%E5%BF%97%E6%B3%A2%E5%AE%B6/2040850" target="_blank">志波家</a>（已没落）的当家家主。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79464"> </a>
+</div><div class="para" label-module="para">后在蓝染的阴谋中，为了救被<a data-lemmaid="1893680" href="/item/%E8%99%9A/1893680" target="_blank">虚</a>吞噬的妻子，为了一个男人的尊严而在与虚作战中被吞噬，为了不拖累同伴而自愿撞上<a data-lemmaid="942419" href="/item/%E6%9C%BD%E6%9C%A8%E9%9C%B2%E7%90%AA%E4%BA%9A/942419" target="_blank">朽木露琪亚</a>的刀尖最后牺牲<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_79464"> </a>
+。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="lemmaWgt-focusAndRelation">
+<ul class="focusAndRelation">
+<li class="module relation">
+<div class="flag"><i>人物关系</i><em></em></div>
+<a class="viewPort nslog-area" href="/item/%E6%B5%AE%E7%AB%B9%E5%8D%81%E5%9B%9B%E9%83%8E/1300684" nslog-type="10000302" target="_blank">
+<img src="https://imgsa.baidu.com/baike/pic/item/aa18972bd40735fa2cf170e793510fb30f24086e.jpg"/>
+</a>
+<div class="hasErrorBox hasErrorHidden">
+<a class="hasError" href="">
+有错误<span class="relateId" style="display:none;">1300684</span></a>
+<span class="hadSubError">已反馈</span>
+</div>
+</li>
+<li class="relateOnlyOne" id="fixBox">
+<div class="openFix" title="若关系内容有误，请点击纠错进行反馈">纠错</div>
+<div class="closeFix">关闭纠错</div>
+</li>
+</ul>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" id="errFormSub" method="post" target="userSubErr">
+<input id="source_id" name="source_id" type="text" value=""/>
+<input id="errForm_query" name="query" type="text" value=""/>
+<input id="html_url" name="html_url" type="text" value=""/>
+<input id="img_url" name="img_url" type="text" value=""/>
+</form>
+<iframe frameborder="0" id="userSubErr" name="userSubErr" style="display:none;">
+</iframe>
+</div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95" target="_blank">志波海燕</a>
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+しば かいえん
+<br/>罗马音：shiba kaien
+</dd>
+<dt class="basicInfo-item name">配    音</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E5%85%B3%E4%BF%8A%E5%BD%A6" target="_blank">关俊彦</a>
+</dd>
+<dt class="basicInfo-item name">登场作品</dt>
+<dd class="basicInfo-item value">
+<a data-lemmaid="5460" href="/item/%E6%AD%BB%E7%A5%9E/5460" target="_blank">死神</a>（<a href="/item/BLEACH" target="_blank">BLEACH</a>）
+</dd>
+<dt class="basicInfo-item name">生    日</dt>
+<dd class="basicInfo-item value">
+10月27日<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79464"> </a>
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">性    别</dt>
+<dd class="basicInfo-item value">
+男
+</dd>
+<dt class="basicInfo-item name">身    高</dt>
+<dd class="basicInfo-item value">
+183cm<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79464"> </a>
+</dd>
+<dt class="basicInfo-item name">体    重</dt>
+<dd class="basicInfo-item value">
+68kg<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79464"> </a>
+</dd>
+<dt class="basicInfo-item name">喜    好</dt>
+<dd class="basicInfo-item value">
+午睡、结交朋友、牡丹饼
+</dd>
+<dt class="basicInfo-item name">初次登场</dt>
+<dd class="basicInfo-item value">
+漫画第83章、动画第25集
+</dd>
+<dt class="basicInfo-item name">斩魄刀</dt>
+<dd class="basicInfo-item value">
+捩花<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79464"> </a>
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">角色形象</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_1">身份背景</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_2">相貌衣着</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_3">性格特点</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">角色能力</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">人际关系</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">角色经历</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_1">早期经历</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_2">战死沙场</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_3">灵体被夺</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_4">死后影响</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">角色歌曲</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">对战记录</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub79464_1"></a>
+<a class="lemma-anchor" name="角色形象"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">志波海燕</span>角色形象</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_1"></a>
+<a class="lemma-anchor" name="sub79464_1_1"></a>
+<a class="lemma-anchor" name="身份背景"></a>
+<a class="lemma-anchor" name="1-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">志波海燕</span>身份背景</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849/0/58ee3d6d55fbb2fb05a49da54f4a20a44723dcfe?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:165px;" target="_blank" title="">
+<img alt="" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=0c220684738da9774a2f81298050f872/58ee3d6d55fbb2fb05a49da54f4a20a44723dcfe.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:165px;"/>
+</a>
+</div><b></b>出身于<a href="/item/%E5%B0%B8%E9%AD%82%E7%95%8C" target="_blank">尸魂界</a>贵族<a href="/item/%E5%BF%97%E6%B3%A2%E5%AE%B6%E6%97%8F" target="_blank">志波家族</a>，毕业于尸魂界<a href="/item/%E7%9C%9F%E5%A4%AE%E7%81%B5%E6%9C%AF%E9%99%A2" target="_blank">真央灵术院</a>，修行地在西<a href="/item/%E6%B5%81%E9%AD%82%E8%A1%97" target="_blank">流魂街</a>三地区北端鲤伏山。为尸魂界<a href="/item/%E6%8A%A4%E5%BB%B7%E5%8D%81%E4%B8%89%E9%98%9F" target="_blank">护廷十三队</a>中<a href="/item/%E5%8D%81%E4%B8%89%E7%95%AA%E9%98%9F" target="_blank">十三番队</a>前副队长，上级是身体病弱但善良温和的<a href="/item/%E6%B5%AE%E7%AB%B9%E5%8D%81%E5%9B%9B%E9%83%8E" target="_blank">浮竹十四郎</a>队长<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_79464"> </a>
+。</div>
+<div class="para" label-module="para"><b></b></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_2"></a>
+<a class="lemma-anchor" name="sub79464_1_2"></a>
+<a class="lemma-anchor" name="相貌衣着"></a>
+<a class="lemma-anchor" name="1-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">志波海燕</span>相貌衣着</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849/0/e865a69990a483366f068c41?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:165px;" target="_blank" title="海燕与露琪亚初期见面">
+<img alt="海燕与露琪亚初期见面" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=94cb12fa51da81cb4ae684cf6267d0a4/f703738da97739128abe7f6ff8198618367ae220.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+海燕与露琪亚初期见面
+</span>
+</div>黑色头发、深烟青瞳孔，左手腕有<a href="/item/%E5%BF%97%E6%B3%A2%E5%AE%B6" target="_blank">志波家</a>的家纹“崩裂的堕天涡潮”刺青。有志波家标志性的长长下睫毛。鼻梁上有天生的印记。发尾微长。发型相貌有些类似黑发的一护<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_79464"> </a>
+。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_3"></a>
+<a class="lemma-anchor" name="sub79464_1_3"></a>
+<a class="lemma-anchor" name="性格特点"></a>
+<a class="lemma-anchor" name="1-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">志波海燕</span>性格特点</h3>
+</div>
+<div class="para" label-module="para">够仁义又讲义气，是受到很多队员敬慕的有人望的好男人。不管身份立场如何，海燕都能够无差别的对待同队的每一位队士。他公正的态度，不管是贵族出身的队士还是流魂街出身的队士都很喜欢他。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79464"> </a>
+对妻子温柔关切，对队长非常尊敬和体贴辅佐，对部下们有着朋友般的热忱和大哥般的照顾，在朽木露琪亚加入<a href="/item/%E5%8D%81%E4%B8%89%E7%95%AA%E9%98%9F" target="_blank">十三番队</a>后，亲自教导她各种战斗方式，对其格外关怀<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_79464"> </a>
+。</div>
+<div class="para" label-module="para">作者在附录特典集赋予海燕的关键词为“阳”。<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_79464"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub79464_2"></a>
+<a class="lemma-anchor" name="角色能力"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">志波海燕</span>角色能力</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<table class="transparentBorder" log-set-param="table_view" width="99%"><tr><td align="left" valign="top"><div class="para" label-module="para"><b><a href="/item/%E6%96%A9%E9%AD%84%E5%88%80" target="_blank">斩魄刀</a></b>：<a href="/item/%E6%8D%A9%E8%8A%B1" target="_blank">捩花</a></div>
+<div class="para" label-module="para">日语：ねじばな</div>
+<div class="para" label-module="para">英语：Nejibana<sup class="sup--normal" data-ctrmap=":5," data-sup="5">
+[5]</sup><a class="sup-anchor" name="ref_[5]_79464"> </a>
+</div>
+</td><td align="center" valign="middle" width="100"><div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849/0/43a7d933c895d143ca0b506b70f082025aaf077c?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:205px;" target="_blank" title="捩花">
+<img alt="捩花" class="lazy-img" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=b68826feca177f3e1434fb0f40ce3bb9/43a7d933c895d143ca0b506b70f082025aaf077c.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:205px;"/>
+</a>
+<span class="description">
+捩花
+</span>
+</div></div>
+</td></tr><tr><td align="left" valign="top"><div class="para" label-module="para">解放语：水天逆卷け，捩花！（让水天逆卷吧，捩花！）</div>
+<div class="para" label-module="para">属性：水系</div>
+<div class="para" label-module="para">解放形态：<a href="/item/%E6%96%A9%E9%AD%84%E5%88%80" target="_blank">斩魄刀</a>成为如海皇波塞冬一般的三叉戟型长枪，末端为螺旋形锥状。游戏中为水蓝色缨，动画及漫画彩图中为深蓝。有旋、刺、挑等枪术，伴随着周围产生波涛般的灵子水花，看起来像是劈波斩浪的招式一般。</div>
+<div class="para" label-module="para">攻击方式：使用独特的高架势，以单手腕为轴心，用回转作为主要攻击，是舞蹈般的枪术，然后利用伴随着枪击一同卷起的波涛，将敌人压碎并两断。（露琪亚语）<sup class="sup--normal" data-ctrmap=":6,:7," data-sup="6-7">
+[6-7]</sup><a class="sup-anchor" name="ref_[6-7]_79464"> </a>
+</div>
+</td><td align="center" valign="middle" width="100"><div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849/16116543/c995d143ad4bd1131a4c037a59afa40f4afb05f0?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="始解">
+<div class="album-wrap" style="width:220px;height:209px;">
+<img alt="始解" class="picture" src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=a0abfe466409c93d03f209f5af3cf8bb/c995d143ad4bd1131a4c037a59afa40f4afb05f0.jpg" style="width:220px;height:209px;"/>
+</div>
+<div class="description">
+始解<span class="number">(4张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div>
+</td></tr></table><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub79464_3"></a>
+<a class="lemma-anchor" name="人际关系"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">志波海燕</span>人际关系</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><b></b></div>
+<table class="table-view log-set-param" log-set-param="table_view" width="658"><tr><th width="42">关系</th><th width="74">姓名</th><th width="541">介绍</th></tr><tr><td valign="top" width="42"><b>妻子</b></td><td colspan="1" rowspan="1" valign="top" width="74">志波美亚子</td><td valign="top" width="541">或译<a href="/item/%E5%BF%97%E6%B3%A2%E9%83%BD" target="_blank">志波都</a>，已故，与海燕同在<a href="/item/%E5%8D%81%E4%B8%89%E7%95%AA%E9%98%9F" target="_blank">十三番队</a>，为第三席，由于她的牺牲导致海燕为了尊严与梅塔史塔西亚战斗而死<sup class="sup--normal" data-ctrmap=":5," data-sup="5">
+[5]</sup><a class="sup-anchor" name="ref_[5]_79464"> </a>
+</td></tr><tr><td colspan="1" rowspan="1" valign="top"><b>下属</b></td><td colspan="1" rowspan="1" valign="top"><a href="/item/%E6%9C%BD%E6%9C%A8%E9%9C%B2%E7%90%AA%E4%BA%9A" target="_blank">朽木露琪亚</a></td><td colspan="1" rowspan="1" valign="top">与海燕同为十三番队队员，颇受海燕照顾，海燕牺牲于露琪亚的斩魄刀上<sup class="sup--normal" data-ctrmap=":8," data-sup="8">
+[8]</sup><a class="sup-anchor" name="ref_[8]_79464"> </a>
+</td></tr><tr><td valign="top" width="42"><b>妹妹</b></td><td colspan="1" rowspan="1" valign="top" width="74">志波空<a href="/item/%E9%B9%A4" target="_blank">鹤</a></td><td valign="top" width="541"><div class="para" label-module="para">因哥哥死于死神之手而对声称死神十分厌恶，实际上已从浮竹十四郎那里了解真相<sup class="sup--normal" data-ctrmap=":9," data-sup="9">
+[9]</sup><a class="sup-anchor" name="ref_[9]_79464"> </a>
+</div>
+</td></tr><tr><td valign="top" width="42"><b>弟弟</b></td><td colspan="1" rowspan="1" valign="top" width="74"><a href="/item/%E5%BF%97%E6%B3%A2%E5%B2%A9%E9%B9%AB" target="_blank">志波岩鹫</a></td><td valign="top" width="541">因哥哥死于死神之手而自称为西边流魂街最讨厌死神的人<sup class="sup--normal" data-ctrmap=":10," data-sup="10">
+[10]</sup><a class="sup-anchor" name="ref_[10]_79464"> </a>
+</td></tr><tr><td valign="top" width="42"><b>家仆</b></td><td colspan="1" rowspan="1" valign="top" width="74"><a href="/item/%E9%87%91%E5%BD%A6" target="_blank">金彦</a>、<a href="/item/%E9%93%B6%E5%BD%A6" target="_blank">银彦</a></td><td valign="top" width="541">原来是监督教育海燕和空鹤的，在志波家衰败的时候只有他们一直留下来照看志波家</td></tr><tr><td valign="top" width="42"><b>宠物</b></td><td colspan="1" rowspan="1" valign="top" width="74">波尼</td><td valign="top" width="541">野猪，后成为岩鹫的坐骑</td></tr><tr><td valign="top" width="42"><b>伯父</b></td><td colspan="1" rowspan="1" valign="top" width="74"><a href="/item/%E9%BB%91%E5%B4%8E%E4%B8%80%E5%BF%83" target="_blank">黑崎一心</a></td><td valign="top" width="541"><div class="para" label-module="para">同是志波家族的人，是海燕的长辈<a href="/item/11" target="_blank"><sup class="sup--normal" data-ctrmap=":11," data-sup="11">
+[11]</sup></a><a class="sup-anchor" name="ref_[11]_79464"> </a>
+</div>
+</td></tr></table><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub79464_4"></a>
+<a class="lemma-anchor" name="角色经历"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">志波海燕</span>角色经历</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_1"></a>
+<a class="lemma-anchor" name="sub79464_4_1"></a>
+<a class="lemma-anchor" name="早期经历"></a>
+<a class="lemma-anchor" name="4-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">志波海燕</span>早期经历</h3>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849/203128/d048addea6e58914ccbf1a90?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="志波海燕剧情截图">
+<div class="album-wrap" style="width:220px;height:165px;">
+<img alt="志波海燕剧情截图" class="picture" src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=fc3b48745343fbf2c12ca121807fca1e/fcfaaf51f3deb48fb633cca2f01f3a292df57877.jpg" style="width:220px;height:165px;"/>
+</div>
+<div class="description">
+志波海燕剧情截图<span class="number">(20张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+海燕是名天才，他在进入死神统学院“<a href="/item/%E7%9C%9F%E5%A4%AE%E7%81%B5%E6%9C%AF%E9%99%A2" target="_blank">真央灵术院</a>”的考试中一次合格，成功进入灵术院学习，当时的灵力已经达到六等。</div>
+<div class="para" label-module="para">只用了一年就修行完了六年的课程，成为三席进入<a href="/item/%E5%8D%81%E4%B8%89%E7%95%AA%E9%98%9F" target="_blank">十三番队</a>。</div>
+<div class="para" label-module="para">之后只用了五年便担任了护庭十三队十三番队的副队长。</div>
+<div class="para" label-module="para">由于队长<a href="/item/%E6%B5%AE%E7%AB%B9%E5%8D%81%E5%9B%9B%E9%83%8E" target="_blank">浮竹十四郎</a>身体病弱，所以平时由海燕代替他全权管理队务<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_79464"> </a>
+。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_2"></a>
+<a class="lemma-anchor" name="sub79464_4_2"></a>
+<a class="lemma-anchor" name="战死沙场"></a>
+<a class="lemma-anchor" name="4-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">志波海燕</span>战死沙场</h3>
+</div>
+<div class="para" label-module="para">因为妻子被<a data-lemmaid="1299250" href="/item/%E8%93%9D%E6%9F%93%E6%83%A3%E5%8F%B3%E4%BB%8B/1299250" target="_blank">蓝染惣右介</a>制造的实验体，有融合能力的虚——<a href="/item/%E6%A2%85%E5%A1%94%E5%8F%B2%E5%A1%94%E8%A5%BF%E4%BA%9A" target="_blank">梅塔史塔西亚</a>吞噬而死去，为了替妻子报仇，海燕与梅塔史塔西亚展开激烈战斗，却不料该<a data-lemmaid="1893680" href="/item/%E8%99%9A/1893680" target="_blank">虚</a>的能力是让<a href="/item/%E6%96%A9%E9%AD%84%E5%88%80" target="_blank">斩魄刀</a>消失，海燕不幸被能力特殊的梅塔史塔西亚吞噬<sup class="sup--normal" data-ctrmap=":5," data-sup="5">
+[5]</sup><a class="sup-anchor" name="ref_[5]_79464"> </a>
+，为了维护理智和尊严，海燕自愿撞上露琪亚的斩魄刀而牺牲。<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_79464"> </a>
+</div>
+<div class="para" label-module="para">他的逝去给露琪亚留下了无尽的思念、悔恨、遗憾和无法开解的苦痛<sup class="sup--normal" data-ctrmap=":8," data-sup="8">
+[8]</sup><a class="sup-anchor" name="ref_[8]_79464"> </a>
+。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_3"></a>
+<a class="lemma-anchor" name="sub79464_4_3"></a>
+<a class="lemma-anchor" name="灵体被夺"></a>
+<a class="lemma-anchor" name="4-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">志波海燕</span>灵体被夺</h3>
+</div>
+<div class="para" label-module="para">志波海燕被有融合能力的<a href="/item/%E6%A2%85%E5%A1%94%E5%8F%B2%E5%A1%94%E8%A5%BF%E4%BA%9A" target="_blank">梅塔史塔西亚</a>吞噬，梅塔史塔西亚被<a href="/item/%E6%9C%BD%E6%9C%A8%E9%9C%B2%E7%90%AA%E4%BA%9A" target="_blank">朽木露琪亚</a>所斩杀之后，和被其融合的志波海燕的灵体一起被返送<a href="/item/%E8%99%9A%E5%9C%88" target="_blank">虚圈</a>重新构造。<sup class="sup--normal" data-ctrmap=":12," data-sup="12">
+[12]</sup><a class="sup-anchor" name="ref_[12]_79464"> </a>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849/0/d56b36349eeb960f5bb5f582?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:165px;" target="_blank" title="亚罗尼洛·艾鲁鲁耶利">
+<img alt="亚罗尼洛·艾鲁鲁耶利" class="lazy-img" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=9c0a4f804aed2e73f8e9812eb700a16d/08f790529822720ea68342fe7bcb0a46f21fab61.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+亚罗尼洛·艾鲁鲁耶利
+</span>
+</div>第九<a href="/item/%E5%8D%81%E5%88%83" target="_blank">十刃</a><a href="/item/%E4%BA%9A%E7%BD%97%E5%B0%BC%E6%B4%9B%C2%B7%E8%89%BE%E9%B2%81%E9%B2%81%E8%80%B6%E5%88%A9" target="_blank">亚罗尼洛·艾鲁鲁耶利</a>吞噬了死亡的梅塔史塔西亚后，因此拥有了梅塔史塔西亚的无限融合进化能力，并获了志波海燕的灵体和记忆，可以变身为志波海燕的相貌。海燕自身的意识思想已经死去，构成灵体和记忆的灵力被亚罗尼洛的“<a href="/item/%E5%99%AC%E8%99%9A" target="_blank">噬虚</a>”能力所融合，成为其自身的灵力。亚罗尼洛只是获取了海燕的相貌、能力和记忆中的经验，与真实的志波海燕并无生命和意识上的延续关系，因此不能单纯理解为“就是同一人”。<sup class="sup--normal" data-ctrmap=":13," data-sup="13">
+[13]</sup><a class="sup-anchor" name="ref_[13]_79464"> </a>
+已被露琪亚用叄舞·白刃击败。<sup class="sup--normal" data-ctrmap=":14," data-sup="14">
+[14]</sup><a class="sup-anchor" name="ref_[14]_79464"> </a>
+露琪亚在<a href="/item/%E8%99%9A%E5%9C%88" target="_blank">虚圈</a>一战中，不得不克服心理阴影与其战斗。<sup class="sup--normal" data-ctrmap=":15,:16," data-sup="15-16">
+[15-16]</sup><a class="sup-anchor" name="ref_[15-16]_79464"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_4"></a>
+<a class="lemma-anchor" name="sub79464_4_4"></a>
+<a class="lemma-anchor" name="死后影响"></a>
+<a class="lemma-anchor" name="4-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">志波海燕</span>死后影响</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849/0/0b07ec1fdfbaa45df724e457?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:165px;" target="_blank" title="海燕与露琪亚聊天">
+<img alt="海燕与露琪亚聊天" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=221a4d18cffc1e17f9bf8b337a91f67c/f603918fa0ec08fa308ee9a959ee3d6d55fbda36.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+海燕与露琪亚聊天
+</span>
+</div>海燕曾经是<a href="/item/%E6%9C%BD%E6%9C%A8%E9%9C%B2%E7%90%AA%E4%BA%9A" target="_blank">朽木露琪亚</a>崇拜的对象，而且因为与<a href="/item/%E9%BB%91%E5%B4%8E%E4%B8%80%E6%8A%A4" target="_blank">黑崎一护</a>的相似使在他身上的谜团也越来越多，在被<a href="/item/%E5%B0%B8%E9%AD%82%E7%95%8C" target="_blank">尸魂界</a>得知<a href="/item/%E9%9C%B2%E7%90%AA%E4%BA%9A" target="_blank">露琪亚</a>的死神之力被人类（黑崎一护）拿走后，特地派<a href="/item/%E5%85%AD%E7%95%AA%E9%98%9F" target="_blank">六番队</a>队长<a href="/item/%E6%9C%BD%E6%9C%A8%E7%99%BD%E5%93%89" target="_blank">朽木白哉</a>（露琪亚的大哥）与六番队副队长<a href="/item/%E9%98%BF%E6%95%A3%E4%BA%95%E6%81%8B%E6%AC%A1" target="_blank">阿散井恋次</a>（露琪亚的青梅竹马）来到现世将露琪亚强行带回尸魂界，在一护被朽木白哉刺中倒地后，朽木白哉对要跑到倒地满身是血的一护身边的露琪亚说过“其实这个小鬼（指一护）跟他（指海燕）非常的像”，如此而来海燕应该是故事发展的关键人物之一。</div>
+<div class="para" label-module="para">529话说明<a href="/item/%E9%BB%91%E5%B4%8E%E4%B8%80%E5%BF%83" target="_blank">黑崎一心</a>原名志波一心，是<a href="/item/%E5%BF%97%E6%B3%A2%E7%A9%BA%E9%B9%A4" target="_blank">志波空鹤</a>的伯父，海燕应该是一护的堂哥，所以长得像也可以理解了<sup class="sup--normal" data-ctrmap=":11," data-sup="11">
+[11]</sup><a class="sup-anchor" name="ref_[11]_79464"> </a>
+。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub79464_5"></a>
+<a class="lemma-anchor" name="角色歌曲"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">志波海燕</span>角色歌曲</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<table class="transparentBorder" log-set-param="table_view" width="658"><tr><td align="center" valign="middle" width="446"><div class="para" label-module="para" style="text-align: center;"><div class="lemma-picture text-pic layout-center" style="width:220px; float: none; display: block; margin: 0px auto; clear: both;">
+<a class="image-link" href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849/0/faf2b2119313b07e0810f87e0bd7912397dd8c13?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:220px;" target="_blank" title="">
+<img alt="" class="lazy-img" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=fffdc8bdb5fb43161e1f7d7810a54642/faf2b2119313b07e0810f87e0bd7912397dd8c13.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:220px;"/>
+</a>
+</div></div>
+</td><td align="center" valign="middle" width="211"><div class="para" label-module="para"><b>角色歌：木漏れ日</b></div>
+<div class="para" label-module="para"><b>作词：东川 遥</b></div>
+<div class="para" label-module="para"><b>作曲：津田直士</b></div>
+<div class="para" label-module="para"><b>演唱：关俊彦</b></div>
+<div class="para" label-module="para"><b>参考资料：<sup class="sup--normal" data-ctrmap=":17," data-sup="17">
+[17]</sup><a class="sup-anchor" name="ref_[17]_79464"> </a>
+</b></div>
+</td></tr></table><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6"></a>
+<a class="lemma-anchor" name="sub79464_6"></a>
+<a class="lemma-anchor" name="对战记录"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">志波海燕</span>对战记录</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">VS<a href="/item/%E6%A2%85%E5%A1%94%E5%8F%B2%E5%A1%94%E8%A5%BF%E4%BA%9A" target="_blank">梅塔史塔西亚</a>，败<sup class="sup--normal" data-ctrmap=":5," data-sup="5">
+[5]</sup><a class="sup-anchor" name="ref_[5]_79464"> </a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a class="anchor-2" name="rs_79464_37447"></a>
+<div class="rslazy rs-container" id="rs-container-79464-37447" lazy-init="lemmars.topicLazyLoadAction(baidu.g('rs-79464-37447'))" style="height:423px"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":37447,"fentryTableName":"\u6b7b\u795eBLEACH","fentryTableType":2,"entryId":61459,"templateId":37436,"entryTitle":"\u6b7b\u795e","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([79464, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type2" id="reference-[1]-79464-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_79464" id="refIndex_1_79464" name="refIndex_1_79464" title="向上跳转">  </a>
+<span>久保带人</span><span class="text">．BLEACH OFFICIAL CHARACTER BOOK SOULs．</span><span>．台湾</span><span>：东立</span><span>，2007</span><span>：170</span></li><li class="reference-item reference-item--type1" id="reference-[2]-79464-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_79464" id="refIndex_2_79464" name="refIndex_2_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/d59bMNOnpXWAjy_lEdhpyY2m24Wyy_sSUEi4SaL28Gk7I7TNLctQ0gSxb_L64ZT4XgwxOW3ed8eesSzLxxLcqR2vO6HQHYGcnrrBQmX_Mw" rel="nofollow" target="_blank">《死神》第136话 雨中的回忆2 op.4“悔恨之夜”<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2016-02-01]</span></li><li class="reference-item reference-item--type1" id="reference-[3]-79464-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_79464" id="refIndex_3_79464" name="refIndex_3_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/d1c460a6xg3Gv3Hpasma7EBZRM7-3JrRHFKWPGiji0NmSS9PgapVjROJaOfwbd0Ctqc2UmahWR7DiARgW0Woq5L8IbcATibDE-hktFzTXw" rel="nofollow" target="_blank">《死神》第134话 雨中的回忆2 op2“渴求庇护”<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2014-12-04]</span></li><li class="reference-item reference-item--type3" id="reference-[4]-79464-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor" href="#ref_[4]_79464" id="refIndex_4_79464" name="refIndex_4_79464" title="向上跳转">  </a>
+<span class="text">《Bleach》【THE REBOOTED SOULS】特典集</span>
+</li><li class="reference-item reference-item--type1" id="reference-[5]-79464-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor" href="#ref_[5]_79464" id="refIndex_5_79464" name="refIndex_5_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/2067qtewnOQh0qnbhxm4IkjD9xASpSHDOfkjjSqOXEBXz_OmSkSlrdYuuBYDsNpaE86kWZOOkV5K4pihkx58ud4GUxuSFdz9kFFypReqrg" rel="nofollow" target="_blank">《死神》第135话 雨中的回忆2 op.3“为黑夜所染”<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2016-02-01]</span></li><li class="reference-item reference-item--type2" id="reference-[6]-79464-wrap">
+<span class="index">6.</span>
+<a class="gotop anchor" href="#ref_[6]_79464" id="refIndex_6_79464" name="refIndex_6_79464" title="向上跳转">  </a>
+<span>久保带人</span><span class="text">．《BLEACH》第30卷</span><span>．日本</span><span>：集英社</span><span>，2007</span><span>：P.144-151</span></li><li class="reference-item reference-item--type1" id="reference-[7]-79464-wrap">
+<span class="index">7.</span>
+<a class="gotop anchor" href="#ref_[7]_79464" id="refIndex_7_79464" name="refIndex_7_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/8fe3Zpsi55m6jmQj7Xyy_nuVv8fLknExLKbqi7JbUfN35NDaLjzQG_VcagS9Xv6U2U4xhKzSEtWG9tSAQggwFNmA_jPPSBIS1yOJc2Pw1g" rel="nofollow" target="_blank">《死神》第625话 冲击<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2016-02-01]</span></li><li class="reference-item reference-item--type1" id="reference-[8]-79464-wrap">
+<span class="index">8.</span>
+<a class="gotop anchor" href="#ref_[8]_79464" id="refIndex_8_79464" name="refIndex_8_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/c4a72A4t9xt8MFDf490PHPgxWL9tK8mEp9gQrwENHA0zloADeZgQ2RDkgbjeQ0-h0L2A8xy_SEg8QnjhTJfZn86guKoAWkKzlx8HwPmJkg" rel="nofollow" target="_blank">《死神》第133话 雨中的回忆2 夜曲<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2014-12-04]</span></li><li class="reference-item reference-item--type1" id="reference-[9]-79464-wrap">
+<span class="index">9.</span>
+<a class="gotop anchor" href="#ref_[9]_79464" id="refIndex_9_79464" name="refIndex_9_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/4636aRn2My7spxxzh-6TbAJ8N_-pvuu3cozZaGjETZpemmMHprV6A0SAWY_-0n392A6oDkiOGsT6kAGXnAqQFwcggT4VrrgDcVh9lsPP8g" rel="nofollow" target="_blank">《死神》第181话 雨过天晴 <span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2016-02-14]</span></li><li class="reference-item reference-item--type1" id="reference-[10]-79464-wrap">
+<span class="index">10.</span>
+<a class="gotop anchor" href="#ref_[10]_79464" id="refIndex_10_79464" name="refIndex_10_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/eed82OeZJUT4A5o3lhNiXESWZJ1s0YiIcdOO8Ky5-HKko-OkJx7suhoQJ8SmYEP9WY_C1XV3PdF4d6fNMXbDeWqTtPB0CqBxinudKFd7" rel="nofollow" target="_blank">《死神》第77话 本大爷叫岩鹫<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫 </span><span>[引用日期2016-02-14]</span></li><li class="reference-item reference-item--type1 more" id="reference-[11]-79464-wrap">
+<span class="index">11.</span>
+<a class="gotop anchor" href="#ref_[11]_79464" id="refIndex_11_79464" name="refIndex_11_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/4130f40l09CkgRjl8EI6JuwYLSyiqqE1B6dbdSfIpEP7upnYx_vKaGASMLMOCEEwo2BwF8x4I2UsfFVjONz9yhgFU75pdtlPiQtt_Kjisw" rel="nofollow" target="_blank">《死神》第529话 万物无雨op2萌芽<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2016-02-01]</span></li><li class="reference-item reference-item--type1 more" id="reference-[12]-79464-wrap">
+<span class="index">12.</span>
+<a class="gotop anchor" href="#ref_[12]_79464" id="refIndex_12_79464" name="refIndex_12_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/5c02E_AXgzhQycuJL4PDNBSVTowIya5Wobnh58PHJwsgOUhbMo01XFz4Wr-VIEN3WQxDF1irLkcd8NKP_H1BvnbkCM1t-vIeZNZgL4VCEA" rel="nofollow" target="_blank">《死神》第267话 虚的大军<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2016-02-01]</span></li><li class="reference-item reference-item--type2 more" id="reference-[13]-79464-wrap">
+<span class="index">13.</span>
+<a class="gotop anchor" href="#ref_[13]_79464" id="refIndex_13_79464" name="refIndex_13_79464" title="向上跳转">  </a>
+<span>久保带人</span><span class="text">．《BLEACH》第30卷</span><span>．日本</span><span>：集英社</span><span>，2007</span><span>：P.57-83</span></li><li class="reference-item reference-item--type1 more" id="reference-[14]-79464-wrap">
+<span class="index">14.</span>
+<a class="gotop anchor" href="#ref_[14]_79464" id="refIndex_14_79464" name="refIndex_14_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/e3271pSpUdvWSDdpcXu7e4L-ZrGtjAczwWDXCDs2bHSdOido3BTofFaTiDnFCoEoEhrIqLcg4oHct6mZbbD7hKFJzDVLoBKC_m-qtmgl-Q" rel="nofollow" target="_blank">《死神》第267话 你千万不要死去<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2016-02-01]</span></li><li class="reference-item reference-item--type2 more" id="reference-[15]-79464-wrap">
+<span class="index">15.</span>
+<a class="gotop anchor" href="#ref_[15]_79464" id="refIndex_15_79464" name="refIndex_15_79464" title="向上跳转">  </a>
+<span>久保带人</span><span class="text">．《BLEACH》第30卷</span><span>．日本</span><span>：集英社</span><span>，2007</span><span>：P.166-174</span></li><li class="reference-item reference-item--type1 more" id="reference-[16]-79464-wrap">
+<span class="index">16.</span>
+<a class="gotop anchor" href="#ref_[16]_79464" id="refIndex_16_79464" name="refIndex_16_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/f142q7wzoDbn_SYmWYc0yyWT3KGslvjgOt45q-szzZFfQ7ZHrAZ-mT3Q5J-BTErNN4u3FroP3A-DA3a9pzmCe1GWXK9qN8FGd31kOHXeyQ" rel="nofollow" target="_blank">《死神》第264话 别说出那个名字<span class="linkout"> </span></a>
+<span class="site">．腾讯动漫</span><span>[引用日期2016-02-01]</span></li><li class="reference-item reference-item--type1 more" id="reference-[17]-79464-wrap">
+<span class="index">17.</span>
+<a class="gotop anchor" href="#ref_[17]_79464" id="refIndex_17_79464" name="refIndex_17_79464" title="向上跳转">  </a>
+<a class="text" href="/reference/1435849/5b4dttQOuNdbWudTP_OL1tbOxZNF-aOehuGD4y9P-_DxdMNQyXD7cXQAR5HCSZl2CDf2nNsXSZHF3-g5kgoEiGpKEIoK2lyekSfx8o411W0fBnBz5npRK62n69twfxBFMCPUDqMqtOUOKkje8gHOz8RrnYxnBASqoM9tAug" rel="nofollow" target="_blank">木漏れ日<span class="linkout"> </span></a>
+<span class="site">．虾米</span><span>[引用日期2016-02-01]</span></li></ul>
+</dd>
+<dd class="toggle">
+<span class="text expand-text">展开全部</span>
+<span class="text collapse-text">收起</span>
+<em class="toggle-arrow"></em>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+动漫形象
+</span>
+，<span class="taglist">
+人物
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849/0/91529822720e0cf34682d00a0e46f21fbf09aace?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=06429b8f211f95caa6f595b0f12c1803/91529822720e0cf34682d00a0e46f21fbf09aace.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>志波海燕图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1435849" data-lemmatitle="志波海燕"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1435849" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：118次<a class="nslog:1021" href="/historylist/%E5%BF%97%E6%B3%A2%E6%B5%B7%E7%87%95/1435849" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="1206162478" href="/usercenter/userpage?uname=%E6%99%93%E6%9F%93%E6%B8%85%E9%9C%9C&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">晓染清霜</a><span class="j-modified-time" style="display:none">（2019-06-25）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="828979259" href="/usercenter/userpage?uname=%E7%A1%AA%E4%BC%88%E6%B0%B8%E6%81%92&amp;from=lemma" target="_blank" title="查看此用户资料" username="硪伈永恒">硪伈永恒</a>
+<a class="contribute-flag-container" href="https://baike.baidu.com/kedou" target="_blank" title="百科蝌蚪团">
+<img alt="" class="contribute-flag-icon" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-1_c1b820f.png"/>
+</a>
+<div class="right">
+<a href="http://baike.baidu.com/tese" target="_blank"><img align="absmiddle" alt="特色词条" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/distinctiveIcon_a9a2d74.png" title="特色词条"/></a>
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="12981681" href="/usercenter/userpage?uname=%E6%B0%B4%E5%B2%B8%E7%9A%84%E6%9C%88%E5%85%89&amp;from=lemma" target="_blank" title="查看此用户资料" username="水岸的月光">水岸的月光</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">角色形象</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_1">
+<span class="text">
+<span class="title-index">1.1</span>
+<span class="title-link" nslog-type="10002802">身份背景</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_2">
+<span class="text">
+<span class="title-index">1.2</span>
+<span class="title-link" nslog-type="10002802">相貌衣着</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_3">
+<span class="text">
+<span class="title-index">1.3</span>
+<span class="title-link" nslog-type="10002802">性格特点</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">角色能力</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">人际关系</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">角色经历</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_1">
+<span class="text">
+<span class="title-index">4.1</span>
+<span class="title-link" nslog-type="10002802">早期经历</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_2">
+<span class="text">
+<span class="title-index">4.2</span>
+<span class="title-link" nslog-type="10002802">战死沙场</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_3">
+<span class="text">
+<span class="title-index">4.3</span>
+<span class="title-link" nslog-type="10002802">灵体被夺</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_4">
+<span class="text">
+<span class="title-index">4.4</span>
+<span class="title-link" nslog-type="10002802">死后影响</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">角色歌曲</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#6">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">对战记录</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

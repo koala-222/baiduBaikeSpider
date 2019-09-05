@@ -1,0 +1,668 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>欧几里得算法</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1647675" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><span class="view-tip-panel">
+<a class="viewTip-icon" href="/subview/71844/10028254.htm" target="_blank" title="同义词">同义词</a>
+<span class="viewTip-fromTitle">Euclid算法</span>一般指欧几里得算法
+</span>
+<div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">欧几里德算法又称<a data-lemmaid="4625352" href="/item/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/4625352" target="_blank">辗转相除法</a>，是指用于计算两个<a data-lemmaid="8461335" href="/item/%E6%AD%A3%E6%95%B4%E6%95%B0/8461335" target="_blank">正整数</a>a，b的<a data-lemmaid="869308" href="/item/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0/869308" target="_blank">最大公约数</a>。应用领域有数学和计算机两个方面。计算公式gcd(a,b) = gcd(b,a mod b)。</div><div class="para" label-module="para">欧几里德算法和扩展欧几里德算法可使用多种编程语言实现。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%B7" target="_blank">欧几里德</a>算法
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Euclidean Algorithm 或者 Euclid's algorithm
+</dd>
+<dt class="basicInfo-item name">别    称</dt>
+<dd class="basicInfo-item value">
+辗转相除法
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">应    用</dt>
+<dd class="basicInfo-item value">
+计算两个正整数a，b的最大公约数
+</dd>
+<dt class="basicInfo-item name">原    理</dt>
+<dd class="basicInfo-item value">
+gcd(a,b) = gcd(b,a mod b)
+</dd>
+<dt class="basicInfo-item name">领    域</dt>
+<dd class="basicInfo-item value">
+数学，计算机
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">算法简介</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">计算证明</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">证法一</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">证法二</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">算法原理</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">程序设计</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">算法版本</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub795549_1"></a>
+<a class="lemma-anchor" name="算法简介"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">欧几里得算法</span>算法简介</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">欧几里德算法是用来求两个正整数最大公约数的算法。是由古希腊数学家欧几里德在其著作《The Elements》中最早描述了这种算法,所以被命名为欧几里德算法。</div>
+<div class="para" label-module="para">扩展欧几里德算法可用于<a href="/item/RSA" target="_blank">RSA</a>加密等领域。</div>
+<div class="para" label-module="para">假如需要求 1997 和 615 两个正整数的最大公约数,用欧几里德算法，是这样进行的：</div>
+<div class="para" label-module="para">1997 / 615 = 3 (余 152)</div>
+<div class="para" label-module="para">615 / 152 = 4(余7)</div>
+<div class="para" label-module="para">152 / 7 = 21(余5)</div>
+<div class="para" label-module="para">7 / 5 = 1 (余2)</div>
+<div class="para" label-module="para">5 / 2 = 2 (余1)</div>
+<div class="para" label-module="para">2 / <b>1</b> = 2 (余0)</div>
+<div class="para" label-module="para">至此，最大公约数为1</div>
+<div class="para" label-module="para">以除数和余数反复做除法运算，当余数为 0 时，取当前算式除数为最大公约数，所以就得出了 1997 和 615 的最大公约数 1。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub795549_2"></a>
+<a class="lemma-anchor" name="计算证明"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">欧几里得算法</span>计算证明</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">其计算原理依赖于下面的定理：</div>
+<div class="para" label-module="para">定理：两个整数的最大公约数等于其中较小的那个数和两数相除余数的最大公约数。<a href="/item/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0" target="_blank">最大公约数</a>（Greatest Common Divisor）缩写为GCD。</div>
+<div class="para" label-module="para">gcd(a,b) = gcd(b,a mod b) (不妨设a&gt;b 且r=a mod b ,r不为0)</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_1"></a>
+<a class="lemma-anchor" name="sub795549_2_1"></a>
+<a class="lemma-anchor" name="证法一"></a>
+<a class="lemma-anchor" name="2-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">欧几里得算法</span>证法一</h3>
+</div>
+<div class="para" label-module="para">a可以表示成a = kb + r（a，b，k，r皆为正整数，且r&lt;b），则r = a mod b</div>
+<div class="para" label-module="para">假设d是a,b的一个<a href="/item/%E5%85%AC%E7%BA%A6%E6%95%B0" target="_blank">公约数</a>，记作d|a,d|b，即a和b都可以被d整除。</div>
+<div class="para" label-module="para">而r = a - kb，两边同时除以d，r/d=a/d-kb/d=m，由等式右边可知m为整数，因此d|r</div>
+<div class="para" label-module="para">因此d也是b,a mod b的公约数</div>
+<div class="para" label-module="para">假设d是b,a mod b的公约数, 则d|b,d|(a-k*b),k是一个整数。</div>
+<div class="para" label-module="para">进而d|a.因此d也是a,b的公约数</div>
+<div class="para" label-module="para">因此(a,b)和(b,a mod b)的公约数是一样的，其最大公约数也必然相等，得证。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_2"></a>
+<a class="lemma-anchor" name="sub795549_2_2"></a>
+<a class="lemma-anchor" name="证法二"></a>
+<a class="lemma-anchor" name="2-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">欧几里得算法</span>证法二</h3>
+</div>
+<div class="para" label-module="para">第一步：令c=gcd(a,b)，则设a=mc，b=nc</div>
+<div class="para" label-module="para">第二步：可知r =a-kb=mc-knc=(m-kn)c</div>
+<div class="para" label-module="para">第三步：根据第二步结果可知c也是r的<a href="/item/%E5%9B%A0%E6%95%B0" target="_blank">因数</a></div>
+<div class="para" label-module="para">第四步：可以断定m-kn与n互素【否则，可设m-kn=xd,n=yd,(d&gt;1)，则m=kn+xd=kyd+xd=(ky+x)d，则a=mc=(ky+x)dc，b=nc=ycd，故a与b最大公约数≥cd，而非c，与前面结论矛盾】</div>
+<div class="para" label-module="para">从而可知gcd(b,r)=c，继而gcd(a,b)=gcd(b,r)，得证</div>
+<div class="para" label-module="para">注意:两种方法是有区别的。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub795549_3"></a>
+<a class="lemma-anchor" name="算法原理"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">欧几里得算法</span>算法原理</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">Lemma 1.3.1 若 a,b 且 a = bh + r，其中 h,r，则 gcd(a,b) = gcd(b,r)。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_795549"> </a>
+</div>
+<div class="para" label-module="para">证 明. 假设 d1 = gcd(a,b) 且 d2 = gcd(b,r)， 我们证明 d1| d2 且 d2| d1，因而可利用 Proposition 1.1.3⑵ 以及 d1,d2 皆为<a href="/item/%E6%AD%A3%E6%95%B0" target="_blank">正数</a>得证 d1 = d2。</div>
+<div class="para" label-module="para">因 d1| a 且 d1| b 利用 Corollary 1.1.2 我们知 d1| a - bh = r. 因为 d1| b,d1| r 且 d2 = gcd(b,r) 故由 Proposition 1.2.5 知 d1| d2. 另一方面，因为 d2| b 且 d2| r 故 d2| bh + r = a. 因此可得 d2| d1。</div>
+<div class="para" label-module="para">Lemma 1.3.1 告诉我们当 a &gt; b &gt; 0 时，要求 a,b 的最大公<a href="/item/%E5%9B%A0%E6%95%B0" target="_blank">因数</a>我们可以先将 a 除以 b 所得余数若为 r，则 a,b 的最大公因数等于 b 和 r 的最大公因数. 因为 r &lt; b &lt; a，所以当然把计算简化了，接着我们就来看看辗转相<a href="/item/%E9%99%A4%E6%B3%95" target="_blank">除法</a>. 由于 gcd(a,b) = gcd(- a,b) 所以我们只要考虑 a,b 都是正整数的情况。</div>
+<div class="para" label-module="para">Theorem 1.3.2 (The Euclidean Algorithm) 假设 a,b 且 a &gt; b. 由除法原理我们知存在 h0,r0 使得</div>
+<div class="para" label-module="para">a = bh0 + r0，其中 r0 &lt; b.<div class="lemma-picture text-pic layout-right" style="width:136px; float: right;">
+<a class="image-link" href="/pic/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/1647675/0/6a63f6246b600c332c20750b1a4c510fd8f9a19c?fr=lemma&amp;ct=single" nslog-type="9317" style="width:136px;height:220px;" target="_blank" title="欧几里得算法">
+<img alt="欧几里得算法" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=354b99fb28381f309a198aab99004c67/6a63f6246b600c332c20750b1a4c510fd8f9a19c.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:136px;height:220px;"/>
+</a>
+<span class="description">
+欧几里得算法
+</span>
+</div></div>
+<div class="para" label-module="para">若 r0 &gt; 0，则存在 h1,r1 使得</div>
+<div class="para" label-module="para">b = r0h1 + r1，其中 0r1 &lt; r0.</div>
+<div class="para" label-module="para">若 r1 &gt; 0，则存在 h2,r2 使得</div>
+<div class="para" label-module="para">r0 = r1h2 + r2，其中 0r2 &lt; r1.</div>
+<div class="para" label-module="para">如此继续下去直到 rn = 0 为止，若 n = 0 （即 r0 = 0），则 gcd(a,b) = b. 若 n1，则 gcd(a,b) = rn - 1。</div>
+<div class="para" label-module="para">证 明. 首先注意若 r0 0，由于 r0 &gt; r1 &gt; r2 &gt; ... 是严格递减的，因为 r0 和 0 之间最多仅能插入 r0 - 1 个正整数，所以我们知道一定会有 nr0 使得 rn = 0。</div>
+<div class="para" label-module="para">若 r0 = 0，即 a = bh0，故知 b 为 a 之因数，得证 b 为 a,b 的最大公因数。若 r0 &gt; 0，则由 Lemma 1.3.1 知</div>
+<div class="para" label-module="para">gcd(a,b) = gcd(b,r0) = gcd(r0,r1） = ... = gcd(rn - 1,rn) = gcd(rn - 1,0) = rn - 1。</div>
+<div class="para" label-module="para">现在我们来看用辗转相除法求最大公因数的例子</div>
+<div class="para" label-module="para">Example 1.3.3 我们求 a = 481 和 b = 221 的最大公因数。首先由除法原理得 481 = 2 . 221 + 39，知 r0 = 39. 因此再考虑 b = 221 除以 r0 = 39 得 221 = 5 . 39 + 26，知 r1 = 26，再以 r0 = 39 除以 r1 = 26 得 39 = 1 . 26 + 13，知 r2 = 13。最后因为 r2 = 13整除r1 = 26 知 r3 = 0，故由 Theorem 1.3.2 知 gcd（481,221） = r2 = 13。</div>
+<div class="para" label-module="para">在利用辗转相除法求最大公因数时，大家不必真的求到 rn = 0，例如在上例中可看出 r0 = 39 和 r1 = 26 的最大公因数是 13，利用 Lemma 1.3.1 马上得知 gcd(a,b) = 13。</div>
+<div class="para" label-module="para">在上一节 Corollary 1.2.5 告诉我们若 gcd(a,b) = d，则存在 m,n 使得 d = ma + nb。当时我们没有提到如何找到此 m,n， 我们利用辗转相除法来介绍一个找到 m,n 的方法， 我们沿用 Theorem 1.3.2 的符号，看 r0 = 0 的情形，此时 d = gcd(a,b) = b 所以若令 m = 0,n = 1，则我们有 d = b = ma + nb. 当 r0 0 但 r1 = 0 时，我们知 d = gcd(a,b) = r0。 故利用 a = bh0 + r0 知，若令 m = 1,n = - h0，则 d = r0 = ma + nb。同理若 r0 0,r1 0 但 r2 = 0，则知 d = gcd(a,b) = r1。故利用 a = bh0 + r0 以及 b = r0h1 + r1 知</div>
+<div class="para" label-module="para">r1 = b - r0h1 = b - (a - bh0)h1 = - h1a + （1 + h0h1）b。</div>
+<div class="para" label-module="para">因此若令 m = - h1 且 n = 1 + h0h1，则 d = r1 = ma + nb. 依照此法，当 r0,r1 和 r2 皆不为 0 时，由于 d = gcd(a,b) = rn - 1 故由 rn - 3 = rn - 2hn - 1 + rn - 1 知 d = rn - 3 - hn - 1rn - 2. 利用前面推导方式我们知存在 m1,m2,n1,n2 使得 rn - 3 = m1a + n1b 且 rn - 2 = m2a + n2b 故代入<a class="lemma-album layout-right nslog:10000206" href="/pic/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/1647675/15880599/902397dda144ad348cfa27d3d3a20cf431ad8519?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:132px;" target="_blank" title="欧几里得算法">
+<div class="album-wrap" style="width:130px;height:220px;">
+<img alt="欧几里得算法" class="picture" src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=935b9c939352982201333ec1e7cb7b3b/902397dda144ad348cfa27d3d3a20cf431ad8519.jpg" style="width:130px;height:220px;"/>
+</div>
+<div class="description">
+欧几里得算法<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:124px;"></div>
+<div class="albumBgSec" style="width:118px;"></div>
+</div>
+</a>
+得</div>
+<div class="para" label-module="para">d = (m1a + n1b) - hn - 1(m2a + n2b) = (m1 - hn - 1m2）a + (n1 - hn - 1n2）b.</div>
+<div class="para" label-module="para">因此若令 m = m1 - hn - 1m2 且 n = n1 - hn - 1n2，则 d = ma + nb.</div>
+<div class="para" label-module="para">上面的说明看似好像当 r0 0 时对每一个 i {0,1,...,n - 2} 要先将 ri 写成 ri = mia + nib，最后才可将 d = rn - 1 写成 ma + nb 的形式，其实这只是论证时的方便，在实际操作时我们其实是将每个 ri 写成 mi'ri - 2 + ni'ri - 1 的形式慢慢逆推回 d = ma + nb. 请看以下的例子.</div>
+<div class="para" label-module="para">Example 1.3.4 我们试着利用 Example 1.3.3 所得结果找到 m,n 使得 13 = gcd（481,221） = 481m + 221n. 首先我们有 13 = r2 = 39 - 26 = r0 - r1. 而 r1 = 221 - 5 . 39 = b - 5r0，故得 13 = r0 - (b - 5r0) = 6r0 - b. 再由 r0 = 481 - 2 . 221 = a - 2b，得知 13 = 6(a - 2b) - b = 6a - 13b. 故得 m = 6 且 n = - 13 会满足 13 = 481m + 221n。</div>
+<div class="para" label-module="para">要注意这里找到的 m,n 并不会是唯一满足 d = ma + nb 的一组解，虽然上面的推演过程好像会只有一组解，不过只能说是用上面的方法会得到一组解，并不能担保可找到所有的解，比方说若令 m' = m + b,n' = n - a，则 m'a + n'b = (m + b)a + (n - a)b = ma + nb = d. 所以 m',n' 也会是另一组解，所以以后当要探讨唯一性时，若没有充分的理由千万不能说由前面的推导过程看出是唯一的就断言是唯一，一般的作法是假设你有两组解，再利用这两组解所共同满足的式子找到两者之间的关系. 我们看看以下的作法。</div>
+<div class="para" label-module="para">Proposition 1.3.5 假设 a,b 且 d = gcd(a,b)。若 x = m0,y = n0 是 d = ax + by 的一组<a href="/item/%E6%95%B4%E6%95%B0" target="_blank">整数</a>解，则对任意 t,x = m0 + bt/d,y = n0 - at/d 皆为 d = ax + by 的一组整数解，而且 d = ax + by 的所有整数解必为 x = m0 + bt/d,y = n0 - at/d 其中 t 这样的形式。</div>
+<div class="para" label-module="para">证 明. 假设 x = m,y = n 是 d = ax + by 的一组解， 由于已假设 x = m0,y = n0 也是一组解，故得 am + bn = am0 + bn0. 也就是说 a(m - m0) = b(n0 - n). 由于 d = gcd(a,b），我们可以假设 a = a'd,b = b'd 其中 a',b' 且 gcd(a',b') = 1 （参见 Corollary 1.2.3）。因此得 a'(m - m0) = b'(n0 - n)。 利用 b'| a'(m - m0),gcd(a',b') = 1 以及 Proposition 1.2.7⑴ 得 b'| m - m0. 也就是说存在 t 使得 m - m0 = b't. 故知 m = m0 + b't = m0 + bt/d. 将 m = m0 + bt/d 代回 am + bn = am0 + bn0 可得 n = n0 - at/d，因此得证 d = ax + by 的整数解都是 x = m0 + bt/d,y = n0 - at/d 其中 t 这样的形式. 最后我们仅要确认对任意 t,x = m0 + bt/d,y = n0 - at/d 皆为 d = ax + by 的一组整数解， 然而将 x = m0 + bt/d,y = n0 - at/d 代入 ax + by 得 a(m0 + bt/d)+ b(n0 - at/d)= am0 + bn0 = d，故得证本定理。</div>
+<div class="para" label-module="para">利用 Proposition 1.3.5 我们就可利用 Example 1.3.4 找到 13 = 481x + 221y 的一组整数解 x = 6,y = - 13 得到 x = 6 + 17t,y = - 13 - 37t 其中 t 是 13 = 481x + 221y 所有的整数解。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub795549_4"></a>
+<a class="lemma-anchor" name="程序设计"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">欧几里得算法</span>程序设计</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a href="/item/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95" target="_blank">辗转相除法</a>是利用以下性质来确定两个正整数 a 和 b 的最大公因子的：</div>
+<div class="para" label-module="para">⒈ 若 r 是 a ÷ b 的余数，且r不为0， 则</div>
+<div class="para" label-module="para">gcd(a,b) = gcd(b,r)</div>
+<div class="para" label-module="para">⒉ a 和其倍数之最大公因子为 a。</div>
+<div class="para" label-module="para">另一种写法是：</div>
+<div class="para" label-module="para">⒈ 令r为a/b所得余数（0≤r&lt;b）</div>
+<div class="para" label-module="para">若 r= 0，算法结束；b 即为答案。</div>
+<div class="para" label-module="para">⒉ 互换：置 a←b，b←r，并返回第一步。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub795549_5"></a>
+<a class="lemma-anchor" name="算法版本"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">欧几里得算法</span>算法版本</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">Go语言版本</div>
+<pre class="brush: java">package main
+import "fmt"
+func main() {
+    var x, y int = 18, 12 
+    result := gcd(x,y)  
+    fmt.Printf("x, y 的最大公约数是 : %d",result)
+}
+func gcd(x,y int) int{
+     for y != 0  {     
+            x, y = y, x%y 
+      }  
+    return x
+}
+</pre><div class="para" label-module="para"><b>Pascal语言版</b></div>
+<pre class="brush: delphi">var  a,b,c:integer;
+begin
+  readln(a,b);
+  c:=a mod b;
+  while c&lt;&gt;0 do
+  begin
+    a:=b;b:=c;c:=a mod b;
+  end;
+  write(b);
+end.
+</pre><div class="para" label-module="para"><b>C语言版</b></div>
+<pre class="brush: cpp">/*
+欧几里德算法：辗转求余
+原理： gcd(a,b)=gcd(b,a mod b)
+当b为0时，两数的最大公约数即为a
+getchar()会接受前一个scanf的回车符
+*/
+#include&lt;stdio.h&gt;
+unsigned int Gcd(unsigned int M,unsigned int N)
+{
+    unsigned int Rem;
+    while(N &gt; 0)
+    {
+        Rem = M % N;
+        M = N;
+        N = Rem;
+    }
+    return M;
+}
+int main(void)
+{
+    int a,b;
+    scanf("%d %d",&amp;a,&amp;b);
+    printf("the greatest common factor of %d and %d is ",a,b);
+    printf("%d\n",Gcd(a,b));
+    return 0;
+}
+</pre><div class="para" label-module="para"><b>Ruby语言版</b></div>
+<pre class="brush: ruby">#用欧几里得算法计算最大公约数(排版略）
+def gcd(x, y)
+if y == 0
+return x
+else
+return gcd(y, x % y)
+end
+end</pre><div class="para" label-module="para"><b>C++版</b></div>
+<pre class="brush: cpp">#include &lt;algorithm&gt; // std::swap for c++ before c++11
+#include &lt;utility&gt; // std::swap for c++ since c++11
+int gcd(int a，int b)
+{
+    if (a &lt; b)
+        std::swap(a, b);
+    return b == 0 ? a : gcd(b, a % b);
+}</pre><div class="para" label-module="para"><b>Java版</b></div>
+<pre class="brush: java">int divisor(int m,int n)
+{
+    if (m % n == 0) {
+        return n;
+    }
+    else {
+        return divisor(n,m % n);
+    }
+}
+
+</pre><div class="para" label-module="para"><b>JavaScript版</b></div>
+<div class="para" label-module="para"><b>　</b></div>
+<pre class="brush: js">function gcd(a,b){
+    var t;
+    if(a&lt;b) t=b,b=a,a=t;
+    while(b!=0) t=b,b=a%b,a=t;
+    return a;
+}</pre><div class="para" label-module="para"><b></b></div>
+<div class="para" label-module="para"><b>Python版</b></div>
+<pre class="brush: python">def gcd(a, b):
+    while a != 0:
+        a, b = b % a, a
+
+    return b
+　</pre><div class="para" label-module="para"><b><br/>　　</b></div>
+<div class="para" label-module="para"><b>模P</b><a href="/item/%E4%B9%98%E6%B3%95%E9%80%86%E5%85%83" target="_blank">乘法逆元</a></div>
+<div class="para" label-module="para">对于整数a、p，如果存在整数b，满足ab mod p =1，则说，b是a的模p乘法逆元。</div>
+<div class="para" label-module="para">定理：a存在模p的乘法逆元的充要条件是gcd(a，p) = 1</div>
+<div class="para" label-module="para"><b>证明：</b></div>
+<div class="para" label-module="para"><b>首先证明充分性</b></div>
+<div class="para" label-module="para">如果gcd(a，p) = 1，根据<a href="/item/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86" target="_blank">欧拉定理</a>，aφ（p) ≡ 1 mod p，因此</div>
+<div class="para" label-module="para">显然aφ（p)-1 mod p是a的模p乘法逆元。</div>
+<div class="para" label-module="para"><b>再证明必要性</b></div>
+<div class="para" label-module="para">假设存在a模p的乘法逆元为b</div>
+<div class="para" label-module="para">ab ≡ 1 mod p</div>
+<div class="para" label-module="para">则ab = kp +1 ，所以1 = ab - kp</div>
+<div class="para" label-module="para">因为gcd(a，p) = d</div>
+<div class="para" label-module="para">所以d | 1</div>
+<div class="para" label-module="para">所以d只能为1</div>
+<div class="para" label-module="para"><b>Stein算法</b></div>
+<div class="para" label-module="para">欧几里德算法是计算两个数<a href="/item/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0" target="_blank">最大公约数</a>的传统算法，他无论从理论还是从效率上都是很好的。但是他有一个致命的缺陷，这个缺陷只有在大<a href="/item/%E7%B4%A0%E6%95%B0" target="_blank">素数</a>时才会显现出来。</div>
+<div class="para" label-module="para">硬件平台，一般整数最多也就是64位，对于这样的整数，计算两个数之间的模是很简单的。对于字长为32位的平台，计算两个不超过32位的整数的模，只需要一个指令周期，而计算64位以下的整数模，也不过几个周期而已。但是对于更大的素数，这样的计算过程就不得不由用户来设计，为了计算两个超过 64位的整数的模，用户也许不得不采用类似于多位数除法手算过程中的试商法，这个过程不但复杂，而且消耗了很多CPU时间。对于现代密码算法，要求计算 128位以上的素数的情况比比皆是，设计这样的程序迫切希望能够抛弃除法和取模。</div>
+<div class="para" label-module="para"><a href="/item/Stein%E7%AE%97%E6%B3%95" target="_blank">Stein算法</a>由J. Stein于1961年提出，这个方法也是计算两个数的最大公约数。和欧几里德算法不同的是，Stein算法只有整数的移位和加减法，这对于程序设计者是一个福音。</div>
+<div class="para" label-module="para">为了说明Stein算法的正确性，首先必须注意到以下结论：</div>
+<div class="para" label-module="para">gcd(a,a) = a，也就是一个数和他自身的公约数是其自身</div>
+<div class="para" label-module="para">gcd(ka,kb) = k gcd(a,b），也就是最大公约数运算和倍乘运算可以交换，特殊的，当k=2时，说明两个<a href="/item/%E5%81%B6%E6%95%B0" target="_blank">偶数</a>的最大公约数必然能被2整除</div>
+<div class="para" label-module="para">C++/java 实现</div>
+<div class="para" label-module="para">// c++/java stein 算法</div>
+<div class="para" label-module="para">int gcd(int a,int b)</div>
+<div class="para" label-module="para">{if(a&lt;b) //arrange so that a&gt;b</div>
+<div class="para" label-module="para">{int temp = a;a = b;b=temp;}</div>
+<div class="para" label-module="para">if(0==b) //the base case</div>
+<div class="para" label-module="para">return a;</div>
+<div class="para" label-module="para">if(a%2==0 &amp;&amp; b%2 ==0) //a and b are even</div>
+<div class="para" label-module="para">return 2*gcd(a/2,b/2）；</div>
+<div class="para" label-module="para">if (a%2 == 0) // only a is even</div>
+<div class="para" label-module="para">return gcd(a/2,b);</div>
+<div class="para" label-module="para">if (b%2==0)// only b is even</div>
+<div class="para" label-module="para">return gcd(a,b/2）；</div>
+<div class="para" label-module="para">return gcd((a-b)/2,b);// a and b are odd</div>
+<div class="para" label-module="para">}</div>
+<div class="para" label-module="para"><b>算法扩展</b></div>
+<div class="para" label-module="para"><a href="/item/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%B7%E7%AE%97%E6%B3%95" target="_blank">扩展欧几里德算法</a>不但能计算(a，b）的最大公约数，而且能计算a模b及b模a的乘法逆元，用C语言描述如下：</div>
+<pre class="brush: cpp">
+#include &lt;stdio.h&gt;
+unsigned int gcdExtended( int a,  int b,  int *x,  int *y);
+int main(void) {
+
+    int  a, b,GCD;
+    int   x, y;
+
+    a = 1232, b = 573;
+
+    /*
+    gcdExtended(1232, 573)时, x = 20 and y = –43
+    1232x + 573y = 1
+    24640-24639 = 1
+    或者gcdExtended( 573,1232) 时,x=-43, y=20
+    573x+1232y = 1
+    -43*573+1232*20 = -24639+57640 = 1
+
+    gcdExtended(9151, 5787) 时
+    x=2011, y=-3180
+
+     */
+    GCD =  gcdExtended(a, b,&amp;x, &amp;y);
+    printf("gcdExtended(%d, %d) = %d, x=%d, y=%d\n", a, b, GCD,x,y);
+
+    return 0;
+}
+
+// 欧几里得扩展算法的C语言实现
+// ax+by=1
+unsigned int gcdExtended(int a, int b, int *x, int *y){
+
+    if (a == 0){
+        *x = 0;
+        *y = 1;
+        return b;
+    }
+    int x1, y1;
+    int gcd = gcdExtended(b%a, a, &amp;x1, &amp;y1);
+
+    *x = y1 - (b/a) * x1;
+    *y = x1;
+
+    return gcd;
+}
+
+</pre><div class="para" label-module="para">扩展欧几里德算法对于最大公约数的计算和普通欧几里德算法是一致的。计算乘法逆元则显得很难明白。我想了半个小时才想出证明他的方法。</div>
+<div class="para" label-module="para"><b>首先重复拙作整除中的一个论断：</b></div>
+<div class="para" label-module="para">如果gcd(a，b)=d，则存在m，n，使得d = ma + nb，称呼这种关系为a、b组合整数d，m，n称为组合系数。当d=1时，有 ma + nb = 1 ，此时可以看出m是a模b的乘法逆元，n是b模a的乘法逆元。</div>
+<div class="para" label-module="para">为了证明上面的结论，我们把上述计算中xi、yi看成ti的迭代初始值，考察一组数（t1，t2，t3），用归纳法证明：当通过扩展欧几里德算法计算后，每一行都满足a×t1 + b×t2 = t3</div>
+<div class="para" label-module="para">第一行：1 × a + 0 × b = a成立</div>
+<div class="para" label-module="para">第二行：0 × a + 1 × b = b成立</div>
+<div class="para" label-module="para">假设前k行都成立，考察第k+1行</div>
+<div class="para" label-module="para">对于k-1行和k行有</div>
+<div class="para" label-module="para">t1(k-1） t2(k-1） t3(k-1）</div>
+<div class="para" label-module="para">t1(k) t2(k) t3(k)</div>
+<div class="para" label-module="para">分别满足：</div>
+<div class="para" label-module="para">t1(k-1） × a + t2(k-1） × b = t3(k-1）</div>
+<div class="para" label-module="para">t1(k) × a + t2(k) × b = t3(k)</div>
+<div class="para" label-module="para">根据扩展欧几里德算法，假设t3(k-1） = j t3(k) + r</div>
+<div class="para" label-module="para">则：</div>
+<div class="para" label-module="para">t3(k+1） = r</div>
+<div class="para" label-module="para">t2(k+1） = t2(k-1） - j × t2(k)</div>
+<div class="para" label-module="para">t1(k+1） = t1(k-1） - j × t1(k)</div>
+<div class="para" label-module="para">则</div>
+<div class="para" label-module="para">t1(k+1） × a + t2(k+1） × b</div>
+<div class="para" label-module="para">=t1(k-1） × a - j × t1(k) × a +</div>
+<div class="para" label-module="para">t2(k-1） × b - j × t2(k) × b</div>
+<div class="para" label-module="para">= t3(k-1） - j t3(k) = r</div>
+<div class="para" label-module="para">= t3(k+1）</div>
+<div class="para" label-module="para">得证</div>
+<div class="para" label-module="para">因此，当最终t3迭代计算到1时，有t1× a + t2 × b = 1，显然，t1是a模b的乘法逆元，t2是b模a的乘法逆元。</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/1647675?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type3" id="reference-[1]-795549-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_795549" id="refIndex_1_795549" name="refIndex_1_795549" title="向上跳转">  </a>
+<span class="text"> Grossman JW. Discrete Mathematics. New York: Macmillan. 1990: 213. ISBN 0-02-348331-8.</span>
+</li></ul>
+</dd>
+</dl>
+<div class="lemma-paper-box"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/1647675/0/ae51f3deb48f8c5464a1685731292df5e0fe7f5c?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=c95d2b53bb51f819f125044ce28f2dd0/ae51f3deb48f8c5464a1685731292df5e0fe7f5c.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>欧几里得算法图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1647675" data-lemmatitle="欧几里得算法"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1647675" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：8次<a class="nslog:1021" href="/historylist/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/1647675" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="742415954" href="/usercenter/userpage?uname=taoyaobd&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">taoyaobd</a><span class="j-modified-time" style="display:none">（2019-08-24）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="33220550" href="/usercenter/userpage?uname=%E7%A2%A7%E6%B5%B7%E9%A3%8E&amp;from=lemma" target="_blank" title="查看此用户资料" username="碧海风">碧海风</a>
+<div class="right">
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="24385799" href="/usercenter/userpage?uname=xushuxu&amp;from=lemma" target="_blank" title="查看此用户资料" username="xushuxu">xushuxu</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">算法简介</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">计算证明</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_1">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">证法一</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_2">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">证法二</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">算法原理</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">程序设计</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">算法版本</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

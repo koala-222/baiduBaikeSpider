@@ -1,0 +1,720 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<a class="posterFlag excellent-icon" href="/tese" target="_blank" title="特色词条经过百科资深用户精心编写，是符合百科编辑精神的典范之作。"></a>
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E8%9A%8A%E6%AF%8D%E6%A0%91" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<span class="lemma-pinyin">
+<span class="text">[wén mǔ shù]</span>
+<a class="speak" href="javascript:;" id="j-pinyin-speak" nslog-type="10000106" title="点击发声"> </a>
+</span>
+<div id="fmp_flash_div" style="position:absolute; left:-9999px;">
+<audio id="audio" src=""></audio>
+</div>
+<h1>蚊母树</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1414769" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">蚊母树（拉丁文名：<i>Distylium racemosum Sieb.et Zucc.）。</i>别名：米心树、<a data-lemmaid="9787407" href="/item/%E8%9A%8A%E6%AF%8D/9787407" target="_blank">蚊母</a>、<a data-lemmaid="5028546" href="/item/%E8%9A%8A%E5%AD%90%E6%A0%91/5028546" target="_blank">蚊子树</a>、中华蚊母，<a data-lemmaid="8425109" href="/item/%E9%87%91%E7%BC%95%E6%A2%85%E7%A7%91/8425109" target="_blank">金缕梅科</a>，<a data-lemmaid="3262939" href="/item/%E8%9A%8A%E6%AF%8D%E6%A0%91%E5%B1%9E/3262939" target="_blank">蚊母树属</a>常绿灌木或中乔木，嫩枝有鳞垢，老枝秃净，干后暗褐色；芽体裸露无鳞状苞片，被鳞垢。叶革质，椭圆形或倒卵状椭圆形，产于中国广东、福建、台湾、浙江等省，多生于海拔100～200m 之<a data-lemmaid="12574270" href="/item/%E4%B8%98%E9%99%B5%E5%9C%B0%E5%B8%A6/12574270" target="_blank">丘陵地带</a>，日本亦有分布。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78281"> </a>
+长江流域<a data-lemmaid="5417291" href="/item/%E5%9F%8E%E5%B8%82%E5%9B%AD%E6%9E%97/5417291" target="_blank">城市园林</a>中常有栽培。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文学名</dt>
+<dd class="basicInfo-item value">
+蚊母树
+</dd>
+<dt class="basicInfo-item name">拉丁学名</dt>
+<dd class="basicInfo-item value">
+Distylium racemosum Sieb.et Zucc.
+</dd>
+<dt class="basicInfo-item name">别    称</dt>
+<dd class="basicInfo-item value">
+米心树 蚊母 蚊子树
+</dd>
+<dt class="basicInfo-item name">二名法</dt>
+<dd class="basicInfo-item value">
+Distylium racemosum
+</dd>
+<dt class="basicInfo-item name">界</dt>
+<dd class="basicInfo-item value">
+植物界
+</dd>
+<dt class="basicInfo-item name">门</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E8%A2%AB%E5%AD%90%E6%A4%8D%E7%89%A9%E9%97%A8" target="_blank">被子植物门</a>
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">纲</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E5%8F%8C%E5%AD%90%E5%8F%B6%E6%A4%8D%E7%89%A9%E7%BA%B2" target="_blank">双子叶植物纲</a>
+</dd>
+<dt class="basicInfo-item name">目</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E8%94%B7%E8%96%87%E7%9B%AE" target="_blank">蔷薇目</a>
+</dd>
+<dt class="basicInfo-item name">科</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E9%87%91%E7%BC%95%E6%A2%85%E7%A7%91" target="_blank">金缕梅科</a>
+</dd>
+<dt class="basicInfo-item name">族</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E8%9A%8A%E6%AF%8D%E6%A0%91%E6%97%8F" target="_blank">蚊母树族</a>
+</dd>
+<dt class="basicInfo-item name">属</dt>
+<dd class="basicInfo-item value">
+蚊母树属
+</dd>
+<dt class="basicInfo-item name">种</dt>
+<dd class="basicInfo-item value">
+蚊母树
+</dd>
+<dt class="basicInfo-item name">分布区域</dt>
+<dd class="basicInfo-item value">
+产中国广东、福建、台湾、浙江等省，
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">形态特征</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">生长习性</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">地理分布</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">繁殖方法</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">栽培技术</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_1">管理事项</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_2">病虫防治</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">主要价值</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_1">环境树种</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_2">园林价值</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_3">药用价值</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub78281_1"></a>
+<a class="lemma-anchor" name="形态特征"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">蚊母树</span>形态特征</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-left" style="width:146px; float: left;">
+<a class="image-link" href="/pic/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769/0/6609c93d70cf3bc78b0b547dd100baa1cd112a13?fr=lemma&amp;ct=single" nslog-type="9317" style="width:146px;height:220px;" target="_blank" title="蚊母树">
+<img alt="蚊母树" class="lazy-img" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=8920515baf51f3dec7b2be66a4eff0ec/6609c93d70cf3bc78b0b547dd100baa1cd112a13.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:146px;height:220px;"/>
+</a>
+<span class="description">
+蚊母树
+</span>
+</div></div>
+<div class="para" label-module="para">常绿灌木或中乔木，嫩枝有鳞垢，老枝秃净，干后暗褐色；芽体裸露无鳞状苞片，被鳞垢。</div>
+<div class="para" label-module="para">叶革质，椭圆形或倒卵状椭圆形，长3～7厘米，宽1.5～3.5厘米，先端钝或略尖，基部阔楔形，上面深绿色，发亮，下面初时有鳞垢，以后变秃净，侧脉5～6对，在上面不明显，在下面稍突起，网脉在上下两面均不明显，边缘无锯齿；叶柄长5～10毫米，略有鳞垢。托叶细小，早落。</div>
+<div class="para" label-module="para"><a href="/item/%E6%80%BB%E7%8A%B6%E8%8A%B1%E5%BA%8F" target="_blank">总状花序</a>长约2厘米，花序轴无毛，总苞2～3片，卵形，有鳞垢；苞片披针形，长3毫米，花雌雄同在一个花序上，雌花位于花序的顶端；萼筒短，萼齿大小不相等，被鳞垢；雄蕊5～6个，花丝长约2毫米，花药长3.5毫米，红色；子房有星状绒毛，花柱长6-7毫米。</div>
+<div class="para" label-module="para">蒴果卵圆形，长1～1.3厘米，先端尖，外面有褐色星状绒毛，上半部两片裂开，每片2浅裂，不具宿存萼筒，果梗短，长不及2毫米。种子卵圆形，长4～5毫米，深褐色、发亮，种脐白色。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78281"> </a>
+</div>
+<div class="para" label-module="para">嫩枝有鳞垢，叶革质，椭圆形，长约5厘米，先端钝，侧脉不明显，无毛，全缘。海南尖峰岭保护区的植株，高达16米，叶厚革质，第一对侧脉强劲，有点像三出脉。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78281"> </a>
+<a class="lemma-album layout-right nslog:10000206" href="/pic/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769/25113304/f7246b600c338744eb4f269c5f0fd9f9d62aa043?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="蚊母树">
+<div class="album-wrap" style="width:220px;height:163px;">
+<img alt="蚊母树" class="picture" src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=07bf14e81130e924cba49b337c096e66/f7246b600c338744eb4f269c5f0fd9f9d62aa043.jpg" style="width:220px;height:163px;"/>
+</div>
+<div class="description">
+蚊母树<span class="number">(5张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub78281_2"></a>
+<a class="lemma-anchor" name="生长习性"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">蚊母树</span>生长习性</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">多生于亚热带常绿林中。多生于海拔100～300m之丘陵地带;日本亦有分布。长江流域城市园林中常有栽培。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78281"> </a>
+植物喜光，稍耐荫，喜温暖湿润气候，耐寒性不强。</div>
+<div class="para" label-module="para">对土壤要求不严，酸性、中性土壤均能适应，而以排水良好而肥沃、湿润土壤为最好。萌芽、发枝力强，耐修剪。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub78281_3"></a>
+<a class="lemma-anchor" name="地理分布"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">蚊母树</span>地理分布</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">分布于福建、浙江、台湾、广东海南岛；亦见于朝鲜及日本琉球。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78281"> </a>
+安徽、江西、广西、四川、贵州、云南也有。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub78281_4"></a>
+<a class="lemma-anchor" name="繁殖方法"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">蚊母树</span>繁殖方法</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769/10276802/d8b8c92a014bff17d42af1ea?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:221px;" target="_blank" title="蚊母树">
+<div class="album-wrap" style="width:219px;height:170px;">
+<img alt="蚊母树" class="picture" src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike60%2C5%2C5%2C60%2C20/sign=a2ef26399245d688b70fbaf6c5ab167b/6c224f4a20a4462368e54a689822720e0cf3d789.jpg" style="width:219px;height:170px;"/>
+</div>
+<div class="description">
+蚊母树<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:213px;"></div>
+<div class="albumBgSec" style="width:207px;"></div>
+</div>
+</a>
+可用播种和扦插法繁殖。播种在9月采收果实，日晒脱粒，净种后干藏，至翌年2～3月播种，发芽率70～80%。扦插在3月用硬枝踵状插，也可在梅雨季用嫩枝踵状插。移植在10月中旬至11月下旬，或2月下旬至4月上旬进行，需带土球。栽后适当疏去枝叶，可保证成活。</div>
+<div class="para" label-module="para">蚊母树可在春夏季节扦插繁殖，还可在春季用播种法繁殖。等小苗长到合适的大小时进行造型。也可用生长多年植株矮小、苍劲古拙的蚊母老桩制作盆景，一般在春季发芽前或雨季移栽，移栽前先对树桩进行一次粗剪，剪去多余的枝条，根系也要适当修剪，剪除过长的主根，多留<a href="/item/%E4%BE%A7%E6%A0%B9" target="_blank">侧根</a>和须根，挖掘后做好保鲜保湿工作，先栽在<a href="/item/%E7%93%A6%E7%9B%86" target="_blank">瓦盆</a>或地下“养坯”，等成活后再进行造型，并移入细盆观赏。</div>
+<div class="para" label-module="para"><b>步骤</b></div>
+<div class="para" label-module="para">⒈采挖：与常规相同。</div>
+<div class="para" label-module="para">⒉修桩：修桩一次到位，修平枝头、根头和伤口，密封。用消毒、促根剂浸泡5-8小时。</div>
+<div class="para" label-module="para">⒊养坯：用松疏素土，消毒。毛桩沙养更佳。浅植，吸透水触根。按习性营造小气候。初期遮阳。</div>
+<div class="para" label-module="para">⒋上盆：立秋前一周，用微酸性松疏土壤，按习性放置。</div>
+<div class="para" label-module="para">⒌造型：因材施艺。截干蓄枝、修剪、蟠扎相结合。收放并举。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub78281_5"></a>
+<a class="lemma-anchor" name="栽培技术"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">蚊母树</span>栽培技术</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769/10276803/d833c895d143ad4b441026ba80025aafa40f0689?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="蚊母树">
+<div class="album-wrap" style="width:220px;height:165px;">
+<img alt="蚊母树" class="picture" src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=32859c5d7d3e6709ba0042fd0bc79fb8/d833c895d143ad4b441026ba80025aafa40f0689.jpg" style="width:220px;height:165px;"/>
+</div>
+<div class="description">
+蚊母树<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div>
+<div class="para" label-module="para"><b>修剪</b></div>
+<div class="para" label-module="para">蚊母树枝条柔韧，萌发力强，耐修剪，适合制作直干式、曲干式、斜干式、枯干式、双干式、悬崖式、临水式等不同形式的盆景，叶片较小的中华蚊母、中华细叶蚊母的树冠常加工成规整的云片形，而叶片较大的蚊母、杨梅叶蚊母的树冠多制作成潇洒飘逸的自然形。加工方法采取扎、剪并用。</div>
+<div class="para" label-module="para">蚊母树是观叶树种，花期应及时摘除花序，勿使开花、结果，以保证叶片的正常生长。每2年至3年的春季翻盆一次，盆土要求含腐殖质丰富，肥沃疏松，<a href="/item/%E6%8E%92%E6%B0%B4" target="_blank">排水</a>透气良好。</div>
+<div class="para" label-module="para"><b>造型</b></div>
+<div class="para" label-module="para">对幼树的造型应按照设计逐步进行，并注意对根的培养提升，使之悬根露爪，以表现其古朴多姿。对于生长多年的老桩则要因势利导，因桩造型，尽量利用树桩的原有形态，辅以牵拉、蟠扎、修剪等手段，以突出其自然美。</div>
+<div class="para" label-module="para"><b>管理</b></div>
+<div class="para" label-module="para">蚊母树喜温暖、湿润和阳光充足的环境，耐半阴，稍耐寒。已经成型的盆景生长期可放在室外光线明亮、空气流通处养护，平时保持盆土湿润，避免干旱，经常向叶面喷水，使叶色浓绿光亮；每月施一次腐熟的稀薄液肥。夏季高温时要避免烈日曝晒，以免造成叶片边缘枯焦。由于其长势旺盛，萌发力强，应经常摘心、打头，剪去影响树形的枝条，以使盆景紧凑美观。</div>
+<div class="para" label-module="para"><b>越冬</b></div>
+<div class="para" label-module="para">冬季移至冷室内越冬，温度控制在0℃至10℃，不要浇太多的水，使植株休眠，以利于来年的生长。每年春季发芽前对植株进行一次整形，剪去过密枝、过长枝、病虫枝以及其他影响树形美观的枝条，促发新的枝叶，以提高盆景的观赏性。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_1"></a>
+<a class="lemma-anchor" name="sub78281_5_1"></a>
+<a class="lemma-anchor" name="管理事项"></a>
+<a class="lemma-anchor" name="5-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">蚊母树</span>管理事项</h3>
+</div>
+<div class="para" label-module="para">⑴按习性进行日常养护，大水大肥、高温高湿、半荫半阳管理；<a class="lemma-album layout-right nslog:10000206" href="/pic/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769/10276804/bbe0d311a5989d2ab9127beb?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:221px;" target="_blank" title="蚊母树">
+<div class="album-wrap" style="width:219px;height:170px;">
+<img alt="蚊母树" class="picture" src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike60%2C5%2C5%2C60%2C20/sign=00d9a1f10a46f21fdd395601974d0005/b03533fa828ba61e7fc027254134970a304e598a.jpg" style="width:219px;height:170px;"/>
+</div>
+<div class="description">
+蚊母树<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:213px;"></div>
+<div class="albumBgSec" style="width:207px;"></div>
+</div>
+</a>
+</div>
+<div class="para" label-module="para">⑵新叶长到深绿后修剪，一年可整型3～4次，整枝造型前要施肥；</div>
+<div class="para" label-module="para">⑶切勿失水，否则生长不良，轻者枯枝，重时枯桩。</div>
+<div class="para" label-module="para">⑷起苗时间最好随栽随起，起得过早，树苗蒸发失水时间长，对造林成活和生长均不利。</div>
+<div class="para" label-module="para">⑸圃地浇水冬春干旱地区，圃地土壤板结，起苗困难，起苗前5～6天圃地要浇透水，这样既便于起苗，伤根少，确保苗木根系完整，又可使苗木充分吸水，提高苗体含水量，增强苗木抗御干旱的能力。</div>
+<div class="para" label-module="para">⑹起苗深度要根据各树种的根系分布规律起苗，宜深不宜浅。过浅，伤根多，起出的树苗根系少，栽后成活率低或生长弱；对于过长的主根或侧根，因不便掘起可以切断，切忌用手拔苗，避免撕裂根或把根皮捋掉，否则影响成活。</div>
+<div class="para" label-module="para">⑺要带苗和大树挖取时要带土球，并用草绳缠裹。这样可避免根系暴露在空气中，使其少失水。同时，栽后根土密接，根系恢复吸收功能快，可提高常青树苗和大树移植的成活率。</div>
+<div class="para" label-module="para">⑻春天起苗不要在刮大风天起苗，风大苗木更易失水，影响成活。下雨天不应起常青树苗，因枝叶易沾泥，影响绿化效果和光合作用。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_2"></a>
+<a class="lemma-anchor" name="sub78281_5_2"></a>
+<a class="lemma-anchor" name="病虫防治"></a>
+<a class="lemma-anchor" name="5-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">蚊母树</span>病虫防治</h3>
+</div>
+<div class="para" label-module="para">蚊母树一般病虫害较少，但若种在潮湿阴暗和不透风处，易遭<a href="/item/%E4%BB%8B%E5%A3%B3%E8%99%AB" target="_blank">介壳虫</a>危害。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6"></a>
+<a class="lemma-anchor" name="sub78281_6"></a>
+<a class="lemma-anchor" name="主要价值"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">蚊母树</span>主要价值</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="6_1"></a>
+<a class="lemma-anchor" name="sub78281_6_1"></a>
+<a class="lemma-anchor" name="环境树种"></a>
+<a class="lemma-anchor" name="6-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">蚊母树</span>环境树种</h3>
+</div>
+<div class="para" label-module="para">对烟尘及多种有毒气体抗性很强，能适应城市环境。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78281"> </a>
+树皮内含鞣质，可制栲胶；木材坚硬，可作家具、车辆等用材。对二氧化硫及氯有很强的抵抗力。<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_78281"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6_2"></a>
+<a class="lemma-anchor" name="sub78281_6_2"></a>
+<a class="lemma-anchor" name="园林价值"></a>
+<a class="lemma-anchor" name="6-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">蚊母树</span>园林价值</h3>
+</div>
+<div class="para" label-module="para">蚊母树枝叶密集，树形整齐，叶色浓绿，经冬不凋，春日开细小红花也<a class="lemma-album layout-right nslog:10000206" href="/pic/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769/10276805/09fa513d269759eee14700b1b0fb43166d22dfb1?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:221px;" target="_blank" title="蚊母树 园林种植">
+<div class="album-wrap" style="width:219px;height:170px;">
+<img alt="蚊母树 园林种植" class="picture" src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike60%2C5%2C5%2C60%2C20/sign=0d2aefebcf11728b24208470a995a8ab/09fa513d269759eee14700b1b0fb43166d22dfb1.jpg" style="width:219px;height:170px;"/>
+</div>
+<div class="description">
+蚊母树 园林种植<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:213px;"></div>
+<div class="albumBgSec" style="width:207px;"></div>
+</div>
+</a>
+颇美丽，加之抗性强、防尘及隔音效果好，是城市及工矿区绿化及观赏树种。植于路旁、庭前草坪上及大树下都很合适；成丛、成片栽植作为分隔空间或作为其它花木之<a href="/item/%E8%83%8C%E6%99%AF%E6%95%88%E6%9E%9C" target="_blank">背景效果</a>亦佳。</div>
+<div class="para" label-module="para">若修剪成球形，宜于门旁对植或作<a href="/item/%E5%9F%BA%E7%A1%80%E7%A7%8D%E6%A4%8D" target="_blank">基础种植</a>材料。亦可栽作<a href="/item/%E7%BB%BF%E7%AF%B1" target="_blank">绿篱</a>和防护林带。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6_3"></a>
+<a class="lemma-anchor" name="sub78281_6_3"></a>
+<a class="lemma-anchor" name="药用价值"></a>
+<a class="lemma-anchor" name="6-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">蚊母树</span>药用价值</h3>
+</div>
+<div class="para" label-module="para"><b>蚊母树根</b></div>
+<div class="para" label-module="para"><b>主治：</b>水肿；手足浮肿；风湿骨节疼痛；跌打损伤<a class="lemma-album layout-right nslog:10000206" href="/pic/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769/10276806/03087bf40ad162d963e9c3f911dfa9ec8b13cdd4?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:221px;" target="_blank" title="蚊母树">
+<div class="album-wrap" style="width:219px;height:152px;">
+<img alt="蚊母树" class="picture" src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike60%2C5%2C5%2C60%2C20/sign=0630a49b251f95cab2f89ae4a87e145b/03087bf40ad162d963e9c3f911dfa9ec8b13cdd4.jpg" style="width:219px;height:152px;"/>
+</div>
+<div class="description">
+蚊母树<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:213px;"></div>
+<div class="albumBgSec" style="width:207px;"></div>
+</div>
+</a>
+</div>
+<div class="para" label-module="para"><b>生态环境：</b>多生于亚热带常绿林中。</div>
+<div class="para" label-module="para"><b>各家论述：</b>《新华本草纲要》：根：治手足浮肿。</div>
+<div class="para" label-module="para"><b>采收和储藏：</b>全年均可采挖，洗净，切段，晒干。</div>
+<div class="para" label-module="para"><b>生药材鉴定：</b>性状鉴别，根长圆锥形，大小长短不一。表面灰褐色。质硬，不易折断，断面纤维性。气微，味淡。</div>
+<div class="para" label-module="para"><b>性味</b>：味辛；微苦；性平</div>
+<div class="para" label-module="para"><b>药材基源：</b>为金缕梅科植物<a href="/item/%E6%9D%A8%E6%A2%85%E5%8F%B6%E8%9A%8A%E6%AF%8D%E6%A0%91" target="_blank">杨梅叶蚊母树</a>的根。</div>
+<div class="para" label-module="para"><b>用法用量：</b>内服：煎汤，6～12g。</div>
+<div class="para" label-module="para"><b>出处：</b>《中华本草》<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78281"> </a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a class="anchor-2" name="rs_78281_47907"></a>
+<div class="rslazy rs-container" id="rs-container-78281-47907" lazy-init="lemmars.tableAction(baidu.g('rs-78281-47907'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":47907,"fentryTableName":"\u868a\u6bcd\u6811\u5c5e","fentryTableType":1,"entryId":2762375,"templateId":0,"entryTitle":"\u868a\u6bcd\u6811\u5c5e","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([78281, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-78281-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_78281" id="refIndex_1_78281" name="refIndex_1_78281" title="向上跳转">  </a>
+<a class="text" href="/reference/1414769/75afQqyA_FlLfACod-9Y9BU5BIUS8ya4QTgB2AkW4AmsGC9mMQ1wDDLA8yYNslqARgB86k6COXY0STwm1Q5NMe19bS-BIM3dlzdITDT2lrrJO9k" rel="nofollow" target="_blank">蚊母树<span class="linkout"> </span></a>
+<span class="site">．中国植物志</span><span>．2013-12-20</span><span>[引用日期2013-12-20]</span></li><li class="reference-item reference-item--type1" id="reference-[2]-78281-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_78281" id="refIndex_2_78281" name="refIndex_2_78281" title="向上跳转">  </a>
+<a class="text" href="/reference/1414769/47dcxOPrF8z_Gdnk-IcngfgRYcQWoVIyJAWJ9Qw0RXGmeO-6kRe9Jo3dZeitTxMp4xkOZnf9zW0d0Q-jTdXsa05-3mP2g1BQr_BHp-uo43Gg-rRB6wZe_Mu-jcIDU1PyNdiD05IJgQ" rel="nofollow" target="_blank">蚊母树<span class="linkout"> </span></a>
+<span class="site">．人民网</span><span>[引用日期2014-03-31]</span></li><li class="reference-item reference-item--type1" id="reference-[3]-78281-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_78281" id="refIndex_3_78281" name="refIndex_3_78281" title="向上跳转">  </a>
+<a class="text" href="/reference/1414769/45dbQbFjLZicJ7TuKCT3RTC5xwylhpD9Wc-dJhiIxlKUcG0xYwsgkHSgkzZMvEoCnQl96Q5Yj7Z0IDvoNdTp_GZa2c3U3QtZPXVAipX2Mp_qbfCm_MEU-A" rel="nofollow" target="_blank">杨梅叶蚊母树根<span class="linkout"> </span></a>
+<span class="site">．中医药</span><span>[引用日期2014-03-28]</span></li></ul>
+</dd>
+</dl>
+<div class="lemma-paper-box"></div>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+自然
+</span>
+，<span class="taglist">
+植物
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769/0/203fb80e7bec54e71ca17b64bb389b504fc26a7e?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=293f2cbaf536afc30e0c38638b228cf9/203fb80e7bec54e71ca17b64bb389b504fc26a7e.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>蚊母树图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1414769" data-lemmatitle="蚊母树"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1414769" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><div id="side-auth">
+<div class="side-box" id="authResource">
+<dl>
+<dt class="sidetitle">资源提供</dt>
+<dd class="side-auth-content">
+<div class="side-auth-img">
+<a href="http://www.plantphoto.cn/" nslog-type="7043" target="_blank">
+<img alt="资源合作" onload="this.style.width = '50px';this.style.display='';" src="https://baike.baidu.com/cms/s/plantphoto-logo.png" style="display: none" title="资源合作"/>
+</a>
+</div>
+<div class="side-auth-info">
+<div class="auth-info-name">
+<a class="nslog:7043" href="http://www.plantphoto.cn/" target="_blank">中国植物图像库</a>
+</div>
+<p>中国最专业的植物分类图...</p>
+<p>提供资源类型：<span style="color: #555555;"></span></p>
+</div>
+</dd>
+<dd class="authVersion">
+<span>
+<a align="absmiddle" class="whatIs" href="javascript:void(0);"></a>
+<a class="link-toggle" href=" http://baike.bdimg.com/cms/static/cooperation/content.pdf" nslog-type="3024" target="_blank">什么是资源合作</a>
+</span>
+</dd>
+</dl>
+</div>
+</div>
+<dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：59次<a class="nslog:1021" href="/historylist/%E8%9A%8A%E6%AF%8D%E6%A0%91/1414769" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="1595194031" href="/usercenter/userpage?uname=i%E6%B5%AE%E6%A2%A6ing&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">i浮梦ing</a><span class="j-modified-time" style="display:none">（2019-06-26）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="138591625" href="/usercenter/userpage?uname=%E6%9C%8B%E5%8F%8C%E5%96%86&amp;from=lemma" target="_blank" title="查看此用户资料" username="朋双喆">朋双喆</a>
+<a class="contribute-flag-container" href="https://baike.baidu.com/kedou" target="_blank" title="百科蝌蚪团">
+<img alt="" class="contribute-flag-icon" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-1_c1b820f.png"/>
+</a>
+<div class="right">
+<a href="http://baike.baidu.com/tese" target="_blank"><img align="absmiddle" alt="特色词条" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/distinctiveIcon_a9a2d74.png" title="特色词条"/></a>
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="8746982" href="/usercenter/userpage?uname=%E6%AE%8B%E9%9C%8F&amp;from=lemma" target="_blank" title="查看此用户资料" username="残霏">残霏</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">形态特征</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">生长习性</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">地理分布</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">繁殖方法</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">栽培技术</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_1">
+<span class="text">
+<span class="title-index">5.1</span>
+<span class="title-link" nslog-type="10002802">管理事项</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_2">
+<span class="text">
+<span class="title-index">5.2</span>
+<span class="title-link" nslog-type="10002802">病虫防治</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#6">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">主要价值</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#6_1">
+<span class="text">
+<span class="title-index">6.1</span>
+<span class="title-link" nslog-type="10002802">环境树种</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#6_2">
+<span class="text">
+<span class="title-index">6.2</span>
+<span class="title-link" nslog-type="10002802">园林价值</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#6_3">
+<span class="text">
+<span class="title-index">6.3</span>
+<span class="title-link" nslog-type="10002802">药用价值</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

@@ -1,0 +1,718 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<a class="posterFlag excellent-icon" href="/tese" target="_blank" title="特色词条经过百科资深用户精心编写，是符合百科编辑精神的典范之作。"></a>
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E8%B4%A5%E9%85%B1" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<span class="lemma-pinyin">
+<span class="text">[bài jiàng]</span>
+<a class="speak" href="javascript:;" id="j-pinyin-speak" nslog-type="10000106" title="点击发声"> </a>
+</span>
+<div id="fmp_flash_div" style="position:absolute; left:-9999px;">
+<audio id="audio" src=""></audio>
+</div>
+<h1>败酱</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="/view/10812319.htm" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">败酱（学名：<i>Patrinia scabiosaefolia</i> Fisch. ex Trev.）是败酱科、败酱属多年生<a href="/item/%E8%8D%89%E6%9C%AC" target="_blank">草本</a>植物，高可达200 厘米；茎直立，基生<a href="/item/%E5%8F%B6%E7%89%87" target="_blank">叶片</a>丛生，花时枯落，卵形、椭圆形或椭圆状披针形，顶端钝或尖，基部楔形，边缘具粗锯齿，上面暗绿色，背面淡绿色，两面被糙伏毛或几无毛，茎生叶对生，宽卵形至披针形，顶生<a data-lemmaid="1893009" href="/item/%E8%A3%82%E7%89%87/1893009" target="_blank">裂片</a>卵形、椭圆形或椭圆状披针形，花序为聚伞花序组成的大型伞房花序，顶生，总苞线形，<a data-lemmaid="6732646" href="/item/%E8%8B%9E%E7%89%87/6732646" target="_blank">苞片</a>小；花小，萼齿不明显；花冠钟形，黄色，花冠裂片卵形，花丝不等长，花药长圆形，瘦果长圆形，扁平种子。7-9月开花。</div><div class="para" label-module="para">中国除宁夏、青海、新疆、西藏和广东的海南岛外，中国各地均有分布。俄罗斯、蒙古、朝鲜和日本亦有分布。常生于海拔50-2600 米的山坡林下、林缘和灌丛中以及路边、田埂边的草丛中。</div><div class="para" label-module="para">全草（药材名：败酱草）和根茎及根入药，能清热解毒、消肿排脓、活血祛瘀，治<a data-lemmaid="1487921" href="/item/%E6%85%A2%E6%80%A7%E9%98%91%E5%B0%BE%E7%82%8E/1487921" target="_blank">慢性阑尾炎</a>，疗效极显。山东、江西等省民间采摘幼苗嫩叶食用。</div><div class="para" label-module="para">（概述图参考来源：<a href="/item/%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%84%B6%E6%A0%87%E6%9C%AC%E9%A6%86" target="_blank">中国自然标本馆</a><sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78305"> </a>
+）</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文学名</dt>
+<dd class="basicInfo-item value">
+败酱
+</dd>
+<dt class="basicInfo-item name">拉丁学名</dt>
+<dd class="basicInfo-item value">
+<i>Patrinia scabiosifolia</i> Fisch. ex Trevir.
+</dd>
+<dt class="basicInfo-item name">界</dt>
+<dd class="basicInfo-item value">
+植物界
+</dd>
+<dt class="basicInfo-item name">门</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E8%A2%AB%E5%AD%90%E6%A4%8D%E7%89%A9%E9%97%A8" target="_blank">被子植物门</a>
+</dd>
+<dt class="basicInfo-item name">纲</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E5%8F%8C%E5%AD%90%E5%8F%B6%E6%A4%8D%E7%89%A9%E7%BA%B2" target="_blank">双子叶植物纲</a>
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">亚    纲</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E5%90%88%E7%93%A3%E8%8A%B1%E4%BA%9A%E7%BA%B2" target="_blank">合瓣花亚纲</a>
+</dd>
+<dt class="basicInfo-item name">目</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E8%8C%9C%E8%8D%89%E7%9B%AE" target="_blank">茜草目</a>
+</dd>
+<dt class="basicInfo-item name">科</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E8%B4%A5%E9%85%B1%E7%A7%91" target="_blank">败酱科</a>
+</dd>
+<dt class="basicInfo-item name">属</dt>
+<dd class="basicInfo-item value">
+<a href="/item/%E8%B4%A5%E9%85%B1%E5%B1%9E" target="_blank">败酱属</a>
+</dd>
+<dt class="basicInfo-item name">种</dt>
+<dd class="basicInfo-item value">
+败酱
+</dd>
+<dt class="basicInfo-item name">命名者及年代</dt>
+<dd class="basicInfo-item value">
+Fisch. ex Trev.，1820
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">形态特征</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">近种区别</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">产地生境</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">生长习性</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">繁殖方法</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">栽培技术</a></span>
+</li>
+<li class="level1">
+<span class="index">7</span>
+<span class="text"><a href="#7">病虫防治</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#7_1">农业防治</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#7_2">化学防治</a></span>
+</li>
+<li class="level1">
+<span class="index">8</span>
+<span class="text"><a href="#8">主要价值</a></span>
+</li>
+<li class="level1">
+<span class="index">9</span>
+<span class="text"><a href="#9">植物文化</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub78305_1"></a>
+<a class="lemma-anchor" name="形态特征"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">败酱</span>形态特征</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-abreast" style="width:176px; cursor: move; text-indent: 28px; float: right;">
+<a class="image-link" href="/pic/%E8%B4%A5%E9%85%B1/1415182/0/810a19d8bc3eb135805b7acca51ea8d3fd1f442d?fr=lemma&amp;ct=single" nslog-type="9317" style="width:176px;height:220px;" target="_blank" title="败酱">
+<img alt="败酱" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=8aa0d978bb0e7bec27da04e31f2fb9fa/810a19d8bc3eb135805b7acca51ea8d3fd1f442d.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:176px;height:220px;"/>
+</a>
+<span class="description">
+败酱
+<sup>[2]</sup>
+<a name="ref_[2]_"></a>
+</span>
+</div>多年生<a href="/item/%E8%8D%89%E6%9C%AC" target="_blank">草本</a>，高30-100（-200）厘米；<a href="/item/%E6%A0%B9%E7%8A%B6%E8%8C%8E" target="_blank">根状茎</a>横卧或斜生，节处生多数细根；茎直立，黄绿色至黄棕色，有时带淡紫色，下部常被脱落性倒生白色粗毛或几无毛，上部常近无毛或被倒生稍弯糙毛，或疏被2列纵向短糙毛。</div>
+<div class="para" label-module="para">基生叶丛生，花时枯落，卵形、椭圆形或椭圆状披针形，长（1.8-）3-10.5厘米，宽1.2-3厘米，不分裂或羽状分裂或全裂，顶端钝或尖，基部楔形，边缘具粗锯齿，上面暗绿色，背面淡绿色，两面被糙伏毛或几无毛，具缘毛；叶柄长3-12厘米；茎生叶对生，宽卵形至披针形，长5-15厘米，常羽状深裂或全裂具2-3（-5）对侧裂片，顶生裂片卵形、椭圆形或椭圆状披针形，先端渐尖，具粗<a href="/item/%E9%94%AF%E9%BD%BF" target="_blank">锯齿</a>，两面密被或疏被白色糙毛，或几无毛，上部叶渐变窄小，无柄。</div>
+<div class="para" label-module="para"><a data-lemmaid="320042" href="/item/%E8%8A%B1%E5%BA%8F/320042" target="_blank">花序</a>为聚伞花序组成的大型伞房花序，顶生，具5-6（7）级分枝；花序梗上方一侧被开展白色粗糙毛；总苞线形，甚小；苞片小；花小，<a href="/item/%E8%90%BC%E9%BD%BF" target="_blank">萼齿</a>不明显；花冠钟形，黄色，冠筒长1.5毫米，上部宽1.5毫米，基部一侧囊肿不明显，内具白色长柔毛，花冠裂片卵形，长1.5毫米，宽1-1.3毫米；雄蕊4，稍超出或几不超出花冠，花丝不等长，近蜜囊的2枚长3.5毫米，下部被柔毛，另2枚长2.7毫米，无毛，<a href="/item/%E8%8A%B1%E8%8D%AF" target="_blank">花药</a>长圆形，长约1毫米；子房椭圆状长圆形，长约1.5毫米，花柱长2.5毫米，柱头盾状或截头状，径0.5-0.6毫米。</div>
+<div class="para" label-module="para">瘦果长圆形，长3-4毫米，具3棱，2不育子室中央稍隆起成上粗下细的棒槌状，能育子室略扁平，向两侧延展成窄边状，内含1椭圆形、扁平种子。花期7-9月。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78305"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub78305_2"></a>
+<a class="lemma-anchor" name="近种区别"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">败酱</span>近种区别</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">该种瘦果不具增大膜质苞片和花序梗仅上方一侧被开展白色粗糙毛等特征，极易与同属内的其他种区分开。由于该种叶子形状和大小，毛被的有无以及茎的粗细变化很大，因此Bunge，Komarov等人曾发表的种和变种，都不能成立。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78305"> </a>
+</div>
+<table class="table-view log-set-param" log-set-param="table_view"><tr><td valign="top"><div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E8%B4%A5%E9%85%B1/1415182/22233395/1c950a7b02087bf4cff239bff1d3572c11dfcf4e?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="败酱">
+<div class="album-wrap" style="width:220px;height:165px;">
+<img alt="败酱" class="picture" src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=612c109df8edab6470724ac2c736af81/1c950a7b02087bf4cff239bff1d3572c11dfcf4e.jpg" style="width:220px;height:165px;"/>
+</div>
+<div class="description">
+败酱<span class="number">(4张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div>
+</td><td valign="top"><div class="para" label-module="para"><a class="lemma-album nslog:10000206" href="/pic/%E8%B4%A5%E9%85%B1/1415182/21901699/8cb1cb13495409238ac2160d9858d109b3de491d?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="败酱">
+<div class="album-wrap" style="width:220px;height:165px;">
+<img alt="败酱" class="picture" src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=e52190e106f431adb8d2443b7b37ac0f/8cb1cb13495409238ac2160d9858d109b3de491d.jpg" style="width:220px;height:165px;"/>
+</div>
+<div class="description">
+败酱<span class="number">(5张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div>
+</td></tr></table><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub78305_3"></a>
+<a class="lemma-anchor" name="产地生境"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">败酱</span>产地生境</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">中国除宁夏、青海、新疆、西藏和广东的海南岛外，中国各地均有分布。俄罗斯、蒙古、朝鲜和日本亦有分布。常生于海拔（50-）400-2100（-2600）米的山坡林下、林缘和灌丛中以及路边、田埂边的草丛中。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78305"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub78305_4"></a>
+<a class="lemma-anchor" name="生长习性"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">败酱</span>生长习性</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">败酱比较<a href="/item/%E8%80%90%E5%AF%92" target="_blank">耐寒</a>，田间栽培在-6℃仍能正常生长，但以20-30℃生长最适宜。喜湿不耐旱，败酱草根系发达，土壤保水透气需兼顾，否则不利于根系生长。耐阴，以林间坡地或背阴山垄田种植为佳，忌暴晒，夏季平原田块种植要搭建遮阳棚。以腐殖质丰富的壤土或沙壤土为适，pH6-6.5。<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_78305"> </a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub78305_5"></a>
+<a class="lemma-anchor" name="繁殖方法"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">败酱</span>繁殖方法</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">人工繁殖栽培主要以采挖<a href="/item/%E9%87%8E%E7%94%9F%E8%8B%97" target="_blank">野生苗</a>为主。野生植株采回后保留茎上部20厘米，剔除病弱老根，将簇生根茎掰开，留带根茎做繁殖苗。<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_78305"> </a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6"></a>
+<a class="lemma-anchor" name="sub78305_6"></a>
+<a class="lemma-anchor" name="栽培技术"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">败酱</span>栽培技术</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><b>整地施肥：</b>选<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E8%B4%A5%E9%85%B1/1415182/0/500fd9f9d72a6059d42e884c2b34349b033bbaae?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:196px;" target="_blank" title="败酱">
+<img alt="败酱" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=bd0b32601e950a7b713549c63ad1625c/500fd9f9d72a6059d42e884c2b34349b033bbaae.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:196px;"/>
+</a>
+<span class="description">
+败酱
+<sup>[2]</sup>
+<a name="ref_[2]_"></a>
+</span>
+</div>择排灌方便的中性壤土田，结合深耕整地，每亩（1 亩=1/15公顷）施钙镁磷肥30公斤、<a href="/item/%E7%A1%AB%E9%85%B8%E9%92%BE" target="_blank">硫酸钾</a>30 公斤，拌腐熟有机肥1000公斤为基肥，然后细耙整平做畦。开好排水沟，畦宽1.2米，中间开沟，沟深宽30厘米×30厘米，畦面挖穴。</div>
+<div class="para" label-module="para"><b>合理定植：</b>种苗按20厘米×20厘米的规格进行栽植， 每亩约植6000-8000株，栽植后浇1次透水。3天后每亩喷施50%丁草胺乳油500倍液处理草芽，苗大封行后，当土壤有足够湿度、<a data-lemmaid="764946" href="/item/%E6%9D%82%E8%8D%89/764946" target="_blank">杂草</a>生长旺盛时， 每亩用6.9%威霸水乳剂50毫升对水25公斤对畦面进行均匀喷雾以防除杂草。</div>
+<div class="para" label-module="para"><b>田间管理：</b>小苗成活后每亩用48%三元进口复合肥3公斤加尿素3公斤掺水施1次促苗肥。败酱草吸肥能力强，茎叶采摘后可视生长状况，结合疏松畦面，及时追施土杂肥和化肥。同时，败酱草生长需保持土壤湿润，天气干旱时早晚应注意浇水，雨季要注意及时排水，防涝渍，以促进植株正常生长。</div>
+<div class="para" label-module="para"><b>遮阳：</b>败酱草耐阴，阴凉湿润有利于枝蔓茎叶生长，反之则生长受抑。所以，每年6-8月畦面上应搭建简易遮阳棚，避免强光暴晒。一般棚高1.5米，用竹木搭架，其上覆盖塑料遮阳网，保持畦面通风透气，方便采收。</div>
+<div class="para" label-module="para"><b>修剪：</b>败酱草生长旺盛，生长后期茎叶交叠，当植株枝条过密、过高及生长明显减弱时，不利于通风及田间操作，亦影响植株的生长。此时应将植株近基部的老化枝叶进行疏除更新，同时，增施有机肥和培土。<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_78305"> </a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7"></a>
+<a class="lemma-anchor" name="sub78305_7"></a>
+<a class="lemma-anchor" name="病虫防治"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">败酱</span>病虫防治</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="7" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">败酱草虫害主要以蚜虫、白粉虱、跳甲、蜗牛、蛞蝓为主；病害主要有炭疽病、灰霉病、白锈病、细菌性穿孔病等。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7_1"></a>
+<a class="lemma-anchor" name="sub78305_7_1"></a>
+<a class="lemma-anchor" name="农业防治"></a>
+<a class="lemma-anchor" name="7-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">败酱</span>农业防治</h3>
+</div>
+<div class="para" label-module="para">以植株健身栽培为目标，首先要注意防旱排涝，特别要防止畦沟积水、排水不畅。同时，要经常疏松畦面，协调好根部与茎叶的关系。其次要及时疏剪老蔓旧枝，促进菜园通风透气，增强植株抗病力。<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_78305"> </a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7_2"></a>
+<a class="lemma-anchor" name="sub78305_7_2"></a>
+<a class="lemma-anchor" name="化学防治"></a>
+<a class="lemma-anchor" name="7-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">败酱</span>化学防治</h3>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E8%B4%A5%E9%85%B1/1415182/22233396/8601a18b87d6277f293f5b6e2b381f30e924fcb3?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="败酱">
+<div class="album-wrap" style="width:220px;height:165px;">
+<img alt="败酱" class="picture" src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=cc99c2370cb30f24319aeb01f895d192/8601a18b87d6277f293f5b6e2b381f30e924fcb3.jpg" style="width:220px;height:165px;"/>
+</div>
+<div class="description">
+败酱<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+蚜虫、<a href="/item/%E7%99%BD%E7%B2%89%E8%99%B1" target="_blank">白粉虱</a>用10%吡虫啉可湿性粉剂2000倍液，或3%啶虫脒可湿性粉剂3000倍液，或亩用25%阿克泰水分散粒剂2-4克对水60公斤防治；</div>
+<div class="para" label-module="para"><a href="/item/%E8%B7%B3%E7%94%B2" target="_blank">跳甲</a>用20%灭扫利乳油2000-3000倍液，或52.25%农地乐乳油1000-1500倍液、及克乳油2000倍液防治（应从田块四周向中间喷药，防止逃跑）；</div>
+<div class="para" label-module="para"><a data-lemmaid="34857" href="/item/%E8%9C%97%E7%89%9B/34857" target="_blank">蜗牛</a>、<a data-lemmaid="24262" href="/item/%E8%9B%9E%E8%9D%93/24262" target="_blank">蛞蝓</a>每亩用6%密达杀螺剂1公斤撒施；</div>
+<div class="para" label-module="para"><a href="/item/%E7%82%AD%E7%96%BD%E7%97%85" target="_blank">炭疽病</a>宜在发病初期用25%施保克乳油600倍液，或70%甲基托布津可湿性粉剂500倍液、25%炭特灵600-800倍液喷雾，隔7-10天喷洒1次，连续2-3次；</div>
+<div class="para" label-module="para"><a href="/item/%E7%81%B0%E9%9C%89%E7%97%85" target="_blank">灰霉病</a>用50%扑海因可湿性粉剂1500倍液或40%施佳乐悬浮剂1000倍液防治；</div>
+<div class="para" label-module="para"><a href="/item/%E7%99%BD%E9%94%88%E7%97%85" target="_blank">白锈病</a>用53%金雷多米尔可湿性粉剂600倍液或10%世高水分散粒剂1500-2000倍液防治；细菌性穿孔病用1000万单位农用链霉素4000倍液喷雾。<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_78305"> </a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="8"></a>
+<a class="lemma-anchor" name="sub78305_8"></a>
+<a class="lemma-anchor" name="主要价值"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">败酱</span>主要价值</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="8" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><b>药用：</b>全草（药材名：败酱草）和根茎及根入药，能清热解毒、消肿排脓、活血祛瘀，治慢性<a href="/item/%E9%98%91%E5%B0%BE%E7%82%8E" target="_blank">阑尾炎</a>，疗效极显。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78305"> </a>
+</div>
+<div class="para" label-module="para"><b>食用：</b>中国山东、江西等省民间采摘幼苗嫩叶食用。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78305"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="9"></a>
+<a class="lemma-anchor" name="sub78305_9"></a>
+<a class="lemma-anchor" name="植物文化"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">败酱</span>植物文化</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="9" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><b>花语</b>：1、纯洁的恋情。2、坚守约定。</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E8%B4%A5%E9%85%B1/1415182?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a class="anchor-2" name="rs_78305_49646"></a>
+<div class="rslazy rs-container" id="rs-container-78305-49646" lazy-init="lemmars.tableAction(baidu.g('rs-78305-49646'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":49646,"fentryTableName":"\u8d25\u9171\u5c5e","fentryTableType":1,"entryId":2775915,"templateId":0,"entryTitle":"\u8d25\u9171\u5c5e","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([78305, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-78305-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_78305" id="refIndex_1_78305" name="refIndex_1_78305" title="向上跳转">  </a>
+<a class="text" href="/reference/1415182/63f1QZZki-fq6AUCDzzw4TdEotWedkL_RvrFUZZAlLRzF-6mSX-XMf9ovBbU6BTZR7YUMEo0bcdeJmzsel1YNx9gTuZsY7oEypv1AwQlor-7kZ_Je2FqWPWpeEBGUeTJXiQEVvKWhHy3Gav34RfO7gs1zg" rel="nofollow" target="_blank">败酱<span class="linkout"> </span></a>
+<span class="site">．中国自然标本馆</span><span>[引用日期2017-07-24]</span></li><li class="reference-item reference-item--type1" id="reference-[2]-78305-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_78305" id="refIndex_2_78305" name="refIndex_2_78305" title="向上跳转">  </a>
+<a class="text" href="/reference/1415182/e457kLZhIGh5Ulz0Ooc24exT4fgnJ5j6GhLAT-mOMPquVRQCPe412W9lKtSeZdyzcBLd7aAGUMUm-nbEZOWjvYLDz-0t8mnePYw8N43plqEe-cWvqw" rel="nofollow" target="_blank">败酱<span class="linkout"> </span></a>
+<span class="site">．中国植物图库</span><span>[引用日期2014-11-16]</span></li><li class="reference-item reference-item--type1" id="reference-[3]-78305-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_78305" id="refIndex_3_78305" name="refIndex_3_78305" title="向上跳转">  </a>
+<a class="text" href="/reference/1415182/91dcDahX69NTjT0HzzAerCbw82toQTiwBSmeU5vfYcYv09BKjiZ9MLm1bvAsyf5XgAAeRh1mOoV65BnwiUkTfKVhm6SlhjiAFEo" rel="nofollow" target="_blank">败酱<span class="linkout"> </span></a>
+<span class="site">．中国植物志</span><span>[引用日期2014-11-16]</span></li><li class="reference-item reference-item--type3" id="reference-[4]-78305-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor" href="#ref_[4]_78305" id="refIndex_4_78305" name="refIndex_4_78305" title="向上跳转">  </a>
+<span class="text">黄永耀;败酱草特征特性和人工栽培技术[J];四川农业科技;2005-06-30;15	</span>
+</li></ul>
+</dd>
+</dl>
+<div class="lemma-paper-box"></div>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+自然
+</span>
+，<span class="taglist">
+生物物种
+</span>
+，<span class="taglist">
+植物
+</span>
+，<span class="taglist">
+中药
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E8%B4%A5%E9%85%B1/1415182/0/fc1f4134970a304ea22fb072dbc8a786c9175c2c?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=e4174768fd03918fd7d13acc690641aa/fc1f4134970a304ea22fb072dbc8a786c9175c2c.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>败酱图册</div>
+</a>
+</div>
+<div class="professional-con">
+<div class="professional-header">
+<div style="background-image: url('https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D50/sign=a88888073f7adab43dd01b438ad4bcdd/b3119313b07eca8035a902c8982397dda1448374.jpg')">
+<h2 title="科普中国">科普中国</h2>
+<p title="致力于权威的科学传播">致力于权威的科学传播</p>
+</div>
+</div>
+<div class="professional-content">
+<div class="professional-title professional-clearfix">
+<h3>本词条认证专家为</h3>
+</div>
+<div class="professional-list" id="professional_list">
+<div class="professional-list-slider J-slider">
+<ul>
+<li class="professional-clearfix">
+<div class="pro-line"></div>
+<div class="pro-content">
+<div class="pro-content-title professional-clearfix">
+<h4>甘嘉荷</h4>
+<span>博士、助理研究员</span></div>
+<p title="中国中医科学院">中国中医科学院</p>
+</div>
+</li>
+</ul></div>
+</div>
+<div class="professional-sidebar">
+<div class="professional-sidebar-title"><i></i><span>以上专家来自</span></div>
+<p>
+国家中医药管理局百度百科科普词条项目审核专家组
+</p>
+</div>
+</div>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1415182" data-lemmatitle="败酱"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1415182" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><div id="side-auth">
+<div class="side-box" id="authResource">
+<dl>
+<dt class="sidetitle">资源提供</dt>
+<dd class="side-auth-content">
+<div class="side-auth-img">
+<a href="http://www.plantphoto.cn/" nslog-type="7043" target="_blank">
+<img alt="资源合作" onload="this.style.width = '50px';this.style.display='';" src="https://baike.baidu.com/cms/s/plantphoto-logo.png" style="display: none" title="资源合作"/>
+</a>
+</div>
+<div class="side-auth-info">
+<div class="auth-info-name">
+<a class="nslog:7043" href="http://www.plantphoto.cn/" target="_blank">中国植物图像库</a>
+</div>
+<p>中国最专业的植物分类图...</p>
+<p>提供资源类型：<span style="color: #555555;"></span></p>
+</div>
+</dd>
+<dd class="authVersion">
+<span>
+<a align="absmiddle" class="whatIs" href="javascript:void(0);"></a>
+<a class="link-toggle" href=" http://baike.bdimg.com/cms/static/cooperation/content.pdf" nslog-type="3024" target="_blank">什么是资源合作</a>
+</span>
+</dd>
+</dl>
+</div>
+</div>
+<dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：63次<a class="nslog:1021" href="/historylist/%E8%B4%A5%E9%85%B1/1415182" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="873311960" href="/usercenter/userpage?uname=ytfrivjh&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">ytfrivjh</a><a class="contribute-flag-container" href="https://baike.baidu.com/item/百科分类达人团" target="_blank" title="百科分类达人团">
+<img alt="" class="contribute-flag-icon" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-3_23e3d39.png"/>
+</a>
+<span class="j-modified-time" style="display:none">（2019-08-12）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="138591625" href="/usercenter/userpage?uname=%E6%9C%8B%E5%8F%8C%E5%96%86&amp;from=lemma" target="_blank" title="查看此用户资料" username="朋双喆">朋双喆</a>
+<a class="contribute-flag-container" href="https://baike.baidu.com/kedou" target="_blank" title="百科蝌蚪团">
+<img alt="" class="contribute-flag-icon" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-1_c1b820f.png"/>
+</a>
+<div class="right">
+<a href="http://baike.baidu.com/tese" target="_blank"><img align="absmiddle" alt="特色词条" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/distinctiveIcon_a9a2d74.png" title="特色词条"/></a>
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="11830849" href="/usercenter/userpage?uname=%E8%8A%B1%E9%9B%A8%E4%BE%9D%E8%91%B6&amp;from=lemma" target="_blank" title="查看此用户资料" username="花雨依葶">花雨依葶</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">形态特征</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">近种区别</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">产地生境</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">生长习性</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">繁殖方法</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#6">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">栽培技术</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#7">
+<span class="text">
+<span class="title-index">7</span>
+<span class="title-link" nslog-type="10002802">病虫防治</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#7_1">
+<span class="text">
+<span class="title-index">7.1</span>
+<span class="title-link" nslog-type="10002802">农业防治</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#7_2">
+<span class="text">
+<span class="title-index">7.2</span>
+<span class="title-link" nslog-type="10002802">化学防治</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#8">
+<span class="text">
+<span class="title-index">8</span>
+<span class="title-link" nslog-type="10002802">主要价值</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#9">
+<span class="text">
+<span class="title-index">9</span>
+<span class="title-link" nslog-type="10002802">植物文化</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

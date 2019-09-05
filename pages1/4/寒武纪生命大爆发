@@ -1,0 +1,524 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>寒武纪生命大爆发</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=785574" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para"><a href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">寒武纪</a>生命大爆发（Cambrian Explosion）被称为<a data-lemmaid="427587" href="/item/%E5%8F%A4%E7%94%9F%E7%89%A9%E5%AD%A6/427587" target="_blank">古生物学</a>和地质学上的一大悬案，自<a href="/item/%E8%BE%BE%E5%B0%94%E6%96%87" target="_blank">达尔文</a>以来就一直困扰着<a data-lemmaid="18587" href="/item/%E8%BF%9B%E5%8C%96%E8%AE%BA/18587" target="_blank">进化论</a>等学术界。大约5亿4200万年前到5亿3000万年前，在地质学上被认为是寒武纪的开始时间，寒武纪地层在2000多万年时间内突然出现门类众多的<a data-lemmaid="149803" href="/item/%E6%97%A0%E8%84%8A%E6%A4%8E%E5%8A%A8%E7%89%A9/149803" target="_blank">无脊椎动物</a>化石，而在早期更为古老的地层中，长期以来没有找到其明显的祖先化石的现象，被古生物学家称作“寒武纪生命大爆发”，简称“寒武爆发”。这也是<a data-lemmaid="270418" href="/item/%E6%98%BE%E7%94%9F%E5%AE%99/270418" target="_blank">显生宙</a>的开始。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+寒武纪生命大爆发
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Cambrian Explosion
+</dd>
+<dt class="basicInfo-item name">性    质</dt>
+<dd class="basicInfo-item value">
+古生物学和地质学上的一大悬案
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">起    源</dt>
+<dd class="basicInfo-item value">
+埃迪卡拉动物群
+</dd>
+<dt class="basicInfo-item name">代    表</dt>
+<dd class="basicInfo-item value">
+云南澄江生物群
+</dd>
+<dt class="basicInfo-item name">发生时间</dt>
+<dd class="basicInfo-item value">
+寒武纪
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">概述</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">起源</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">代表</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">介绍</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">研究意义</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">原因探讨</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">最新研究</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub42818_1"></a>
+<a class="lemma-anchor" name="概述"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">寒武纪生命大爆发</span>概述</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/948bcfc8c7458c047e3e6f73?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:154px;" target="_blank" title="海底生物">
+<img alt="海底生物" class="lazy-img" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ab2c331a4b36acaf5de091fe4cd88d03/dc54564e9258d109d31dd991d158ccbf6c814d12.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:154px;"/>
+</a>
+<span class="description">
+海底生物
+</span>
+</div>在距今约5.3亿年前一个被称为<a href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">寒武纪</a>的地质历史时期，地球上在2000多万年时间内出现了突然涌现出各种各样的动物，它们不约而同的迅速起源、立即出现。节肢、<a href="/item/%E8%85%95%E8%B6%B3" target="_blank">腕足</a>、蠕形、海绵、<a href="/item/%E8%84%8A%E7%B4%A2%E5%8A%A8%E7%89%A9" target="_blank">脊索动物</a>等等一系列与现代动物形态基本相同的动物在地球上来了个“集体亮相”，形成了多种门类动物同时存在的繁荣景象。</div>
+<div class="para" label-module="para">中国云南<a href="/item/%E6%BE%84%E6%B1%9F%E7%94%9F%E7%89%A9%E7%BE%A4" target="_blank">澄江生物群</a>、<a href="/item/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B8%83%E5%B0%94%E5%90%89%E6%96%AF%E7%94%9F%E7%89%A9%E7%BE%A4" target="_blank">加拿大布尔吉斯生物群</a>和<a href="/item/%E5%87%AF%E9%87%8C%E7%94%9F%E7%89%A9%E7%BE%A4" target="_blank">凯里生物群</a>构成世界三大页岩型生物群，为寒武纪的<a href="/item/%E5%9C%B0%E8%B4%A8%E5%8E%86%E5%8F%B2%E6%97%B6%E6%9C%9F" target="_blank">地质历史时期</a>的生命大爆发提供证据。</div>
+<div class="para" label-module="para"><a href="/item/%E8%BE%BE%E5%B0%94%E6%96%87" target="_blank">达尔文</a>在其《<a href="/item/%E7%89%A9%E7%A7%8D%E8%B5%B7%E6%BA%90" target="_blank">物种起源</a>》的著作中提到了这一事实，并大感迷惑。他认为这一事实会被用做反对其<a href="/item/%E8%BF%9B%E5%8C%96%E8%AE%BA" target="_blank">进化论</a>的有力证据。但他同时解释到，寒武纪的动物的祖先一定是来自<a href="/item/%E5%89%8D%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">前寒武纪</a>动物，是经过很长时间的进化过程产生的；寒武纪动物化石出现的“突然性”和前寒武纪动物化石的缺乏，是由于地质记录的不完全或是由于老地层淹没在海洋中的缘故。</div>
+<div class="para" label-module="para">这就是至今仍被国际学术界列为“十大科学难题”之一的“<a href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">寒武纪</a>生命大爆发”。 依照传统和经典的生物学理论，即达尔文生物进化认为，生物进化经历了从水生到陆地、从简单到复杂、从低级到高级的漫长的演变过程，这一过程是通过自然选择和<a href="/item/%E9%81%97%E4%BC%A0%E5%8F%98%E5%BC%82" target="_blank">遗传变异</a>两个车轮的缓慢滚动逐渐实现的，中国的科学家通过古化石研究向这一权威理论提出了挑战。</div>
+<div class="para" label-module="para">在国际上被誉为“20世纪最惊人的发现之一的<a href="/item/%E6%BE%84%E6%B1%9F%E7%94%9F%E7%89%A9%E7%BE%A4" target="_blank">澄江生物群</a>，就为探索“寒武纪生命大爆发”的奥秘开启了一扇宝贵的科学之窗。1984年7月1日，“澄江生物群”在云南省澄江县首次被发现，这一多门类动物<a href="/item/%E5%8C%96%E7%9F%B3%E7%BE%A4" target="_blank">化石群</a>动物类型众多，且十分珍稀地保存了动物软体构造，首次栩栩如生地再现了远古海洋生命的壮丽景观和现生动物的原始特征，以丰富的生物学信息为“<a href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">寒武纪</a>大爆发”研究提供了直接证据。</div>
+<div class="para" label-module="para">经过多年的努力，中国在有关“寒武纪大爆发"的古生物学研究方面已在国际上取得了领先地位。2003年，由从事“澄江生物群”研究的<a data-lemmaid="466976" href="/item//466976" target="_blank"></a><a data-lemmaid="6472955" href="/item/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%8D%97%E4%BA%AC%E5%9C%B0%E8%B4%A8%E5%8F%A4%E7%94%9F%E7%89%A9%E7%A0%94%E7%A9%B6%E6%89%80/6472955" target="_blank">中国科学院南京地质古生物研究所</a>的<a data-lemmaid="8132224" href="/item/%E9%99%88%E5%9D%87%E8%BF%9C/8132224" target="_blank">陈均远</a>研究员、<a data-lemmaid="162032" href="/item/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6/162032" target="_blank">云南大学</a>的<a href="/item/%E4%BE%AF%E5%85%88%E5%85%89" target="_blank">侯先光</a>教授和<a href="/item/%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6" target="_blank">西北大学</a>的<a data-lemmaid="6315346" href="/item/%E8%88%92%E5%BE%B7%E5%B9%B2/6315346" target="_blank">舒德干</a>教授共同领衔的“<a data-lemmaid="9576659" href="/item/%E6%BE%84%E6%B1%9F%E7%94%9F%E7%89%A9%E7%BE%A4/9576659" target="_blank">澄江生物群</a>与<a data-lemmaid="10759723" href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%A4%A7%E7%88%86%E5%8F%91/10759723" target="_blank">寒武纪大爆发</a>”项目因在早期生命演化研究中取得重大突破，荣获了<a href="/item/%E5%9B%BD%E5%AE%B6%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E5%A5%96%E4%B8%80%E7%AD%89%E5%A5%96" target="_blank">国家自然科学奖一等奖</a>。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_42818"> </a>
+</div>
+<div class="para" label-module="para">远古的化石群奇迹般地完好保存了生物的矿化骨骼，还保存了大量软体组织印痕，如：<a href="/item/%E8%A1%A8%E7%9A%AE" target="_blank">表皮</a>、感觉器、<a href="/item/%E7%BA%A4%E6%AF%9B" target="_blank">纤毛</a>、眼睛、肠、胃、<a href="/item/%E6%B6%88%E5%8C%96%E8%85%BA" target="_blank">消化腺</a>、口腔和神经等，甚至有的动物好像在临死前还饱餐一顿，消化道里充满着的食物仍可辨认。<div class="lemma-picture text-pic layout-right" style="width:168px; float: right;">
+<a class="image-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/a1ad16fa8c6719ad59ee90b2?fr=lemma&amp;ct=single" nslog-type="9317" style="width:168px;height:220px;" target="_blank" title="化石">
+<img alt="化石" class="lazy-img" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=15cfee79ad4bd11300cdb0306aaea488/29381f30e924b899745b73326e061d950a7bf651.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:168px;height:220px;"/>
+</a>
+<span class="description">
+化石
+</span>
+</div>中国的科学家们对“<a href="/item/%E6%BE%84%E6%B1%9F%E7%94%9F%E7%89%A9%E7%BE%A4" target="_blank">澄江生物群</a>”的不断挖掘发现和深入系统研究，探索了脊椎动物、真节肢、<a href="/item/%E8%9E%AF%E8%82%A2" target="_blank">螯肢</a>和<a href="/item/%E7%94%B2%E5%A3%B3" target="_blank">甲壳</a>等动物的起源，证实了现生动物门和亚门以及复杂生态体系起源于<a href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">寒武纪</a>早期，挑战了自下而上倒锥形进化<a href="/item/%E7%90%86%E8%AE%BA%E6%A8%A1%E5%9E%8B" target="_blank">理论模型</a>，为自上而下的爆发式理论模型提供了化石证据。现已描述的澄江生物群化石共120余种，分属海绵动物、腔肠动物、鳃曳动物、叶足动物、<a href="/item/%E8%85%95%E8%B6%B3" target="_blank">腕足</a>动物、软体动物、节肢动物、棘皮动物、<a href="/item/%E8%84%8A%E7%B4%A2%E5%8A%A8%E7%89%A9" target="_blank">脊索动物</a>等十多个动物门以及一些分类位置不明的奇异类群，此外，还有多种共生的海藻。</div>
+<div class="para" label-module="para">通过研究丰富的化石信息，科学家们为揭示“<a href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">寒武纪</a>大爆发”的谜团提出了种种假说。陈均远研究员提出寒武纪生物突变具有极明显的自发性进化行为的设想；舒德干教授提出“寒武纪暖水与冷水两大古生物地理分区"的假说等。但如今还没有一个清晰、证据确凿、令人信服的解释，科学家们也在继续致力于实地考察和研究，以求早日完全解开“寒武纪大爆发”的谜底。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub42818_2"></a>
+<a class="lemma-anchor" name="起源"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">寒武纪生命大爆发</span>起源</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">寒武纪生命大爆发的起源—<b><a href="/item/%E5%9F%83%E8%BF%AA%E5%8D%A1%E6%8B%89%E5%8A%A8%E7%89%A9%E7%BE%A4" target="_blank">埃迪卡拉动物群</a></b></div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/d6ca7bcb0a46f21f60e23699ff246b600d33ae22?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:138px;" target="_blank" title="三叶虫">
+<img alt="三叶虫" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=6df7dafba88b87d65442ac1d370a2860/d6ca7bcb0a46f21f60e23699ff246b600d33ae22.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:138px;"/>
+</a>
+<span class="description">
+三叶虫
+</span>
+</div>埃迪卡拉（Ediacaran）动物群是Sprigg于1947年在澳大利亚中南部Ediacara地区的庞德砂岩层中首先发现的。最初人们未能确定这一动物群的时代，后来终于确定为<a href="/item/%E5%89%8D%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">前寒武纪</a>，年龄为6.7亿年。埃迪卡拉动物群包含三个门，19个属，24种低等无脊椎动物。三个门是：<a href="/item/%E8%85%94%E8%82%A0%E5%8A%A8%E7%89%A9%E9%97%A8" target="_blank">腔肠动物门</a>，<a href="/item/%E7%8E%AF%E8%8A%82%E5%8A%A8%E7%89%A9%E9%97%A8" target="_blank">环节动物门</a>和<a href="/item/%E8%8A%82%E8%82%A2%E5%8A%A8%E7%89%A9%E9%97%A8" target="_blank">节肢动物门</a>。水母有7属9种；水螅纲有3属3种；海鳃目（珊瑚纲）有3属3种；钵水母2属2种；多毛类环虫2属5种；节肢动物2属2种。 多保存为<a href="/item/%E5%8D%B0%E7%97%95%E5%8C%96%E7%9F%B3" target="_blank">印痕化石</a>，尽管它们的形态、结构都很原始，但它们被认为是20 世纪古生物学最重大的发现之一。这一发现使科学界摈弃了长期以来认为在<a href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">寒武纪</a>之前不可能出现后生动物化石的传统观念。所谓后生动物即是指相对于原生动物的各种多细胞动物。</div>
+<div class="para" label-module="para">艾迪卡拉动物群包含了多种形态奇特的动物化石：身体巨大而扁平、多呈椭圆形或条带形，具有平滑的有机质膜，是人们迄今为止发现的最古老、最原始的化石，也是在太古代地层中发现的最有说服力的生物证据。按Seilacher的观点，艾迪卡拉动物群可分为辐射状生长、<a href="/item/%E4%B8%A4%E6%9E%81" target="_blank">两极</a>生长和单极生长3种类型。除辐射状生长的类型中可能有与腔肠动物有关系的类群外，其他两类与寒武纪以后出现的生物门类无亲源关系。</div>
+<div class="para" label-module="para">尽管有关艾迪卡拉型动物群的性质还有许多争议，但其奇怪的形态令许多学者相信，艾迪卡拉型动物群是后生动物出现后的第一次<a href="/item/%E9%80%82%E5%BA%94%E8%BE%90%E5%B0%84" target="_blank">适应辐射</a>，它们采取的不同于现代大多数动物采取的形体结构变化方式。不增加内部结构的复杂性，只改变躯体的基本形态，变得非常薄，成条带状或薄饼状，使体内各部分充分接近外表面，在没有内部器官的情况下进行呼吸和摄取营养。如现代大型寄生动物涤虫现代大多数动物采取的是保持浑圆或球形的外部形态的同时，进化出复杂的内部器官来扩大相应的表面积（如肺、消化道），从化石上可以看出，这些生物已具有了高度分化的组织和器官，说明它们已不是最原始的类型。它们代表了后生动物出现以后的第一次辐射演化因此，可以认为艾迪卡拉型动物群是在元古宙末期大气<a href="/item/%E6%B0%A7%E5%90%AB%E9%87%8F" target="_blank">氧含量</a>较低的条件下后生动物大规模占领浅海的一次尝试，结果失败了，而导致绝灭。在后来的演化过程中，后生动物采取了第二种方式，使内部的器官复杂化和物种多样化的发展，即生物系统演化。<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_42818"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub42818_3"></a>
+<a class="lemma-anchor" name="代表"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">寒武纪生命大爆发</span>代表</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_1"></a>
+<a class="lemma-anchor" name="sub42818_3_1"></a>
+<a class="lemma-anchor" name="介绍"></a>
+<a class="lemma-anchor" name="3-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">寒武纪生命大爆发</span>介绍</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/34fae6cd7b899e513fc2ba8f42a7d933c9950dd8?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:220px;" target="_blank" title="博物馆">
+<img alt="博物馆" class="lazy-img" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=cd6ef49f970a304e5622a7f8e1c9a7c3/34fae6cd7b899e513fc2ba8f42a7d933c9950dd8.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:220px;"/>
+</a>
+<span class="description">
+博物馆
+</span>
+</div>寒武纪生命大爆发的代表─<b>云南<a href="/item/%E6%BE%84%E6%B1%9F%E7%94%9F%E7%89%A9%E7%BE%A4" target="_blank">澄江生物群</a></b></div>
+<div class="para" label-module="para">寒武爆发的典型代表是被称为20世纪最惊人的科学发现之一的我国云南澄江生物群，它是世界上目前所发现的最古老、保存最为完整的带壳后生动物群。该动物群是我国青年古生物学家<a href="/item/%E4%BE%AF%E5%85%88%E5%85%89" target="_blank">侯先光</a>1984年在云南<a href="/item/%E6%BE%84%E6%B1%9F" target="_blank">澄江</a>县<a href="/item/%E5%B8%BD%E5%A4%A9%E5%B1%B1" target="_blank">帽天山</a>首先发现的。这是一个内容十分丰富、保存非常完美，距今约5.7亿年的<a href="/item/%E5%8C%96%E7%9F%B3%E7%BE%A4" target="_blank">化石群</a>，其成员包括水母状生物、<a href="/item/%E4%B8%89%E5%8F%B6%E8%99%AB" target="_blank">三叶虫</a>、具附肢的非三叶的节肢动物、金臂虫、<a href="/item/%E8%A0%95%E5%BD%A2%E5%8A%A8%E7%89%A9" target="_blank">蠕形动物</a>、海绵动物、<a href="/item/%E5%86%85%E8%82%9B%E5%8A%A8%E7%89%A9" target="_blank">内肛动物</a>、<a href="/item/%E7%8E%AF%E8%8A%82%E5%8A%A8%E7%89%A9" target="_blank">环节动物</a>、无绞纲<a href="/item/%E8%85%95%E8%B6%B3" target="_blank">腕足</a>动物、软舌螺类、开腔骨类，以及藻类等，甚至还有属于低等<a href="/item/%E8%84%8A%E7%B4%A2%E5%8A%A8%E7%89%A9" target="_blank">脊索动物</a>或半索动物(如著名的<a href="/item/%E4%BA%91%E5%8D%97%E8%99%AB" target="_blank">云南虫</a>)等。由于许多动物的<a href="/item/%E8%BD%AF%E7%BB%84%E7%BB%87" target="_blank">软组织</a>保存完好，为研究早期无脊椎动物的形态结构、生活方式、生态环境等提供了极好的材料，同时也成为了探索地球上大壳后生动物爆发事件的重要窗口。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_2"></a>
+<a class="lemma-anchor" name="sub42818_3_2"></a>
+<a class="lemma-anchor" name="研究意义"></a>
+<a class="lemma-anchor" name="3-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">寒武纪生命大爆发</span>研究意义</h3>
+</div>
+<div class="para" label-module="para">云南<a href="/item/%E6%BE%84%E6%B1%9F%E7%94%9F%E7%89%A9%E7%BE%A4" target="_blank">澄江生物群</a>在<a href="/item/%E7%94%9F%E7%89%A9%E8%BF%9B%E5%8C%96" target="_blank">生物进化</a>研究上的意义</div>
+<div class="para" label-module="para">云南澄江生物群的发现，使得我们对在<a href="/item/%E5%89%8D%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">前寒武纪</a>晚期到寒武纪早期生命的进化发展有了较为清晰的认识。它在生物进化上的意义至少可以概括为两点：</div>
+<div class="para" label-module="para">首先，该动物群的发现，再次证实了“生命大爆发”的存在，成为“寒武爆<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/8a95ad1c38609eb187d6b6b9?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:126px;" target="_blank" title="寒武纪生命大爆发">
+<img alt="寒武纪生命大爆发" class="lazy-img" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=4362ad7fd688d43ff4a996f04d1fd2aa/b219ebc4b74543a93d47f0c61e178a82b901145f.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:126px;"/>
+</a>
+<span class="description">
+寒武纪生命大爆发
+</span>
+</div>发”理论的重要支柱。同时，它还是联系<a href="/item/%E5%89%8D%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">前寒武纪</a>晚期到寒武纪早期生命进化过程的重要环节。</div>
+<div class="para" label-module="para">在该动物群被发现之前的本世纪内就有过两次激动人心的<a href="/item/%E5%8F%A4%E7%94%9F%E7%89%A9%E5%AD%A6" target="_blank">古生物学</a>发现。一次是1910年在北美发现的距今约5.3亿年中<a href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">寒武纪</a>的“布尔吉斯动物群”，另一次是1947年在澳大利亚南部发现的距今6.8亿～6亿年之间的“<a href="/item/%E5%9F%83%E8%BF%AA%E5%8D%A1%E6%8B%89%E5%8A%A8%E7%89%A9%E7%BE%A4" target="_blank">埃迪卡拉动物群</a>”。云南<a href="/item/%E6%BE%84%E6%B1%9F%E7%94%9F%E7%89%A9%E7%BE%A4" target="_blank">澄江生物群</a>成了联系布尔吉斯动物群和埃迪卡拉动物群之间的重要环节，随着对澄江生物群研究的深入，埃迪卡拉-澄江-布尔吉斯3个动物群之间的演化关系会更加清楚。</div>
+<div class="para" label-module="para">其次，澄江生物群的发现为“<a href="/item/%E9%97%B4%E6%96%AD%E5%B9%B3%E8%A1%A1" target="_blank">间断平衡</a>”理论提供了新的事实依据，对<a href="/item/%E8%BE%BE%E5%B0%94%E6%96%87" target="_blank">达尔文</a>的<a href="/item/%E8%BF%9B%E5%8C%96%E8%AE%BA" target="_blank">进化论</a>再次造成冲击。“间断平衡”理论认为，生物的进化不像达尔文及新达尔文主义者所强调的那样是一个缓慢的连续渐变积累过程，而是长期的稳定(甚至不变)与短暂的剧变交替的过程，从而在地质记录中留下许多空缺。澄江生物群的发现说明了生物的进化并非总是渐进的，而是渐进与跃进并存的过程。<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_42818"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub42818_4"></a>
+<a class="lemma-anchor" name="原因探讨"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">寒武纪生命大爆发</span>原因探讨</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">寒武爆发吸引了无数的古生物学家和<a href="/item/%E8%BF%9B%E5%8C%96%E8%AE%BA" target="_blank">进化论</a>者去寻找证据探讨其起因。100多年以来的证据产生出解释寒武爆发的两种基本观点。一种观点认为，寒武爆发是一种假象，这是某些<a href="/item/%E8%BE%BE%E5%B0%94%E6%96%87" target="_blank">达尔文</a>或新达尔主义者所持的观点。由于进化是渐进的，所谓的“爆发”只是表明首次在生物化石记录中发现了早在<a href="/item/%E5%89%8D%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">前寒武纪</a>就已经广泛存在并发展的生物，其它的生物<a href="/item/%E5%8C%96%E7%9F%B3%E7%BE%A4" target="_blank">化石群</a>则可能由于地质记录的不完全而“缺档”，造成这种“缺档”的原因是前寒武纪地层经历着热与压力，其中的<a href="/item/%E5%8C%96%E7%9F%B3" target="_blank">化石</a>被销毁了。由于发现前寒武纪化石<a href="/item/%E6%B2%89%E7%A7%AF%E5%B1%82" target="_blank">沉积层</a>中存在大量象细菌和<a href="/item/%E8%93%9D%E8%97%BB" target="_blank">蓝藻</a>这样简单的<a href="/item/%E5%8E%9F%E6%A0%B8%E7%94%9F%E7%89%A9" target="_blank">原核生物</a>，因而这一解释不再有说服力。另一种观点认为，寒武爆发代表了生物进化过程中的真实事件，科学家从<a href="/item/%E7%89%A9%E7%90%86%E7%8E%AF%E5%A2%83" target="_blank">物理环境</a>和生态环境的变化两个方面来解释这一现象。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/647912d7b219a593a144dfad?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:143px;" target="_blank" title="寒武纪生命大爆发的化石">
+<img alt="寒武纪生命大爆发的化石" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=58ce389f62d9f2d3241123ed99ec8a53/d52a2834349b033b788ffba415ce36d3d539bd4c.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:143px;"/>
+</a>
+<span class="description">
+寒武纪生命大爆发的化石
+</span>
+</div>1965年，两位美国物理学家提出了寒武爆发是由于<a href="/item/%E5%9C%B0%E7%90%83%E5%A4%A7%E6%B0%94" target="_blank">地球大气</a>的氧水平这个物理因素造成的。他们认为，在早期地球的大气中含有很少或根本就没有自由氧，氧是<a href="/item/%E5%89%8D%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">前寒武纪</a>藻类植物光合作用的产物并逐渐积累形成的。后生动物需要大量的氧，一方面用于呼吸作用，另一方面氧还以<a href="/item/%E8%87%AD%E6%B0%A7" target="_blank">臭氧</a>的形式在大气中吸收大量有害的紫外线，使后生动物免于有害辐射的损伤。</div>
+<div class="para" label-module="para">生物学家则从生物本身的生态关系来探讨这一问题，因为地质学的证据否定了这种氧理论的观点。大约在距今10亿年至20亿年之间广泛<a href="/item/%E6%B2%89%E7%A7%AF%E5%B1%82" target="_blank">沉积层</a>中含有大量严重氧化的岩石，这说明在这一时期内已经存在足够生命爆发的氧条件。因而生物学家从两个重要事件的出现来探索造成寒武爆发的原因，即有性生殖的产生和生物收割者的出现。</div>
+<div class="para" label-module="para">从化石资料来看，真核藻类大约在9亿年前出现了有性生殖，实际上，有性生殖出现得更早。有性生殖的发生在整个生物界的进化过程中有着极其重大的作用，由于有性生殖提供了遗传变异性，从而有可能进一步增加了生物的多样性，这是造成寒武爆发的原因之一。<div class="lemma-picture text-pic layout-right" style="width:166px; float: right;">
+<a class="image-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/2cb4fefecb128e7f5c6008a2?fr=lemma&amp;ct=single" nslog-type="9317" style="width:166px;height:220px;" target="_blank" title="寒武纪生命大爆发">
+<img alt="寒武纪生命大爆发" class="lazy-img" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=861d1a7a349b033b2888fbd825ce3620/37d12f2eb9389b501df5e72c8535e5dde7116e41.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:166px;height:220px;"/>
+</a>
+<span class="description">
+寒武纪生命大爆发
+</span>
+</div>生物收割者假说是美国<a href="/item/%E7%94%9F%E6%80%81%E5%AD%A6%E5%AE%B6" target="_blank">生态学家</a>斯坦利提出的，是一种解释寒武爆发的生态学理论，即收割原则。斯坦利认为，在<a href="/item/%E5%89%8D%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">前寒武纪</a>的25亿年的多数时间里，海洋是一个以原核蓝藻这样简单的<a href="/item/%E5%88%9D%E7%BA%A7%E7%94%9F%E4%BA%A7%E8%80%85" target="_blank">初级生产者</a>所组成的生态系统。这一系统内的群落在生态学上属于单一不变的群落，<a href="/item/%E8%90%A5%E5%85%BB%E7%BA%A7" target="_blank">营养级</a>也是简单唯一的。由于物理空间被这种种类少但数量大的<a href="/item/%E7%94%9F%E7%89%A9%E7%BE%A4%E8%90%BD" target="_blank">生物群落</a>顽强地占据着，所以这种群落的进化非常缓慢，从未有过丰富的多样性。寒武爆发的关键是草食收割者的出现和进化，即食用原核细胞(蓝藻)的原生动物的出现和进化。收割者为<a href="/item/%E7%94%9F%E4%BA%A7%E8%80%85" target="_blank">生产者</a>有更大的多样性制造了空间，而这种生产者多样性的增加又导致了更特异的收割者的进化。营养级金字塔按两个方向迅速发展：较底层次的生产者增加了许多新物种，丰富了<a href="/item/%E7%89%A9%E7%A7%8D%E5%A4%9A%E6%A0%B7%E6%80%A7" target="_blank">物种多样性</a>，在顶端又增加了新的“收割者”，丰富了营养级的多样性。从而使得整个生态系统的生物多样性不断丰富，最终导致了<a href="/item/%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">寒武纪</a>生命大爆发的产生。</div>
+<div class="para" label-module="para">对于“<a href="/item/%E6%94%B6%E5%89%B2%E7%90%86%E8%AE%BA" target="_blank">收割理论</a>”科学家们如今还没有找到直接的证据来证明其正确性，然而，一些间接的证据支持了这一理论。间接证据之一来自于<a href="/item/%E5%89%8D%E5%AF%92%E6%AD%A6%E7%BA%AA" target="_blank">前寒武纪</a><a href="/item/%E5%8F%A0%E5%B1%82%E7%9F%B3" target="_blank">叠层石</a>，这些由藻类组成的叠层石中保存了前寒武纪最丰富的生产者<a href="/item/%E7%BE%A4%E8%90%BD" target="_blank">群落</a>。今天，叠层石仅盛产于缺少后生动物收割者的贫瘠环境中，如超盐量的咸水湖中。藻类在前寒武纪地层中的大量存在，大概反映了当时收割者的贫乏。另外，生态学野外研究也提供了一些间接的证据，研究表明，在一个人工池塘中，放进捕食性鱼，会增加浮游生物的多样性；从多样的藻类群落中去掉海胆，会使某一藻类在该群落中占统治地位而多样性下降。</div>
+<div class="para" label-module="para">寒武爆发作为地史上的第二大悬案一直为人们所关注。随着化石的不断发现及新理论的建立，这一谜团最终将大白于天下。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub42818_5"></a>
+<a class="lemma-anchor" name="最新研究"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">寒武纪生命大爆发</span>最新研究</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">由<a href="/item/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%8D%97%E4%BA%AC%E5%9C%B0%E8%B4%A8%E5%8F%A4%E7%94%9F%E7%89%A9%E7%A0%94%E7%A9%B6%E6%89%80" target="_blank">中国科学院南京地质古生物研究所</a>带领的一个国际小组在国际著名地学期刊《地质学》（Geology）杂志上发表了关于寒武纪大爆发研究的最新成果。他们依据在俄罗斯远东西伯利亚地区获得的地层和古生物化石资料，证明寒武纪典型的动物骨骼化石在前寒武纪晚期就已经出现，并与前寒武纪晚期典型的弱矿化动物骨骼化石混生，从而表明寒武纪生物群与前寒武纪晚期埃迪卡拉纪生物群之间具有逐渐过渡的演化关系。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/b7fd5266d0160924c29ffbc2dd0735fae7cd34b4?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:146px;" target="_blank" title="">
+<img alt="" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=705fd0d7b83533faf1b6942c98d2fdca/b7fd5266d0160924c29ffbc2dd0735fae7cd34b4.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:146px;"/>
+</a>
+</div></div>
+<div class="para" label-module="para">这一新的研究成果打破了目前关于寒武纪大爆发的既有认识，寒武纪大爆发并不是在寒武纪早期突发性发生的，而是起始于前寒武纪末期。同时认为，前寒武纪末期并没有发生生物大灭绝事件，寒武纪之初一次全球性剧烈的碳循环异常环境事件也与寒武纪大爆发无明显关系。</div>
+<div class="para" label-module="para">已知地球生命大约具有38亿年甚至更早的演化历史，但为什么我们熟知的、类似人类自己这种既可以运动、又可以捕食的复杂生命（多细胞动物）直到距今5.4亿年前才开始在地球上爆发式快速出现（“寒武纪大爆发”）？这是自1859年达尔文进化论代表作《物种起源》问世以来一直困扰科学界的重大科学谜题。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/500fd9f9d72a6059fe4db8c32134349b023bba8e?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:209px;" target="_blank" title="">
+<img alt="" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=976802ef14950a7b713549c63ad0625c/500fd9f9d72a6059fe4db8c32134349b023bba8e.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:209px;"/>
+</a>
+</div></div>
+<div class="para" label-module="para">近30年来，包括我国在内的全球科学家在动物起源和寒武纪大爆发研究领域获得一系列重大科学发现，为破解这个科学难题做出了重要贡献。例如，我国云南的寒武纪早期澄江动物群（5.2亿年前）中发现了包括原始脊椎动物在内的几乎所有已知现代动物门类化石，同时全球各地发现了比澄江动物群还早的、具有各种各样骨骼和矿化外壳的动物化石。这些寒武纪早期的化石发现进一步证实了动物寒武纪大爆发的真实存在，并加大了寒武纪大爆发的突发性。</div>
+<div class="para" label-module="para">揭示动物在寒武纪大爆发之前的演化历史是破解寒武纪大爆发之谜的根本途径。近几十年来，寒武纪之前地层中也相继发现了大量形态看似复杂、具有动物特征的化石。比如，前寒武纪末期全球各地发现的典型埃迪卡拉生物群、我国皖南的蓝田生物群、贵州的瓮安生物群等等。但是，这些化石与寒武纪的动物化石差异非常大，一般认为没有任何演化上的关系。</div>
+<div class="para" label-module="para">依据目前发现的化石资料，学界的基本共识是，前寒武纪末期发生了一次全球性的生物大灭绝事件，这次大灭绝事件与全球海洋一次巨大的碳同位素负异常事件（BACE事件）在时间上相吻合。因而，这次生物大灭绝事件被认为是由地球环境异常变化引起的，而且这种认识同样支持了寒武纪大爆发的突发性，使得寒武纪大爆发之谜变得更加扑朔迷离。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_42818"> </a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a class="anchor-2" name="rs_42818_35086"></a>
+<div class="rslazy rs-container" id="rs-container-42818-35086" lazy-init="lemmars.tableAction(baidu.g('rs-42818-35086'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":35086,"fentryTableName":"\u53e4\u751f\u7269\u5b66\u603b\u8bba","fentryTableType":1,"entryId":2642041,"templateId":0,"entryTitle":"\u53e4\u751f\u7269\u5b66\u603b\u8bba","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([42818, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-42818-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_42818" id="refIndex_1_42818" name="refIndex_1_42818" title="向上跳转">  </a>
+<a class="text" href="/reference/785574/7805YfcPIr5xEdAsFk4MOryrnDO-zjNy4ajXJQceBq_6zVxOzqcQCB8BtH0OfWNKZ7pbBl5bsWwcIt7FCrB9S0HgNaE7Dm22Y9okjYbmWwFlX7CWx70PZxjw_ZGN5Gd65yBHfPZrohfp6aBJzCVeAAWVUOG3SMP3ueUQoyXnMu84dF4f3Fw6QUVwzb-_4hhE8zmOrw" rel="nofollow" target="_blank">国家自然科学奖一等奖<span class="linkout"> </span></a>
+<span class="site">．百度百科</span><span>[引用日期2019-06-23]</span></li><li class="reference-item reference-item--type1" id="reference-[2]-42818-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_42818" id="refIndex_2_42818" name="refIndex_2_42818" title="向上跳转">  </a>
+<a class="text" href="/reference/785574/239dh45DU1t2Q22--7EPwLgYAKC56UtoRiVWechCi5w8AX2B10v8Q8Z2Ii_t1qeTm9pjchO7KF-bTVtXvwZFFNoAx00xCeAUJNEVEUQO" rel="nofollow" target="_blank">地球生命进化史上一大奇观:寒武纪生命大爆发<span class="linkout"> </span></a>
+<span class="site">．环球网</span><span>[引用日期2017-04-10]</span></li><li class="reference-item reference-item--type1" id="reference-[3]-42818-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_42818" id="refIndex_3_42818" name="refIndex_3_42818" title="向上跳转">  </a>
+<a class="text" href="/reference/785574/9fdfS8PlY-El7A-w6lWsixBMGWBJu4srGpZzZubl4XoNle7GEF7esCzVJ6dImE0iB3By-HHwlc7j0X6CsdzazxYe" rel="nofollow" target="_blank">最新研究表明“寒武纪大爆发”始于前寒武纪<span class="linkout"> </span></a>
+<span class="site">．化石网</span><span>．2017-04-01</span><span>[引用日期2017-04-01]</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+非生物
+</span>
+，<span class="taglist">
+古代史
+</span>
+，<span class="taglist">
+历史
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574/0/d043ad4bd11373f0014f3855ad0f4bfbfaed0483?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=78bfd0eb9a13b07ebdbd570e34ecf61e/d043ad4bd11373f0014f3855ad0f4bfbfaed0483.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>寒武纪生命大爆发图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="785574" data-lemmatitle="寒武纪生命大爆发"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="785574" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：39次<a class="nslog:1021" href="/historylist/%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%94%9F%E5%91%BD%E5%A4%A7%E7%88%86%E5%8F%91/785574" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="11995809" href="/usercenter/userpage?uname=w_ou&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">w_ou</a><span class="j-modified-time" style="display:none">（2019-08-06）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="1472962" href="/usercenter/userpage?uname=finalmin&amp;from=lemma" target="_blank" title="查看此用户资料" username="finalmin">finalmin</a>
+<div class="right">
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">概述</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">起源</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">代表</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_1">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">介绍</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_2">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">研究意义</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">原因探讨</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">最新研究</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

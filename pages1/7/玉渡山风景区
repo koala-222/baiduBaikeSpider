@@ -1,0 +1,611 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>玉渡山风景区</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1420186" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">玉渡山地处深山，人迹罕至，景色秀丽，环境清幽。玉渡山是北京地区一块鲜为人知的处女地；玉渡山是大自然保存最原始的绿色记忆；玉渡山是现代人回归自然最美好的选择。玉渡山是藏于深山的明珠，与我们现代人有着同样的渴望，这就是“天人合一”的至高境界。玉渡山之美，在于山、石、林、泉、瀑、花、草一应俱全、而那浑如天籁的感觉，又在于清、幽、静、野之中。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_78591"> </a>
+</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="quickNavWrap">
+<div class="qnTitle">快速导航</div>
+<div class="qnContent">
+<div anchor="mapPanoramaArea" class="qnItemWrap">
+<div class="qnItem" nslog="normal" nslog-params='{"navKey":"mapPanoramaArea"}' nslog-type="10000502">
+<span class="qnItemIcon qn_mapPanoramaArea"></span>
+<span class="qnItemCon">全景图</span>
+</div>
+</div>
+</div>
+</div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名称</dt>
+<dd class="basicInfo-item value">
+玉渡山风景区
+</dd>
+<dt class="basicInfo-item name">地理位置</dt>
+<dd class="basicInfo-item value">
+北京市延庆县龙庆峡上游
+</dd>
+<dt class="basicInfo-item name">类    型</dt>
+<dd class="basicInfo-item value">
+自然风景区
+</dd>
+<dt class="basicInfo-item name">占地面积</dt>
+<dd class="basicInfo-item value">
+一百多平方公里
+</dd>
+<dt class="basicInfo-item name">著名景点</dt>
+<dd class="basicInfo-item value">
+玉渡山、二龙山
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">所属国家</dt>
+<dd class="basicInfo-item value">
+中国
+</dd>
+<dt class="basicInfo-item name">所属城市</dt>
+<dd class="basicInfo-item value">
+北京市
+</dd>
+<dt class="basicInfo-item name">建议游玩时长</dt>
+<dd class="basicInfo-item value">
+3-4小时
+</dd>
+<dt class="basicInfo-item name">门票价格</dt>
+<dd class="basicInfo-item value">
+60元
+</dd>
+<dt class="basicInfo-item name">开放时间</dt>
+<dd class="basicInfo-item value">
+08:00~17:00
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">地理环境</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">主要景点</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">玉渡山</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">石佛寺</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_3">双松寺</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_4">二龙山</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">旅游信息</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">外部交通</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">内部交通</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_3">门票价格</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_4">开放时间</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub78591_1"></a>
+<a class="lemma-anchor" name="地理环境"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">玉渡山风景区</span>地理环境</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a href="/item/%E7%8E%89%E6%B8%A1%E5%B1%B1" target="_blank">玉渡山</a>风景区位于北京市<a href="/item/%E5%BB%B6%E5%BA%86%E5%8E%BF" target="_blank">延庆县</a>城西北山中的玉渡山<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186/0/a54e55fb76b6fa4e034f56a2?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:144px;" target="_blank" title="玉渡山石灰岩峡谷">
+<img alt="玉渡山石灰岩峡谷" class="lazy-img" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=9483ed14b13533faf1b6942c98d3fdca/b7fd5266d01609242643c601d40735fae6cd3441.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:144px;"/>
+</a>
+<span class="description">
+玉渡山石灰岩峡谷
+</span>
+</div><a href="/item/%E8%87%AA%E7%84%B6%E9%A3%8E%E6%99%AF%E5%8C%BA" target="_blank">自然风景区</a>,全境面积约一百多平方公里,自<a href="/item/110%E5%9B%BD%E9%81%93" target="_blank">110国道</a>,有一条玉海公路相通。该区地处深山，人迹罕至，景色秀丽，环境清幽。它是北京地区一块鲜为人知的处女地；它是大自然保存最原始的绿色记忆；它是现代人回归自然最美好的选择。它是藏于深山的明珠，与我们现代人有着同样的渴望，这就是“天人合一”的至高境界。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub78591_2"></a>
+<a class="lemma-anchor" name="主要景点"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">玉渡山风景区</span>主要景点</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_1"></a>
+<a class="lemma-anchor" name="sub78591_2_1"></a>
+<a class="lemma-anchor" name="玉渡山"></a>
+<a class="lemma-anchor" name="2-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">玉渡山风景区</span>玉渡山</h3>
+</div>
+<div class="para" label-module="para">玉渡山又称“一垛山”，是一座净高不过20米的离堆山，海拔860米，<a class="lemma-album layout-right nslog:10000206" href="/pic/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186/23655009/0df3d7ca7bcb0a463afcd1fb6763f6246a60af12?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="玉渡山风景区">
+<div class="album-wrap" style="width:220px;height:165px;">
+<img alt="玉渡山风景区" class="picture" src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=4337dcee8b01a18bf4eb154dae2d0761/0df3d7ca7bcb0a463afcd1fb6763f6246a60af12.jpg" style="width:220px;height:165px;"/>
+</div>
+<div class="description">
+玉渡山风景区<span class="number">(3张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+山顶平整，长满灌丛，山顶长不过20米，宽7.8米，岩石均为砾岩，山虽然不高但极陡，如平地拔起，山顶原有一座小庙，名“<a href="/item/%E7%8E%89%E7%9A%87%E5%BA%99" target="_blank">玉皇庙</a>”，现庙已毁，只留墙基，断砖残迹。玉渡山周围郁郁葱葱，是一片绿的世界。植被极好，山下溪水四季不断流，严冬不冻。这里的古油松是较突出的，山顶山门遗址旁有一古松挺立，高20多米，直径近一米，<a href="/item/%E5%B1%B1%E5%8D%97" target="_blank">山南</a>峭壁又有一树身外探的古松，树冠青葱繁茂，与前一棵分别为<a href="/item/%E8%BF%8E%E5%AE%A2%E6%9D%BE" target="_blank">迎客松</a>和送客松。玉渡山对面山坡（正对山门，相隔100米）有三棵等距而立的古松，笔直挺立，人称“<a href="/item/%E4%B8%89%E7%82%B7%E9%A6%99" target="_blank">三炷香</a>”。</div>
+<div class="para" label-module="para">因为水文条件好,人为活动少，封闭性强，所以这一地区植物生长茂盛，种类繁多。据<a href="/item/%E9%A6%96%E9%83%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6" target="_blank">首都师范大学</a>和林业大学调查,乔木主要由松、桦、山杨、<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186/0/6398ecd3966140f5a9ec9add?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:165px;" target="_blank" title="玉渡山">
+<img alt="玉渡山" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=5666852d35fae6cd08b4ac633fb30f9e/4bed2e738bd4b31c464cf0a187d6277f9e2ff8bc.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+玉渡山
+</span>
+</div>辽东栎、椴和<a href="/item/%E5%8C%97%E4%BA%AC%E4%B8%81%E9%A6%99" target="_blank">北京丁香</a>为主的沟谷杂本林组成；灌林木主要以山榆、二色胡枝子、<a href="/item/%E5%B9%B3%E6%A6%9B" target="_blank">平榛</a>、虎榛、绣线菊、鼠李、山桃、荆条、山杏等组成,草本主要为百草群落，部分荆条、灌丛相结合,这里植被覆盖度高（<a href="/item/%E7%8E%89%E6%B8%A1%E5%B1%B1" target="_blank">玉渡山</a>周围可达 100%），种类多，生长好，是天然的北方植物园。</div>
+<div class="para" label-module="para">玉渡山之美,在于山、石、林、泉、瀑、花、草一应俱全、而那浑如天籁的感觉，又在于清、幽、静、野之中。溪中大小卵石磨圆较好，春、夏、秋三季花开不断，山清水秀,，鸟语花香，是山、水、林绝妙配合的静谷风光。<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_78591"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_2"></a>
+<a class="lemma-anchor" name="sub78591_2_2"></a>
+<a class="lemma-anchor" name="石佛寺"></a>
+<a class="lemma-anchor" name="2-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">玉渡山风景区</span>石佛寺</h3>
+</div>
+<div class="para" label-module="para" style="clear: both;"><a href="/item/%E7%9F%B3%E4%BD%9B%E5%AF%BA" target="_blank">石佛寺</a>景区有飞流直下的“海坨飞瀑”和白干绿盖的桦树林，有“天外飞石”的龙门口等诸多雄奇秀野的绚丽风景。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_3"></a>
+<a class="lemma-anchor" name="sub78591_2_3"></a>
+<a class="lemma-anchor" name="双松寺"></a>
+<a class="lemma-anchor" name="2-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">玉渡山风景区</span>双松寺</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186/0/cdbf6c81800a19d832fea91235fa828ba61e4623?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:146px;" target="_blank" title="">
+<img alt="" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=03d019ce3f01213fcb3349de64e636f8/cdbf6c81800a19d832fea91235fa828ba61e4623.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:146px;"/>
+</a>
+</div>双松寺遗址始建于明代，清朝年间重建，由于此寺北靠<a href="/item/%E9%9D%92%E9%BE%99%E5%B1%B1" target="_blank">青龙山</a>，院内有两棵松，故名“青龙山双松寺”。双松寺遗址对面有一陡峭的金字塔形山，山势雄伟，山顶有直立的石锥，颇为壮观；双松寺南有一座“茶壶山”，夏天，在山谷中向山上远望，在雾气蒙蒙之中，其秀丽颇似南方山峦；更有那<a href="/item/%E4%BA%94%E9%87%8C%E5%9D%A1%E6%9D%91" target="_blank">五里坡村</a>的丁香沟和晶体透明的白色石英，其观赏价值极高。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_4"></a>
+<a class="lemma-anchor" name="sub78591_2_4"></a>
+<a class="lemma-anchor" name="二龙山"></a>
+<a class="lemma-anchor" name="2-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">玉渡山风景区</span>二龙山</h3>
+</div>
+<div class="para" label-module="para"><a href="/item/%E4%BA%8C%E9%BE%99%E5%B1%B1" target="_blank">二龙山</a>是两个孤立的山峰，十分陡峭，远望好似两条龙头，故此得名，谷底有一“石门”，高约10米左右<a class="lemma-album layout-right nslog:10000206" href="/pic/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186/2598072/b58f8c5494eef01f9c19c230e0fe9925bc317d32?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="玉渡山风景区">
+<div class="album-wrap" style="width:220px;height:146px;">
+<img alt="玉渡山风景区" class="picture" src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=5dc25dd49313b07eb9bd570a3cd69113/b58f8c5494eef01f9c19c230e0fe9925bc317d32.jpg" style="width:220px;height:146px;"/>
+</div>
+<div class="description">
+玉渡山风景区<span class="number">(6张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+，两侧笔直，山坡上植被茂密，主要有青杠、狼榆、辽东栋、样树、六道木、胡枝子和棒子等。</div>
+<div class="para" label-module="para">这里还有一条石灰岩峡谷，游人可沿河流顺谷而下至<a href="/item/%E9%BE%99%E5%BA%86%E5%B3%A1" target="_blank">龙庆峡</a>。这段峡谷长约10公里，谷底狭窄，两侧山峰陡峭，遍布峰林、峰丛、孤峰、石锥，缓坡和台地上，次生林茂密，景色十分秀丽迷人。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub78591_3"></a>
+<a class="lemma-anchor" name="旅游信息"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">玉渡山风景区</span>旅游信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_1"></a>
+<a class="lemma-anchor" name="sub78591_3_1"></a>
+<a class="lemma-anchor" name="外部交通"></a>
+<a class="lemma-anchor" name="3-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">玉渡山风景区</span>外部交通</h3>
+</div>
+<div class="para" label-module="para"><b></b><b>自驾</b><br/>　　沿八达岭高速路行驶，<a data-lemmaid="128981" href="/item/%E5%8C%97%E4%BA%AC/128981" target="_blank">北京</a>到<a href="/item/%E9%BE%99%E5%BA%86%E5%B3%A1" target="_blank">龙庆峡</a>（玉渡山）约70分钟。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_2"></a>
+<a class="lemma-anchor" name="sub78591_3_2"></a>
+<a class="lemma-anchor" name="内部交通"></a>
+<a class="lemma-anchor" name="3-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">玉渡山风景区</span>内部交通</h3>
+</div>
+<div class="para" label-module="para"><b>公共交通</b><br/>　　1、游8路（旅游专线车）始发站：前门、安定门地铁西口（每周六、日发车），在龙庆峡站下车。<br/>　　2、919路（市郊车）始发站：德胜门箭楼每5分钟对开一辆，到延庆县城再乘920环线到龙庆峡（玉渡山）。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_3"></a>
+<a class="lemma-anchor" name="sub78591_3_3"></a>
+<a class="lemma-anchor" name="门票价格"></a>
+<a class="lemma-anchor" name="3-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">玉渡山风景区</span>门票价格</h3>
+</div>
+<div class="para" label-module="para"><b>门票价格：</b>60元</div>
+<div class="para" label-module="para">其他优惠 ：身高1.2米（含1.2米）至1.5米（含1.5米）的儿童，65周岁至69周岁的长者（凭有效身份证验票入园）门票30元；1.2米以下免费；70岁以上的老人免费。残疾人免费。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78591"> </a>
+<a class="lemma-album layout-right nslog:10000206" href="/pic/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186/21529961/d50735fae6cd7b895c611663062442a7d8330ec4?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="玉渡山风景区">
+<div class="album-wrap" style="width:220px;height:110px;">
+<img alt="玉渡山风景区" class="picture" src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=6ae3e4cf4834970a4373172da5cbd1c0/d50735fae6cd7b895c611663062442a7d8330ec4.jpg" style="width:220px;height:110px;"/>
+</div>
+<div class="description">
+玉渡山风景区<span class="number">(6张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_4"></a>
+<a class="lemma-anchor" name="sub78591_3_4"></a>
+<a class="lemma-anchor" name="开放时间"></a>
+<a class="lemma-anchor" name="3-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">玉渡山风景区</span>开放时间</h3>
+</div>
+<div class="para" label-module="para"><b>旺季：</b>8：30-17：00（5月1日-10月31日）</div>
+<div class="para" label-module="para"><b>淡季：</b>8：30-17：00（11月1日至次年4月30日停业）</div>
+<div class="para" label-module="para">最佳旅游时间：5月-10月<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_78591"> </a>
+<a class="lemma-album layout-right nslog:10000206" href="/pic/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186/21981478/7e3e6709c93d70cf31c13460f2dcd100baa12ba7?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="玉渡山风景区">
+<div class="album-wrap" style="width:220px;height:138px;">
+<img alt="玉渡山风景区" class="picture" src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=c41d364bf7faaf5180e386bdbc5494ed/7e3e6709c93d70cf31c13460f2dcd100baa12ba7.jpg" style="width:220px;height:138px;"/>
+</div>
+<div class="description">
+玉渡山风景区<span class="number">(5张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div>
+<div class="mapPanoramaWrap lazyload" id="mapPanoramaWrap">
+<div class="anchor-list">
+<a class="lemma-anchor" name="mapPanoramaArea"></a>
+</div><span class="mapPanoTitle">全景图</span>
+<a href="#" id="gotoBaiduMap" target="_blank">去百度地图查看全景&gt;&gt;</a>
+<div class="mapPanorama" id="mapPanorama"></div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-78591-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_78591" id="refIndex_1_78591" name="refIndex_1_78591" title="向上跳转">  </a>
+<a class="text" href="/reference/1420186/1c24b0HrY34TO5eXMAYai9MsB795ht43oC35-pXWazT4VKc3dZSzUT0BhAE1bmq2l7y8EFR2Ps42iN7wBt4h2IbSFK-2LGjazMc_6dSayP0" rel="nofollow" target="_blank">玉渡山<span class="linkout"> </span></a>
+<span class="site">．北京市旅游发展委员会官网</span><span>[引用日期2015-09-05]</span></li><li class="reference-item reference-item--type1" id="reference-[2]-78591-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_78591" id="refIndex_2_78591" name="refIndex_2_78591" title="向上跳转">  </a>
+<a class="text" href="/reference/1420186/a8bfQzSUNKamynQJoAdfxA4gI5PXmbOyk7WuMdAdiILUt1UvTXNU2TAY1D87a1OvEb5RbtfOfJTp99ZwKzFe6YX8a6yi5XjD6Tvc0bA" rel="nofollow" target="_blank">玉渡山 京郊鲜为人知的最后一片净土<span class="linkout"> </span></a>
+<span class="site">．搜狐旅游</span><span>．2010年07月12日</span><span>[引用日期2015-07-20]</span></li><li class="reference-item reference-item--type1" id="reference-[3]-78591-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_78591" id="refIndex_3_78591" name="refIndex_3_78591" title="向上跳转">  </a>
+<a class="text" href="/reference/1420186/beafFGsm3Z5jyOzYBXp31TGaQFRaTJT37fb6IYRkD5vbTKXcDLLT3IB1SNOy4HhBEXsupW_bDHQtR7bFKd94jQ-Ox1GQwrOaUp_Zn2M" rel="nofollow" target="_blank">玉渡山<span class="linkout"> </span></a>
+<span class="site">．北京市旅游发展委员会官网</span><span>[引用日期2015-09-05]</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+景观景点
+</span>
+，<span class="taglist">
+旅游
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186/0/72f082025aafa40f8daade2aad64034f79f019dc?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=762fef4763380cd7e61ea5eb997fca09/72f082025aafa40f8daade2aad64034f79f019dc.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>玉渡山风景区图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1420186" data-lemmatitle="玉渡山风景区"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1420186" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：40次<a class="nslog:1021" href="/historylist/%E7%8E%89%E6%B8%A1%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA/1420186" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="1112386369" href="/usercenter/userpage?uname=%E5%B1%B1%E5%B1%85%E8%88%8D&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">山居舍</a><span class="j-modified-time" style="display:none">（2019-01-07）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="12924745" href="/usercenter/userpage?uname=%E6%B4%8B%E5%8A%A1%E5%A4%A7%E8%87%A3&amp;from=lemma" target="_blank" title="查看此用户资料" username="洋务大臣">洋务大臣</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">地理环境</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">主要景点</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_1">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">玉渡山</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_2">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">石佛寺</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_3">
+<span class="text">
+<span class="title-index">2.3</span>
+<span class="title-link" nslog-type="10002802">双松寺</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_4">
+<span class="text">
+<span class="title-index">2.4</span>
+<span class="title-link" nslog-type="10002802">二龙山</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">旅游信息</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_1">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">外部交通</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_2">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">内部交通</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_3">
+<span class="text">
+<span class="title-index">3.3</span>
+<span class="title-link" nslog-type="10002802">门票价格</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_4">
+<span class="text">
+<span class="title-index">3.4</span>
+<span class="title-link" nslog-type="10002802">开放时间</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

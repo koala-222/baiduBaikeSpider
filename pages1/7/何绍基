@@ -1,0 +1,674 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E4%BD%95%E7%BB%8D%E5%9F%BA" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>何绍基</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1445113" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">何绍基（1799年—1873年），字子贞，号东洲，别号东洲居士，晚号蝯叟，<a data-lemmaid="228213" href="/item/%E6%B9%96%E5%8D%97/228213" target="_blank">湖南</a>道州（今道县）人，晚清诗人、画家、书法家。</div><div class="para" label-module="para"><a data-lemmaid="10953324" href="/item/%E9%81%93%E5%85%89/10953324" target="_blank">道光</a>十六年进士。<a href="/item/%E5%92%B8%E4%B8%B0" target="_blank">咸丰</a>初简四川<a data-lemmaid="2034420" href="/item/%E5%AD%A6%E6%94%BF/2034420" target="_blank">学政</a>，曾典福建等乡试。历主山东泺源、长沙<a data-lemmaid="4865798" href="/item/%E5%9F%8E%E5%8D%97%E4%B9%A6%E9%99%A2/4865798" target="_blank">城南书院</a>。通经史，精小学金石碑版。据《大戴记》考证《礼经》。书法初学颜真卿，又融汉魏而自成一家，尤长草书。著有《惜道味斋经说》、《东洲草堂诗·文钞》、《说文段注驳正》等。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">本    名</dt>
+<dd class="basicInfo-item value">
+何绍基
+</dd>
+<dt class="basicInfo-item name">字    号</dt>
+<dd class="basicInfo-item value">
+字子贞
+<br/>号东洲，别号东洲居士，晚号蝯叟
+</dd>
+<dt class="basicInfo-item name">所处时代</dt>
+<dd class="basicInfo-item value">
+清朝
+</dd>
+<dt class="basicInfo-item name">民族族群</dt>
+<dd class="basicInfo-item value">
+汉族
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">出生地</dt>
+<dd class="basicInfo-item value">
+湖南道州（今湖南道县）
+</dd>
+<dt class="basicInfo-item name">出生时间</dt>
+<dd class="basicInfo-item value">
+1799年
+</dd>
+<dt class="basicInfo-item name">去世时间</dt>
+<dd class="basicInfo-item value">
+1873年
+</dd>
+<dt class="basicInfo-item name">主要作品</dt>
+<dd class="basicInfo-item value">
+《惜道味斋经说》、《说文段注驳正》、《东洲草堂诗钞》等
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">生平简介</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">个人成就</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">经学</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">书法</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_3">诗词</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_4">藏书</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">人物年表</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">作品选摘</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_1">诗作</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_2">书法</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub79986_1"></a>
+<a class="lemma-anchor" name="生平简介"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">何绍基</span>生平简介</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">何绍基（1799年—1873年），字子贞，号东洲、晚号猿叟（一作蝯叟），湖南道州（今<a href="/item/%E9%81%93%E5%8E%BF" target="_blank">道县</a>）人。清代诗人、<a data-lemmaid="177069" href="/item/%E4%B9%A6%E6%B3%95/177069" target="_blank">书法</a>家。道光十六年（1836）进士，官翰林院编修、国史馆总纂，历充广东乡试考官、提督，视学浙江，擢四川学政，后被罢官。晚年主山东泺源、长沙城南、苏州扬州诸书院，提携后进颇多，博涉群书，于六经子史，皆有论述。</div>
+<div class="para" label-module="para">何绍基出身于<a href="/item/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC" target="_blank">书香门第</a>，其父<a href="/item/%E4%BD%95%E5%87%8C%E6%B1%89" target="_blank">何凌汉</a>曾任户部尚书，是知名的书法家、教育家、学者、藏书家。何绍基兄弟四人均习<div class="lemma-picture text-pic layout-right" style="width:159px; float: right;">
+<a class="image-link" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/0/3792cb39c5bde9ca3b87ce5c?fr=lemma&amp;ct=single" nslog-type="9317" style="width:159px;height:220px;" target="_blank" title="何绍基像">
+<img alt="何绍基像" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=d23654ef277f9e2f74351a0a2f31e962/0b46f21fbe096b638599b8590c338744ebf8ac33.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:159px;height:220px;"/>
+</a>
+<span class="description">
+何绍基像
+<sup>[1]</sup>
+<a name="ref_[1]_"></a>
+</span>
+</div>文善书，人称“何氏四杰”。<a href="/item/%E5%98%89%E5%BA%86" target="_blank">嘉庆</a>四年农历十二月与弟绍业一同出生于<a href="/item/%E4%B8%9C%E9%97%A8%E4%B9%A1" target="_blank">东门乡</a>东门村一耕读民家。幼年家境贫寒，他和弟弟随母就食于州西小坪舅舅廖氏家。8岁随父母入京，早年是<a href="/item/%E9%98%AE%E5%85%83" target="_blank">阮元</a>、<a href="/item/%E7%A8%8B%E6%81%A9%E6%B3%BD" target="_blank">程恩泽</a>门生。18岁应<a href="/item/%E4%BA%AC%E5%85%86" target="_blank">京兆</a>试，取眷录。<a href="/item/%E9%81%93%E5%85%89" target="_blank">道光</a>十一年（1831年）取优<a href="/item/%E8%B4%A1%E7%94%9F" target="_blank">贡生</a>。道光十五年（1835年）中<a href="/item/%E4%B8%BE%E4%BA%BA" target="_blank">举人</a>，次年中进士，授翰林院编修。历任<a href="/item/%E6%96%87%E6%B8%8A%E9%98%81" target="_blank">文渊阁</a>校理、<a href="/item/%E5%9B%BD%E5%8F%B2%E9%A6%86" target="_blank">国史馆</a>提调等职，曾充福建、贵州、广东<a href="/item/%E4%B9%A1%E8%AF%95" target="_blank">乡试</a>正副考官。<a href="/item/%E5%92%B8%E4%B8%B0" target="_blank">咸丰</a>二年(1852年)任四川<a href="/item/%E5%AD%A6%E6%94%BF" target="_blank">学政</a>。为官仅两年，次年因条陈时务得罪权贵，被斥为“肆意妄言”，受谗言所害，降官调职。遂辞去<a href="/item/%E5%AE%98%E8%81%8C" target="_blank">官职</a>，咸丰六年(1856)，由四川出发，经陕西等地到达济南，主讲于山东泺源书院。讲学之余，尽游济南<a href="/item/%E5%A4%A7%E6%98%8E%E6%B9%96" target="_blank">大明湖</a>、<a href="/item/%E8%B6%B5%E7%AA%81%E6%B3%89" target="_blank">趵突泉</a>、<a href="/item/%E7%8F%8D%E7%8F%A0%E6%B3%89" target="_blank">珍珠泉</a>、<a href="/item/%E5%8D%83%E4%BD%9B%E5%B1%B1" target="_blank">千佛山</a>等处，留下许多<a href="/item/%E8%AF%97%E5%8F%A5" target="_blank">诗句</a>。咸丰十年(1860年），受长沙<a href="/item/%E5%9F%8E%E5%8D%97%E4%B9%A6%E9%99%A2" target="_blank">城南书院</a>之邀离开济南赴长沙。前后在山东和长沙城南书院教书达十余年。晚年主持苏州、扬州书局，校刊《<a href="/item/%E5%8D%81%E4%B8%89%E7%BB%8F%E6%B3%A8%E7%96%8F" target="_blank">十三经注疏</a>》，主讲浙江孝廉堂，往来<a href="/item/%E5%90%B4%E8%B6%8A" target="_blank">吴越</a>，教授生徒。一生豪饮健游，多历名山胜地，拓碑访古。同治十二年（1873年），病逝于苏州省寓，葬于长沙南郊。</div>
+<div class="para" label-module="para">著有《东洲草堂金石跋》、《<a href="/item/%E4%B8%9C%E6%B4%B2%E8%8D%89%E5%A0%82%E8%AF%97%E9%92%9E" target="_blank">东洲草堂诗钞</a>》。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub79986_2"></a>
+<a class="lemma-anchor" name="个人成就"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">何绍基</span>个人成就</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_1"></a>
+<a class="lemma-anchor" name="sub79986_2_1"></a>
+<a class="lemma-anchor" name="经学"></a>
+<a class="lemma-anchor" name="2-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">何绍基</span>经学</h3>
+</div>
+<div class="para" label-module="para">何绍基出入于<a href="/item/%E9%98%AE%E5%85%83" target="_blank">阮元</a>、<a href="/item/%E7%A8%8B%E6%81%A9%E6%B3%BD" target="_blank">程恩泽</a>之门，通经史、律算,尤精小学，旁及金石碑版文字。他是近代提倡宋诗的重要人物之一。论诗主张“人与文一”、“先学为人”，而后直抒性情，“说自家的话”（《使黔草自序》、《<a href="/item/%E4%B8%8E%E6%B1%AA%E8%8F%8A%E5%A3%AB%E8%AE%BA%E8%AF%97" target="_blank">与汪菊士论诗</a>》）。他作诗“宗李、杜、韩、苏诸大家”，不名一体，随境触发，较为真挚为“<a href="/item/%E5%AE%8B%E8%AF%97%E6%B4%BE" target="_blank">宋诗派</a>”重要倡导者之一。他有过讥刺时政的诗作，如《<a href="/item/%E6%B2%AA%E4%B8%8A%E6%9D%82%E4%B9%A6" target="_blank">沪上杂书</a>》“愁风闷雨人无寐，海国平分鬼气多”，对外国侵略者盘踞租界深为愤慨。但由于仕途挫折，性情拘检，他说“一切豪诞语、牢骚<div class="lemma-picture text-pic layout-right" style="width:154px; float: right;">
+<a class="image-link" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/0/964b2e4eeb0b41f3d1c86aeb?fr=lemma&amp;ct=single" nslog-type="9317" style="width:154px;height:220px;" target="_blank" title="《东洲草堂诗钞》">
+<img alt="《东洲草堂诗钞》" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=1eb6d8cd31adcbef053479049caf2e0e/ca1349540923dd54985a4661d109b3de9c82488a.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:154px;height:220px;"/>
+</a>
+<span class="description">
+《东洲草堂诗钞》
+</span>
+</div>语、绮艳语、疵贬语，皆所不喜，亦不敢也”(《<a href="/item/%E4%B8%9C%E6%B4%B2%E8%8D%89%E5%A0%82" target="_blank">东洲草堂</a>诗钞自序》)，而强调“<a href="/item/%E6%B8%A9%E6%9F%94%E6%95%A6%E5%8E%9A" target="_blank">温柔敦厚</a>”的诗教。所以诗作大都是登临唱和、书画题跋及抒写个人生活感受，很少涉及社会政治内容，如《沪上杂书》感慨外国侵略者盘踞之类很少。他的山水诗善于以平实自然的语言白描客观景物,颇有特色，如《<a href="/item/%E5%B1%B1%E9%9B%A8" target="_blank">山雨</a>》、《望飞云洞》等。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_2"></a>
+<a class="lemma-anchor" name="sub79986_2_2"></a>
+<a class="lemma-anchor" name="书法"></a>
+<a class="lemma-anchor" name="2-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">何绍基</span>书法</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-left" style="width:250px; margin: 0px auto; clear: both; display: block; float: left;">
+<a class="image-link" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/0/ae51f3deb48f8c543eca2eb031292df5e0fe7f10?fr=lemma&amp;ct=single" nslog-type="9317" style="width:250px;height:85px;" target="_blank" title="何绍基书法作品">
+<img alt="何绍基书法作品" class="lazy-img" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D250/sign=ba1c8decf0f2b211e02e824bfa816511/ae51f3deb48f8c543eca2eb031292df5e0fe7f10.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:250px;height:85px;"/>
+</a>
+<span class="description">
+何绍基书法作品
+</span>
+</div></div>
+<div class="para" label-module="para">何绍基的书法成就很高。各体书熔铸古人，自成一家。<a href="/item/%E8%8D%89%E4%B9%A6" target="_blank">草书</a>尤为擅长。何绍基的<a href="/item/%E6%A5%B7%E4%B9%A6" target="_blank">楷书</a>取颜字结体的宽博而无疏阔之气，同时还掺入了北朝碑刻以及<a href="/item/%E6%AC%A7%E9%98%B3%E8%AF%A2" target="_blank">欧阳询</a>、<a href="/item/%E6%AC%A7%E9%98%B3%E9%80%9A" target="_blank">欧阳通</a>书法险峻茂密的特点，还有《张黑女墓志》和《道因碑》的神气，从而使他的书法不同凡响。何绍基的<a href="/item/%E5%B0%8F%E6%A5%B7" target="_blank">小楷</a>兼取晋代书法传统，笔意含蕴，行草书融篆、隶于一炉，骏发雄强，独具面貌。他的<a href="/item/%E7%AF%86%E4%B9%A6" target="_blank">篆书</a>，中锋用笔，并能掺入隶笔，而带<a href="/item/%E8%A1%8C%E8%8D%89" target="_blank">行草</a>笔势，自成一格。何绍基书法，早年秀润畅达，徘徊于<a href="/item/%E9%A2%9C%E7%9C%9F%E5%8D%BF" target="_blank">颜真卿</a>、<a href="/item/%E6%9D%8E%E9%82%95" target="_blank">李邕</a>、<a href="/item/%E7%8E%8B%E7%BE%B2%E4%B9%8B" target="_blank">王羲之</a>和北朝碑刻之间，有一种清刚之气；中年渐趋老成，笔意纵逸超迈，时有颤笔，醇厚有味；晚年何绍基的书法已臻<a href="/item/%E7%82%89%E7%81%AB%E7%BA%AF%E9%9D%92" target="_blank">炉火纯青</a>。济南<a href="/item/%E5%A4%A7%E6%98%8E%E6%B9%96" target="_blank">大明湖</a><a href="/item/%E5%8E%86%E4%B8%8B%E4%BA%AD" target="_blank">历下亭</a>楹联杜甫名句“海右此亭古，济南名士多”，即为他所书。历下亭东壁仍存其《重修历下亭记》石刻。</div>
+<div class="para" label-module="para">何氏精通金石书画，以书法著称于世。誉为清代第一。初习颜，中年博习南北朝书，<a href="/item/%E7%AC%94%E6%B3%95" target="_blank">笔法</a>刚健，此期作品传世甚少。后致力分隶，汉魏名刻，无不深研熟密闭，临摹多至百本。偶为<a href="/item/%E5%B0%8F%E7%AF%86" target="_blank">小篆</a>，不顾及俗敷形，必以顿挫出之，宁拙毋巧。暮年眼疾，作书以意为之，笔轻墨燥，不若中年之沉着俊爽，每有笔未至而意到之妙。年尊望重，求书反多，故史年作品传世较多。尤以篆隶法写兰蕙竹石，寥寥数笔，金石书卷之气盎然。何氏博学多才，尤工于诗。有《东洲草堂集》。何氏晚年寓沪，卒于<a href="/item/%E5%90%B4%E5%8E%BF" target="_blank">吴县</a>，归葬长沙<a href="/item/%E5%8D%97%E9%83%8A" target="_blank">南郊</a>石人冲。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/0/dc54564e9258d109f7a7c354d358ccbf6d814d8b?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:135px;" target="_blank" title="六条屏169.5×44cm×6">
+<img alt="六条屏169.5×44cm×6" class="lazy-img" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=8f9629df4936acaf5de091fe4cd88d03/dc54564e9258d109f7a7c354d358ccbf6d814d8b.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:135px;"/>
+</a>
+<span class="description">
+六条屏169.5×44cm×6
+</span>
+</div></div>
+<div class="para" label-module="para">他是一位十分勤奋的书法家。他自己说：“余学书四十余年，溯源篆分。楷法则由北朝求篆分入真楷之绪。”何绍基早年由颜真卿，欧阳通入手，上追<a href="/item/%E7%A7%A6%E6%B1%89" target="_blank">秦汉</a>篆隶。他临写汉碑极为专精，《张迁碑》，《礼器碑》等竟临写了一百多遍，不求形似，全出己意。进而“草、篆、分、行熔为一炉，<a href="/item/%E7%A5%9E%E9%BE%99%E5%8F%98" target="_blank">神龙变</a>化，不可测已。”到2019年为止存临本仍然不少。中年潜心北碑，用异于常人的<a href="/item/%E5%9B%9E%E8%85%95%E6%B3%95" target="_blank">回腕法</a>写出了很有个性的字。</div>
+<div class="para" label-module="para">博《息轲杂著》称其书“专从颜清臣问津，积数十年功力，探源<a href="/item/%E7%AF%86%E9%9A%B6" target="_blank">篆隶</a>，人神仙境，晚年尤自课甚勤，摹《衡兴祖》、《张公方》多本，神与迹化，数百年书法于斯一振。”平生作书，对联特多，而不是一般应酬之作，书作着力，书艺很高，被誉为“书联圣手”。著有《东洲草堂金石跋》、《东洲草堂诗·文钞》、《惜道味斋经说》、《说文段注校正》等。传世书迹甚多。《<a data-lemmaid="16592" href="/item/%E9%82%93%E7%9F%B3%E5%A6%82/16592" target="_blank">邓石如</a>墓志铭》，书于同治四年（1865）。纸本墨迹。楷书。七开，每开纵30.6厘米，横30.3厘米。故宫博物院藏。何绍基的楷书从<a href="/item/%E6%AC%A7%E9%98%B3%E9%80%9A" target="_blank">欧阳通</a>《道因碑》入手，后又广泛地临写六朝碑版及<a data-lemmaid="66560" href="/item/%E9%A2%9C%E7%9C%9F%E5%8D%BF/66560" target="_blank">颜真卿</a>楷书等，于《<a href="/item/%E5%BC%A0%E7%8E%84%E5%A2%93%E5%BF%97" target="_blank">张玄墓志</a>》用功最多。何绍基的这件为邓石如所书的墓志，表现颜字端庄、开阔的正面形象。他主张从篆隶入手，自然解决“中怯”最好的途径。因而在技术上，他选择了回腕执笔法。何氏在写邓石如墓志时，已年近古稀，但他能有效地避开由于他技术上奇特而造成的线条颤动，使这件作品更含蓄一些。<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_79986"> </a>
+<a name="ref_2"></a><a name="ref_2"></a></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_3"></a>
+<a class="lemma-anchor" name="sub79986_2_3"></a>
+<a class="lemma-anchor" name="诗词"></a>
+<a class="lemma-anchor" name="2-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">何绍基</span>诗词</h3>
+</div>
+<div class="para" label-module="para">何绍基是一位大书法家，但他的诗名为书名所掩。在晚清宋诗派中他是一位健将，擅于描绘山川。如其七律《元象》中有“石根水怒水根石，天外山惊山外天”一联，上句比喻人世风波之复杂、险恶，下句又展示人类进步之不可限量，耐人咀嚼。</div>
+<div class="para" label-module="para">何绍基为官，因言事降调，于是远离官场，周游各地，以书法著作自娱，晚年倦游，在长沙生活，与<a href="/item/%E9%BB%84%E9%81%93%E8%AE%A9" target="_blank">黄道让</a>、<a href="/item/%E7%8E%8B%E5%85%88%E8%B0%A6" target="_blank">王先谦</a>、<a href="/item/%E7%8E%8B%E9%97%BF%E8%BF%90" target="_blank">王闿运</a>等人相唱和，成为长沙诗坛雅韵之一章。</div>
+<div class="para" label-module="para">《隶书七言联》 何绍基曾曰：“如写字用中锋然，一笔到底，四面都有，安得不厚？安得不韵？安得不雄浑？安得不淡远？这事切要握笔时提得起丹田工，高著眼光，盘曲纵送，自运神明，方得此气。当真圆，大难，大难！”，由此可见其对中锋的高度重视和深刻理解。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_4"></a>
+<a class="lemma-anchor" name="sub79986_2_4"></a>
+<a class="lemma-anchor" name="藏书"></a>
+<a class="lemma-anchor" name="2-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">何绍基</span>藏书</h3>
+</div>
+<div class="para" label-module="para">其父何凌<b>汉</b>（1772～1840）字云门，号仙槎，官至吏部、工部、户部尚书，曾收藏有北京朱筠的旧藏不少，建有藏书楼为“云腴山房”，收藏图籍万余卷，何氏藏书由此起源。至绍基时，南北藏书旧家，广为搜罗，一度藏书达到10万余卷，建有“云龙万宝书楼”、“惜道味斋”、“东洲草堂”。他既藏书又读书，考订有《礼经》、《水经注》，于《说文》考订尤深。校有《曝书亭记》。所藏书在辛亥革命后被变卖给长沙书贾谭厚坤，另一部分为叶启勋兄弟所收。著《惜道味斋经说》、《说文段注驳证》、《水经注勘误》、《东洲草堂诗文集》。</div>
+<div class="para" label-module="para">子<b>何庆涵</b>（1821～1892），字伯源，继承藏书，作有《眠琴阁遗文》。何氏藏书印先后有“何凌汉印”、“道州何氏云腴山房”、“东洲草堂藏书画记”、“何绍基鉴藏”、“猿叟”、“眠琴阁珍藏”等。<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_79986"> </a>
+<a name="ref_2"></a><a name="ref_2"></a></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub79986_3"></a>
+<a class="lemma-anchor" name="人物年表"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">何绍基</span>人物年表</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">1814年 嘉庆十九年 甲戌 16岁</div>
+<div class="para" label-module="para">在京濡染家学，“忆余十六岁时，先公官少司成，十八省癸酉科选拔生肄业成均者彬彬然执贽门下，余得尽识其才俊，为余有交游之始”。(《徐柳臣前辈寿诗并序》)</div>
+<div class="para" label-module="para">1816年 嘉庆二十一年 丙子 18岁</div>
+<div class="para" label-module="para">“应京兆试取誊录。”(<a href="/item/%E4%BD%95%E5%BA%86%E6%B6%B5" target="_blank">何庆涵</a>《先府君墓表》)</div>
+<div class="para" label-module="para">拜<a href="/item/%E5%BC%A0%E6%8E%96" target="_blank">张掖</a>垣为馆师。</div>
+<div class="para" label-module="para">1817年 嘉庆二十二年 丁丑 19岁</div>
+<div class="para" label-module="para">在京就学于张掖垣师：秋，张掖垣归湘，有《送张掖垣师下第南旋》诗。</div>
+<div class="para" label-module="para">1818年 嘉庆二十三年 戊寅 20岁</div>
+<div class="para" label-module="para">“始读《说文》，写篆字。”就学于顾耕石师。(《书邓顽伯先生印册后》)</div>
+<div class="para" label-module="para">1825年<a href="/item/%E9%81%93%E5%85%89" target="_blank">道光</a>五年 乙酉 27岁</div>
+<div class="para" label-module="para">是年春，于济南得孤本《张黑女墓志》及《石门颂》拓本。秋初，回湘参加乡试未中。</div>
+<div class="para" label-module="para">1827年 道光七年 丁亥 29岁</div>
+<div class="para" label-module="para">第二次回故乡道州。是夏，于汴中获《宋拓薛少保书信行禅师碑》孤本，冬初获《天发神谶碑》拓本。 1828年 道光八年 戊子 30岁</div>
+<div class="para" label-module="para">与绍祺第三次回道州。回湘应乡试，“秋间，补廪膳生”。</div>
+<div class="para" label-module="para">1829年 道光九年 己丑 3l岁</div>
+<div class="para" label-module="para">居北京，与<a href="/item/%E6%9E%97%E5%88%99%E5%BE%90" target="_blank">林则徐</a>、<a href="/item/%E9%AD%8F%E6%BA%90" target="_blank">魏源</a>等赴龚自珍家观龚重摹《宋刻王献之洛神赋九行》。</div>
+<div class="para" label-module="para">1835年 道光十五年 乙未 37岁</div>
+<div class="para" label-module="para">夏，回湘应乡试。“乙未恩科主试吴晴舫、王春绶两先生以府君后场精博，拔置第一。”(《墓表》)谒<a href="/item/%E5%90%B4%E8%8D%A3%E5%85%89" target="_blank">吴荣光</a>，得观其所藏金石书画，并为<a href="/item/%E9%A2%98%E8%B7%8B" target="_blank">题跋</a>数十件。纳妾王氏琼箫，原已纳妾陈氏东芝。（《何蝯叟乙未归湘日记》)</div>
+<div class="para" label-module="para">1836年 道光十六年 丙申 38岁</div>
+<div class="para" label-module="para">“丙申恩科成进士，廷对策为长文襄、阮文达两相国所激赏，已置大魁，因语疵抑落二甲第八名，改<a href="/item/%E5%BA%B6%E5%90%89%E5%A3%AB" target="_blank">庶吉士</a>。”(《墓表》)女(王氏所生)韶云出生。</div>
+<div class="para" label-module="para">1841年 道光二十一年 辛丑 43岁</div>
+<div class="para" label-module="para">四月，绍基等葬父于长沙河西谷山九子岭（今<a href="/item/%E6%9C%9B%E5%9F%8E" target="_blank">望城</a>）。“闰三月得地，四月卜葬。余居墓侧，造坟垣，立亭堂。恭勒御祭文暨御赐碑文，立于享堂之前楹：<a href="/item/%E4%BB%AA%E5%BE%81" target="_blank">仪征</a>阮相国师所撰《神道碑铭》立于内楹，置墓田，种树，至岁暮而事毕。”(《望九子岭》)</div>
+<div class="para" label-module="para">1842年 道光二十二年 壬寅 44岁</div>
+<div class="para" label-module="para">是年服阕，自长沙奉母至<a href="/item/%E9%87%91%E9%99%B5" target="_blank">金陵</a>。八月，入都供职<a href="/item/%E5%9B%BD%E5%8F%B2%E9%A6%86" target="_blank">国史馆</a>。“服阕后直国史馆兼办传志，每三六九馆期风雨无间。”(《十九日到史馆作》)得长孙于金陵。“庆涵公长子讳维朴生道光壬寅四月二十八日辰时。”(《宗谱》)</div>
+<div class="para" label-module="para">1846年 道光二十六年 丙午 48岁</div>
+<div class="para" label-module="para">供职国史馆，充提调。“因馆中照例进书，皆一品二品大臣传，无三品以下传，虽经高宗屡次严旨申谕，史馆仍因循至今。因创拟条例，欲遍搜官书及前人文集，补办国初以来三品以下名臣各传，商之总裁穆师相，坚不见允，余即日辞提调矣。” (《十月十二日约<a href="/item/%E9%BB%84%E6%B5%B7%E5%8D%8E" target="_blank">黄海华</a>等小集吾斋为消寒第一集》)</div>
+<div class="para" label-module="para">1853年 咸丰三年 癸丑 55岁</div>
+<div class="para" label-module="para">在四川学政任上力求整顿，四月十八日奏《恭报岁试成都省垣情形折》；七月二十四日上《捐输军饷奉旨从优议叙谢折》，十一月初七根据按试各州了解弊端，奏《请旨饬查川省捐输广额各数暨办理土匪事涉及两歧并参将擅造关防需索骚扰折》。</div>
+<div class="para" label-module="para">1854年 咸丰四年 甲寅 56岁</div>
+<div class="para" label-module="para">在四川学政任上。五月二十四日上《请旨交议整顿考试力除弊窦折》、《请旨更正灌县二郎神庙祀典折》，二十六日上《请旨饬裁陋规折》，二十五日上《恭报通省岁试及岁科并试等处完竣情形折》、《请旨饬行速办土司争袭案折》，十一月二十二日上《敬陈地方情形折》。是年作《猿臂翁》诗，从此自号“猿叟”(蝯叟)。</div>
+<div class="para" label-module="para">1855 咸丰五年 乙卯 57岁</div>
+<div class="para" label-module="para">春间，出省按试，五月二十四日回至成都，得知由于四月屡陈时务12事，<a href="/item/%E5%92%B8%E4%B8%B0" target="_blank">咸丰</a>帝责以肆意妄言，由部议以私罪免除了他的学政职务，六月八日交印于<a href="/item/%E5%9B%9B%E5%B7%9D%E6%80%BB%E7%9D%A3" target="_blank">四川总督</a><a href="/item/%E9%BB%84%E5%AF%BF%E8%87%A3" target="_blank">黄寿臣</a>。七月初一日，出游峨眉瓦屋，纪游之作编为《峨眉瓦屋游草》。</div>
+<div class="para" label-module="para">1865年 同治四年 乙丑 67岁</div>
+<div class="para" label-module="para">主讲长沙城南书院。初春至苏州，继而至上海、杭州，五月回长沙。十月十二日约胡恕堂、李次青、黄海华等作消寒第一集，李次青见示所辑《<a href="/item/%E5%9B%BD%E6%9C%9D%E5%85%88%E6%AD%A3%E4%BA%8B%E7%95%A5" target="_blank">国朝先正事略</a>》。</div>
+<div class="para" label-module="para">1870年 同治九年 庚午 72岁</div>
+<div class="para" label-module="para">早春，应<a href="/item/%E4%B8%81%E6%97%A5%E6%98%8C" target="_blank">丁日昌</a>中丞约，赴吴门，寓苏州金狮桥巷。“时适吴氏女(韶云)随婿{<a href="/item/%E5%90%B4%E8%A7%82%E7%A4%BC" target="_blank">吴观礼</a>)侍母在苏，相见欢甚。复经相国<a href="/item/%E6%9B%BE%E6%96%87%E6%AD%A3" target="_blank">曾文正</a>公、中丞丁雨生先生延主苏州、扬州书局，校刊《大字十三经注疏》。浙江杨石泉中丞亦聘主孝廉堂讲席，府君往来吴、越，觞咏留连，意兴颇适。”(《墓表》)</div>
+<div class="para" label-module="para">1873年 同治十二年 癸酉 75岁</div>
+<div class="para" label-module="para">是年，在苏州病逝。“癸酉七月初旬，忽患痢下，昼夜数十起，元气骤亏，至二十日丑时，遽告终于苏州省寓。”(《墓表》)同治十三年十二月十九日，子庆涵扶柩葬于<a href="/item/%E5%96%84%E5%8C%96%E5%8E%BF" target="_blank">善化县</a>南乡八都石人冲内苦竹坡之原。<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_79986"> </a>
+<a name="ref_2"></a><a name="ref_2"></a></div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub79986_4"></a>
+<a class="lemma-anchor" name="作品选摘"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">何绍基</span>作品选摘</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_1"></a>
+<a class="lemma-anchor" name="sub79986_4_1"></a>
+<a class="lemma-anchor" name="诗作"></a>
+<a class="lemma-anchor" name="4-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">何绍基</span>诗作</h3>
+</div>
+<div class="para" label-module="para"><b>何绍基虽出身官宦世家，然具有中国文人悲天悯人，关心民间疾苦的人文情怀，其诗作也富含朴素的哲学观点。<br/>　　</b></div>
+<div class="para" label-module="para"><b><b>【</b>宿商家林<b>】</b></b></div>
+<div class="para" label-module="para">闻说频年苦旱荒，商家林子气苍凉。连宵滴透深秋雨，想到饥年饼饵香。</div>
+<div class="para" label-module="para"><b>【慈仁寺荷花池（四首录一）】</b></div>
+<div class="para" label-module="para">坐看倒影浸天河，风过栏干水不波。</div>
+<div class="para" label-module="para">想见夜深人散后，满湖萤火比星多。</div>
+<div class="para" label-module="para"><b>【山雨】</b></div>
+<div class="para" label-module="para">短笠团团避树枝。初凉天气野行宜。</div>
+<div class="para" label-module="para">溪云到处自相聚，山雨忽来人不知。</div>
+<div class="para" label-module="para">马上衣巾任沾湿，村边瓜豆也离披。</div>
+<div class="para" label-module="para">新晴尽放峰峦出，万瀑齐飞又一奇。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_2"></a>
+<a class="lemma-anchor" name="sub79986_4_2"></a>
+<a class="lemma-anchor" name="书法"></a>
+<a class="lemma-anchor" name="4-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">何绍基</span>书法</h3>
+</div>
+<div class="para" label-module="para">以下是部分书法作品展,供参观和了解<a class="lemma-album layout-right nslog:10000206" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/15834580/f703738da97739129e7169aafa198618377ae2a2?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:66px;" target="_blank" title="何绍基《西园雅集》">
+<div class="album-wrap" style="width:64px;height:250px;">
+<img alt="何绍基《西园雅集》" class="picture" src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D250/sign=8004043f53da81cb4ae684c86267d0a4/f703738da97739129e7169aafa198618377ae2a2.jpg" style="width:64px;height:250px;"/>
+</div>
+<div class="description">
+何绍基《西园雅集》<span class="number">(7张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:58px;"></div>
+<div class="albumBgSec" style="width:52px;"></div>
+</div>
+</a>
+<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_79986"> </a>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-left" style="width:153px; float: left;">
+<a class="image-link" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/0/808a27db44e2865fd0164efe?fr=lemma&amp;ct=single" nslog-type="9317" style="width:153px;height:220px;" target="_blank" title="何绍基作品">
+<img alt="何绍基作品" class="lazy-img" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=66f124263a292df593c3ab178c315ce2/d000baa1cd11728bb50f6d2bc8fcc3cec3fd2c9d.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:153px;height:220px;"/>
+</a>
+<span class="description">
+何绍基作品
+</span>
+</div></div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-left" style="width:142px; margin: 0px auto 0px 0px; clear: both; display: inline; float: left;">
+<a class="image-link" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/0/f958981812600e8d4aedbcf1?fr=lemma&amp;ct=single" nslog-type="9317" style="width:142px;height:220px;" target="_blank" title="何绍基作品">
+<img alt="何绍基作品" class="lazy-img" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=56919329b912c8fcb0f3f1cfcc0392b4/024f78f0f736afc35d2bde6cb319ebc4b7451297.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:142px;height:220px;"/>
+</a>
+<span class="description">
+何绍基作品
+</span>
+</div></div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic" style="width:116px; margin: 0px auto 0px 0px; clear: both; float: none; display: inline;">
+<a class="image-link" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/0/109eb7ecc8f9b01e63d09f01?fr=lemma&amp;ct=single" nslog-type="9317" style="width:116px;height:220px;" target="_blank" title="何绍基作品">
+<img alt="何绍基作品" class="lazy-img" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=a427a8b09e510fb37c197095e932c893/b21c8701a18b87d665954d16070828381e30fde0.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:116px;height:220px;"/>
+</a>
+<span class="description">
+何绍基作品
+</span>
+</div></div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic" style="width:148px; margin: 0px auto 0px 0px; clear: both; float: none; display: inline;">
+<a class="image-link" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/0/c9d4cf43a9a3022a72f05d06?fr=lemma&amp;ct=single" nslog-type="9317" style="width:148px;height:220px;" target="_blank" title="何绍基作品">
+<img alt="何绍基作品" class="lazy-img" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=d5e160e79c82d158bf825eb3b00b19d5/0ff41bd5ad6eddc4553252f239dbb6fd536633e5.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:148px;height:220px;"/>
+</a>
+<span class="description">
+何绍基作品
+<sup>[3]</sup>
+<a name="ref_[3]_"></a>
+</span>
+</div></div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="tashuo-bottom" id="tashuo_bottom">
+<div class="tashuo-bottom-title-essence">
+<img alt="" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/ta-logo-blue_5458427.png"/>
+<span>解读词条背后的知识</span>
+</div>
+<div class="tashuo-single J-item" data-tashuoid="56526503b2dd63aadffd3865">
+<div class="tashuo-author">
+<a href="/usercenter/userpage?uk=0fe67ca0&amp;authorId=f97c8e26447fa302f5c2c220&amp;from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/64380cd7912397ddffbeacc15582b2b7d1a2872b.jpg"/></span></div>
+<div class="ta-author-slogan-area">
+<strong>历史客栈</strong>
+<span>有趣味、有思维、有品位的“三味”历史</span>
+</div>
+<i></i></a>
+</div>
+<div class="tashuo-content">
+<a class="cover" href="/tashuo/browse/content?id=56526503b2dd63aadffd3865&amp;lemmaId=1445113&amp;fromLemmaModule=list" target="_blank"><img class="cover-img" data-height="" data-width="" src="https://imgsa.baidu.com/baike/pic/item/f9dcd100baa1cd110c447bc0b212c8fcc2ce2d5b.jpg"/></a>
+<div class="tashuo-content-essence">
+<p class="title"><a href="/tashuo/browse/content?id=56526503b2dd63aadffd3865&amp;lemmaId=1445113&amp;fromLemmaModule=pcBottom" target="_blank">清朝三百年第一书法家，因父亲当年的一句玩笑话，痛失状元</a>
+</p>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=56526503b2dd63aadffd3865&amp;lemmaId=1445113&amp;fromLemmaModule=pcBottom" target="_blank">
+说起来，何绍基真是倒霉到家了，谁能想到老爸当年的一句玩笑话，竟然能报应在自己头上？谁又能想到一颗仇恨的种子竟然能潜伏几十年才破土而出？</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2017-12-30</span><span class="tashuo-like J-like" data-isvote="0"><i></i><strong class="J-number">66</strong></span>
+<span class="tashuo-view"><i>阅读</i><strong>5326</strong></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type3" id="reference-[1]-79986-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_79986" id="refIndex_1_79986" name="refIndex_1_79986" title="向上跳转">  </a>
+<span class="text">何绍基像取自《清代学者像传》第二集，叶公绰辑，杨鹏秋摹绘。</span>
+</li><li class="reference-item reference-item--type2" id="reference-[2]-79986-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_79986" id="refIndex_2_79986" name="refIndex_2_79986" title="向上跳转">  </a>
+<span>李玉安 黄正雨</span><span class="text">．中国藏书家通典</span><span>：中国国际文化出版社</span><span>，2005年版</span></li><li class="reference-item reference-item--type1" id="reference-[3]-79986-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_79986" id="refIndex_3_79986" name="refIndex_3_79986" title="向上跳转">  </a>
+<a class="text" href="/reference/1445113/d665kep_S3Jf-q2tvmzflTdN8yocV401VcE8I95g0kN3H0hpqyC9_1P0GHVT5wi0XpByND34RZgCfo1d1motHWQB8vdpVjrkWkDdJ0g" rel="nofollow" target="_blank">作品鉴赏<span class="linkout"> </span></a>
+<span class="site">．盛世收藏</span><span>[引用日期2013-07-25]</span></li></ul>
+</dd>
+</dl>
+<div class="lemma-paper-box"></div>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+清朝
+</span>
+，<span class="taglist">
+古代史
+</span>
+，<span class="taglist">
+历史人物
+</span>
+，<span class="taglist">
+人物
+</span>
+，<span class="taglist">
+中国历史人物
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113/0/aa18972bd40735fadd1de58597510fb30f240818?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f23a8bc23fd3d539c13d08c502bc8e6d/aa18972bd40735fadd1de58597510fb30f240818.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>何绍基图册</div>
+</a>
+</div>
+<div class="tashuo-right" id="tashuo_right">
+<div class="tashuo-right-content-essence">
+<div class="J-items">
+</div>
+</div>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1445113" data-lemmatitle="何绍基"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1445113" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：77次<a class="nslog:1021" href="/historylist/%E4%BD%95%E7%BB%8D%E5%9F%BA/1445113" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="2554063602" href="/usercenter/userpage?uname=%E4%BB%BB%E5%90%8C%E5%85%B4186&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">任同兴186</a><span class="j-modified-time" style="display:none">（2019-08-13）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="12924745" href="/usercenter/userpage?uname=%E6%B4%8B%E5%8A%A1%E5%A4%A7%E8%87%A3&amp;from=lemma" target="_blank" title="查看此用户资料" username="洋务大臣">洋务大臣</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">生平简介</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">个人成就</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_1">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">经学</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_2">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">书法</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_3">
+<span class="text">
+<span class="title-index">2.3</span>
+<span class="title-link" nslog-type="10002802">诗词</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_4">
+<span class="text">
+<span class="title-index">2.4</span>
+<span class="title-link" nslog-type="10002802">藏书</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">人物年表</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">作品选摘</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_1">
+<span class="text">
+<span class="title-index">4.1</span>
+<span class="title-link" nslog-type="10002802">诗作</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_2">
+<span class="text">
+<span class="title-index">4.2</span>
+<span class="title-link" nslog-type="10002802">书法</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

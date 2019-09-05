@@ -1,0 +1,43 @@
+2019-08-20 12:07:45 [scrapy.utils.log] INFO: Scrapy 1.6.0 started (bot: baiduBaike)
+2019-08-20 12:07:45 [scrapy.utils.log] INFO: Versions: lxml 4.3.2.0, libxml2 2.9.9, cssselect 1.0.3, parsel 1.5.1, w3lib 1.20.0, Twisted 19.2.0, Python 3.7.3 (default, Mar 27 2019, 17:13:21) [MSC v.1915 64 bit (AMD64)], pyOpenSSL 19.0.0 (OpenSSL 1.1.1b  26 Feb 2019), cryptography 2.6.1, Platform Windows-10-10.0.17134-SP0
+2019-08-20 12:07:45 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'baiduBaike', 'CONCURRENT_REQUESTS': 128, 'CONCURRENT_REQUESTS_PER_DOMAIN': 128, 'COOKIES_ENABLED': False, 'DEPTH_LIMIT': 1000, 'DOWNLOAD_TIMEOUT': 5, 'LOG_FILE': './2019-8-20-12-7.log', 'LOG_LEVEL': 'INFO', 'NEWSPIDER_MODULE': 'baiduBaike.spiders', 'RETRY_HTTP_CODES': [400, 403, 404, 407, 408, 429, 500, 501, 502, 503, 504, 509], 'RETRY_TIMES': 1000, 'SPIDER_MODULES': ['baiduBaike.spiders']}
+2019-08-20 12:07:45 [scrapy.extensions.telnet] INFO: Telnet Password: bb0acc9b28f05b88
+2019-08-20 12:07:45 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2019-08-20 12:07:55 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['baiduBaike.middlewares.RandomUserAgent',
+ 'baiduBaike.middlewares.ProxyMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'baiduBaike.middlewares.UpdateProxyMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2019-08-20 12:07:55 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2019-08-20 12:07:55 [scrapy.middleware] INFO: Enabled item pipelines:
+['baiduBaike.pipelines.BaidubaikePipeline']
+2019-08-20 12:07:55 [scrapy.core.engine] INFO: Spider opened
+2019-08-20 12:07:55 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2019-08-20 12:07:55 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6024
+2019-08-20 12:08:55 [scrapy.extensions.logstats] INFO: Crawled 2 pages (at 2 pages/min), scraped 1 items (at 1 items/min)
+2019-08-20 12:09:55 [scrapy.extensions.logstats] INFO: Crawled 25 pages (at 23 pages/min), scraped 21 items (at 20 items/min)
+2019-08-20 12:10:55 [scrapy.extensions.logstats] INFO: Crawled 69 pages (at 44 pages/min), scraped 58 items (at 37 items/min)
+2019-08-20 12:11:55 [scrapy.extensions.logstats] INFO: Crawled 113 pages (at 44 pages/min), scraped 86 items (at 28 items/min)
+2019-08-20 12:13:01 [scrapy.extensions.logstats] INFO: Crawled 187 pages (at 74 pages/min), scraped 143 items (at 57 items/min)
+2019-08-20 12:14:04 [scrapy.extensions.logstats] INFO: Crawled 256 pages (at 69 pages/min), scraped 199 items (at 56 items/min)
+2019-08-20 12:14:39 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2019-08-20 12:14:39 [scrapy.core.engine] INFO: Closing spider (shutdown)
+2019-08-20 12:14:39 [scrapy.crawler] INFO: Received SIGINT twice, forcing unclean shutdown
+2019-08-20 12:14:39 [scrapy.core.downloader.handlers.http11] WARNING: Got data loss in https://baike.baidu.com/item/%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4/93247. If you want to process broken responses set the setting DOWNLOAD_FAIL_ON_DATALOSS = False -- This message won't be shown in further requests
+2019-08-20 12:14:39 [scrapy.core.downloader.handlers.http11] WARNING: Got data loss in http://baike.baidu.com/item/%E8%82%A1%E6%9D%83%E5%88%86%E7%BD%AE. If you want to process broken responses set the setting DOWNLOAD_FAIL_ON_DATALOSS = False -- This message won't be shown in further requests
+2019-08-20 12:14:39 [scrapy.core.downloader.handlers.http11] WARNING: Got data loss in https://baike.baidu.com/item/%E5%82%AC%E7%9C%A0%E6%9C%AF/52782. If you want to process broken responses set the setting DOWNLOAD_FAIL_ON_DATALOSS = False -- This message won't be shown in further requests

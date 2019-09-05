@@ -1,0 +1,715 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E8%81%8A%E6%96%8B%E5%9F%8E" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>聊斋城</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1440155" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">聊斋城是<a data-lemmaid="1026788" href="/item/%E6%B7%84%E5%B7%9D/1026788" target="_blank">淄川</a><a data-lemmaid="3520664" href="/item/%E8%92%B2%E5%AE%B6%E5%BA%84/3520664" target="_blank">蒲家庄</a>投资兴建的。是以园林为表现形式，以聊斋故事为主题的组群式的大型名园景区，它位于山东省淄博市<a data-lemmaid="3489167" href="/item/%E6%B7%84%E5%B7%9D%E5%8C%BA%E6%B4%AA%E5%B1%B1%E9%95%87/3489167" target="_blank">淄川区洪山镇</a>蒲家庄。这里是世界短篇小说之王蒲松龄的故里，属<a data-lemmaid="7574615" href="/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA/7574615" target="_blank">国家AAAA级旅游景区</a>，山东省五大旅游景区之一。</div><div class="para" label-module="para">蒲翁后人为适应旅游市场的发展要求，组建了淄博聊斋旅游发展有限公司。他们以弘扬蒲文化为己任，不断加大聊斋文化旅游资源的开发力度，已形成柳泉、聊斋宫、<a data-lemmaid="8698355" href="/item/%E7%8B%90%E4%BB%99%E5%9B%AD/8698355" target="_blank">狐仙园</a>、石隐园、<a data-lemmaid="8698340" href="/item/%E6%BB%A1%E4%BA%95%E5%AF%BA/8698340" target="_blank">满井寺</a>、俚曲茶座、墓园等旅游景点，使聊斋城的建设初具规模。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名称</dt>
+<dd class="basicInfo-item value">
+聊斋城
+</dd>
+<dt class="basicInfo-item name">外文名称</dt>
+<dd class="basicInfo-item value">
+Liao Zhai City
+</dd>
+<dt class="basicInfo-item name">地理位置</dt>
+<dd class="basicInfo-item value">
+山东省淄博市淄川区洪山镇蒲家庄
+</dd>
+<dt class="basicInfo-item name">气候类型</dt>
+<dd class="basicInfo-item value">
+<a data-lemmaid="1130873" href="/item/%E6%B8%A9%E5%B8%A6%E5%AD%A3%E9%A3%8E%E6%B0%94%E5%80%99/1130873" target="_blank">温带季风气候</a>
+</dd>
+<dt class="basicInfo-item name">开放时间</dt>
+<dd class="basicInfo-item value">
+夏季：7：30—18：00； 冬季：8：00—17：00
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">景点级别</dt>
+<dd class="basicInfo-item value">
+<a data-lemmaid="7574615" href="/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA/7574615" target="_blank">国家AAAA级旅游景区</a>
+</dd>
+<dt class="basicInfo-item name">门票价格</dt>
+<dd class="basicInfo-item value">
+80元
+</dd>
+<dt class="basicInfo-item name">著名景点</dt>
+<dd class="basicInfo-item value">
+柳泉、聊斋宫、狐仙园
+</dd>
+<dt class="basicInfo-item name">所属国家</dt>
+<dd class="basicInfo-item value">
+中国
+</dd>
+<dt class="basicInfo-item name">所属城市</dt>
+<dd class="basicInfo-item value">
+山东省淄博市<a data-lemmaid="3489167" href="/item//3489167" target="_blank"></a>
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">建筑特点</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">主要景点</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">石隐园</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">柳泉位</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_3">蒲氏墓园</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_4">聊斋宫</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_5">宦娘琴缘</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_6">蒲松龄纪念馆</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">聊斋志异</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">旅游信息</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_1">旅游活动</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_2">特色景观</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_3">开放时间</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_4">推荐线路</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_5">交通信息</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_6">票价信息</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">相邻景点</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub79706_1"></a>
+<a class="lemma-anchor" name="建筑特点"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">聊斋城</span>建筑特点</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">聊斋城是<a data-lemmaid="3520664" href="/item/%E8%92%B2%E5%AE%B6%E5%BA%84/3520664" target="_blank">蒲家庄</a>村民在<a href="/item/%E6%9F%B3%E6%B3%89" target="_blank">柳泉</a>、<a data-lemmaid="5045046" href="/item/%E8%92%B2%E6%9D%BE%E9%BE%84%E5%A2%93/5045046" target="_blank">蒲松龄墓</a>等历史人文景观基础上开发建设的大型园林式景区，是全市首批国家AAA旅游级景区，江北民俗风情旅游胜地，山东省著名旅游景区。主要景点有：<a data-lemmaid="8698355" href="/item/%E7%8B%90%E4%BB%99%E5%9B%AD/8698355" target="_blank">狐仙园</a>为北方园林式古典建筑，园内拱桥荷塘、假山石景、碑廊<a data-lemmaid="5977006" href="/item/%E4%BA%AD%E6%A6%AD/5977006" target="_blank">亭榭</a>景观各异。碑廊内有精心刻制的<a href="/item/%E7%8E%8B%E6%B8%94%E6%B4%8B" target="_blank">王渔洋</a>先生和蒲松龄先生的唱酬诗。</div>
+<div class="para" label-module="para">整个聊斋城占地1000亩，投资1.6亿元，现已形成体现蒲文化、聊斋文化特点的江北文化园林。漫步聊斋城，避开都市闹城的喧嚣，尽情体现一代文豪蒲松龄笔下所描绘的狐鬼仙妖世界。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub79706_2"></a>
+<a class="lemma-anchor" name="主要景点"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">聊斋城</span>主要景点</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_1"></a>
+<a class="lemma-anchor" name="sub79706_2_1"></a>
+<a class="lemma-anchor" name="石隐园"></a>
+<a class="lemma-anchor" name="2-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>石隐园</h3>
+</div>
+<div class="para" label-module="para">石隐园原为西铺村毕氏花园，蒲松龄先生当年在此设馆从事教学，写下了大量有关石隐园景色的诗词佳作以及诸多聊斋名篇。园内建有万笏山、远心亭、霞绮轩、丈人石、同春堂等景观。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_2"></a>
+<a class="lemma-anchor" name="sub79706_2_2"></a>
+<a class="lemma-anchor" name="柳泉位"></a>
+<a class="lemma-anchor" name="2-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>柳泉位</h3>
+</div>
+<div class="para" label-module="para">柳泉位于<a data-lemmaid="6119873" href="/item/%E8%92%B2%E5%AE%B6%E5%BA%84%E6%9D%91/6119873" target="_blank">蒲家庄村</a>东沟底，原名<a data-lemmaid="303332" href="/item/%E6%BB%A1%E4%BA%95/303332" target="_blank">满井</a>，井水常满常溢，故<div class="lemma-picture text-pic layout-right" style="width:166px; float: right;">
+<a class="image-link" href="/pic/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155/0/e6508eef41c498fcce1b3e32?fr=lemma&amp;ct=single" nslog-type="9317" style="width:166px;height:220px;" target="_blank" title="聊斋城">
+<img alt="聊斋城" class="lazy-img" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=c51d811a6b63f624185d3e01b744eb32/caef76094b36acaf19df9cdf7cd98d1001e99cd1.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:166px;height:220px;"/>
+</a>
+<span class="description">
+聊斋城
+</span>
+</div>名。又因四周植柳百株，有柳有泉，又称柳泉。当年，这里是青州府通济<a data-lemmaid="6850273" href="/item/%E5%8D%97%E5%BA%9C/6850273" target="_blank">南府</a>的交通要道，路人熙熙攘攘。传说蒲松龄曾在泉边茅亭下设茶摆烟，每逢路人经过，便邀其休息，请其谈狐说鬼，借以搜集素材，创作《聊斋志异》 。蒲松龄非常喜欢柳泉，自号"柳泉居士"，并刻了一枚柳泉肖形图章。在他撰写的《募建龙王庙序》碑文中，称此泉"水清以冽，味甘以芳，酿增酒旨，瀹增茗香，并称“予蓬莱不易也”。如今的柳泉，虽没有了当日喷涌而出的泉水，但茅亭俨然，垂柳依依，仍依稀可见当年的胜景。泉边还新立了由<a data-lemmaid="5443205" href="/item/%E6%B2%88%E9%9B%81%E5%86%B0/5443205" target="_blank">沈雁冰</a>先生手书的“柳泉”碑一座，成为园内主要胜景，游人慕名必至之处。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_3"></a>
+<a class="lemma-anchor" name="sub79706_2_3"></a>
+<a class="lemma-anchor" name="蒲氏墓园"></a>
+<a class="lemma-anchor" name="2-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>蒲氏墓园</h3>
+</div>
+<div class="para" label-module="para">蒲氏墓园位于<a data-lemmaid="6119873" href="/item/%E8%92%B2%E5%AE%B6%E5%BA%84%E6%9D%91/6119873" target="_blank">蒲家庄村</a>东一里许，占地5亩，内有古墓30多个，古柏30多株。蒲松龄墓在墓园的西北角，是他与夫人刘孺人的合葬墓，墓前建有碑楼，清代名士张之撰写的“柳泉蒲先生墓表”，碑前有沈雁冰亲书“蒲松龄<a data-lemmaid="5486262" href="/item/%E6%9F%B3%E6%B3%89%E5%85%88%E7%94%9F/5486262" target="_blank">柳泉先生</a>之墓”九个大字。还有蒲松龄父蒲磐、长孙蒲立德之墓，并立有蒲氏远祖之代般阳路总管蒲鲁浑、蒲璋碑。<a data-lemmaid="3517762" href="/item/%E8%81%8A%E6%96%8B%E4%BF%9A%E6%9B%B2/3517762" target="_blank">聊斋俚曲</a>茶座是供游人品茶、休息、欣赏聊斋<a href="/item/%E4%BF%9A%E6%9B%B2" target="_blank">俚曲</a>、观看聊斋故事片的休息、娱乐场所。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_4"></a>
+<a class="lemma-anchor" name="sub79706_2_4"></a>
+<a class="lemma-anchor" name="聊斋宫"></a>
+<a class="lemma-anchor" name="2-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>聊斋宫</h3>
+</div>
+<div class="para" label-module="para">聊斋宫是聊斋城内的主要景点，占地31亩，高33米<div class="lemma-picture text-pic layout-right" style="width:195px; float: right;">
+<a class="image-link" href="/pic/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155/0/29752a9b1eb57889c8eaf46f?fr=lemma&amp;ct=single" nslog-type="9317" style="width:195px;height:220px;" target="_blank" title="聊斋城">
+<img alt="聊斋城" class="lazy-img" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=c73a69d12e738bd4c021b533918a876c/91529822720e0cf3ca4458f70a46f21fbe09aa0e.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:195px;height:220px;"/>
+</a>
+<span class="description">
+聊斋城
+<sup>[1]</sup>
+<a name="ref_[1]_"></a>
+</span>
+</div>，建筑面积2000平方米。建有碧湖、青山、曲桥、喷泉、<a data-lemmaid="26017" href="/item/%E7%89%8C%E5%9D%8A/26017" target="_blank">牌坊</a>、亭阁等景点，宫内采用现代<a href="/item/%E5%BD%A9%E5%A1%91" target="_blank">彩塑</a>，用高科技手法再现了《聊斋志异》中的故事。</div>
+<div class="para" label-module="para">满井寺是在原址上复建的，占地15亩，建筑面积1068平方米。寺庙以双重斗拱牌坊为入寺山门，建有天王殿、大雄宝殿、<a data-lemmaid="4338360" href="/item/%E4%B8%89%E5%9C%A3%E6%AE%BF/4338360" target="_blank">三圣殿</a>、钟楼、素斋房、养生地等殿堂，还有禅塔两座、神佛百余尊。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_5"></a>
+<a class="lemma-anchor" name="sub79706_2_5"></a>
+<a class="lemma-anchor" name="宦娘琴缘"></a>
+<a class="lemma-anchor" name="2-5"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>宦娘琴缘</h3>
+</div>
+<div class="para" label-module="para"><a data-lemmaid="82531" href="/item/%E5%AE%A6%E5%A8%98/82531" target="_blank">宦娘</a>琴缘建于2002年10月，占地12亩，建筑面积600平方米，西邻聊斋宫，以琴、缘、情为主题，设有道观学琴、雨夜琴声、喜结良缘、宦娘琴台等4个景点，此外，景区每年还举办国际聊斋文化艺术节、聊斋文化艺术品博览会、<a data-lemmaid="3517762" href="/item/%E8%81%8A%E6%96%8B%E4%BF%9A%E6%9B%B2/3517762" target="_blank">聊斋俚曲</a>大奖赛、聊斋民间故事演讲大赛、聊斋民间艺术灯会等活动，使景区在变中求新，新中求特，年吸引游客达60多万人次。同年还建成了容纳1.5万人的聊斋演艺广场，不同的演出活动，将民俗、乡情展现的淋漓尽致，别具风韵。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_6"></a>
+<a class="lemma-anchor" name="sub79706_2_6"></a>
+<a class="lemma-anchor" name="蒲松龄纪念馆"></a>
+<a class="lemma-anchor" name="2-6"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>蒲松龄纪念馆</h3>
+</div>
+<div class="para" label-module="para">聊斋城旅游景区内的<a data-lemmaid="3403507" href="/item/%E8%92%B2%E6%9D%BE%E9%BE%84%E7%BA%AA%E5%BF%B5%E9%A6%86/3403507" target="_blank">蒲松龄纪念馆</a>，较为完整地保留了蒲松龄当年居住的原貌。故居为典型的北方农村院落，<a href="/item/%E9%83%AD%E6%B2%AB%E8%8B%A5" target="_blank">郭沫若</a>题写的“<a data-lemmaid="418153" href="/item/%E8%92%B2%E6%9D%BE%E9%BE%84%E6%95%85%E5%B1%85/418153" target="_blank">蒲松龄故居</a>”的金字门匾，高悬故居大门。院内有蒲翁当年著书的聊斋、蒲翁生平展室、蒲翁十分钟爱的文石展厅和当代文人<a href="/item/%E9%AA%9A%E5%AE%A2" target="_blank">骚客</a>的书画展厅。柳泉，又名“满井”，为当年蒲翁设茶采风之<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155/0/95afee1f64b80ec9e1fe0b6a?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:144px;" target="_blank" title="聊斋城">
+<img alt="聊斋城" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=89bb4365252dd42a5b0906a9333a5b2f/b90e7bec54e736d171bf9a049b504fc2d5626909.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:144px;"/>
+</a>
+<span class="description">
+聊斋城
+</span>
+</div>地。现立有<a data-lemmaid="5443205" href="/item/%E6%B2%88%E9%9B%81%E5%86%B0/5443205" target="_blank">沈雁冰</a>题写的“柳泉”石碑。青石砌就的泉口，泉水四溢，令游人流连忘返。蒲松龄除《<a href="/item/%E8%81%8A%E6%96%8B%E5%BF%97%E5%BC%82" target="_blank">聊斋志异</a>》外，还创作了上千首俚曲作品，俚曲茶座正是演唱观赏俚曲的上佳去处。游客驻足品茶，听上几段俚曲，自是一种难得的享受。<a data-lemmaid="8698355" href="/item/%E7%8B%90%E4%BB%99%E5%9B%AD/8698355" target="_blank">狐仙园</a>以聊斋故事为主体设计建造，内设蒲松龄生平及著作、蒲公开铺设馆生涯、名人书画等展室。石隐园原系毕氏花园，蒲公设馆毕府30年，写下了大量有关石隐园的诗词佳篇。园内怪石林立，绿树成荫。此园移到蒲翁故里，再现了蒲公舌耕笔耘的生活经历。满井寺为古寺重建，以双重门拱<a data-lemmaid="26017" href="/item/%E7%89%8C%E5%9D%8A/26017" target="_blank">牌坊</a>为入寺山门，内有天王殿、大雄宝殿、<a data-lemmaid="4338360" href="/item/%E4%B8%89%E5%9C%A3%E6%AE%BF/4338360" target="_blank">三圣殿</a>、<a data-lemmaid="2799993" href="/item/%E9%92%9F%E6%A5%BC/2799993" target="_blank">钟楼</a>等建筑。聊斋宫外景似琼楼横空，碧湖青山，如天上宫阙。宫内采用彩塑、<a data-lemmaid="398987" href="/item/%E7%94%B5%E5%BD%B1%E7%89%B9%E6%8A%80/398987" target="_blank">电影特技</a>、灯光声乐等表现手段，艺术地再现了蒲翁笔下神妖鬼狐的艺术形象。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub79706_3"></a>
+<a class="lemma-anchor" name="聊斋志异"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">聊斋城</span>聊斋志异</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">《聊斋志异》，清代短篇小说集，是<a data-lemmaid="28998" href="/item/%E8%92%B2%E6%9D%BE%E9%BE%84/28998" target="_blank">蒲松龄</a>的代表作，在他40岁左右时基本完成，此后不断有所增补和修<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155/0/f76575601dbca478eaf8f868?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:137px;" target="_blank" title="聊斋城">
+<img alt="聊斋城" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=9b0d9a3d4a90f60300b09b450913b370/503d269759ee3d6d447491c743166d224f4ade0f.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:137px;"/>
+</a>
+<span class="description">
+聊斋城
+</span>
+</div>改。“聊斋”是他的书屋名称，“志”是记述的意思，“异”指奇异的故事。全书有短篇小说491篇。题材非常广泛，内容极其丰富。多数作品通过谈狐说鬼的手法，对当时社会的腐败、黑暗进行了有力批判，在一定程度上揭露了社会矛盾，表达了人民的愿望。但其中也夹杂着一些封建伦理观念和因果报应的<a href="/item/%E5%AE%BF%E5%91%BD%E8%AE%BA" target="_blank">宿命论</a>思想。《聊斋志异》的艺术成就很高。它成功的塑造了众多的艺术典型，人物形象鲜明生动，故事情节曲折离奇，结构布局严谨巧妙，文笔简练，描写细腻，堪称中国古典短篇小说之巅峰。</div>
+<div class="para" label-module="para">据说作者蒲松龄在写这部《聊斋志异》时,专门在家门口开了一家<a data-lemmaid="32287" href="/item/%E8%8C%B6%E9%A6%86/32287" target="_blank">茶馆</a>,请喝茶的人给他讲故事,讲过后可不付茶钱.听完之后再作修改写到书里面<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155/0/5d212aa83b4dae8dca130c6b?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:151px;" target="_blank" title="聊斋城">
+<img alt="聊斋城" class="lazy-img" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=3e27ead615ce36d3a60484320af23a24/4ec2d5628535e5dd8283b3d376c6a7efce1b620a.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:151px;"/>
+</a>
+<span class="description">
+聊斋城
+</span>
+</div>去。</div>
+<div class="para" label-module="para">《聊斋志异》，是一部文言文短篇小说集。有传奇、志怪、轶事等，诸体兼备，为中国文言小说集大成之作。内容十分广泛，多谈狐、魔、花、妖，以此来概括当时的<a data-lemmaid="6543215" href="/item/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/6543215" target="_blank">社会关系</a>，反映了17世纪中国的社会面貌。书中写的是一个花妖鬼狐的世界，既有对如漆墨黑的社会现实的不满，又有对怀才不遇、仕途难攀的不平；既有对贪宫污吏狼狈为奸的鞭笞，又有对勇于反抗，敢于复仇的平民的称赞；而数量最多、质量上乘、写得最美最动人的是那些人与狐妖、人与鬼神以及人与人之间的纯真爱情的篇章。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub79706_4"></a>
+<a class="lemma-anchor" name="旅游信息"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">聊斋城</span>旅游信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_1"></a>
+<a class="lemma-anchor" name="sub79706_4_1"></a>
+<a class="lemma-anchor" name="旅游活动"></a>
+<a class="lemma-anchor" name="4-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>旅游活动</h3>
+</div>
+<div class="para" label-module="para">：1、聊斋民间艺术灯会（正月初八至正月十八日）；<div class="lemma-picture text-pic layout-right" style="width:200px; float: right;">
+<a class="image-link" href="/pic/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155/0/d1e312f4298a8eae7609d7cd?fr=lemma&amp;ct=single" nslog-type="9317" style="width:200px;height:130px;" target="_blank" title="">
+<img alt="" class="lazy-img" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=7b002791f703918fd3d13ac8613d264b/d439b6003af33a87f177706bc65c10385343b5ac.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:200px;height:130px;"/>
+</a>
+</div>2、聊斋文化旅游节（4月29日至5月8日）；</div>
+<div class="para" label-module="para">3、聊斋文化艺术品博览会（9月28日至10月8日）；</div>
+<div class="para" label-module="para">4、中国<a data-lemmaid="12761953" href="/item/%E6%B7%84%E5%8D%9A%E5%9B%BD%E9%99%85%E8%81%8A%E6%96%8B%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E8%8A%82/12761953" target="_blank">淄博国际聊斋文化旅游节</a>（每年5月1日—7日）</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_2"></a>
+<a class="lemma-anchor" name="sub79706_4_2"></a>
+<a class="lemma-anchor" name="特色景观"></a>
+<a class="lemma-anchor" name="4-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>特色景观</h3>
+</div>
+<div class="para" label-module="para">聊斋宫、<a data-lemmaid="8698355" href="/item/%E7%8B%90%E4%BB%99%E5%9B%AD/8698355" target="_blank">狐仙园</a>、石隐园。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_3"></a>
+<a class="lemma-anchor" name="sub79706_4_3"></a>
+<a class="lemma-anchor" name="开放时间"></a>
+<a class="lemma-anchor" name="4-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>开放时间</h3>
+</div>
+<div class="para" label-module="para">夏季：7：30—18：00； 冬季：8：00—17：00</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_4"></a>
+<a class="lemma-anchor" name="sub79706_4_4"></a>
+<a class="lemma-anchor" name="推荐线路"></a>
+<a class="lemma-anchor" name="4-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>推荐线路</h3>
+</div>
+<div class="para" label-module="para">蒲松龄艺术馆――<a data-lemmaid="8698355" href="/item/%E7%8B%90%E4%BB%99%E5%9B%AD/8698355" target="_blank">狐仙园</a>――石隐园――柳泉山庄――<a data-lemmaid="82531" href="/item/%E5%AE%A6%E5%A8%98/82531" target="_blank">宦娘</a>――宦娘琴缘――聊斋宫――牡丹园――俚曲茶座――百子嬉乐园――满井寺――柳泉――柳泉古道</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_5"></a>
+<a class="lemma-anchor" name="sub79706_4_5"></a>
+<a class="lemma-anchor" name="交通信息"></a>
+<a class="lemma-anchor" name="4-5"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>交通信息</h3>
+</div>
+<div class="para" label-module="para">距机场距离约:80公里 距机场车程时间约:90分钟;</div>
+<div class="para" label-module="para">距火车站距离约:22公里 距火车站车程时间约:30分钟;</div>
+<div class="para" label-module="para">距汽车站距离约:5公里 距汽车站车程时间约:10分钟;</div>
+<div class="para" label-module="para">距青岛码头200公里</div>
+<div class="para" label-module="para">距<a data-lemmaid="4771954" href="/item/%E6%B7%84%E5%B7%9D%E7%81%AB%E8%BD%A6%E7%AB%99/4771954" target="_blank">淄川火车站</a>3公里</div>
+<div class="para" label-module="para">自驾：</div>
+<div class="para" label-module="para">1.滨博高速淄川路口下——胶王路——鲁泰文化路——松龄东路——<a data-lemmaid="2841782" href="/item/%E6%B9%96%E5%8D%97%E8%B7%AF/2841782" target="_blank">湖南路</a>聊斋段—景区。</div>
+<div class="para" label-module="para">2.<a data-lemmaid="851820" href="/item/%E5%BC%A0%E5%BA%97/851820" target="_blank">张店</a>沿<a data-lemmaid="7351565" href="/item/%E5%BC%A0%E5%8D%9A%E8%B7%AF/7351565" target="_blank">张博路</a>到淄川——松龄东路——湖南路聊斋段——景区。</div>
+<div class="para" label-module="para">公交: 可在淄博汽车站乘1路公交车到淄川车站，转乘23路短途车在<a data-lemmaid="3520664" href="/item/%E8%92%B2%E5%AE%B6%E5%BA%84/3520664" target="_blank">蒲家庄</a>下车即是</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_6"></a>
+<a class="lemma-anchor" name="sub79706_4_6"></a>
+<a class="lemma-anchor" name="票价信息"></a>
+<a class="lemma-anchor" name="4-6"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">聊斋城</span>票价信息</h3>
+</div>
+<div class="para" label-module="para"><a data-lemmaid="418153" href="/item/%E8%92%B2%E6%9D%BE%E9%BE%84%E6%95%85%E5%B1%85/418153" target="_blank">蒲松龄故居</a>40元/人</div>
+<div class="para" label-module="para">门票说明：大学生、老年人（60岁以上）、特困职工、现役军人持有效证件20元/人次；中小学生参观凭证10元/人。</div>
+<div class="para" label-module="para">聊斋城 80元一人</div>
+<div class="para" label-module="para">景区门票可持银行卡刷卡购买。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub79706_5"></a>
+<a class="lemma-anchor" name="相邻景点"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">聊斋城</span>相邻景点</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a href="/item/%E9%9D%92%E5%B2%9B%E5%A4%A9%E5%90%8E%E5%AE%AB" target="_blank">青岛天后宫</a></div>
+<div class="para" label-module="para"><a href="/item/%E9%9D%92%E5%B2%9B%E6%B5%B7%E5%BA%95%E4%B8%96%E7%95%8C" target="_blank">青岛海底世界</a><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155/0/08b68e529eb651320df3e375?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:149px;" target="_blank" title="聊斋城">
+<img alt="聊斋城" class="lazy-img" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=f1a28cff79310a55c024d9f687444387/f3d3572c11dfa9ec8c87401b62d0f703918fc114.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:149px;"/>
+</a>
+<span class="description">
+聊斋城
+</span>
+</div><a href="/item/%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%8D%9A%E7%89%A9%E9%A6%86" target="_blank">青岛啤酒博物馆</a></div>
+<div class="para" label-module="para">胶南市大珠山风景区</div>
+<div class="para" label-module="para"><a href="/item/%E9%9D%92%E5%B2%9B%E7%90%85%E7%90%8A%E5%8F%B0%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C%E5%8C%BA" target="_blank">青岛琅琊台风景名胜区</a></div>
+<div class="para" label-module="para"><a href="/item/%E6%A2%A6%E6%B3%89%E7%94%9F%E6%80%81%E6%97%85%E6%B8%B8%E5%8C%BA" target="_blank">梦泉生态旅游区</a></div>
+<div class="para" label-module="para"><a href="/item/%E6%B7%84%E5%8D%9A%E4%B8%AD%E5%9B%BD%E9%99%B6%E7%93%B7%E9%A6%86" target="_blank">淄博中国陶瓷馆</a></div>
+<div class="para" label-module="para"><a href="/item/%E6%A8%B5%E5%B2%AD%E5%89%8D%E9%A3%8E%E6%99%AF%E5%8C%BA" target="_blank">樵岭前风景区</a></div>
+<div class="para" label-module="para"><a href="/item/%E5%8E%9F%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD" target="_blank">原山国家森林公园</a></div>
+<div class="para" label-module="para"><a href="/item/%E9%B2%81%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD" target="_blank">鲁山国家森林公园</a></div>
+<div class="para" label-module="para"><a href="/item/%E5%91%A8%E6%9D%91%E5%8F%A4%E5%95%86%E5%9F%8E" target="_blank">周村古商城</a></div>
+<div class="para" label-module="para"><a href="/item/%E9%BE%9F%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA" target="_blank">龟山风景区</a></div>
+<div class="para" label-module="para"><a href="/item/%E7%94%98%E6%B3%89%E7%A6%85%E5%AF%BA" target="_blank">甘泉禅寺</a></div>
+<div class="para" label-module="para"><a href="/item/%E5%8F%B0%E5%84%BF%E5%BA%84%E6%88%98%E5%8F%B2%E9%99%88%E5%88%97%E9%A6%86" target="_blank">台儿庄战史陈列馆</a></div>
+<div class="para" label-module="para"><a href="/item/%E7%86%8A%E8%80%B3%E5%B1%B1%E5%9B%BD%E5%AE%B6%E5%9C%B0%E8%B4%A8%E5%85%AC%E5%9B%AD" target="_blank">熊耳山国家地质公园</a></div>
+<div class="para" label-module="para"><a href="/item/%E6%8A%B1%E7%8A%8A%E5%B4%AE%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD" target="_blank">抱犊崮国家森林公园</a></div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-79706-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_79706" id="refIndex_1_79706" name="refIndex_1_79706" title="向上跳转">  </a>
+<a class="text" href="/reference/1440155/7504x_y9HfV2RkHUdv47P8pDPVUaIZQ1EjlWCG4k4QRe0gQUHPAht3fWHbLa40-ZdNyGszD6mURCp0QCjsSOu6w-gaWBPgW9nyVvg2e3JzC-sW3EoUrhXaGURFOKiXaQytPPGW4XBvv4hQ" rel="nofollow" target="_blank"> 淄博打造聊斋城 蒲翁故里话说"新聊斋"<span class="linkout"> </span></a>
+<span class="site">．鲁网</span><span>．2013-11-13</span><span>[引用日期2016-04-22]</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+景观景点
+</span>
+，<span class="taglist">
+城市
+</span>
+，<span class="taglist">
+地理
+</span>
+，<span class="taglist">
+地点
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155/0/c8ea15ce36d3d539daefdaf23487e950352ab035?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=b8d06795aac27d1ea5263cc223eeca53/c8ea15ce36d3d539daefdaf23487e950352ab035.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>聊斋城图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1440155" data-lemmatitle="聊斋城"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1440155" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：26次<a class="nslog:1021" href="/historylist/%E8%81%8A%E6%96%8B%E5%9F%8E/1440155" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="527091138" href="/usercenter/userpage?uname=fyz%E6%90%B5%E7%AC%BA%E4%B8%B4%E5%B5%A9&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">fyz搵笺临嵩</a><a class="contribute-flag-container" href="https://baike.baidu.com/kedou" target="_blank" title="百科蝌蚪团">
+<img alt="" class="contribute-flag-icon" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-1_c1b820f.png"/>
+</a>
+<span class="j-modified-time" style="display:none">（2019-07-26）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="6485952" href="/usercenter/userpage?uname=%E4%BB%8E%E8%BF%9C%E5%A4%84%E8%B5%B0%E6%9D%A5&amp;from=lemma" target="_blank" title="查看此用户资料" username="从远处走来">从远处走来</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">建筑特点</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">主要景点</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_1">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">石隐园</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_2">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">柳泉位</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_3">
+<span class="text">
+<span class="title-index">2.3</span>
+<span class="title-link" nslog-type="10002802">蒲氏墓园</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_4">
+<span class="text">
+<span class="title-index">2.4</span>
+<span class="title-link" nslog-type="10002802">聊斋宫</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_5">
+<span class="text">
+<span class="title-index">2.5</span>
+<span class="title-link" nslog-type="10002802">宦娘琴缘</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_6">
+<span class="text">
+<span class="title-index">2.6</span>
+<span class="title-link" nslog-type="10002802">蒲松龄纪念馆</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">聊斋志异</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">旅游信息</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_1">
+<span class="text">
+<span class="title-index">4.1</span>
+<span class="title-link" nslog-type="10002802">旅游活动</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_2">
+<span class="text">
+<span class="title-index">4.2</span>
+<span class="title-link" nslog-type="10002802">特色景观</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_3">
+<span class="text">
+<span class="title-index">4.3</span>
+<span class="title-link" nslog-type="10002802">开放时间</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_4">
+<span class="text">
+<span class="title-index">4.4</span>
+<span class="title-link" nslog-type="10002802">推荐线路</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_5">
+<span class="text">
+<span class="title-index">4.5</span>
+<span class="title-link" nslog-type="10002802">交通信息</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_6">
+<span class="text">
+<span class="title-index">4.6</span>
+<span class="title-link" nslog-type="10002802">票价信息</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">相邻景点</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

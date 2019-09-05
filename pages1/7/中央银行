@@ -1,0 +1,1488 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1>中央银行</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="/view/10812319.htm" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">中央银行（Central Bank）<a data-lemmaid="17205" href="/item/%E5%9B%BD%E5%AE%B6/17205" target="_blank">国家</a>中居主导地位的<a data-lemmaid="860" href="/item/%E9%87%91%E8%9E%8D/860" target="_blank">金融</a>中心机构，是国家干预和调控国民经济发展的重要工具。负责制定并执行国家<a data-lemmaid="22567202" href="/item/%E8%B4%A7%E5%B8%81%E4%BF%A1%E7%94%A8/22567202" target="_blank">货币信用</a>政策，独具货币发行权，实行<a data-lemmaid="1021201" href="/item/%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1/1021201" target="_blank">金融监管</a>。</div><div class="para" label-module="para"><a data-lemmaid="22516505" href="/item/%E4%B8%AD%E5%9B%BD/22516505" target="_blank">中国</a>的中央银行为<a data-lemmaid="418386" href="/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C/418386" target="_blank">中国人民银行</a>，简称央行。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+中央银行
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Central Bank
+</dd>
+<dt class="basicInfo-item name">性    质</dt>
+<dd class="basicInfo-item value">
+特殊的金融组织机构
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">地    位</dt>
+<dd class="basicInfo-item value">
+最高<a data-lemmaid="85299" href="/item/%E8%B4%A7%E5%B8%81/85299" target="_blank">货币</a>金融管理权，居主导地位
+</dd>
+<dt class="basicInfo-item name">产    生</dt>
+<dd class="basicInfo-item value">
+于17世纪后叶
+</dd>
+<dt class="basicInfo-item name">简    称</dt>
+<dd class="basicInfo-item value">
+央行
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-4">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">中国中央银行</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_1">起源</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_2">发展</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_3">完善</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_4">革新</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">产生背景</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">国家意志</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">客观要求</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">主要职能</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">发行的银行</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">银行的银行</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_3">政府的银行</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_4">职能变化</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_5">服务职能</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_6">调控职能</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">主要类型</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_1">单一型</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_2">复合型</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_3">准中央银行</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_4">跨国型</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">主要业务</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_1">支付清算</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_2">投放抵押</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_3">黄金净买</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_4">跨境贷款</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_5">数字货币</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">实践与思考</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">7</span>
+<span class="text"><a href="#7">世界各地央行</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#7_1">亚洲</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#7_2">欧洲</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#7_3">非洲</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#7_4">北美洲</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#7_5">南美洲</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#7_6">大洋洲</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub79768_1"></a>
+<a class="lemma-anchor" name="中国中央银行"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">中央银行</span>中国中央银行</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_1"></a>
+<a class="lemma-anchor" name="sub79768_1_1"></a>
+<a class="lemma-anchor" name="起源"></a>
+<a class="lemma-anchor" name="1-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>起源</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; text-indent: 2em; clear: both; margin-left: 0px; display: block; float: right;">
+<a class="image-link" href="/pic/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1441284/0/373bc4b4d2444c4a8ad4b240?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:164px;" target="_blank" title="大清户部银行旧址">
+<img alt="大清户部银行旧址" class="lazy-img" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=21bbaac5c3cec3fd8f3ea077e689d4b6/f636afc379310a552bb089fdb74543a982261026.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+大清户部银行旧址
+</span>
+</div></div>
+<div class="para" label-module="para"><a data-lemmaid="29274" href="/item/%E6%88%B7%E9%83%A8/29274" target="_blank">户部</a>银行。户部银行是清末官商合办的银行，1905年8月在<a data-lemmaid="128981" href="/item/%E5%8C%97%E4%BA%AC/128981" target="_blank">北京</a>开业，它是模仿西方国家中央银行而建立的我国最早的中央银行。</div>
+<div class="para" label-module="para">大清银行。1908年，户部银行改为大清银行。</div>
+<div class="para" label-module="para"><a data-lemmaid="5560" href="/item/%E8%BE%9B%E4%BA%A5%E9%9D%A9%E5%91%BD/5560" target="_blank"><b>辛亥革命</b></a><b>时期和<a data-lemmaid="1311509" href="/item/%E5%8C%97%E6%B4%8B%E6%94%BF%E5%BA%9C/1311509" target="_blank">北洋政府</a>时期中央银行</b></div>
+<div class="para" label-module="para"><a href="/item/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C" target="_blank">中国银行</a>。1911年的辛亥革命，促使大清王朝覆灭，大清银行改组为中国银行。</div>
+<div class="para" label-module="para"><a href="/item/%E4%BA%A4%E9%80%9A%E9%93%B6%E8%A1%8C" target="_blank">交通银行</a>。交通银行始建于1908年，成立之初，曾自我标榜为“纯属商业银行性质”。但事实上，它后来成了北洋政府的中央银行。1913年，交通银行取得了与<a data-lemmaid="245376" href="/item/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C/245376" target="_blank">中国银行</a>同等地位的发行权。1914年，交通银行改定章程，已经具备了中央银行的职能。</div>
+<div class="para" label-module="para">以上两行，共同作为北洋政府的中央银行。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_2"></a>
+<a class="lemma-anchor" name="sub79768_1_2"></a>
+<a class="lemma-anchor" name="发展"></a>
+<a class="lemma-anchor" name="1-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>发展</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:209px; display: inline; float: right;">
+<a class="image-link" href="/pic/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1441284/0/55a628d13b01e0019b5027cd?fr=lemma&amp;ct=single" nslog-type="9317" style="width:209px;height:220px;" target="_blank" title="台湾中央银行">
+<img alt="台湾中央银行" class="lazy-img" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=520c50ce9052982201333ec1e7ca7b3b/902397dda144ad344dadeb8ed0a20cf431ad85ac.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:209px;height:220px;"/>
+</a>
+<span class="description">
+台湾中央银行
+</span>
+</div><a data-lemmaid="68516" href="/item/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98/68516" target="_blank">第一次世界大战</a>后，各国政府为了保障战时财政需要，大量向中央银行借款，并且纷纷强迫中央银行停止或限制银行券兑换，从而造成战后经济混乱的局面，<a data-lemmaid="152246" href="/item/%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80/152246" target="_blank">通货膨胀</a>非常严重。</div>
+<div class="para" label-module="para">与此同时，由于前一阶段各国中央银行的创立和发展总结出了具体经验，这时候推动中央银行的成立也已经有了良好基础。所以总体来看，这个时期是中央银行发展历史上最快的阶段，中央银行职能也有了进一步扩大。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79768"> </a>
+</div>
+<div class="para" label-module="para"><b>孙中山创立的中央银行</b></div>
+<div class="para" label-module="para">1924年8月，<a data-lemmaid="128084" href="/item/%E5%AD%99%E4%B8%AD%E5%B1%B1/128084" target="_blank">孙中山</a>领导的<a data-lemmaid="4579325" href="/item/%E5%B9%BF%E4%B8%9C%E9%9D%A9%E5%91%BD%E6%94%BF%E5%BA%9C/4579325" target="_blank">广东革命政府</a>在广州创立中央银行。1926年7月，国府移迁<a data-lemmaid="106764" href="/item/%E6%AD%A6%E6%B1%89/106764" target="_blank">武汉</a>，同年12月在汉口设中央银行。原<a data-lemmaid="72101" href="/item/%E5%B9%BF%E5%B7%9E/72101" target="_blank">广州</a>的中央银行改组为广东省银行。1928年，汉口中央银行停业。</div>
+<div class="para" label-module="para"><b>国民党时期的中央银行</b></div>
+<div class="para" label-module="para">1928年11月1日，<a data-lemmaid="2206494" href="/item/%E5%8D%97%E4%BA%AC%E5%9B%BD%E6%B0%91%E6%94%BF%E5%BA%9C/2206494" target="_blank">南京国民政府</a>成立中央银行，总行设在当时全国的经济金融中心──<a data-lemmaid="114606" href="/item/%E4%B8%8A%E6%B5%B7/114606" target="_blank">上海</a>，在全国各地设有分支机构，法定中央银行为<a data-lemmaid="14459463" href="/item/%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C/14459463" target="_blank">国家银行</a>，行使中央银行职责。</div>
+<div class="para" label-module="para">1949年初随国民政府迁往广州。</div>
+<div class="para" label-module="para">1949年12月，中央银行随<a data-lemmaid="226551" href="/item/%E5%9B%BD%E6%B0%91%E5%85%9A/226551" target="_blank">国民党</a>政府撤往<a data-lemmaid="122340" href="/item/%E5%8F%B0%E6%B9%BE/122340" target="_blank">台湾</a>。<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_79768"> </a>
+</div>
+<div class="para" label-module="para"><b>革命根据地的中央银行</b></div>
+<div class="para" label-module="para">1927年大革命失败后，共产党在建立根据地以后，就成立了<a data-lemmaid="122241" href="/item/%E4%BA%BA%E6%B0%91/122241" target="_blank">人民</a>的银行，发行货币。如1927年冬，闽西上杭县蚊洋区农民协会创办了农民银行等。</div>
+<div class="para" label-module="para">1932年2月1日，苏维埃国家银行正式成立，苏维埃国家银行还在各地设分支机构，以带动根据地银行走向集中和统一。</div>
+<div class="para" label-module="para">1934年10月，苏维埃国家银行跟随红军长征转移，1935年11月，它改组为<a data-lemmaid="1703408" href="/item/%E4%B8%AD%E5%8D%8E%E8%8B%8F%E7%BB%B4%E5%9F%83%E5%85%B1%E5%92%8C%E5%9B%BD/1703408" target="_blank">中华苏维埃共和国</a>国家银行西北分行。同年10月，国家银行西北分行改组为陕甘宁边区银行，总行设在<a data-lemmaid="467501" href="/item/%E5%BB%B6%E5%AE%89/467501" target="_blank">延安</a>。</div>
+<div class="para" label-module="para">随着<a data-lemmaid="6066" href="/item/%E8%A7%A3%E6%94%BE%E6%88%98%E4%BA%89/6066" target="_blank">解放战争</a>的胜利，解放区迅速扩大并逐渐连成一片，整个金融事业趋于统一和稳定。1948年11月，成立<a data-lemmaid="418386" href="/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C/418386" target="_blank">中国人民银行</a>。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_3"></a>
+<a class="lemma-anchor" name="sub79768_1_3"></a>
+<a class="lemma-anchor" name="完善"></a>
+<a class="lemma-anchor" name="1-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>完善</h3>
+</div>
+<div class="para" label-module="para">一方面，各国纷纷对中央银行<div class="lemma-picture text-pic layout-right" style="width:180px; float: right;">
+<a class="image-link" href="/pic/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1441284/0/d8b8c92a5b49256ed42af1f0?fr=lemma&amp;ct=single" nslog-type="9317" style="width:180px;height:220px;" target="_blank" title="欧洲央行行长特里谢">
+<img alt="欧洲央行行长特里谢" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=880bb012f81986184547e8867aed2e69/6c224f4a20a4462332e790119822720e0cf3d797.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:180px;height:220px;"/>
+</a>
+<span class="description">
+欧洲央行行长特里谢
+</span>
+</div>进行国有化改造，直接接受国家控制与监督，任命中央银行负责人；另一方面，颁布专门法律来规范中央银行在贯彻执行货币政策、保持币值稳定方面的主要职责，强化宏观调控职能。与此同时，各国中央银行之间的交流与合作也更加频繁和紧密。<sup class="sup--normal" data-ctrmap=":3," data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_79768"> </a>
+</div>
+<div class="para" label-module="para">1948～1978年的中国人民银行。1948年12月1日，中国人民银行在石家庄正式宣告成立。1949年2月，中国人民银行总行随军迁入北京，以后按行政区设立分行、中心支行和支行（办事处），支行以下设营业所，基本上形成了全国统一的金融体系。</div>
+<div class="para" label-module="para">这一时期的中国人民银行，一方面全部集中了全国农业、工业、商业短期信贷业务和城乡人民储蓄业务；同时，既发行全国唯一合法的人民币，又代理国家财政金库，并管理金融行政，这就是所谓的“大一统”的中央银行体制。</div>
+<div class="para" label-module="para">1979～1983年的中国人民银行。<a data-lemmaid="117227" href="/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/117227" target="_blank">中国共产党</a><a data-lemmaid="390224" href="/item/%E5%8D%81%E4%B8%80%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A/390224" target="_blank">十一届三中全会</a>后，各专业银行和其他金融机构相继恢复和建立，对过去"大一统"的银行体制有所改良。但从根本上说，在中央银行的独立性、宏观调控能力和政企不分等方面并无实质性进展。同时，随着各专业银行的相继恢复和建立，“群龙无首”的问题也亟待解决。</div>
+<div class="para" label-module="para">1984～1998年的中国人民银行。1983年9月，<a data-lemmaid="343590" href="/item/%E5%9B%BD%E5%8A%A1%E9%99%A2/343590" target="_blank">国务院</a>决定中国人民银行专门行使中央银行的职能，不再兼办工商信贷和储蓄业务，专门负责领导和管理全国的金融事业。</div>
+<div class="para" label-module="para">1984年1月1日，<a data-lemmaid="283912" href="/item/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C/283912" target="_blank">中国工商银行</a>从中国人民银行分离出来，正式成立，中国人民银行专门行使中央银行的职能。</div>
+<div class="para" label-module="para">1998年以后的中国人民银行。1998年10月始，中国人民银行及其分支机构在全国范围内进行改组，撤销中国人民银行省级分行，在全国设立9个跨省、自治区、直辖市的一级分行，重点加强对辖区内金融业的监督管理。一个以中央银行为领导，以商业银行为主体，多种金融机构并存、分工协作的具有中国特色的金融体系已经形成。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_4"></a>
+<a class="lemma-anchor" name="sub79768_1_4"></a>
+<a class="lemma-anchor" name="革新"></a>
+<a class="lemma-anchor" name="1-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>革新</h3>
+</div>
+<div class="para" label-module="para"><b>央行限额</b></div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1441284/0/b219ebc4b74543a99e0e2f711c178a82b9011471?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:174px;" target="_blank" title="漫画">
+<img alt="漫画" class="lazy-img" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=e02b72c8d488d43ff4a996f04d1fd2aa/b219ebc4b74543a99e0e2f711c178a82b9011471.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:174px;"/>
+</a>
+<span class="description">
+漫画
+</span>
+</div>央行<sup class="sup--normal" data-ctrmap=":4," data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_79768"> </a>
+此前对于<a href="/item/%E6%94%AF%E4%BB%98%E5%AE%9D" target="_blank">支付宝</a>、<a href="/item/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81" target="_blank">微信二维码</a>、<a href="/item/%E6%9D%A1%E7%A0%81%E6%94%AF%E4%BB%98" target="_blank">条码支付</a>的一纸暂停令引起轩然大波。2014年3月18日上午，中国人民银行主管的<a data-lemmaid="8835732" href="/item/%E4%B8%AD%E5%9B%BD%E6%94%AF%E4%BB%98%E6%B8%85%E7%AE%97%E5%8D%8F%E4%BC%9A/8835732" target="_blank">中国支付清算协会</a>常务副会长蔡洪波在中国支付体系发展高层论坛上表示，等二维码支付相关标准体系等建立以后，鉴定达标后可能还可以做。这也是央行下属协会高管对此发表的首度回应。</div>
+<div class="para" label-module="para">央行限额令遭网友纷纷吐槽暂停支付宝及二维码支付引风波，<a data-lemmaid="182071" href="/item/%E4%B8%AD%E5%A4%AE%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6/182071" target="_blank">中央财经大学</a>中国银行业研究中心主任郭田勇在演讲中也指出，金融本来就是经营风险的，如果过分关心风险，就有可能扼杀创新。<sup class="sup--normal" data-ctrmap=":5," data-sup="5">
+[5]</sup><a class="sup-anchor" name="ref_[5]_79768"> </a>
+</div>
+<div class="para" label-module="para">虽然有了“暂停”的说法，但体验发现，在很多地方，二维码支付仍然是消费者钟爱的付费方式。可以网上支付。<sup class="sup--normal" data-ctrmap=":5," data-sup="5">
+[5]</sup><a class="sup-anchor" name="ref_[5]_79768"> </a>
+</div>
+<div class="para" label-module="para"><b>破产赔偿</b></div>
+<div class="para" label-module="para">2014年1月6日银监会召开2014年全国银行业监管工作会议，会上表示，2014年将扩大银行业对内对外开放，试办由纯民资发起设立自担风险的银行，试点先行，首批试点3至5家，成熟一家批设一家。央行计划的50万元限额，实行存款保险制度之后，假如储户在单一银行的存款不高于50万元，万一银行破产倒闭，储户将获得与实际存款金额相等的全额赔偿；如果存款超过50万元，则最多获赔50万元，超出部分或者不能获得赔付，或者像美国和中国台湾一样，按一定比例赔付。并且只赔存款，不赔理财产品；只赔个人，不赔企业<sup class="sup--normal" data-ctrmap=":6," data-sup="6">
+[6]</sup><a class="sup-anchor" name="ref_[6]_79768"> </a>
+</div>
+<div class="para" label-module="para"><b>逆回购操作</b></div>
+<div class="para" label-module="para">2015年9月10日，央行公告以利率招标的方式开展800亿元逆回购操作，期限为7天，中标利率为2.35%。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub79768_2"></a>
+<a class="lemma-anchor" name="产生背景"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">中央银行</span>产生背景</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">（1）商品经济的迅速发展 18世纪初，西方国家开始了<a data-lemmaid="895" href="/item/%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD/895" target="_blank">工业革命</a>，社会生产力的快速发展和商品经济的迅速扩大，促使货币经营业越来越普遍，而且日益有利可图，由此产生了对货币财富进行控制的欲望。中央银行产生于17世纪后半期，形成于19世纪初叶，它产生的经济背景如下：经济发展</div>
+<div class="para" label-module="para">（2）<a href="/item/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA" target="_blank">资本主义经济危机</a>的频繁出现资本主义经济自身的固有矛盾必然导致连续不断的经济危机。面对当时状况，资产阶级政府开始从货币制度上寻找原因，企图通过发行<a href="/item/%E9%93%B6%E8%A1%8C%E5%88%B8" target="_blank">银行券</a>来控制、避免和挽救频繁的经济危机。</div>
+<div class="para" label-module="para">（3）<a href="/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C" target="_blank">商业银行</a>的普遍设立，伴随着<a href="/item/%E5%95%86%E5%93%81%E7%BB%8F%E6%B5%8E" target="_blank">商品经济</a>的快速发展，银行业也逐步兴盛起来。商品经济的迅速发展和资本主义生产方式的兴起在推动欧洲大陆的货币兑换商转变成商业银行的同时也加速了新银行的涌现。</div>
+<div class="para" label-module="para">（4）货币信用与经济关系普遍化。资本主义产业革命促使生产力空前提高，生产力的提高又促使资本主义银行信用业蓬勃发展。主要表现为一是银行经营机构不断增加；二是银行业逐步走向联合、集中和<a href="/item/%E5%9E%84%E6%96%AD" target="_blank">垄断</a>。</div>
+<div class="para" label-module="para">资本主义商品经济的迅速发展，经济危机的频繁发生，银行信用的普遍化和集中化，既为中央银行的产生奠定了经济基础，又为中央银行的产生提供了客观要求。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_1"></a>
+<a class="lemma-anchor" name="sub79768_2_1"></a>
+<a class="lemma-anchor" name="国家意志"></a>
+<a class="lemma-anchor" name="2-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>国家意志</h3>
+</div>
+<div class="para" label-module="para"><b>统一控制</b></div>
+<div class="para" label-module="para"><a data-lemmaid="87961" href="/item/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/87961" target="_blank">资本主义</a>商品经济的迅速发展，客观上要求建立相应的<a data-lemmaid="2630883" href="/item/%E8%B4%A7%E5%B8%81%E5%88%B6%E5%BA%A6/2630883" target="_blank">货币制度</a>和<a href="/item/%E4%BF%A1%E7%94%A8%E5%88%B6%E5%BA%A6" target="_blank">信用制度</a>。资产阶级政府为了开辟更广泛的市场，也需要有巨大的货币财富作后盾。</div>
+<div class="para" label-module="para"><b>统一货币</b></div>
+<div class="para" label-module="para">在银行业发展初期，几乎每家银行都有发行银行券的权力，但随着经济的发展、市场的扩大和银行机构增多，<a href="/item/%E9%93%B6%E8%A1%8C%E5%88%B8" target="_blank">银行券</a>分散发行的弊病就越来越明显，客观上要求有一个资力雄厚并在全国范围内享有权威的银行来统一发行银行券。</div>
+<div class="para" label-module="para"><b>统一管理</b></div>
+<div class="para" label-module="para">银行业和金融市场的发展，需要政府出面进行必要的管理，这要求产生隶属政府的中央银行这一专门机构来实施政府对银行业和<a href="/item/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA" target="_blank">金融市场</a>的管理。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_2"></a>
+<a class="lemma-anchor" name="sub79768_2_2"></a>
+<a class="lemma-anchor" name="客观要求"></a>
+<a class="lemma-anchor" name="2-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>客观要求</h3>
+</div>
+<div class="para" label-module="para"><b>信用需要</b></div>
+<div class="para" label-module="para"><a href="/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C" target="_blank">商业银行</a>经常会发生营运资金不足、<a data-lemmaid="371" href="/item/%E5%A4%B4%E5%AF%B8/371" target="_blank">头寸</a>调度不灵等问题，这就从客观上要求中央银行的产生，它既能集中众多银行的存款准备，又能不失时宜地为其他商业银行提供必要的周转资金，为银行充当最后的贷款人。</div>
+<div class="para" label-module="para"><b>票据清算</b></div>
+<div class="para" label-module="para">随着银行业的不断发展，银行每天收授<a href="/item/%E7%A5%A8%E6%8D%AE" target="_blank">票据</a>的数量增多，各家银行之间的<a href="/item/%E5%80%BA%E6%9D%83" target="_blank">债权</a>债务关系复杂化，由各家银行自行<a href="/item/%E8%BD%A7%E5%B7%AE" target="_blank">轧差</a>进行当日清算已发生困难。这种状况客观上要求产生中央银行，作为全国统一、权威、公正的清算中心。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub79768_3"></a>
+<a class="lemma-anchor" name="主要职能"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">中央银行</span>主要职能</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">中央银行职能主要以制定、执行货币政策，对金融机构活动进行领导、管理和监督。是一个“管理金融活动的银行”，同时，还有以下职能：</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_1"></a>
+<a class="lemma-anchor" name="sub79768_3_1"></a>
+<a class="lemma-anchor" name="发行的银行"></a>
+<a class="lemma-anchor" name="3-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>发行的银行</h3>
+</div>
+<div class="para" label-module="para">中央银行是发行的银行，是指中央银行垄断<a href="/item/%E8%B4%A7%E5%B8%81%E5%8F%91%E8%A1%8C%E6%9D%83" target="_blank">货币发行权</a>，是一国或某一<a href="/item/%E8%B4%A7%E5%B8%81%E8%81%94%E7%9B%9F" target="_blank">货币联盟</a>唯一授权的货币发行机构。</div>
+<div class="para" label-module="para"><b>1、中央银行集中与垄断</b><a href="/item/%E8%B4%A7%E5%B8%81%E5%8F%91%E8%A1%8C%E6%9D%83" target="_blank"><b>货币发行权</b></a><b>的必要性。</b></div>
+<div class="para" label-module="para">第一，统一货币发行与流通是货币正常有序流通和<a href="/item/%E5%B8%81%E5%80%BC%E7%A8%B3%E5%AE%9A" target="_blank">币值稳定</a>的<a href="/item/%E4%BF%9D%E8%AF%81" target="_blank">保证</a>。在实行<a href="/item/%E9%87%91%E6%9C%AC%E4%BD%8D" target="_blank">金本位</a>的条件下，货币的发行权主要是指银行券的<a href="/item/%E5%8F%91%E8%A1%8C%E6%9D%83" target="_blank">发行权</a>。要保证银行券的信誉和货币金融的稳定，银行券必须能够随时兑换为金币，<a href="/item/%E5%AD%98%E6%AC%BE%E8%B4%A7%E5%B8%81" target="_blank">存款货币</a>能够顺利地转化为银行券。为此，中央银行须以黄金储备作为支撑<a href="/item/%E9%93%B6%E8%A1%8C%E5%88%B8" target="_blank">银行券</a>发行与流通的信用基础，<a href="/item/%E9%BB%84%E9%87%91%E5%82%A8%E5%A4%87" target="_blank">黄金储备</a>数量成为银行券发行数量的制约因素。银行券的发行量与黄金储备量之间的规定比例成为银行券发行保证制度的最主要内容。在进入20世纪之后，金本位制解体，各国的<a href="/item/%E8%B4%A7%E5%B8%81%E6%B5%81%E9%80%9A" target="_blank">货币流通</a>均转化为不兑现的纸币流通。不兑现的<a href="/item/%E7%BA%B8%E5%B8%81" target="_blank">纸币</a>成为纯粹意义上的<a href="/item/%E5%9B%BD%E5%AE%B6%E4%BF%A1%E7%94%A8" target="_blank">国家信用</a>货币。在<a href="/item/%E4%BF%A1%E7%94%A8%E8%B4%A7%E5%B8%81%E6%B5%81%E9%80%9A" target="_blank">信用货币流通</a>情况下，中央银行凭借国家授权以国家信用为基础而成为垄断货币发行的机构，中央银行按照经济发展的客观需要和货币流通及其管理的要求发行货币。</div>
+<div class="para" label-module="para">第二，统一货币发行是中央银行根据一定时期的经济发展情况调节货币供应量，保持币值稳定的需要。币值稳定是社会经济健康运行的基本条件，若存在多家货币发行银行，中央银行在调节货币供求总量时可能出现因难以协调各发行银行从而无法适时调节银根的状况。</div>
+<div class="para" label-module="para">第三，统一货币发行是中央银行实施<a href="/item/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96" target="_blank">货币政策</a>的基础。统一货币发行使中央银行通过对发行货币量的控制来调节流通中的<a href="/item/%E5%9F%BA%E7%A1%80%E8%B4%A7%E5%B8%81" target="_blank">基础货币</a>量，并以此调控<a href="/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C" target="_blank">商业银行</a>创造信用的<a href="/item/%E8%83%BD%E5%8A%9B" target="_blank">能力</a>。独占货币发行权是中央银行实施金融宏观调控的必要条件。</div>
+<div class="para" label-module="para"><b>2、统一货币的必要条件</b></div>
+<div class="para" label-module="para">第一，中央银行应根据国民经济发展的客观需要，适时发行货币，保持<a href="/item/%E8%B4%A7%E5%B8%81%E4%BE%9B%E7%BB%99" target="_blank">货币供给</a>与<a href="/item/%E8%B4%A7%E5%B8%81%E9%9C%80%E6%B1%82" target="_blank">货币需求</a>基本一致，为国民经济稳定发展创造良好的<a href="/item/%E9%87%91%E8%9E%8D%E7%8E%AF%E5%A2%83" target="_blank">金融环境</a>。</div>
+<div class="para" label-module="para">第二，中央银行应从宏观经济角度控制信用规模，调节<a href="/item/%E8%B4%A7%E5%B8%81%E4%BE%9B%E7%BB%99%E9%87%8F" target="_blank">货币供给量</a>。中央银行应适当掌握货币供给增量，处理<a href="/item/%E5%B8%81%E5%80%BC%E7%A8%B3%E5%AE%9A" target="_blank">币值稳定</a>与经济增长的关系。</div>
+<div class="para" label-module="para">第三，中央银行应根据<a href="/item/%E8%B4%A7%E5%B8%81%E6%B5%81%E9%80%9A" target="_blank">货币流通</a>需要，适时印刷、销毁货币，调拨库款，调剂地区间货币分布、货币面额比例。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_2"></a>
+<a class="lemma-anchor" name="sub79768_3_2"></a>
+<a class="lemma-anchor" name="银行的银行"></a>
+<a class="lemma-anchor" name="3-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>银行的银行</h3>
+</div>
+<div class="para" label-module="para">银行的银行职能是指中央银行充当商业银行和其他金融机构的<a href="/item/%E6%9C%80%E5%90%8E%E8%B4%B7%E6%AC%BE%E4%BA%BA" target="_blank">最后贷款人</a>。银行的银行这一职能体现了中央银行是特殊金融机构的性质，是中央银行作为<a href="/item/%E9%87%91%E8%9E%8D%E4%BD%93%E7%B3%BB" target="_blank">金融体系</a>核心的基本条件。中央银行通过这一职能对商业银行和其他金融机构的活动施加影响，以达到调控宏观经济的目的。中央银行作为银行的银行需履行的职责如下：</div>
+<div class="para" label-module="para">集中<a href="/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C" target="_blank">商业银行</a>的<a href="/item/%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91" target="_blank">存款准备金</a>。其必要性在于：</div>
+<div class="para" label-module="para">第一，为保障存款人的资金安全，以法律的形式规定商业银行和其他存款机构必须按<a href="/item/%E5%AD%98%E6%AC%BE" target="_blank">存款</a>的一定比例向中央银行交存存款准备金，以保证商业银行和其他金融机构具备最低限度的<a href="/item/%E6%94%AF%E4%BB%98%E8%83%BD%E5%8A%9B" target="_blank">支付能力</a>。</div>
+<div class="para" label-module="para">第二，有助于中央银行控制商业银行的<a href="/item/%E4%BF%A1%E7%94%A8%E5%88%9B%E9%80%A0" target="_blank">信用创造</a>能力，从而控制<a href="/item/%E8%B4%A7%E5%B8%81%E4%BE%9B%E5%BA%94%E9%87%8F" target="_blank">货币供应量</a>。</div>
+<div class="para" label-module="para">第三，强化中央银行的资金实力，存款准备金是中央银行的主要<a href="/item/%E8%B5%84%E9%87%91%E6%9D%A5%E6%BA%90" target="_blank">资金来源</a>之一。</div>
+<div class="para" label-module="para">第四，为商业银行之间进行非现金清算创造条件。</div>
+<div class="para" label-module="para">充当<a href="/item/%E9%93%B6%E8%A1%8C%E4%B8%9A" target="_blank">银行业</a>的<a href="/item/%E6%9C%80%E5%90%8E%E8%B4%B7%E6%AC%BE%E4%BA%BA" target="_blank">最后贷款人</a>最后贷款人指商业银行无法进行即期支付而面临倒闭时，中央银行及时向商业银行提供贷款支持以增强商业银行的流动性。</div>
+<div class="para" label-module="para">中央银行主要通过两种途径为商业银行充当最后贷款人：</div>
+<div class="para" label-module="para">其一，票据再贴现，即商业银行将持有的票据转贴给中央银行以获取资金；</div>
+<div class="para" label-module="para">其二，票据再抵押，即商业银行将持有的票据抵押给中央银行获取贷款。</div>
+<div class="para" label-module="para">创建全国银行间清算业务平台商业银行按规定在中央银行开立存款账户交存<a href="/item/%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91" target="_blank">存款准备金</a>，各金融机构之间可利用在中央银行的存款账户进行<a href="/item/%E8%B5%84%E9%87%91%E6%B8%85%E7%AE%97" target="_blank">资金清算</a>，这加快了资金流转速度，节约了货币流通成本。于是，中央银行成为<a href="/item/%E9%93%B6%E8%A1%8C%E4%B8%9A" target="_blank">银行业</a>的清算中心。</div>
+<div class="para" label-module="para"><a href="/item/%E5%A4%96%E6%B1%87%E5%A4%B4%E5%AF%B8" target="_blank">外汇头寸</a>调节。中央银行根据外汇供求状况进行<a href="/item/%E5%A4%96%E6%B1%87%E4%B9%B0%E5%8D%96" target="_blank">外汇买卖</a>，调节商业银行外汇头寸，为商业银行提供外汇<a href="/item/%E8%B5%84%E9%87%91%E8%9E%8D%E9%80%9A" target="_blank">资金融通</a>便利，并由此监控<a href="/item/%E5%9B%BD%E9%99%85%E6%94%B6%E6%94%AF" target="_blank">国际收支</a>状况。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_3"></a>
+<a class="lemma-anchor" name="sub79768_3_3"></a>
+<a class="lemma-anchor" name="政府的银行"></a>
+<a class="lemma-anchor" name="3-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>政府的银行</h3>
+</div>
+<div class="para" label-module="para">政府的银行职能是指中央银行为政府提供服务，是政府管理国家金融的专门机构。具体体现：</div>
+<div class="para" label-module="para">1．代理国库。</div>
+<div class="para" label-module="para">国家财政收支一般不另设机构经办具体业务，而是交由中央银行代理，主要包括按<a href="/item/%E5%9B%BD%E5%AE%B6%E9%A2%84%E7%AE%97" target="_blank">国家预算</a>要求代收国库库款、拨付<a href="/item/%E8%B4%A2%E6%94%BF%E6%94%AF%E5%87%BA" target="_blank">财政支出</a>、向<a href="/item/%E8%B4%A2%E6%94%BF%E9%83%A8%E9%97%A8" target="_blank">财政部门</a>反映预算收支执行情况等。</div>
+<div class="para" label-module="para">2．代理<a href="/item/%E6%94%BF%E5%BA%9C%E5%80%BA%E5%88%B8" target="_blank">政府债券</a>发行。</div>
+<div class="para" label-module="para">中央银行代理发行政府债券，办理<a href="/item/%E5%80%BA%E5%88%B8" target="_blank">债券</a>到期还本付息。</div>
+<div class="para" label-module="para">3．为政府<a href="/item/%E8%9E%8D%E9%80%9A%E8%B5%84%E9%87%91" target="_blank">融通资金</a>。</div>
+<div class="para" label-module="para">在政府财政收支出现失衡、收不抵支时，中央银行具有为政府融通资金以解决政府I临时资金需要的义务。中央银行对政府融资的方式主要有两种：</div>
+<div class="para" label-module="para">第一种，为弥补财政收支暂时不平衡或财政长期赤字，直接向政府提供贷款。为防止<a href="/item/%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%97" target="_blank">财政赤字</a>过度扩大造成<a href="/item/%E6%81%B6%E6%80%A7%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80" target="_blank">恶性通货膨胀</a>，许多国家明确规定，应尽量避免发行货币来弥补财政赤字。</div>
+<div class="para" label-module="para">第二种，中央银行直接在<a href="/item/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA" target="_blank">一级市场</a>上购买政府债券。</div>
+<div class="para" label-module="para">4．为国家持有和经营管理国际储备。</div>
+<div class="para" label-module="para"><a href="/item/%E5%9B%BD%E9%99%85%E5%82%A8%E5%A4%87" target="_blank">国际储备</a>包括外汇、黄金、在<a href="/item/%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91%E7%BB%84%E7%BB%87" target="_blank">国际货币基金组织</a>中的<a href="/item/%E5%82%A8%E5%A4%87%E5%A4%B4%E5%AF%B8" target="_blank">储备头寸</a>、国际货币基金组织分配的尚未动用的<a href="/item/%E7%89%B9%E5%88%AB%E6%8F%90%E6%AC%BE%E6%9D%83" target="_blank">特别提款权</a>等。</div>
+<div class="para" label-module="para">第一，对<a href="/item/%E5%82%A8%E5%A4%87%E8%B5%84%E9%87%91" target="_blank">储备资金</a>总量进行调控，使之与国内货币发行和国际贸易等所需的支付需要相适应；</div>
+<div class="para" label-module="para">第二，对储备<a href="/item/%E8%B5%84%E4%BA%A7%E7%BB%93%E6%9E%84" target="_blank">资产结构</a>特别是外汇资产结构进行调节；</div>
+<div class="para" label-module="para">第三，对<a href="/item/%E5%82%A8%E5%A4%87%E8%B5%84%E4%BA%A7" target="_blank">储备资产</a>进行经营和管理，负责储备资产的保值增值；</div>
+<div class="para" label-module="para">第四，保持<a href="/item/%E5%9B%BD%E9%99%85%E6%94%B6%E6%94%AF%E5%B9%B3%E8%A1%A1" target="_blank">国际收支平衡</a>和汇率基本稳定。</div>
+<div class="para" label-module="para">5．代表政府参加国际金融活动，进行金融事务的协调与磋商，积极促进<a href="/item/%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D" target="_blank">国际金融</a>领域的合作与发展。参与国际金融重大决策，代表本国政府与外国中央银行进行两国金融、贸易事项的谈判、协调与磋商，代表政府签订国际金融协定，管理与本国有关的<a href="/item/%E5%9B%BD%E9%99%85%E8%B5%84%E6%9C%AC%E6%B5%81%E5%8A%A8" target="_blank">国际资本流动</a>，办理政府间的金融事务往来及<a href="/item/%E6%B8%85%E7%AE%97" target="_blank">清算</a>，办理外汇收支清算和拨付等国际金融事务。</div>
+<div class="para" label-module="para">6．为政府提供经济金融情报和决策建议，向社会公众发布经济<a href="/item/%E9%87%91%E8%9E%8D%E4%BF%A1%E6%81%AF" target="_blank">金融信息</a>。中央银行处于社会<a href="/item/%E8%B5%84%E9%87%91%E8%BF%90%E5%8A%A8" target="_blank">资金运动</a>的核心，能够掌握全国经济<a href="/item/%E9%87%91%E8%9E%8D%E6%B4%BB%E5%8A%A8" target="_blank">金融活动</a>的基本信息，为政府的<a href="/item/%E7%BB%8F%E6%B5%8E%E5%86%B3%E7%AD%96" target="_blank">经济决策</a>提供支持。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_4"></a>
+<a class="lemma-anchor" name="sub79768_3_4"></a>
+<a class="lemma-anchor" name="职能变化"></a>
+<a class="lemma-anchor" name="3-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>职能变化</h3>
+</div>
+<div class="para" label-module="para">（1）由一般货币发行向国家垄断发行转化。<a data-lemmaid="174090" href="/item/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98/174090" target="_blank">第二次世界大战</a>后，各国对中央银行的认识有所深化，从而强化了对它的控制。这大大加快了中央银行的国有化进程，由此实现了中央银行由一般的发行银行向国家垄断发行即真正的发行银行转化。</div>
+<div class="para" label-module="para">（2）由代理政府国库款项收支向政府的银行转化。随着中央银行国有化进程的加快，中央银行对国家负责，许多国家的银行法规明确规定了中央银行作为政府代理的身份，从而实现了中央银行向政府银行的转化。</div>
+<div class="para" label-module="para">（3）由集中保管准备金向银行的银行转化。进入20世纪中叶，中央银行不与普通商业银行争利益，行使管理一般银行的职能并成为金融体系的中心机构，这标志着它向银行的银行转化。</div>
+<div class="para" label-module="para">（4）由<a data-lemmaid="2575115" href="/item/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96/2575115" target="_blank">货币政策</a>的一般运用向综合配套运用转化。中央银行的货币政策离不开一个国家经济发展的总目标，在具体运用中大大加强并注重其综合功能的发挥，即由过去的一般性运用向综合配套运用转化。</div>
+<div class="para" label-module="para">（5）各国中央银行的金融合作加强。随着各国商品经济和<a data-lemmaid="1114" href="/item/%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93/1114" target="_blank">国际贸易</a>的发展，为保证各国国际收支平衡和经济稳定，各国中央银行为了共同抵御风险，加强金融监管，彼此之间的合作越来越紧密 。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_5"></a>
+<a class="lemma-anchor" name="sub79768_3_5"></a>
+<a class="lemma-anchor" name="服务职能"></a>
+<a class="lemma-anchor" name="3-5"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>服务职能</h3>
+</div>
+<div class="para" label-module="para">1、为政府服务的主要内容是：</div>
+<div class="para" label-module="para">a、代理国家财政金库，执行国家预算出纳业务，代理政府发行和销售政府债券，并办理还本付息事宜；</div>
+<div class="para" label-module="para">b、作为政府的金融代理人，代办有关金融业务，如经营国家外汇储备黄金储备等；</div>
+<div class="para" label-module="para">c、根据政府需要，通过贷款或者购买政府债券的方式为政府筹措资金；</div>
+<div class="para" label-module="para">d、代表政府参加有关国际金融活动和为政府充当金融政策顾问。</div>
+<div class="para" label-module="para">2、为商业银行和非银行金融机构服务的主要内容</div>
+<div class="para" label-module="para">a、为商业银行金融机构保管准备金；</div>
+<div class="para" label-module="para">b、为商业银行、金融机构相互之间的债务关系办理转账结算和提供清算服务；</div>
+<div class="para" label-module="para">c、当商业银行、金融机构需要资金或者资金周转困难时，对其提供贷款或者信用，以及其他形式的融资服务。</div>
+<div class="para" label-module="para">3、为社会公众服务的主要内容是：</div>
+<div class="para" label-module="para">a、依法发行国家法定货币并维护货币的信誉和货币币值稳定；</div>
+<div class="para" label-module="para">b、通过货币政策、信用政策，影响商业银行、金融机构的行为和活动，使之配合适应国民经济的需要；</div>
+<div class="para" label-module="para">c、搜集、整理和反映有关经济资料以及自身的资产、负债状况，并定期公布，为各有关方面制定政策、计划、措施提供参考；</div>
+<div class="para" label-module="para">d、为维护银行客户存款安全所进行的其他活动等。</div>
+<div class="para" label-module="para">监管职能</div>
+<div class="para" label-module="para">1、中央银行行使监管职能的对象</div>
+<div class="para" label-module="para">（1）商业银行和其他金融机构的监管；</div>
+<div class="para" label-module="para">（2）对金融市场的设置、业务活动和运行机制进行监督管理。</div>
+<div class="para" label-module="para">2、监督职能的主要内容：</div>
+<div class="para" label-module="para">（1）制定有关的金融政策、法规，作为金融活动的准则和中央银行进行监管的依据</div>
+<div class="para" label-module="para">和手段。</div>
+<div class="para" label-module="para">（2）依法对各类金融机构的设置统筹规划，审查批准商业银行和其他金融机构的设立、业务范围和其他重要事项。</div>
+<div class="para" label-module="para">（3）对商业银行和其他金融机构的业务活动进行监督。</div>
+<div class="para" label-module="para">（4）管理信贷、资金、外汇、黄金、证券等金融市场，包括利率、汇率。</div>
+<div class="para" label-module="para">（5）监督检查商业银行和其他金融机构的清偿能力，资产负债结构准备金情况。</div>
+<div class="para" label-module="para">（6）督促、指导商业银行和其他金融机构依法开展业务活动，稳健经营等。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_6"></a>
+<a class="lemma-anchor" name="sub79768_3_6"></a>
+<a class="lemma-anchor" name="调控职能"></a>
+<a class="lemma-anchor" name="3-6"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>调控职能</h3>
+</div>
+<div class="para" label-module="para">中央银行以国家货币政策制定者和执行者的身份，通过金融手段，对全国的货币、信用活动进行有目的、有目标的调节和控制，进而影响国家宏观经济，促进整个国民经济健康发展，实现其预期的货币政策目标。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub79768_4"></a>
+<a class="lemma-anchor" name="主要类型"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">中央银行</span>主要类型</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_1"></a>
+<a class="lemma-anchor" name="sub79768_4_1"></a>
+<a class="lemma-anchor" name="单一型"></a>
+<a class="lemma-anchor" name="4-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>单一型</h3>
+</div>
+<div class="para" label-module="para">概念：</div>
+<div class="para" label-module="para">是指国家建立单纯的中央银行机构，使之全面行使中央银行职能，领导全部金融事业的中央银行制度。</div>
+<div class="para" label-module="para">是当前世界各国所采用的最主要、最典型的类型。<sup class="sup--normal" data-ctrmap=":7," data-sup="7">
+[7]</sup><a class="sup-anchor" name="ref_[7]_79768"> </a>
+</div>
+<div class="para" label-module="para">（一）一元式中央银行制度</div>
+<div class="para" label-module="para">概念：是指一国只设立一家统一的中央银行，行使中央银行的权利和履行中央银行的全部职责。</div>
+<div class="para" label-module="para">（二）二元式中央银行制度</div>
+<div class="para" label-module="para">概念： 是指在一个国家内设立一定数量的地方中央银行，并由地方银行推选代表组成在全国范围行使中央银行职能的机构，从而形成由中央和地方两级相对独立的中央银行机构共同组成的中央银行体系。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_2"></a>
+<a class="lemma-anchor" name="sub79768_4_2"></a>
+<a class="lemma-anchor" name="复合型"></a>
+<a class="lemma-anchor" name="4-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>复合型</h3>
+</div>
+<div class="para" label-module="para">概念：国家不单独设立专司中央银行职能的中央银行机构，而是由一家集中央银行与商业银行职能于一身的国家大银行兼中央银行职能的<a href="/item/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C%E5%88%B6%E5%BA%A6" target="_blank">中央银行制度</a>。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_3"></a>
+<a class="lemma-anchor" name="sub79768_4_3"></a>
+<a class="lemma-anchor" name="准中央银行"></a>
+<a class="lemma-anchor" name="4-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>准中央银行</h3>
+</div>
+<div class="para" label-module="para">概念：是指国家不设通常意义上的完整的中央银行，而设立类似中央银行的金融管理机构，执行部分中央银行职能，或者由政府授权某个或几个商业银行承担部分中央银行的职能。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_4"></a>
+<a class="lemma-anchor" name="sub79768_4_4"></a>
+<a class="lemma-anchor" name="跨国型"></a>
+<a class="lemma-anchor" name="4-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>跨国型</h3>
+</div>
+<div class="para" label-module="para">概念：是指若干国家联合组建一家中央银行，在成员国范围内行使全部或部分中央银行职能。 2资本结构类型</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub79768_5"></a>
+<a class="lemma-anchor" name="主要业务"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">中央银行</span>主要业务</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">中央银行的主要业务有：<a href="/item/%E8%B4%A7%E5%B8%81%E5%8F%91%E8%A1%8C" target="_blank">货币发行</a>、<a href="/item/%E9%9B%86%E4%B8%AD%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91" target="_blank">集中存款准备金</a>、<a href="/item/%E8%B4%B7%E6%AC%BE" target="_blank">贷款</a>、<a href="/item/%E5%86%8D%E8%B4%B4%E7%8E%B0" target="_blank">再贴现</a>、<a href="/item/%E8%AF%81%E5%88%B8" target="_blank">证券</a>、黄金占款和<a href="/item/%E5%A4%96%E6%B1%87%E5%8D%A0%E6%AC%BE" target="_blank">外汇占款</a>、为<a href="/item/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C" target="_blank">商业银行</a>和其他金融机构办理资金的<a href="/item/%E5%88%92%E6%8B%A8%E6%B8%85%E7%AE%97" target="_blank">划拨清算</a>和资金转移的业务等。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_1"></a>
+<a class="lemma-anchor" name="sub79768_5_1"></a>
+<a class="lemma-anchor" name="支付清算"></a>
+<a class="lemma-anchor" name="5-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>支付清算</h3>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" href="/pic/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1441284/15989457/787014553e2eb2fdb745aed6?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:167px;" target="_blank" title="欧洲中央银行">
+<div class="album-wrap" style="width:165px;height:220px;">
+<img alt="欧洲中央银行" class="picture" src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=cc03ce33304e251fe6f7e3fa9786c9c2/e7cd7b899e510fb382131b9ed933c895d1430cb4.jpg" style="width:165px;height:220px;"/>
+</div>
+<div class="description">
+欧洲中央银行<span class="number">(4张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:159px;"></div>
+<div class="albumBgSec" style="width:153px;"></div>
+</div>
+</a>
+（1）提供账户服务 在各国中央银行支付清算的实践活动中，中央银行一般作为银行间清算中介人，为银行提供清算账户，通过清算账户的设置和使用来实现银行间转账。</div>
+<div class="para" label-module="para">（2）运行与管理<a href="/item/%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F" target="_blank">支付系统</a>除了提供账户服务以外，中央银行参与和组织行间清算的另一个重要手段即是运行与管理重要的行间支付清算系统。一个稳定的、有效的、公众信任的支付系统，是社会所不可或缺的。中央银行运行的支付系统通常包括账户体系、通讯网络和信息处理系统。</div>
+<div class="para" label-module="para">（3）为私营清算系统提供差额清算服务很多国家存在着多种形式的私营清算组织，而一些私营清算系统尚在实施差额清算，为了实现清算参加者间的债权债务抵消，很多清算机构乐于利用中央银行提供的差额清算服务，后者通过账户进行差额头寸的转移划拨，即可完成最终清算。</div>
+<div class="para" label-module="para">（4）提供透支便利中央银行不仅运行管理整个支付系统，还以提供信贷的方式保障支付系统的平稳运行。大额支付系统是中央银行提供信贷的重点，尤其是当大额支付系统所处理的支付指令为不可撤销的终局性支付指令时，中央银行的透支便利更为重要。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_2"></a>
+<a class="lemma-anchor" name="sub79768_5_2"></a>
+<a class="lemma-anchor" name="投放抵押"></a>
+<a class="lemma-anchor" name="5-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>投放抵押</h3>
+</div>
+<div class="para" label-module="para">2014年10月18日央行通知，将通过常备借贷便利工具（SLF）获得流动性支持，共计金额约2000亿元左右。此外中金报告预计央行实际投放的流动性可能高于2000亿元，达到3000-4000亿元。</div>
+<div class="para" label-module="para">中金报告，央行投放方式不是此前所传的SLF，而是需银行提供债券质押的PSL。中金认为，此举再次释放了流动性宽松的信号，尤其是在实际M2增长明显低于政策目标的情况下。<sup class="sup--normal" data-ctrmap=":8," data-sup="8">
+[8]</sup><a class="sup-anchor" name="ref_[8]_79768"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_3"></a>
+<a class="lemma-anchor" name="sub79768_5_3"></a>
+<a class="lemma-anchor" name="黄金净买"></a>
+<a class="lemma-anchor" name="5-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>黄金净买</h3>
+</div>
+<div class="para" label-module="para"><a href="/item/%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91%E7%BB%84%E7%BB%87" target="_blank">国际货币基金组织</a>（International Monetary Fund, 简称IMF），基金组织的最高权力机构为理事会，由各成员国派正、副理事各一名组成，一般由各国的财政部长或中央银行行长担任，每年9月举行一次会议。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_4"></a>
+<a class="lemma-anchor" name="sub79768_5_4"></a>
+<a class="lemma-anchor" name="跨境贷款"></a>
+<a class="lemma-anchor" name="5-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>跨境贷款</h3>
+</div>
+<div class="para" label-module="para">2012年12月4日韩国方面表示，已与中国就12月<a class="lemma-album layout-right nslog:10000206" href="/pic/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1441284/15989456/0d968f236a96f87dad34dea2?fr=lemma&amp;ct=cover" nslog-type="10000206" style="width:222px;" target="_blank" title="日本银行">
+<div class="album-wrap" style="width:220px;height:142px;">
+<img alt="日本银行" class="picture" src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=f79a3be0f2d3572c62e29bdeba136352/2934349b033b5bb534a14cf736d3d539b600bc41.jpg" style="width:220px;height:142px;"/>
+</div>
+<div class="description">
+日本银行<span class="number">(5张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+晚些时候允许两国银行从现有的货币互换安排借入资金达成协议，以鼓励两国的本币贸易结算。根据韩国财政部和韩国银行（央行）当天联合发布的声明，中韩3600亿元人民币的货币互换额度将以贷款形式获得，以允许两国贸易企业以韩元和人民币结算。12月5日接受本报记者采访的中国商务部国际贸易经济合作研究院研究员梅新育认为，此举将直接有利于稳定韩元对人民币汇率，间接有利于稳定韩元对美元汇率，因人民币对美元的稳定性远高于其他货币。他还认为，此举对韩元特别是人民币的国际化大有裨益。<sup class="sup--normal" data-ctrmap=":9," data-sup="9">
+[9]</sup><a class="sup-anchor" name="ref_[9]_79768"> </a>
+</div>
+<div class="para" label-module="para" style="clear: both;">2012年12月27日中国央行深圳市中心支行发布公告称，央行已批准深圳前海地区试行开展深圳和香港两地间的跨境人民币贷款业务。在<a href="/item/%E5%89%8D%E6%B5%B7" target="_blank">前海</a>注册成立并在前海实际经营或投资的企业可以从香港经营人民币业务的银行借入人民币资金。此举建起了人民币国际化进程中的新里程碑尽管该项目还处于试点性质，实施范围也非常有限，但如果加以扩展，则最终将有助于香港离岸人民币市场与中国大陆金融系统的整合。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5_5"></a>
+<a class="lemma-anchor" name="sub79768_5_5"></a>
+<a class="lemma-anchor" name="数字货币"></a>
+<a class="lemma-anchor" name="5-5"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>数字货币</h3>
+</div>
+<div class="para" label-module="para">2017年2月，央行推动的基于区块链的数字票据交易平台已测试成功，由央行发行的法定数字货币已在该平台试运行。这意味着在全球范围内，中国央行将成为首个发行数字货币并开展真实应用的中央银行。<sup class="sup--normal" data-ctrmap=":10," data-sup="10">
+[10]</sup><a class="sup-anchor" name="ref_[10]_79768"> </a>
+</div>
+<div class="para" label-module="para"><sup class="sup--normal" data-ctrmap=":11," data-sup="11">
+[11]</sup><a class="sup-anchor" name="ref_[11]_79768"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="6"></a>
+<a class="lemma-anchor" name="sub79768_6"></a>
+<a class="lemma-anchor" name="实践与思考"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">中央银行</span>实践与思考</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">《政府采购法》出台以来，在制度设计层面，我国政府采购法律法规将重点定位在节约资金和预防腐败两个目标上，形成了集中采购和分散采购相结合的组织形式，节约了大量资金，反腐效果明显。针对政府采购制度改革和实践发展迫切需要，2015年国务院正式颁布了《政府采购法实施条例》，将政府采购制度向两头延伸，突出了以需求管理为中心的源头管理和以符合合同及使用效果为内容的结果管理，体现了政府采购从程序导向型向结果导向型转变。十多年来，人民银行系统贯彻落实政府采购法规，逐步建立起具有自身特色的集中采购管理体系，形成了多层次的采购模式和完善的规章制度。人民银行广州分行在工作实践中进行了积极探索尝试，力求真正实现集中采购“物有所值”，形成了经验和思考。</div>
+<div class="para" label-module="para">（一）强化需求管理，突出“采有所需”。采购的理想状态是起于科学的预算和采购需求，终于规范有效的供给。</div>
+<div class="para" label-module="para">（二）细化实施流程，推动标准化信息化建设。一是采购流程规范化。二是采购文本标准化。三是采购管理信息化。</div>
+<div class="para" label-module="para">（三）优化统筹模式，实现“物有所值”。一方面，对辖内采购资源进行统筹整合。另一方面，探索小额零星采购新方式。</div>
+<div class="para" label-module="para">（四）深化绩效评价，探索资产的全生命周期管理。一是规范履约验收监督。明确需求主管部门履约管理的主体责任，细化货物、工程、服务等不同类别采购项目的验收标准，按照合同约定内容进行验收。二是健全绩效综合评价。将采购绩效评估纳入采购流程，将采购对象从生产、运输、使用、维护、报废的全过程统一纳入分析研究，科学合理设定评价依据和指标，不仅评估其初始成本，还要考虑其维护运行成本，实现对采购项目的合规性、效益性、效率性进行综合评价。尝试通过采购信息档案与资产台账管理有效衔接，实现对采购物品生命周期的全过程管理。三是循环利用结果成效。及时总结履约情况和绩效评价结论，吸收融入到下一次的预算编制、需求管理和组织评审等环节中，统筹考虑采购对象的全生命周期成本和效益，吸取项目实施的经验教训，不断持续改进。<sup class="sup--normal" data-ctrmap=":12," data-sup="12">
+[12]</sup><a class="sup-anchor" name="ref_[12]_79768"> </a>
+</div>
+<div class="para" label-module="para">2017年1月11日，人民银行营业管理部与相关单位组成联合检查组，进驻“火币网”、“币行”等比特币、莱特币交易平台，就交易平台执行外汇管理、反洗钱等相关金融法律法规、交易场所管理相关规定等情况开展现场检查。<sup class="sup--normal" data-ctrmap=":13," data-sup="13">
+[13]</sup><a class="sup-anchor" name="ref_[13]_79768"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7"></a>
+<a class="lemma-anchor" name="sub79768_7"></a>
+<a class="lemma-anchor" name="世界各地央行"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">中央银行</span>世界各地央行</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="7" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="7_1"></a>
+<a class="lemma-anchor" name="sub79768_7_1"></a>
+<a class="lemma-anchor" name="亚洲"></a>
+<a class="lemma-anchor" name="7-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>亚洲</h3>
+</div>
+<div class="para" label-module="para">中国：<a href="/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C" target="_blank">中国人民银行</a>（The People's Bank of China）</div>
+<div class="para" label-module="para">中国台湾：中央银行（The Central Bank of the Republic of China （Taiwan））</div>
+<div class="para" label-module="para">中国香港：<a href="/item/%E9%A6%99%E6%B8%AF%E9%87%91%E8%9E%8D%E7%AE%A1%E7%90%86%E5%B1%80" target="_blank">香港金融管理局</a>（The Hong Kong Monetary Authority）</div>
+<div class="para" label-module="para">中国澳门：<a href="/item/%E6%BE%B3%E9%97%A8%E9%87%91%E8%9E%8D%E7%AE%A1%E7%90%86%E5%B1%80" target="_blank">澳门金融管理局</a>（The Monetary Authority of Macao）</div>
+<div class="para" label-module="para">阿富汗：阿富汗中央银行（Da Afghanistan Bank）</div>
+<div class="para" label-module="para">阿联酋：<a href="/item/%E9%98%BF%E8%81%94%E9%85%8B%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">阿联酋中央银行</a>（The Central Bank of the United Arab Emirates）</div>
+<div class="para" label-module="para">阿曼：阿曼中央银行（The Central Bank of Oman）</div>
+<div class="para" label-module="para">阿塞拜疆：阿塞拜疆中央银行（The Central Bank of Azerbaijan）</div>
+<div class="para" label-module="para">巴基斯坦：巴基斯坦国家银行（The State Bank of Pakistan）</div>
+<div class="para" label-module="para">巴勒斯坦：巴勒斯坦货币管理局（The Palestine Monetary Authority）</div>
+<div class="para" label-module="para">巴林：巴林中央银行（The Central Bank of Bahrain）</div>
+<div class="para" label-module="para">不丹：不丹皇家货币管理局（The Royal Monetary Authority of Bhutan）</div>
+<div class="para" label-module="para">朝鲜：<a href="/item/%E6%9C%9D%E9%B2%9C%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">朝鲜中央银行</a>（The Central Bank of the Democratic People's Republic of Korea）</div>
+<div class="para" label-module="para">东帝汶：东帝汶中央银行（The Central Bank of East Timor）</div>
+<div class="para" label-module="para">菲律宾：菲律宾中央银行（The Bangko Sentral ng Pilipinas）</div>
+<div class="para" label-module="para">格鲁吉亚：格鲁吉亚国家银行（The National Bank of Georgia）</div>
+<div class="para" label-module="para">哈萨克斯坦：哈萨克斯坦国家银行（The National Bank of Kazakhstan）</div>
+<div class="para" label-module="para">韩国：<a href="/item/%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C" target="_blank">韩国银行</a>（The Bank of Korea）</div>
+<div class="para" label-module="para">吉尔吉斯斯坦：吉尔吉斯斯坦国家银行（The National Bank of the Kyrgyz Republic）</div>
+<div class="para" label-module="para">柬埔寨：柬埔寨国家银行（The National Bank of Cambodia）</div>
+<div class="para" label-module="para">卡塔尔：卡塔尔中央银行（The Qatar Central Bank）</div>
+<div class="para" label-module="para">科威特：<a href="/item/%E7%A7%91%E5%A8%81%E7%89%B9%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">科威特中央银行</a>（The Central Bank of Kuwait）</div>
+<div class="para" label-module="para">老挝：老挝银行（The Bank of the Lao People's Democratic Republic）</div>
+<div class="para" label-module="para">黎巴嫩：黎巴嫩银行（Banque du Liban）</div>
+<div class="para" label-module="para">马尔代夫：马尔代夫货币管理局（The Maldives Monetary Authority）</div>
+<div class="para" label-module="para">马来西亚：马来西亚中央银行（Bank Negara Malaysia）</div>
+<div class="para" label-module="para">蒙古：<a href="/item/%E8%92%99%E5%8F%A4%E9%93%B6%E8%A1%8C" target="_blank">蒙古银行</a>（The Bank of Mongolia）</div>
+<div class="para" label-module="para">孟加拉国：孟加拉国银行（The Bangladesh Bank）</div>
+<div class="para" label-module="para">缅甸：缅甸中央银行（The Central Bank of Myanmar）</div>
+<div class="para" label-module="para">尼泊尔：尼泊尔储备银行（The Nepal Rastra Bank）</div>
+<div class="para" label-module="para">日本：<a href="/item/%E6%97%A5%E6%9C%AC%E9%93%B6%E8%A1%8C" target="_blank">日本银行</a>（The Bank of Japan）</div>
+<div class="para" label-module="para">沙特阿拉伯：沙特阿拉伯金融管理局（The Saudi Arabian Monetary Authority）</div>
+<div class="para" label-module="para">斯里兰卡：斯里兰卡中央银行（The Central Bank of Sri Lanka）</div>
+<div class="para" label-module="para">塔吉克斯坦：塔吉克斯坦国家银行（The National Bank of Tajikistan）</div>
+<div class="para" label-module="para">泰国：泰国银行（The Bank of Thailand）</div>
+<div class="para" label-module="para">土耳其：土耳其共和国中央银行（The Central Bank of the Republic of Turkey）</div>
+<div class="para" label-module="para">土库曼斯坦：土库曼斯坦中央银行（The Central Bank of Turkmenistan）</div>
+<div class="para" label-module="para">文莱：文莱达鲁萨兰国金融管理局（The Monetary Authority of Brunei Darussalam）</div>
+<div class="para" label-module="para">亚美尼亚：亚美尼亚中央银行（The Central Bank of Armenia）</div>
+<div class="para" label-module="para">乌兹别克斯坦：乌兹别克斯坦中央银行（The Central Bank of Uzbekistan）</div>
+<div class="para" label-module="para">新加坡：<a href="/item/%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%87%91%E8%9E%8D%E7%AE%A1%E7%90%86%E5%B1%80" target="_blank">新加坡金融管理局</a>（The Monetary Authority of Singapore）</div>
+<div class="para" label-module="para">叙利亚：叙利亚中央银行（The Central Bank of Syria）</div>
+<div class="para" label-module="para">也门：也门中央银行（The Central Bank of Yemen）</div>
+<div class="para" label-module="para">伊拉克：伊拉克中央银行（The Central Bank of Iraq）</div>
+<div class="para" label-module="para">伊朗：<a href="/item/%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">伊朗伊斯兰共和国中央银行</a>（The Central Bank of the Islamic Republic of Iran）</div>
+<div class="para" label-module="para">以色列：<a data-lemmaid="16534297" href="/item/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E6%B0%91%E9%93%B6%E8%A1%8C/16534297" target="_blank">以色列国民银行</a>（The Bank of Israel）</div>
+<div class="para" label-module="para">印度：<a href="/item/%E5%8D%B0%E5%BA%A6%E5%82%A8%E5%A4%87%E9%93%B6%E8%A1%8C" target="_blank">印度储备银行</a>（The Reserve Bank of India）</div>
+<div class="para" label-module="para">印度尼西亚：<a href="/item/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E9%93%B6%E8%A1%8C" target="_blank">印度尼西亚银行</a>（Bank of Indonesia）</div>
+<div class="para" label-module="para">约旦：约旦中央银行（The Central Bank of Jordan）</div>
+<div class="para" label-module="para">越南：<a href="/item/%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">越南国家银行</a>（The State Bank of Vietnam）</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7_2"></a>
+<a class="lemma-anchor" name="sub79768_7_2"></a>
+<a class="lemma-anchor" name="欧洲"></a>
+<a class="lemma-anchor" name="7-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>欧洲</h3>
+</div>
+<div class="para" label-module="para">阿尔巴尼亚：阿尔巴尼亚银行（The Bank of Albania）</div>
+<div class="para" label-module="para">爱尔兰：<a href="/item/%E7%88%B1%E5%B0%94%E5%85%B0%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">爱尔兰中央银行</a>（The Central Bank of Ireland）</div>
+<div class="para" label-module="para">爱沙尼亚：爱沙尼亚银行（The Bank of Estonia）</div>
+<div class="para" label-module="para">安道尔：无中央银行</div>
+<div class="para" label-module="para">奥地利：<a href="/item/%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">奥地利国家银行</a>（The National Bank of Austria）</div>
+<div class="para" label-module="para">白俄罗斯：<a href="/item/%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">白俄罗斯共和国国家银行</a>（The National Bank of the Republic of Belarus）</div>
+<div class="para" label-module="para">保加利亚：<a href="/item/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">保加利亚国家银行</a>（The Bulgarian National Bank）</div>
+<div class="para" label-module="para">比利时：<a href="/item/%E6%AF%94%E5%88%A9%E6%97%B6%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">比利时国家银行</a>（The National Bank of Belgium）</div>
+<div class="para" label-module="para">冰岛：冰岛中央银行（The Central Bank of Iceland）</div>
+<div class="para" label-module="para">波斯尼亚和黑塞哥维那：波斯尼亚和黑塞哥维那中央银行（The Central Bank of Bosnia and Herzegovina）</div>
+<div class="para" label-module="para">波兰：<a href="/item/%E6%B3%A2%E5%85%B0%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">波兰国家银行</a>（The National Bank of Poland）</div>
+<div class="para" label-module="para">丹麦：丹麦国家银行（Danmarks Nationalbank）</div>
+<div class="para" label-module="para">德国：<a href="/item/%E5%BE%B7%E6%84%8F%E5%BF%97%E8%81%94%E9%82%A6%E9%93%B6%E8%A1%8C" target="_blank">德意志联邦银行</a>（The German Federal Bank）</div>
+<div class="para" label-module="para">俄罗斯：<a href="/item/%E4%BF%84%E7%BD%97%E6%96%AF%E9%93%B6%E8%A1%8C" target="_blank">俄罗斯银行</a>（the Bank of Russia）</div>
+<div class="para" label-module="para">法国：法国银行（The Bank of France）</div>
+<div class="para" label-module="para">梵蒂冈：梵蒂冈银行（The Administration of the Patrimony of the Apostolic See）</div>
+<div class="para" label-module="para">芬兰：<a href="/item/%E8%8A%AC%E5%85%B0%E9%93%B6%E8%A1%8C" target="_blank">芬兰银行</a>（The Bank of Finland）</div>
+<div class="para" label-module="para">荷兰：<a href="/item/%E8%8D%B7%E5%85%B0%E9%93%B6%E8%A1%8C" target="_blank">荷兰银行</a>（De Nederlandsche Bank）</div>
+<div class="para" label-module="para">黑山：黑山中央银行（The Central Bank of Montenegro）</div>
+<div class="para" label-module="para">捷克：<a href="/item/%E6%8D%B7%E5%85%8B%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">捷克国家银行</a>（The Czech National Bank）</div>
+<div class="para" label-module="para">克罗地亚：<a href="/item/%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">克罗地亚国家银行</a>（The Croatian National Bank）</div>
+<div class="para" label-module="para">拉脱维亚：<a href="/item/%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A%E9%93%B6%E8%A1%8C" target="_blank">拉脱维亚银行</a>（The Bank of Latvia）</div>
+<div class="para" label-module="para">立陶宛：<a href="/item/%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%93%B6%E8%A1%8C" target="_blank">立陶宛银行</a>（The Bank of Lithuania）</div>
+<div class="para" label-module="para">列支敦士登：列支敦士登国家银行（The National Bank of Liechtenstein）</div>
+<div class="para" label-module="para">卢森堡：卢森堡中央银行（The Central Bank of Luxembourg）</div>
+<div class="para" label-module="para">罗马尼亚：罗马尼亚国家银行（The National Bank of Romania）</div>
+<div class="para" label-module="para">马耳他：马耳他中央银行（The Central Bank of Malta）</div>
+<div class="para" label-module="para">马其顿：<a href="/item/%E9%A9%AC%E5%85%B6%E9%A1%BF%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">马其顿共和国国家银行</a>（The National Bank of the Republic of Macedonia）</div>
+<div class="para" label-module="para">摩尔多瓦：摩尔多瓦国家银行（The National Bank of Moldova）</div>
+<div class="para" label-module="para">摩纳哥：无中央银行</div>
+<div class="para" label-module="para">挪威：<a href="/item/%E6%8C%AA%E5%A8%81%E9%93%B6%E8%A1%8C" target="_blank">挪威银行</a>（Norges Bank）</div>
+<div class="para" label-module="para">葡萄牙：葡萄牙银行（The Bank of Portugal）</div>
+<div class="para" label-module="para">瑞典：瑞典国家银行（Swedish National Bank）</div>
+<div class="para" label-module="para">瑞士：<a href="/item/%E7%91%9E%E5%A3%AB%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">瑞士国家银行</a>（The Swiss National Bank）</div>
+<div class="para" label-module="para">塞尔维亚：塞尔维亚国家银行（The National Bank of Serbia）</div>
+<div class="para" label-module="para">塞浦路斯：塞浦路斯中央银行（The Central Bank of Cyprus）</div>
+<div class="para" label-module="para">圣马力诺：圣马力共和国诺中央银行（The Central Bank of the Republic of San Marino）</div>
+<div class="para" label-module="para">斯洛伐克：<a href="/item/%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">斯洛伐克国家银行</a>（The National Bank of Slovakia）</div>
+<div class="para" label-module="para">斯洛文尼亚：斯洛文尼亚银行（The Bank of Slovenia）</div>
+<div class="para" label-module="para">乌克兰：<a href="/item/%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">乌克兰国家银行</a>（The National Bank of Ukraine）</div>
+<div class="para" label-module="para">西班牙：西班牙银行（The Bank of Spain）</div>
+<div class="para" label-module="para">希腊：<a href="/item/%E5%B8%8C%E8%85%8A%E9%93%B6%E8%A1%8C" target="_blank">希腊银行</a>（The Bank of Greece）</div>
+<div class="para" label-module="para">匈牙利：<a href="/item/%E5%8C%88%E7%89%99%E5%88%A9%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">匈牙利国家银行</a>（The Hungarian National Bank）</div>
+<div class="para" label-module="para">意大利：<a href="/item/%E6%84%8F%E5%A4%A7%E5%88%A9%E9%93%B6%E8%A1%8C" target="_blank">意大利银行</a>（The Bank of Italy）</div>
+<div class="para" label-module="para">英国：<a href="/item/%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%93%B6%E8%A1%8C" target="_blank">英格兰银行</a>（The Bank of England）</div>
+<div class="para" label-module="para">欧盟：<a data-lemmaid="1700595" href="/item/%E6%AC%A7%E6%B4%B2%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1700595" target="_blank">欧洲中央银行</a>（The European Central Bank）</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7_3"></a>
+<a class="lemma-anchor" name="sub79768_7_3"></a>
+<a class="lemma-anchor" name="非洲"></a>
+<a class="lemma-anchor" name="7-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>非洲</h3>
+</div>
+<div class="para" label-module="para">阿尔及利亚：阿尔及利亚银行（The Bank of Algeria）</div>
+<div class="para" label-module="para">埃及：<a href="/item/%E5%9F%83%E5%8F%8A%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">埃及中央银行</a>（The Central Bank of Egypt）</div>
+<div class="para" label-module="para">埃塞俄比亚：埃塞俄比亚国家银行（The National Bank of Ethiopia）</div>
+<div class="para" label-module="para">安哥拉：安哥拉国家银行（The National Bank of Angola）</div>
+<div class="para" label-module="para">贝宁：<a href="/item/%E8%A5%BF%E9%9D%9E%E5%9B%BD%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">西非国家中央银行</a>（The Central Bank of West African States）</div>
+<div class="para" label-module="para">博茨瓦纳：博茨瓦纳银行（The Bank of Botswana）</div>
+<div class="para" label-module="para">布基纳法索：<a data-lemmaid="8375419" href="/item/%E8%A5%BF%E9%9D%9E%E5%9B%BD%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/8375419" target="_blank">西非国家中央银行</a>（The Central Bank of West African States）</div>
+<div class="para" label-module="para">布隆迪：<a data-lemmaid="23393465" href="/item/%E5%B8%83%E9%9A%86%E8%BF%AA%E5%85%B1%E5%92%8C%E5%9B%BD%E9%93%B6%E8%A1%8C/23393465" target="_blank">布隆迪共和国银行</a>（The Bank of the Republic of Burundi）</div>
+<div class="para" label-module="para">赤道几内亚：<a href="/item/%E4%B8%AD%E9%9D%9E%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C" target="_blank">中非国家银行</a>（The Bank of Central African States）</div>
+<div class="para" label-module="para">多哥：<a data-lemmaid="8375419" href="/item/%E8%A5%BF%E9%9D%9E%E5%9B%BD%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/8375419" target="_blank">西非国家中央银行</a>（The Central Bank of West African States）</div>
+<div class="para" label-module="para">厄立特里亚：<a data-lemmaid="23425387" href="/item/%E5%8E%84%E7%AB%8B%E7%89%B9%E9%87%8C%E4%BA%9A%E9%93%B6%E8%A1%8C/23425387" target="_blank">厄立特里亚银行</a>（The Bank of Eritrea）</div>
+<div class="para" label-module="para">佛得角：佛得角银行（The Bank of Cape Verde）</div>
+<div class="para" label-module="para">冈比亚：<a data-lemmaid="23425961" href="/item/%E5%86%88%E6%AF%94%E4%BA%9A%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/23425961" target="_blank">冈比亚中央银行</a>（The Central Bank of The Gambia）</div>
+<div class="para" label-module="para">刚果：刚果中央银行（The Central Bank of the Congo）</div>
+<div class="para" label-module="para">民主刚果：<a data-lemmaid="10812593" href="/item/%E4%B8%AD%E9%9D%9E%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C/10812593" target="_blank">中非国家银行</a>（The Bank of Central African States）</div>
+<div class="para" label-module="para">吉布提：吉布提中央银行（The Central Bank of Djibouti）</div>
+<div class="para" label-module="para">几内亚：几内亚共和国中央银行（The Central Bank of the Republic of Guinea）</div>
+<div class="para" label-module="para">几内亚比绍：<a data-lemmaid="8375419" href="/item/%E8%A5%BF%E9%9D%9E%E5%9B%BD%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/8375419" target="_blank">西非国家中央银行</a>（The Central Bank of West African States）</div>
+<div class="para" label-module="para">加纳：加纳银行（The Bank of Ghana）</div>
+<div class="para" label-module="para">加蓬：<a data-lemmaid="10812593" href="/item/%E4%B8%AD%E9%9D%9E%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C/10812593" target="_blank">中非国家银行</a>（The Bank of Central African States）</div>
+<div class="para" label-module="para">津巴布韦：<a href="/item/%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%A6%E5%82%A8%E5%A4%87%E9%93%B6%E8%A1%8C" target="_blank">津巴布韦储备银行</a>（The Reserve Bank of Zimbabwe）</div>
+<div class="para" label-module="para">喀麦隆：<a data-lemmaid="10812593" href="/item/%E4%B8%AD%E9%9D%9E%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C/10812593" target="_blank">中非国家银行</a>（The Bank of Central African States）</div>
+<div class="para" label-module="para">科摩罗：<a href="/item/%E7%A7%91%E6%91%A9%E7%BD%97%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">科摩罗中央银行</a>（The Central Bank of the Comros）</div>
+<div class="para" label-module="para">科特迪瓦：<a data-lemmaid="8375419" href="/item/%E8%A5%BF%E9%9D%9E%E5%9B%BD%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/8375419" target="_blank">西非国家中央银行</a>（The Central Bank of West African States）</div>
+<div class="para" label-module="para">肯尼亚：肯尼亚中央银行（The Central Bank of Kenya）</div>
+<div class="para" label-module="para">莱索托：莱索托中央银行（The Central Bank of Lesotho）</div>
+<div class="para" label-module="para">利比里亚：利比里亚中央银行（The Central Bank of Liberia）</div>
+<div class="para" label-module="para">利比亚：利比亚中央银行（The Central Bank of Libya）</div>
+<div class="para" label-module="para">卢旺达：卢旺达国家银行（The National Bank of Rwanda）</div>
+<div class="para" label-module="para">马达加斯加：马达加斯加中央银行（The Central Bank of Madagascar）</div>
+<div class="para" label-module="para">马拉维：马拉维储备银行（The Reserve Bank of Malawi）</div>
+<div class="para" label-module="para">马里：<a data-lemmaid="8375419" href="/item/%E8%A5%BF%E9%9D%9E%E5%9B%BD%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/8375419" target="_blank">西非国家中央银行</a>（The Central Bank of West African States）</div>
+<div class="para" label-module="para">毛里求斯：毛里求斯银行（The Bank of Mauritius）</div>
+<div class="para" label-module="para">毛里塔尼亚：毛里塔尼亚中央银行（The Central Bank of Mauritania）</div>
+<div class="para" label-module="para">摩洛哥：摩洛哥中央银行（The Bank Al-Maghrib）</div>
+<div class="para" label-module="para">莫桑比克：莫桑比克银行（The Bank of Mozambique）</div>
+<div class="para" label-module="para">纳米比亚：纳米比亚银行（The Bank of Namibia）</div>
+<div class="para" label-module="para">南非：<a href="/item/%E5%8D%97%E9%9D%9E%E5%82%A8%E5%A4%87%E9%93%B6%E8%A1%8C" target="_blank">南非储备银行</a>（The South African Reserve Bank）</div>
+<div class="para" label-module="para">南苏丹：南苏丹银行（The Bank of South Sudan）</div>
+<div class="para" label-module="para">尼日尔：西非国家中央银行（The Central Bank of West African States）</div>
+<div class="para" label-module="para">尼日利亚：<a href="/item/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">尼日利亚中央银行</a>（The Central Bank of Nigeria）</div>
+<div class="para" label-module="para">塞拉利昂：塞拉利昂银行（The Bank of Sierra Leone）</div>
+<div class="para" label-module="para">塞内加尔：西非国家中央银行（The Central Bank of West African States）</div>
+<div class="para" label-module="para">塞舌尔：塞舌尔中央银行（The Central Bank of Seychelles）</div>
+<div class="para" label-module="para">圣多美和普林西比：圣多美和普林西比中央银行（The Central Bank of São Tomé and Príncipe）</div>
+<div class="para" label-module="para">斯威士兰：斯威士兰中央银行（The Central Bank of Swaziland）</div>
+<div class="para" label-module="para">苏丹：苏丹中央银行（The Central Bank of Sudan）</div>
+<div class="para" label-module="para">索马里：索马里中央银行（The Central Bank of Somalia）</div>
+<div class="para" label-module="para">坦桑尼亚：<a href="/item/%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A%E9%93%B6%E8%A1%8C" target="_blank">坦桑尼亚银行</a>（The Bank of Tanzania）</div>
+<div class="para" label-module="para">突尼斯：突尼斯中央银行（The Central Bank of Tunisia）</div>
+<div class="para" label-module="para">乌干达：乌干达银行（The Bank of Uganda）</div>
+<div class="para" label-module="para">赞比亚：赞比亚银行（The Bank of Zambia）</div>
+<div class="para" label-module="para">乍得：中非国家银行（The Bank of Central African States）</div>
+<div class="para" label-module="para">中非：中非国家银行（The Bank of Central African States）</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7_4"></a>
+<a class="lemma-anchor" name="sub79768_7_4"></a>
+<a class="lemma-anchor" name="北美洲"></a>
+<a class="lemma-anchor" name="7-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>北美洲</h3>
+</div>
+<div class="para" label-module="para">阿鲁巴：阿鲁巴中央银行（The Central Bank of Aruba）</div>
+<div class="para" label-module="para">安提瓜和巴布达：<a href="/item/%E4%B8%9C%E5%8A%A0%E5%8B%92%E6%AF%94%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">东加勒比中央银行</a>（The Eastern Caribbean Central Bank）</div>
+<div class="para" label-module="para">巴巴多斯：巴巴多斯中央银行（The Central Bank of Barbados）</div>
+<div class="para" label-module="para">巴哈马：巴哈马中央银行（The Central Bank of the Bahamas）</div>
+<div class="para" label-module="para">巴拿马：巴拿马国家银行（The National Bank of Panama）</div>
+<div class="para" label-module="para">百慕大：百慕大金融管理局（The Bermuda Monetary Authority）</div>
+<div class="para" label-module="para">伯利兹：伯利兹中央银行（The Central Bank of Belize）</div>
+<div class="para" label-module="para">多米尼加：多米尼加中央银行（The Central Bank of the Dominican Republic）</div>
+<div class="para" label-module="para">多米尼克：东加勒比中央银行（The Eastern Caribbean Central Bank）</div>
+<div class="para" label-module="para">哥斯达黎加：哥斯达黎加中央银行（The Central Bank of Costa Rica）</div>
+<div class="para" label-module="para">格林纳达：东加勒比中央银行（The Eastern Caribbean Central Bank）</div>
+<div class="para" label-module="para">古巴：古巴中央银行（The Central Bank of Cuba）</div>
+<div class="para" label-module="para">海地：海地共和国银行（The Bank of the Republic of Haiti）</div>
+<div class="para" label-module="para">荷属圣马丁：库拉索和荷属圣马丁中央银行（The Central Bank of Curaçao and Sint Maarten）</div>
+<div class="para" label-module="para">洪都拉斯：洪都拉斯中央银行（The Central Bank of Honduras）</div>
+<div class="para" label-module="para">加拿大：加拿大银行（The Bank of Canada）</div>
+<div class="para" label-module="para">开曼群岛：开曼群岛金融管理局（The Cayman Islands Monetary Authority）</div>
+<div class="para" label-module="para">库拉索：库拉索和荷属圣马丁中央银行（The Central Bank of Curaçao and Sint Maarten）</div>
+<div class="para" label-module="para">美国：<a href="/item/%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E5%82%A8%E5%A4%87%E7%B3%BB%E7%BB%9F" target="_blank">美国联邦储备系统</a>（The Federal Reserve System）</div>
+<div class="para" label-module="para">墨西哥：<a href="/item/%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%93%B6%E8%A1%8C" target="_blank">墨西哥银行</a>（The Bank of Mexico）</div>
+<div class="para" label-module="para">尼加拉瓜：尼加拉瓜中央银行（The Central Bank of Nicaragua）</div>
+<div class="para" label-module="para">萨尔瓦多：萨尔瓦多中央储备银行（The Central Reserve Bank of El Salvador）</div>
+<div class="para" label-module="para">圣基茨和尼维斯：东加勒比中央银行（The Eastern Caribbean Central Bank）</div>
+<div class="para" label-module="para">圣卢西亚：东加勒比中央银行（The Eastern Caribbean Central Bank）</div>
+<div class="para" label-module="para">圣文森特和格林纳丁斯：东加勒比中央银行（The Eastern Caribbean Central Bank）</div>
+<div class="para" label-module="para">特立尼达和多巴哥：特立尼达和多巴哥中央银行（The Central Bank of Trinidad and Tobago）</div>
+<div class="para" label-module="para">危地马拉：危地马拉银行（The Bank of Guatemala）</div>
+<div class="para" label-module="para">牙买加：牙买加银行（The Bank of Jamaica）</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7_5"></a>
+<a class="lemma-anchor" name="sub79768_7_5"></a>
+<a class="lemma-anchor" name="南美洲"></a>
+<a class="lemma-anchor" name="7-5"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>南美洲</h3>
+</div>
+<div class="para" label-module="para">阿根廷：<a href="/item/%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">阿根廷中央银行</a>（The Central Bank of Argentina）</div>
+<div class="para" label-module="para">巴拉圭：巴拉圭中央银行（The Central Bank of Paraguay）</div>
+<div class="para" label-module="para">巴西：<a href="/item/%E5%B7%B4%E8%A5%BF%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">巴西中央银行</a>（The Central Bank of Brazil）</div>
+<div class="para" label-module="para">秘鲁：秘鲁中央储备银行（The Central Reserve Bank of Peru）</div>
+<div class="para" label-module="para">玻利维亚：玻利维亚中央银行（The Central Bank of Bolivia）</div>
+<div class="para" label-module="para">哥伦比亚：共和国银行（The Banco de la República）</div>
+<div class="para" label-module="para">厄瓜多尔：厄瓜多尔中央银行（The Central Bank of Ecuador）</div>
+<div class="para" label-module="para">圭亚那：圭亚那银行（The Bank of Guyana）</div>
+<div class="para" label-module="para">苏里南：<a href="/item/%E8%8B%8F%E9%87%8C%E5%8D%97%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">苏里南中央银行</a>（The Central Bank of Suriname）</div>
+<div class="para" label-module="para">委内瑞拉：委内瑞拉中央银行（The Central Bank of Venezuela）</div>
+<div class="para" label-module="para">乌拉圭：乌拉圭中央银行（The Central Bank of the Uruguay）</div>
+<div class="para" label-module="para">智利：<a href="/item/%E6%99%BA%E5%88%A9%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">智利中央银行</a>（The Central Bank of Chile）</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="7_6"></a>
+<a class="lemma-anchor" name="sub79768_7_6"></a>
+<a class="lemma-anchor" name="大洋洲"></a>
+<a class="lemma-anchor" name="7-6"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">中央银行</span>大洋洲</h3>
+</div>
+<div class="para" label-module="para">澳大利亚：<a href="/item/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%82%A8%E5%A4%87%E9%93%B6%E8%A1%8C" target="_blank">澳大利亚储备银行</a>（The Reserve Bank of Australia）<sup class="sup--normal" data-ctrmap=":14," data-sup="14">
+[14]</sup><a class="sup-anchor" name="ref_[14]_79768"> </a>
+</div>
+<div class="para" label-module="para">巴布亚新几内亚：<a href="/item/%E5%B7%B4%E5%B8%83%E4%BA%9A%E6%96%B0%E5%87%A0%E5%86%85%E4%BA%9A%E9%93%B6%E8%A1%8C" target="_blank">巴布亚新几内亚银行</a>（The Bank of Papua New Guinea）</div>
+<div class="para" label-module="para">斐济：<a href="/item/%E6%96%90%E6%B5%8E%E5%82%A8%E5%A4%87%E9%93%B6%E8%A1%8C" target="_blank">斐济储备银行</a>（The Reserve Bank of Fiji）</div>
+<div class="para" label-module="para">基里巴斯：无中央银行</div>
+<div class="para" label-module="para">库克群岛：无中央银行</div>
+<div class="para" label-module="para">马绍尔群岛：无中央银行</div>
+<div class="para" label-module="para">密克罗尼西亚联邦：无中央银行</div>
+<div class="para" label-module="para">瑙鲁：无中央银行</div>
+<div class="para" label-module="para">纽埃：无中央银行</div>
+<div class="para" label-module="para">帕劳：无中央银行</div>
+<div class="para" label-module="para">萨摩亚：<a href="/item/%E8%90%A8%E6%91%A9%E4%BA%9A%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C" target="_blank">萨摩亚中央银行</a>（The Central Bank of Samoa）</div>
+<div class="para" label-module="para">所罗门群岛：所罗门群岛中央银行（The Central Bank of Solomon Islands）</div>
+<div class="para" label-module="para">汤加：<a href="/item/%E6%B1%A4%E5%8A%A0%E5%9B%BD%E5%AE%B6%E5%82%A8%E5%A4%87%E9%93%B6%E8%A1%8C" target="_blank">汤加国家储备银行</a>（The National Reserve Bank of Tonga）</div>
+<div class="para" label-module="para">图瓦卢：无中央银行</div>
+<div class="para" label-module="para">瓦努阿图：<a href="/item/%E7%93%A6%E5%8A%AA%E9%98%BF%E5%9B%BE%E5%82%A8%E5%A4%87%E9%93%B6%E8%A1%8C" target="_blank">瓦努阿图储备银行</a>（The Reserve Bank of Vanuatu）</div>
+<div class="para" label-module="para">新西兰：<a href="/item/%E6%96%B0%E8%A5%BF%E5%85%B0%E5%82%A8%E5%A4%87%E9%93%B6%E8%A1%8C" target="_blank">新西兰储备银行</a>（The Reserve Bank of New Zealand）<sup class="sup--normal" data-ctrmap=":15," data-sup="15">
+[15]</sup><a class="sup-anchor" name="ref_[15]_79768"> </a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1441284?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="tashuo-bottom" id="tashuo_bottom">
+<div class="tashuo-bottom-title-essence">
+<img alt="" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/ta-logo-blue_5458427.png"/>
+<span>解读词条背后的知识</span>
+</div>
+<div class="tashuo-single J-item" data-tashuoid="d967b90330fb884e4b398225">
+<div class="tashuo-author">
+<a href="/usercenter/userpage?uk=328d7ea3&amp;authorId=02c9b57396d29adc821a9925&amp;from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/72f082025aafa40f4c1a2504a764034f79f0190e.jpg"/></span></div>
+<div class="ta-author-slogan-area">
+<strong>虎嗅网</strong>
+<span>虎嗅网官方账号</span>
+</div>
+<i></i></a>
+</div>
+<div class="tashuo-content">
+<a class="cover" href="/tashuo/browse/content?id=d967b90330fb884e4b398225&amp;lemmaId=1441284&amp;fromLemmaModule=list" target="_blank"><img class="cover-img" data-height="" data-width="" src="https://imgsa.baidu.com/baike/pic/item/4e4a20a4462309f7ddb47a607f0e0cf3d6cad6ed.jpg"/></a>
+<div class="tashuo-content-essence">
+<p class="title"><a href="/tashuo/browse/content?id=d967b90330fb884e4b398225&amp;lemmaId=1441284&amp;fromLemmaModule=pcBottom" target="_blank">央行年内第三次降准，对人民币、房价造成什么影响？</a>
+</p>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=d967b90330fb884e4b398225&amp;lemmaId=1441284&amp;fromLemmaModule=pcBottom" target="_blank">
+本文综合西南宏观《央行再度降准，凸显货币政策以国内经济金融稳定为主》 ，平安证券首席经济学家张明的《央行再次降准的背景》两篇文章今天（2018年10月7日）中午，央行发布公告，称从2018年10月15日起，下调大型商业银行、股份制商业银行、城市商业银行、非县域农村...</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2019-01-22</span><span class="tashuo-like J-like" data-isvote="0"><i></i><strong class="J-number">107</strong></span>
+<span class="tashuo-view"><i>阅读</i><strong>12910</strong></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a class="anchor-2" name="rs_79768_27431"></a>
+<div class="rslazy rs-container" id="rs-container-79768-27431" lazy-init="lemmars.tableAction(baidu.g('rs-79768-27431'))"></div>
+<a class="anchor-2" name="rs_79768_41074"></a>
+<div class="rslazy rs-container" id="rs-container-79768-41074" lazy-init="lemmars.tableAction(baidu.g('rs-79768-41074'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":27431,"fentryTableName":"\u5929\u6d25\u8fd1\u4ee3\u5386\u53f2\u6587\u5316\u4e13\u9898","fentryTableType":1,"entryId":2524278,"templateId":0,"entryTitle":"\u5929\u6d25\u8fd1\u4ee3\u5386\u53f2\u6587\u5316\u4e13\u9898","isManual":0,"isExpand":1},{"fentryTableId":41074,"fentryTableName":"\u94f6\u884c\u4f53\u5236","fentryTableType":1,"entryId":2700616,"templateId":0,"entryTitle":"\u94f6\u884c\u4f53\u5236","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([79768, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-79768-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_79768" id="refIndex_1_79768" name="refIndex_1_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/e253seAcqy4HL6f7wOF0ycZiGwjp58GPW-9T7XXXg-4ns8lwDYp03RdLJLnJpW_KcK3y8Yu19tikvjBPqN8qio4gftJhLyT8OtMxkWQvy81KIRBosrkLMIIGOPOyD6AUZbknDwAxoOQch7bGBeYLn1M" rel="nofollow" target="_blank">中央银行的产生与发展 <span class="linkout"> </span></a>
+<span class="site">．网络课程资源</span><span>[引用日期2014-11-27]</span></li><li class="reference-item reference-item--type1" id="reference-[2]-79768-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_79768" id="refIndex_2_79768" name="refIndex_2_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/022ezz5VwMSzxbnIJUWs6tgHxfvFsqchm8m0Yrwqw3kE_2wPVeVi5K2nHjfI8ICVQfbe-43WsRPFxFy12w7JmQsZkM28P_MkAGgguv9Q73gTHPXM8P_S17CABiJADFzc" rel="nofollow" target="_blank">民国时期的中央银行与广东省银行<span class="linkout"> </span></a>
+<span class="site">．广州文史</span><span>[引用日期2014-11-27]</span></li><li class="reference-item reference-item--type1" id="reference-[3]-79768-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor" href="#ref_[3]_79768" id="refIndex_3_79768" name="refIndex_3_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/73fbS3SCK7sRbiTDaVVw-skvMGFHYj-UkRGj_kAAOQtWoUyYoGD21vNi75iFiPb2MmnuFvitdHVv9LrdLqtQKbfaxGEULlQ2idmWIQ" rel="nofollow" target="_blank">中央银行发展经历的三个阶段<span class="linkout"> </span></a>
+<span class="site">．中国在职研究生网</span><span>[引用日期2014-11-27]</span></li><li class="reference-item reference-item--type1" id="reference-[4]-79768-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor" href="#ref_[4]_79768" id="refIndex_4_79768" name="refIndex_4_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/b4affiBMEJkkOh4oKDqpMFJcrq3yAOCMqjKqlOS01CnYcviTdwi94p0dIV-dmG9Hn6pR" rel="nofollow" target="_blank">中国人民银行<span class="linkout"> </span></a>
+<span class="site">．中国人民银行</span><span>[引用日期2017-01-09]</span></li><li class="reference-item reference-item--type1" id="reference-[5]-79768-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor" href="#ref_[5]_79768" id="refIndex_5_79768" name="refIndex_5_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/5597WV8eftGec3cYTSJ0q7mjBDecxFq_mlp3EvNuShlvUpoxau03QMRCAiZ4HsTF7UkPNrHTfEgowOisDih8d8OWe8I6udzFbGN21jFCB6fdbbtoV0WYFA" rel="nofollow" target="_blank">央行限额令引轩然大波 网友纷纷吐槽 <span class="linkout"> </span></a>
+<span class="site">．新华网</span><span>[引用日期2014-03-19]</span></li><li class="reference-item reference-item--type1" id="reference-[6]-79768-wrap">
+<span class="index">6.</span>
+<a class="gotop anchor" href="#ref_[6]_79768" id="refIndex_6_79768" name="refIndex_6_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/ddbfK8qmXUbApXRQ74Sqb6XY30ebjA-2ahZ8MZHDYo-ZrQkpzOPPYwjM1YcxTcFaSWG0C-f1fgf2NIwDniJAsoaJP0f3yuMLB94nNwxE27IJHRBtN0ARa9Zn9ltTjqRRWgohQA" rel="nofollow" target="_blank">存款超过50万请认真阅读 银行破产或将至<span class="linkout"> </span></a>
+<span class="site">．腾讯财经</span><span>[引用日期2014-12-12]</span></li><li class="reference-item reference-item--type1" id="reference-[7]-79768-wrap">
+<span class="index">7.</span>
+<a class="gotop anchor" href="#ref_[7]_79768" id="refIndex_7_79768" name="refIndex_7_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/6a1eqeJWxIeo14YK4aTzqNAIjg7c0VsL5lSMb05GawkYo3ydCy0QJHz0WFZTK4yzCC5THzyy3FWtBj4inKLBL107fxtaeBU2gMF0OmQT7plb3XZVksGtVDU" rel="nofollow" target="_blank">中央银行制度<span class="linkout"> </span></a>
+<span class="site">．中华文本库</span><span>[引用日期2017-05-17]</span></li><li class="reference-item reference-item--type1" id="reference-[8]-79768-wrap">
+<span class="index">8.</span>
+<a class="gotop anchor" href="#ref_[8]_79768" id="refIndex_8_79768" name="refIndex_8_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/bca1qokFJMu7-zCG2YEsKYMVncpnfz2Rmpgrdp5oHvmH2f4YBZE80BLI6739dYfi1AyV28eg4G5hOe1yVjT86kglhkWttuNiSW-wQ7gLvO7mELB7-seDM2oNek5SAAfK6c83oYWyHTW9W5dlTKgcm3lqVA" rel="nofollow" target="_blank">中金报告称央行将用PSL再次释放近4000亿流动性<span class="linkout"> </span></a>
+<span class="site">．腾讯</span><span>[引用日期2014-10-19]</span></li><li class="reference-item reference-item--type1" id="reference-[9]-79768-wrap">
+<span class="index">9.</span>
+<a class="gotop anchor" href="#ref_[9]_79768" id="refIndex_9_79768" name="refIndex_9_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/3b323DbJj1Zf_k2aIoCEhDccN8x9t_N7lIfNw_4oveww7YHaxTmVrm-HVaD-tKbvQfp60IbWfUc2mUozmieXkRPGRnFxQyPMrvrbMzgGhKCzDmjgPjHm" rel="nofollow" target="_blank">中韩货币互换即将启动 助力韩元人民币国际化<span class="linkout"> </span></a>
+<span class="site">．中证网</span><span>[引用日期2013-03-04]</span></li><li class="reference-item reference-item--type1" id="reference-[10]-79768-wrap">
+<span class="index">10.</span>
+<a class="gotop anchor" href="#ref_[10]_79768" id="refIndex_10_79768" name="refIndex_10_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/efecd5fgN3g4PDbFTyJ7xzFb6pkUaXKyyDEzxMN-MKWQWO_rW834jsY2eQ6RKeyZUx6REB1fgZ0opkbvlwIy2W0kukL-gBHi7hAx6raR3tvXoI1XL91CS4YYyrwV" rel="nofollow" target="_blank">央行发行的数字货币已试运行<span class="linkout"> </span></a>
+<span class="site">．央视网</span><span>[引用日期2017-02-03]</span></li><li class="reference-item reference-item--type1 more" id="reference-[11]-79768-wrap">
+<span class="index">11.</span>
+<a class="gotop anchor" href="#ref_[11]_79768" id="refIndex_11_79768" name="refIndex_11_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/53403MKp-Sc82cDYHAv-CXqN3ZPJFWB4PTfo7VeRl-i1p69NiQ_aJQUcWQVLxyMAirPQzUmXeuUHBWBuj8O5DHfQqGiPup2uAwoXHCGmZw" rel="nofollow" target="_blank">央行开展800亿元7天逆回购操作 标利率为2.35%<span class="linkout"> </span></a>
+<span class="site">．搜狐财经</span><span>[引用日期2015-09-10]</span></li><li class="reference-item reference-item--type1 more" id="reference-[12]-79768-wrap">
+<span class="index">12.</span>
+<a class="gotop anchor" href="#ref_[12]_79768" id="refIndex_12_79768" name="refIndex_12_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/50bcLAokl6HBpi7eNqLrO410_XmO8qyHelsA29sgGchsArj6sqHrNgKmVJ38GR73s4HhJWg4_rg_bOL9695Efow0ed2LB1iWWwwd_wCeVfDoqvXf0kuGcTBJHt6NDz0" rel="nofollow" target="_blank">中央银行“集中采购”的实践与思考<span class="linkout"> </span></a>
+<span class="site">．中国金融新闻网</span><span>．2016-11-07</span><span>[引用日期2017-01-19]</span></li><li class="reference-item reference-item--type1 more" id="reference-[13]-79768-wrap">
+<span class="index">13.</span>
+<a class="gotop anchor" href="#ref_[13]_79768" id="refIndex_13_79768" name="refIndex_13_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/ca5em7Zypovl6Te0S0mhrGS6CsIqaDML_xh-GdPWLGYuFhATHJoo07pyoDOpmfpnkwiKMqidP-7jbKQzvC1U-EqGIU80OOATwOzDfwlQYihxRtELWkg" rel="nofollow" target="_blank">央行：币行、火币网融资业务涉嫌违规_新闻频道_中华网<span class="linkout"> </span></a>
+<span class="site">．中华网新闻</span><span>．2017-01-19</span><span>[引用日期2017-03-19]</span></li><li class="reference-item reference-item--type1 more" id="reference-[14]-79768-wrap">
+<span class="index">14.</span>
+<a class="gotop anchor" href="#ref_[14]_79768" id="refIndex_14_79768" name="refIndex_14_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/2887zj3djFvg3xaQwf12yy3KjjCIcAWhEISBisxz601urxvun47v_MVFRNjukTNctPbBMSqw_Q0s4395UGyznBGszFhFQYwx7WA7lN0DFw" rel="nofollow" target="_blank">澳大利亚央行简介<span class="linkout"> </span></a>
+<span class="site">．金融界</span><span>[引用日期2014-08-13]</span></li><li class="reference-item reference-item--type1 more" id="reference-[15]-79768-wrap">
+<span class="index">15.</span>
+<a class="gotop anchor" href="#ref_[15]_79768" id="refIndex_15_79768" name="refIndex_15_79768" title="向上跳转">  </a>
+<a class="text" href="/reference/1441284/97baNKdetTD8F7A0RC1CFQMDkpLWACBlTjV1WELDBqNBR_S5wX4XbmfqanQaZavw_ImrqKVdmbn8kC1asQd2iJD69DhlLFA7ISd2n_2Sli8" rel="nofollow" target="_blank">List of central banks<span class="linkout"> </span></a>
+<span class="site">．维基百科英文版</span><span>[引用日期2017-03-23]</span></li></ul>
+</dd>
+<dd class="toggle">
+<span class="text expand-text">展开全部</span>
+<span class="text collapse-text">收起</span>
+<em class="toggle-arrow"></em>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+金融
+</span>
+，<span class="taglist">
+组织机构
+</span>
+，<span class="taglist">
+社会
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1441284/0/a08b87d6277f9e2f1b3ad9a41530e924b899f30b?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=bbdd3f879716fdfad86cc1e88cb4eb69/a08b87d6277f9e2f1b3ad9a41530e924b899f30b.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>中央银行图册</div>
+</a>
+</div>
+<div class="tashuo-right" id="tashuo_right">
+<div class="tashuo-right-content-essence">
+<div class="J-items">
+</div>
+</div>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1441284" data-lemmatitle="中央银行"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1441284" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：167次<a class="nslog:1021" href="/historylist/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C/1441284" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="915712323" href="/usercenter/userpage?uname=%E5%B0%8F%E6%9D%BF%E6%A0%97%E5%AE%87%E5%AE%99&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">小板栗宇宙</a><span class="j-modified-time" style="display:none">（2019-08-02）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="935490710" href="/usercenter/userpage?uname=%E5%B9%B3cool&amp;from=lemma" target="_blank" title="查看此用户资料" username="平cool">平cool</a>
+<div class="right">
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="8691144" href="/usercenter/userpage?uname=pashuhu&amp;from=lemma" target="_blank" title="查看此用户资料" username="pashuhu">pashuhu</a>
+<div class="right">
+<a href="http://baike.baidu.com/view/12878522.htm" target="_blank"><img align="absmiddle" alt="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png" title="优质版本"/></a>
+</div>
+</li>
+<li>
+<a class="usercard show-userCard" data-uid="11542865" href="/usercenter/userpage?uname=jabx&amp;from=lemma" target="_blank" title="查看此用户资料" username="jabx">jabx</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">中国中央银行</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_1">
+<span class="text">
+<span class="title-index">1.1</span>
+<span class="title-link" nslog-type="10002802">起源</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_2">
+<span class="text">
+<span class="title-index">1.2</span>
+<span class="title-link" nslog-type="10002802">发展</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_3">
+<span class="text">
+<span class="title-index">1.3</span>
+<span class="title-link" nslog-type="10002802">完善</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_4">
+<span class="text">
+<span class="title-index">1.4</span>
+<span class="title-link" nslog-type="10002802">革新</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">产生背景</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_1">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">国家意志</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_2">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">客观要求</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">主要职能</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_1">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">发行的银行</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_2">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">银行的银行</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_3">
+<span class="text">
+<span class="title-index">3.3</span>
+<span class="title-link" nslog-type="10002802">政府的银行</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_4">
+<span class="text">
+<span class="title-index">3.4</span>
+<span class="title-link" nslog-type="10002802">职能变化</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_5">
+<span class="text">
+<span class="title-index">3.5</span>
+<span class="title-link" nslog-type="10002802">服务职能</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_6">
+<span class="text">
+<span class="title-index">3.6</span>
+<span class="title-link" nslog-type="10002802">调控职能</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">主要类型</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_1">
+<span class="text">
+<span class="title-index">4.1</span>
+<span class="title-link" nslog-type="10002802">单一型</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_2">
+<span class="text">
+<span class="title-index">4.2</span>
+<span class="title-link" nslog-type="10002802">复合型</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_3">
+<span class="text">
+<span class="title-index">4.3</span>
+<span class="title-link" nslog-type="10002802">准中央银行</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_4">
+<span class="text">
+<span class="title-index">4.4</span>
+<span class="title-link" nslog-type="10002802">跨国型</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">主要业务</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_1">
+<span class="text">
+<span class="title-index">5.1</span>
+<span class="title-link" nslog-type="10002802">支付清算</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_2">
+<span class="text">
+<span class="title-index">5.2</span>
+<span class="title-link" nslog-type="10002802">投放抵押</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_3">
+<span class="text">
+<span class="title-index">5.3</span>
+<span class="title-link" nslog-type="10002802">黄金净买</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_4">
+<span class="text">
+<span class="title-index">5.4</span>
+<span class="title-link" nslog-type="10002802">跨境贷款</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#5_5">
+<span class="text">
+<span class="title-index">5.5</span>
+<span class="title-link" nslog-type="10002802">数字货币</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#6">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">实践与思考</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#7">
+<span class="text">
+<span class="title-index">7</span>
+<span class="title-link" nslog-type="10002802">世界各地央行</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#7_1">
+<span class="text">
+<span class="title-index">7.1</span>
+<span class="title-link" nslog-type="10002802">亚洲</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#7_2">
+<span class="text">
+<span class="title-index">7.2</span>
+<span class="title-link" nslog-type="10002802">欧洲</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#7_3">
+<span class="text">
+<span class="title-index">7.3</span>
+<span class="title-link" nslog-type="10002802">非洲</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#7_4">
+<span class="text">
+<span class="title-index">7.4</span>
+<span class="title-link" nslog-type="10002802">北美洲</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#7_5">
+<span class="text">
+<span class="title-index">7.5</span>
+<span class="title-link" nslog-type="10002802">南美洲</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#7_6">
+<span class="text">
+<span class="title-index">7.6</span>
+<span class="title-link" nslog-type="10002802">大洋洲</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>

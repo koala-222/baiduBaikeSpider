@@ -1,0 +1,651 @@
+﻿<div class="body-wrapper">
+<div class="before-content">
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" nslog-type="50000101" title="添加义项">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a class="split-icon top-tool-icon" href="/divideload/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6" nslog-type="50000104" style="display:none;" target="_blank" title="拆分词条">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a class="top-vote top-tool-icon" href="javascript:void(0);" id="j-top-vote" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<span class="lemma-pinyin">
+<span class="text">[xiāng tǔ wén xué]</span>
+<a class="speak" href="javascript:;" id="j-pinyin-speak" nslog-type="10000106" title="点击发声"> </a>
+</span>
+<div id="fmp_flash_div" style="position:absolute; left:-9999px;">
+<audio id="audio" src=""></audio>
+</div>
+<h1>乡土文学</h1>
+<a class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" href="javascript:;" nslog-type="10003105" target="_blank" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" href="/planet/talk?lemmaId=1431551" nslog-type="90000102" target="_blank"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">乡土文学，它的出现溯源于<a data-lemmaid="36231" href="/item/%E9%B2%81%E8%BF%85/36231" target="_blank">鲁迅</a>的《故乡》上个世纪20年代，现代文坛上出现了一批比较接近农村的年轻作家，他们的创作较多受到鲁迅影响，以农村生活为题材，以农民疾苦为主要内容，形成所谓“乡土文学”。代表作家有彭家煌、王鲁彦、许杰、<a data-lemmaid="1337428" href="/item/%E8%AE%B8%E9%92%A6%E6%96%87/1337428" target="_blank">许钦文</a>、王任叔、萧红、台静农，莫言、<a data-lemmaid="1371545" href="/item/%E5%B1%88%E8%BF%9C%E5%BF%97/1371545" target="_blank">屈远志</a>等。乡土文学是在“为人生”文学主张的影响和发展下出现的。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+乡土文学
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+native-soil literature
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">创始人</dt>
+<dd class="basicInfo-item value">
+鲁迅
+</dd>
+<dt class="basicInfo-item name">发    展</dt>
+<dd class="basicInfo-item value">
+矛盾
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">简介</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_1">概况介绍</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_2">进一步发展</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">文学特点</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">表象</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">开放的乡土</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">文学流派</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">鲁迅</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">其它流派</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_3">孙犁</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_4">沈从文</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_5">韩少功</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_6">莫言</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">台湾论战</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_1">正名</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_2">论战的平息</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">讨论终结</a></span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1"></a>
+<a class="lemma-anchor" name="sub79226_1"></a>
+<a class="lemma-anchor" name="简介"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">乡土文学</span>简介</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_1"></a>
+<a class="lemma-anchor" name="sub79226_1_1"></a>
+<a class="lemma-anchor" name="概况介绍"></a>
+<a class="lemma-anchor" name="1-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>概况介绍</h3>
+</div>
+<div class="para" label-module="para">乡土文学，又称<a href="/item/%E4%B9%A1%E5%9C%9F%E5%B0%8F%E8%AF%B4" target="_blank"><b>乡土小说</b></a>。据考证，在现代中国，关于“乡土文学”的<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6/1431551/0/bd704260e1efece68db10da6?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:146px;" target="_blank" title="乡土文学">
+<img alt="乡土文学" class="lazy-img" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=d67ce98cc9ea15ce45eee70b86003a25/9a504fc2d5628535309a552890ef76c6a7ef6345.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:146px;"/>
+</a>
+<span class="description">
+乡土文学
+</span>
+</div>阐述最早来源于<a href="/item/%E9%B2%81%E8%BF%85" target="_blank">鲁迅</a>。他在《中国新文学大系·小说二集导言》中说“蹇先艾叙述过贵州，裴文中关心着榆关，凡在北京用笔写出他的胸臆来的人们，无论他自称为用主观或客观，其实往往是乡土文学，从北京这方面说，则是侨寓文学的作者。”尽管鲁迅对“乡土文学”未做出正面的定义，但他勾画了当时的乡土小说的创作面貌。当时的乡土文学的作家群体多寄寓在都市，沐浴着现代都市的文明，领受着“五四”新潮的洗礼。现代文明和进步思想的烛照，几乎成为当时作家书写“乡土文学”的一个重要的创作准备。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="1_2"></a>
+<a class="lemma-anchor" name="sub79226_1_2"></a>
+<a class="lemma-anchor" name="进一步发展"></a>
+<a class="lemma-anchor" name="1-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>进一步发展</h3>
+</div>
+<div class="para" label-module="para">1936年，茅盾更进一步指出“乡土文学”最主要特征并不在于对乡土风情的单纯描绘：“关于‘乡土文学’，我以为单有了特殊的风土人情的描写，只不过像看一幅异域图画，虽能引起我们的惊异，然而给我们的，只是好奇心的餍足。因此在特殊的风土人情而外，应当还有普遍性的与我们共同的对于运命的挣扎。一个只具有游历家的眼光的作者，往往只能给我们以前者；必须是一个具有一定的世界观与人生观的作者方能把后者作为主要的一点而给与了我们。”</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2"></a>
+<a class="lemma-anchor" name="sub79226_2"></a>
+<a class="lemma-anchor" name="文学特点"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">乡土文学</span>文学特点</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">在上个世纪20年代，一些寓居于京沪大都市的游子，目击现代文明与宗法农村的差异，在鲁迅“改造国民性”思想的启迪下，带着对童年和故乡的回忆，用隐含着乡愁的笔触，将“乡间的死生、泥土的气息，移在纸上”，显示了鲜明的<a href="/item/%E5%9C%B0%E6%96%B9%E8%89%B2%E5%BD%A9" target="_blank">地方色彩</a>，从总体上呈现出比较自觉而可贵的民族化的追求，开创了现代文学史上堪称一大创作潮流的风气。代表作有<a href="/item/%E5%BD%AD%E5%AE%B6%E7%85%8C" target="_blank">彭家煌</a>《怂恿》，<a href="/item/%E7%8E%8B%E4%BB%BB%E5%8F%94" target="_blank">王任叔</a>《疲惫者》，<a href="/item/%E8%AE%B8%E9%92%A6%E6%96%87" target="_blank">许钦文</a>《疯妇》，<a href="/item/%E5%8F%B0%E9%9D%99%E5%86%9C" target="_blank">台静农</a>《地之子》等。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_1"></a>
+<a class="lemma-anchor" name="sub79226_2_1"></a>
+<a class="lemma-anchor" name="表象"></a>
+<a class="lemma-anchor" name="2-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>表象</h3>
+</div>
+<div class="para" label-module="para">所谓“乡土文学”，往往让人联想到某种奇趣盎然、野气扑人的田园诗意，月下小景、<a href="/item/%E6%B0%B4%E4%B9%A1" target="_blank">水乡</a>夜色或空灵雨景常常成为乡土文学恬静怡人的意境，黄泥的墙、乌黑的瓦、老人、女孩和黄狗更是时常作为一种乡土文学的典型背景，昭示着乡土文学所可能具备的某种超然的美学特征。不过，乡土文学中也亦时常出现粗犷的民俗，剽悍的民风，甚至是野蛮的陋俗、愚昧的乡规和残酷的阶级压迫，所以，如果认为乡土文学只是叙述心灵的净土或只描写诗意的田园风光，显然不够全面。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="2_2"></a>
+<a class="lemma-anchor" name="sub79226_2_2"></a>
+<a class="lemma-anchor" name="开放的乡土"></a>
+<a class="lemma-anchor" name="2-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>开放的乡土</h3>
+</div>
+<div class="para" label-module="para">乡土文学中，粗犷的阳刚之气与纤细的阴柔之美同在，化外之境的淳朴人性和波澜壮阔的阶级斗争都可以为乡土文学所容纳，而愚昧与文明的冲突，在中国乡土文学的发展历程中，更是形成了一个越来越突出的主题。至于乡土文学的作家，如沈从文，自命为“乡下人”，<a href="/item/%E5%88%98%E7%BB%8D%E6%A3%A0" target="_blank">刘绍棠</a>，自称为“土著”，他们的乡土作品的视野，表面上看，似乎只专注于乡土间的纯美故事；细究起来，现当代任何一位以乡土文学为题材的小说家，几乎都无法完全回避关于现代意识和外部世界对乡村的影响。这种影响有时以直接冲突的方式表现出来；而在另一些的乡土文学作品中，作家的叙述可能间接地表达对于现代文明的某种否定态度。但是，不管以乡土为题材的作家对现代文明取何种态度，可以肯定的一点是，二十世纪中国文学中的“乡土文学”并非封闭的“乡土文学”，这一题材的文学类型，总是直接或间接应对着现代文明的挑战。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3"></a>
+<a class="lemma-anchor" name="sub79226_3"></a>
+<a class="lemma-anchor" name="文学流派"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">乡土文学</span>文学流派</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_1"></a>
+<a class="lemma-anchor" name="sub79226_3_1"></a>
+<a class="lemma-anchor" name="鲁迅"></a>
+<a class="lemma-anchor" name="3-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>鲁迅</h3>
+</div>
+<div class="para" label-module="para">如果以<a href="/item/%E8%8C%85%E7%9B%BE" target="_blank">茅盾</a>的“乡土文学”观念为圭臬，那么，鲁迅笔下的乡土<div class="lemma-picture text-pic layout-right" style="width:202px; float: right;">
+<a class="image-link" href="/pic/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6/1431551/0/b9d8b7011b41dc3f1d9583a0?fr=lemma&amp;ct=single" nslog-type="9317" style="width:202px;height:220px;" target="_blank" title="孔乙己插图">
+<img alt="孔乙己插图" class="lazy-img" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=8a8de3e381cb39dbc5c06054e01609a7/728da9773912b31be7184a208618367adab4e147.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:202px;height:220px;"/>
+</a>
+<span class="description">
+孔乙己插图
+</span>
+</div>世界无疑最具代表性。在未<a href="/item/%E5%BA%84" target="_blank">庄</a>、<a href="/item/%E5%9C%9F%E8%B0%B7%E7%A5%A0" target="_blank">土谷祠</a>、<a href="/item/%E4%B9%8C%E8%93%AC%E8%88%B9" target="_blank">乌蓬船</a>、<a href="/item/%E5%92%B8%E4%BA%A8%E9%85%92%E5%BA%97" target="_blank">咸亨酒店</a>构成的乡土环境中，鲁迅以一个启蒙者的眼光揭示着乡土人物的麻木、愚昧和残酷。</div>
+<div class="para" label-module="para">在鲁迅的乡土小说世界里，乡土环境，绝对不是寄予着某种人生理想的<a href="/item/%E4%B8%96%E5%A4%96%E6%A1%83%E6%BA%90" target="_blank">世外桃源</a>，而是扼杀民族生命力的所在。<a href="/item/%E9%B2%81%E9%95%87" target="_blank">鲁镇</a>和末庄几乎可以等同于鲁迅所说的“铁屋子”。大概只有在回忆童年的叙述中，鲁迅才对<a href="/item/%E6%95%85%E4%B9%A1" target="_blank">故乡</a>表现出些许的温情。而鲁迅对乡土环境的严峻态度，实际上为现代的许多进步作家所接受，所追随。在乡土生活和风习画面中寄予重大的社会命题，显示社会的变迁和变迁社会中的人物成为中国现代作家孜孜以求的一种乡土文学的叙事模式。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_2"></a>
+<a class="lemma-anchor" name="sub79226_3_2"></a>
+<a class="lemma-anchor" name="其它流派"></a>
+<a class="lemma-anchor" name="3-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>其它流派</h3>
+</div>
+<div class="para" label-module="para"><a href="/item/%E9%B2%81%E5%BD%A6" target="_blank">鲁彦</a>、许钦文、蹇先艾、台静农、<a href="/item/%E8%AE%B8%E6%9D%B0" target="_blank">许杰</a>、彭家煌、<a href="/item/%E6%B2%99%E6%B1%80" target="_blank">沙汀</a>、艾芜，莫言等一批现代乡土作家，以朴实细密的写实风格书写老中国儿女在各自的乡土上发生的种种悲剧性故事：<a href="/item/%E5%AE%97%E6%B3%95%E5%88%B6" target="_blank">宗法制</a>的农村中的世态炎凉和无产者的不幸，<a href="/item/%E5%B0%81%E5%BB%BA%E7%AD%89%E7%BA%A7%E5%88%B6%E5%BA%A6" target="_blank">封建等级制度</a>延伸出的生活逻辑和社会心理对贱者、弱者不动声色的毁灭，封闭的边远乡村中原始野蛮习俗对人民的播弄和控制，等等。在这些乡土文学中，被台静农称为“地之子”的现代中国农村的老百姓们，承受着巨大的苦难，而小说叙述者所营造出的愚昧与冷漠、悲哀与阴郁交织着的乡村氛围，表现出这批乡土作家对当时中国最低层社会的强烈使命感。当然，这批乡土作家同时还是农村痼疾的解剖家，如沙汀，以尖锐的讽刺的笔法，写出了“半人半兽”“土著”人物把持的乡镇中的黑暗和无常。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_3"></a>
+<a class="lemma-anchor" name="sub79226_3_3"></a>
+<a class="lemma-anchor" name="孙犁"></a>
+<a class="lemma-anchor" name="3-3"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>孙犁</h3>
+</div>
+<div class="para" label-module="para">对乡土世界中政治、经济、阶级斗争问题的关注，乃是现当代中国的乡土文学的相当重要的一个叙事潮流。从早期具有左翼色彩的乡土文学创作开始，延续到抗战期间的<a href="/item/%E8%B5%B5%E6%A0%91%E7%90%86" target="_blank">赵树理</a>、<a href="/item/%E5%AD%99%E7%8A%81" target="_blank">孙犁</a>，形成了“<a href="/item/%E5%B1%B1%E8%8D%AF%E8%9B%8B%E6%B4%BE" target="_blank">山药蛋派</a>”和“<a href="/item/%E8%8D%B7%E8%8A%B1%E6%B7%80%E6%B4%BE" target="_blank">荷花淀派</a>”的乡土<a href="/item/%E5%B0%8F%E8%AF%B4%E6%B5%81%E6%B4%BE" target="_blank">小说流派</a>。在赵树理、孙<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" href="/pic/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6/1431551/0/8b527d27079a453a918f9da1?fr=lemma&amp;ct=single" nslog-type="9317" style="width:220px;height:166px;" target="_blank" title="孙犁">
+<img alt="孙犁" class="lazy-img" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=fb1bbd8a0f2442a7aa0efaa7e143ad95/a08b87d6277f9e2f62429a011f30e924b899f340.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:220px;height:166px;"/>
+</a>
+<span class="description">
+孙犁
+</span>
+</div>犁的乡土小说中，政治斗争故事和战争故事已经成为主宰。不过，在关于政治和战争的叙述中，这些作家通常以普通农民为视角，所以，他们的叙述和思维依然具有浓厚的乡土气息。特别是孙犁，他的乡土小说，塑造在残酷的战争环境中乡村普通百姓的乐观、无私和勇敢，具有一种鼓舞大众为民族解放而斗争的诗意向上的力量。而这种以革命为脉络的乡土文学，发展到合作化题材阶段，事实上其叙述者都转变为的具有敏锐政治意识的全知者，他们以乡土小说为输出革命和继续革命理念的所在，并十分注意塑造乡土世界中具有高度革命觉悟的农村“革命新人”，这些作家，以<a href="/item/%E6%9F%B3%E9%9D%92" target="_blank">柳青</a>和浩然为主要代表。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_4"></a>
+<a class="lemma-anchor" name="sub79226_3_4"></a>
+<a class="lemma-anchor" name="沈从文"></a>
+<a class="lemma-anchor" name="3-4"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>沈从文</h3>
+</div>
+<div class="para" label-module="para">与具有进步色彩或直接参加革命的乡土作家形成强烈反差的，是另一批陶醉于田园风光的现代乡土作家，其中成名于20、30年代的<a href="/item/%E5%BA%9F%E5%90%8D" target="_blank">废名</a>和沈从文最有代表性。废名的乡土文学作品中，少年和姑娘在夕阳下逗留嬉戏，行人挑夫在杨柳树下乘凉喝茶，<a href="/item/%E5%86%9C%E5%AE%B6%E4%B9%90" target="_blank">农家乐</a>的一派祥和而繁忙的快乐景象完全抹去了现代农村中血腥的一面，谱写出一曲<a href="/item/%E8%BF%9C%E7%A6%BB%E5%B0%98%E5%9A%A3" target="_blank">远离尘嚣</a>的田园牧歌。至于沈从文的创作，也多注意刻画乡土中的“粗糙的灵魂”和“单纯的情欲”。沈从文描绘的山寨、码头宁静而秀美，宛如一副副古朴奇幻的风俗画。特别是在这些“化外之境”中发生的爱情故事，更有令人一唱三叹之妙。《边城》中少女翠翠的爱情<div class="lemma-picture text-pic layout-left" style="width:154px; float: left;">
+<a class="image-link" href="/pic/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6/1431551/0/3a86813d03976339baa167a2?fr=lemma&amp;ct=single" nslog-type="9317" style="width:154px;height:220px;" target="_blank" title="边城">
+<img alt="边城" class="lazy-img" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=faa28b38213fb80e08d166d506d12ffb/6d81800a19d8bc3e4a7e81c3828ba61ea8d34541.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:154px;height:220px;"/>
+</a>
+<span class="description">
+边城
+</span>
+</div>观和爱情经历，单纯而美丽，有着未受现代都市文明污染的清澈和微妙。在沈从文的乡土文学世界里，自然界的一切都是有灵性的，禽兽在做梦，草木能谈吐，大自然的“神性”成为乡土世界沉默的主宰。那么，沈从文意图在他的宁静超脱的乡土作品中寄寓什么样的主题呢？是“人性”。沈从文在他《从文小说习作选·代序》中言明：“这世界或有想在沙基或水面上建造崇楼杰阁的人，那可不是我。我只想造希腊小庙。选山地作基础，用坚硬石头堆砌它。精致，结实，匀称，形体虽小而不纤巧，是我理想的建筑。这神庙供奉的是‘人性’。”那么，我们有必要追问的是，沈从文是不是以“人性”的小庙的构造回避可能存在的残酷现实，从而“美化落后”“诗化麻木”呢？如果这样看待沈从文的乡土文学作品，确实是过于粗暴简单了。</div>
+<div class="para" label-module="para">在<a href="/item/%E6%B2%88%E4%BB%8E%E6%96%87" target="_blank">沈从文</a>诗意神话的长廊中，即使是最精美的篇章，也在述说着某种无法抗拒的悲凉。翠翠那一双“清明如水晶”的眸子，在亲人的死亡和情人的离去的现实面前，不也宣告了诗意的神话的破灭了吗？而沈从文的另一名篇《丈夫》，几乎完全可以将其视为关于乡村底层人物的一曲悲歌。进入乡土文学纯美境界的沈从文，未必就不懂的社会的苦痛，只不过他是以率真淳朴、人神同在和悠然自得的边缘性异质性的乡土文化的叙述，显示处于弱势的边缘文化中沉静深远的生命力量，从而内在地对所谓文明社会的种种弊端构成了超越性的批判。在新时期的乡土文学写作中，依然可以看到沈从文式乡土文学写作类型的延续。在<a href="/item/%E6%B1%AA%E6%9B%BE%E7%A5%BA" target="_blank">汪曾祺</a>等作家的乡土文学作品中，沈从文式的清澈空灵被赋予更为乐观明朗的特征。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_5"></a>
+<a class="lemma-anchor" name="sub79226_3_5"></a>
+<a class="lemma-anchor" name="韩少功"></a>
+<a class="lemma-anchor" name="3-5"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>韩少功</h3>
+</div>
+<div class="para" label-module="para">沈从文的乡土文学所开创的以展现“异质文化”中人性轨迹来表明文化成规对人的影响的写作模式，这种模式在新时期为<a href="/item/%E9%9F%A9%E5%B0%91%E5%8A%9F" target="_blank">韩少功</a>、<a href="/item/%E6%9D%8E%E9%94%90" target="_blank">李锐</a>这样的作家所承继。不过，韩少功式的视角要比沈从文更“客观”、更“中性”，他们更直接地也更热衷于叙述、分析他们所看到的“异质文化”之内发生的种种故事。正如<a href="/item/%E6%9D%8E%E5%BA%86%E8%A5%BF" target="_blank">李庆西</a>对韩少功的《爸爸爸》的叙述者态度的分析：“就审美主体而言，完全是<a href="/item/%E5%B1%80%E5%A4%96%E4%BA%BA" target="_blank">局外人</a>的态度，对一切都保持着老于世故的缄默。这倒并非自以为是的冷眼观照，而是一种宽宏、旷达的心境。所以不奇怪，这里没有鲁迅那种‘哀其不幸，怒其不争’的感慨，……，叙述者的意向，实际上是对传统文化和民族性格的认同。”韩少功对<div class="lemma-picture text-pic layout-right" style="width:151px; float: right;">
+<a class="image-link" href="/pic/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6/1431551/0/72ccb777785f0122b051b9ac?fr=lemma&amp;ct=single" nslog-type="9317" style="width:151px;height:220px;" target="_blank" title="马桥词典">
+<img alt="马桥词典" class="lazy-img" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=de704ae5d100baa1be2c40b97710b9b1/5bafa40f4bfbfbedea29b17678f0f736afc31f42.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:151px;height:220px;"/>
+</a>
+<span class="description">
+马桥词典
+</span>
+</div>于传统文化和民族性格是否认同有待商榷，但可以肯定的一点是，韩少功的确善于模拟“局外人”的视角，反复打量他眼中的乡土人物乡土习俗的种种文化规定性。这种冷静的写作态度，在韩少功的长篇小说《马桥词典》中达到了极为自觉的阶段。</div>
+<div class="para" label-module="para">《马桥词典》中，乡土，特别是乡土语言，成了乡土文化中最有趣也有富有历史深度的缩影和索引。表面上，马桥是一个静态的存在，惟有“局外人”的视角，才可能将现代文明对马桥的影响看得如此透彻，并获得丰富的诠释。在“<a href="/item/%E5%9C%B0%E7%90%83%E6%9D%91" target="_blank">地球村</a>”的意识越来越强烈的当代，以韩少功、李锐、<a href="/item/%E5%BC%A0%E7%82%9C" target="_blank">张炜</a>为代表的中国作家们，已经不再象刘绍棠那样以自我情感的过分投入作为呵护乡土文学的写作姿态，而是站在一个更自觉更冷峻的制高点，以文化代言人的身份，叙述着中华各地乡土文化的变迁。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="3_6"></a>
+<a class="lemma-anchor" name="sub79226_3_6"></a>
+<a class="lemma-anchor" name="莫言"></a>
+<a class="lemma-anchor" name="3-6"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>莫言</h3>
+</div>
+<div class="para" label-module="para">莫言在自己的小说里大量运用了意识流的手法，包括内心独白、多视角叙事、慢镜头描写、意象比喻、自由联想等等。</div>
+<div class="para" label-module="para">1987年莫言发表在《人民文学》杂志的中篇小说《欢乐》曾引起文坛较大争议，由于小说中赤裸裸的描写和“那些超时空的变换，那些人称的跳跃，那些几乎是不加节制的意识流”，令到当时很多保守派文人无法接受，《欢乐》也成了“资产阶级自由化”的批判对象。当时《人民文学》杂志的主编刘心武遭到停职检查。1996年余华重提这篇小说，特意撰文支持莫言，他在《谁是我们共同的母亲》一文中说，莫言对事物赤裸裸的描写激怒了那些批判者，而他却因为这篇小说中的母亲形象而流下了眼泪。</div>
+<div class="para" label-module="para">莫言的短篇小说集《师傅越来越幽默》在美国出版后，引起美国文坛不小回响。美国评论家认为莫言的作品充满现实主义和黑色幽默，莫言的大多数作品，令人回想起了俄罗斯作家弗拉基米尔·沃伊诺维奇的一句话——现实即是讽刺。</div>
+<div class="para" label-module="para">莫言的中篇小说《幽默与趣味》经常被拿来与《变形记》作比较。他的《小说九段》也被认为是卡夫卡式的荒诞寓言。西班牙凯拉斯出版社创始人安赫尔·费尔南德斯曾说，莫言的文学作品令人们想起两位熟悉的作家，仿佛是在同时阅读卡夫卡和加西亚·马尔克斯的作品。</div>
+<div class="para" label-module="para">弗吉尼亚大学中国文学教授查尔斯·劳克林说，莫言的大部分小说有一种神话般荒诞的特质。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4"></a>
+<a class="lemma-anchor" name="sub79226_4"></a>
+<a class="lemma-anchor" name="台湾论战"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">乡土文学</span>台湾论战</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">“乡土文学论战”是当代台湾文学发展中一个意义深远的重大事件。它的影响<div class="lemma-picture text-pic layout-right" style="width:156px; float: right;">
+<a class="image-link" href="/pic/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6/1431551/0/3bb224877e1e8713c65cc3ad?fr=lemma&amp;ct=single" nslog-type="9317" style="width:156px;height:220px;" target="_blank" title="台湾乡土文学">
+<img alt="台湾乡土文学" class="lazy-img" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=0961b53128381f309a198aab99014c67/6a63f6246b600c33100a59c11a4c510fd9f9a14c.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" style="width:156px;height:220px;"/>
+</a>
+<span class="description">
+台湾乡土文学
+</span>
+</div>超出了文学的范畴而波及台湾思想文化领域乃至整个台湾社会。它的发生，则至少应追溯至台湾乡土文学历经20年的蛰伏后于60年代中期的重新出发，以及其后十余年来的迅猛发展和演变。如<a href="/item/%E9%BB%84%E6%98%A5%E6%98%8E" target="_blank">黄春明</a>、王祯和早期所谓“纯正”的乡土小说和70年代<a href="/item/%E7%8E%8B%E6%8B%93" target="_blank">王拓</a>、杨青矗等着重揭露社会阶级矛盾创作的先后出现；70年代初以“现代诗论战”为中心的对于现代主义的普遍反省运动，以及由此确立和带动的“回归传统、关怀现实”的文学思潮，在在显示台湾乡土文学迎来了它的又一次高潮并成为70年代台湾文坛的主流。这种日益浩大的声势引起各方人士的不同反应，也使它成为各种矛盾汇聚的焦点。在此背景下，一场震动台湾社会的“乡土文学论战”于1977年爆发并延绵了一、两年。<sup class="sup--normal" data-ctrmap=":1," data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_79226"> </a>
+</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_1"></a>
+<a class="lemma-anchor" name="sub79226_4_1"></a>
+<a class="lemma-anchor" name="正名"></a>
+<a class="lemma-anchor" name="4-1"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>正名</h3>
+</div>
+<div class="para" label-module="para">1977年4～5月间，《仙人掌》、《中国论坛》等杂志先后刊出若干讨论乡土文学的文章和<a href="/item/%E5%B0%89%E5%A4%A9%E9%AA%A2" target="_blank">尉天骢</a>主编的《当前的社会与当前的文学》专栏。银正雄在《坟地里哪来的钟声》一文中针对黄春明、王拓等的小说，指称1971年后的乡土文学有“逐渐变质的倾向”一一变成表达仇恨、憎恶等意识的工具，从中再也找不到原来朴拙纯真、温熙甜美的“乡土”精神，而是看到这些人的脸上赫然有仇恨、愤怒的皱纹。而王拓《是现实主义文学，不是“乡土文学”》、《二十世纪台湾文学发展的动向》等文却明确提出文学要“正确地反映社会内部矛盾，和民众心中的悲喜”、“文学运动必须能发展为一种社会运动，或与社会运动相结合”，有效地发挥其社会改良功能。这些针锋相对的观点形成了乡土文学论战的第一次正面交锋。此后报刊杂志和一些大学纷纷举办座谈会和发表相关文章，文坛气氛渐趋热烈。可以看到，这阶段乡土文学阵营所受的外来压力还不是很大，它同时也进行着对乡土文学本身的检省和讨论。</div>
+<div class="para" label-module="para"><b>台湾社会性质的厘辨</b></div>
+<div class="para" label-module="para">从1977年8月间彭歌《不谈人性，何有文学》等在《<a href="/item/%E8%81%94%E5%90%88%E6%8A%A5" target="_blank">联合报</a>》上发表开始，论战进入第二阶段。这时的论战具有以下特点。一是规模急剧扩大。据侯立朝统计，至该年11月24日止，《<a href="/item/%E4%B8%AD%E5%A4%AE%E6%97%A5%E6%8A%A5" target="_blank">中央日报</a>》、《中华日报》、《青年战士报》、《联合报》等9家报刊发表的抨击乡土文学的文章近60多篇之多（11）。另一方面，《夏潮》、《中华文艺》等也发表了大量反击的文章。二是情势更加复杂化。由于与官方有深厚渊源的一批作家、文人的介入，使原有的现代VS乡土的文坛格局发生变化并进行新的组合。</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="4_2"></a>
+<a class="lemma-anchor" name="sub79226_4_2"></a>
+<a class="lemma-anchor" name="论战的平息"></a>
+<a class="lemma-anchor" name="4-2"></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">乡土文学</span>论战的平息</h3>
+</div>
+<div class="para" label-module="para">“乡土文学论战”延续至翌年已渐趋平息。从有关声明中可以看出当时舆论。1978年元月举行的所谓“国军文艺大会”上，“国防部总政战部”主任<a href="/item/%E7%8E%8B%E5%8D%87" target="_blank">王升</a>在大会上发出“团结”的呼吁：“纯正的'乡土文学’没有什么不对，我们基本上应该‘团结乡土’爱乡土是人类的自然感情，乡土之爱，扩大了就是国家之爱，民族之爱，这是高贵的感情，不应该反对的。就算是有些年轻的乡土作家们偶或偏激了点，他们要反对帝国主义的侵略，反对过去流传下来的某些不合时代的东西，反对社会上某些黑暗与不公平，这也可能出自年轻人的一种天赋的正义感，只要是动机纯正的，我们就应该听，应该谅解，应该善意的交换意见……”</div><div class="anchor-list">
+<a class="lemma-anchor para-title" name="5"></a>
+<a class="lemma-anchor" name="sub79226_5"></a>
+<a class="lemma-anchor" name="讨论终结"></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">乡土文学</span>讨论终结</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">“上世纪50年代出生的作家，要么是农村出身，要么大部分从乡村出来，这一代对乡土生活了解和熟悉，只能写乡土，形成这种‘乡土品种’。现在这批作家都老了，年龄都在60多岁，完成了自己的写作使命。”</div>
+<div class="para" label-module="para">乡土文学终有一天会消失的，消失过程也不是一天两天、一年两年的事，<a href="/item/%E8%B4%BE%E5%B9%B3%E5%87%B9" target="_blank">贾平凹</a>并不认为乡土文学很快就会消失，因为中国有它的复杂性：“现在的社会处于大转型时期，中国在走城市化道路，但中国是一个以农业文明为主的大国，改革开放后，城乡距离拉大，虽然沿海地区农村慢慢在消失，但在更多地方还保留着农村的面貌。所以，乡土文学消失要有一个过程。至于以后的文学是个什么样子，年轻作家说了算。”<sup class="sup--normal" data-ctrmap=":2," data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_79226"> </a>
+</div>
+<div class="anchor-list">
+<a class="lemma-anchor a" name="a"></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6/1431551?fr=lemma" nslog-type="10000204" target="_blank">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1" id="reference-[1]-79226-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor" href="#ref_[1]_79226" id="refIndex_1_79226" name="refIndex_1_79226" title="向上跳转">  </a>
+<a class="text" href="/reference/1431551/cdaeafrb2D2jSLLRDJ0nCU4YI0LhcZECBjeIdaSNiZM1AtVAIOnrfq6aNwAnnEmAnq3AeQ8qsCN_48oQAJzpgVDXQe3R9k7xQ756scmUQ__6ZzD3zUPrM3fe9hwWejv8TUYJiZr9gj23-HwWf08" rel="nofollow" target="_blank">台湾“乡土文学论战”述评<span class="linkout"> </span></a>
+</li><li class="reference-item reference-item--type1" id="reference-[2]-79226-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor" href="#ref_[2]_79226" id="refIndex_2_79226" name="refIndex_2_79226" title="向上跳转">  </a>
+<a class="text" href="/reference/1431551/7bb3aDmWHWFj75r99Iz2QC4xiZcKstM8iXsv_jIGKb-DQOXLXzlyTtzglWkmAjAoPQeUXqc9xpgLEUzM_B3KB7H1C8ci" rel="nofollow" target="_blank">贾平凹：乡土文学消失有个过程 不会这么快终结<span class="linkout"> </span></a>
+<span class="site">．腾讯网</span><span>．2015-06-12</span><span>[引用日期2015-06-12]</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+文学
+</span>
+，<span class="taglist">
+小说
+</span>
+，<span class="taglist">
+书籍
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6/1431551/0/e78c658981d2be8a0f244499?fr=lemma&amp;ct=single" nslog-type="10002401" target="_blank">
+<img src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=a18ada5af6246b607b0eb572d3c37d71/9345d688d43f8794bb41cc27d21b0ef41bd53a78.jpg"/>
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>乡土文学图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaid="1431551" data-lemmatitle="乡土文学"></div><div class="lemmaWgt-sideRecommend">
+<a class="qnAnchor" name="zhixinWrap"></a>
+<div class="zhixin-box" data-newlemmaid="1431551" data-source="" id="zhixinWrap">
+</div>
+<form action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" class="hidden" id="zhixinErrorForm" method="post" target="zhixinSubErr">
+<input class="js-url" name="fb_html_url" type="hidden"/>
+<input class="js-query" name="fb_query" type="hidden"/>
+<input class="js-title" name="fb_card_title" type="hidden"/>
+<input class="js-content" name="fb_content" type="hidden"/>
+<input class="js-souceId" name="fb_source_id" type="hidden"/>
+</form>
+<iframe frameborder="0" id="zhixinSubErr" name="zhixinSubErr" style="display:none"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：31次<a class="nslog:1021" href="/historylist/%E4%B9%A1%E5%9C%9F%E6%96%87%E5%AD%A6/1431551" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="200524798" href="/usercenter/userpage?uname=%E8%8B%A5%E7%9B%B8%E5%AE%88%E8%8E%AB%E6%A3%84WY&amp;from=lemma" nslog-type="1022" target="_blank" title="查看此用户资料">若相守莫棄WY</a><span class="j-modified-time" style="display:none">（2018-12-27）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a class="usercard show-userCard" data-uid="4376745" href="/usercenter/userpage?uname=suizhou&amp;from=lemma" target="_blank" title="查看此用户资料" username="suizhou">suizhou</a>
+<div class="right">
+<a href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC" target="_blank"><img align="absmiddle" alt="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png" title="创建版本"/></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#1">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">简介</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_1">
+<span class="text">
+<span class="title-index">1.1</span>
+<span class="title-link" nslog-type="10002802">概况介绍</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#1_2">
+<span class="text">
+<span class="title-index">1.2</span>
+<span class="title-link" nslog-type="10002802">进一步发展</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#2">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">文学特点</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_1">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">表象</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#2_2">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">开放的乡土</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#3">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">文学流派</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_1">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">鲁迅</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_2">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">其它流派</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_3">
+<span class="text">
+<span class="title-index">3.3</span>
+<span class="title-link" nslog-type="10002802">孙犁</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_4">
+<span class="text">
+<span class="title-index">3.4</span>
+<span class="title-link" nslog-type="10002802">沈从文</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_5">
+<span class="text">
+<span class="title-index">3.5</span>
+<span class="title-link" nslog-type="10002802">韩少功</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#3_6">
+<span class="text">
+<span class="title-index">3.6</span>
+<span class="title-link" nslog-type="10002802">莫言</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#4">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">台湾论战</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_1">
+<span class="text">
+<span class="title-index">4.1</span>
+<span class="title-link" nslog-type="10002802">正名</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a class="title-link" href="#4_2">
+<span class="text">
+<span class="title-index">4.2</span>
+<span class="title-link" nslog-type="10002802">论战的平息</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a class="title-link" href="#5">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">讨论终结</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div class="fengchao side-box" id="side_box_fengchao" nslog="area" nslog-type="10000902">
+</div>
+<div class="unionAd side-box" id="side_box_unionAd">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>
